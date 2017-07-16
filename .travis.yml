@@ -3,3 +3,8 @@ python: 3.6
 sudo: false
 install: "pip install -r maintenance/requirements.txt"
 script: "python maintenance/github-crawler.py"
+after_success:
+  - .travis/push.sh
+env:
+  global:
+    secure: e88334827c0a92cea27216897ba0275c45061d25
