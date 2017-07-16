@@ -361,10 +361,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/FoxBuru/scoop-buckets](https://github.com/FoxBuru/scoop-buckets)
-
-
-
 [https://github.com/pcrama/scoop-buckets](https://github.com/pcrama/scoop-buckets)
   * [autoit](https://github.com/pcrama/scoop-buckets/blob/master/autoit.json)
   * [dngrep](https://github.com/pcrama/scoop-buckets/blob/master/dngrep.json)
@@ -394,10 +390,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [nvm-windows](https://github.com/h404bi/dorado/blob/master/nvm-windows.json)
   * [tcping](https://github.com/h404bi/dorado/blob/master/tcping.json)
   * [trash](https://github.com/h404bi/dorado/blob/master/trash.json)
-
-
-
-[https://github.com/nueko/snub](https://github.com/nueko/snub)
 
 
 
@@ -454,10 +446,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [unassoc](https://github.com/Congee/barrel/blob/master/unassoc.json)
   * [Win32-OpenSSH-64bit](https://github.com/Congee/barrel/blob/master/Win32-OpenSSH-64bit.json)
   * [x64dbg](https://github.com/Congee/barrel/blob/master/x64dbg.json)
-
-
-
-[https://github.com/gkantsidis/scoop-public-bucket](https://github.com/gkantsidis/scoop-public-bucket)
 
 
 
@@ -801,10 +789,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/jlabedo/scoop-bucket](https://github.com/jlabedo/scoop-bucket)
-
-
-
 [https://github.com/bitrvmpd/scoop-wuff](https://github.com/bitrvmpd/scoop-wuff)
   * [mariadb](https://github.com/bitrvmpd/scoop-wuff/blob/master/mariadb.json)
 
@@ -844,10 +828,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/mrkishi/scoop-me](https://github.com/mrkishi/scoop-me)
-
-
-
 [https://github.com/rcqls/scoop-extras](https://github.com/rcqls/scoop-extras)
   * [miktex](https://github.com/rcqls/scoop-extras/blob/master/miktex.json)
   * [pandoc](https://github.com/rcqls/scoop-extras/blob/master/pandoc.json)
@@ -877,10 +857,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [ProResMaker](https://github.com/DimiG/dgBucket/blob/master/ProResMaker.json)
   * [PSWinUpdate](https://github.com/DimiG/dgBucket/blob/master/PSWinUpdate.json)
   * [RoboSync](https://github.com/DimiG/dgBucket/blob/master/RoboSync.json)
-
-
-
-[https://github.com/tunoas/my_scoop_bucket](https://github.com/tunoas/my_scoop_bucket)
 
 
 
@@ -931,10 +907,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [xz](https://github.com/ondr3j/scoop-misc/blob/master/xz.json)
   * [zip](https://github.com/ondr3j/scoop-misc/blob/master/zip.json)
   * [zlib](https://github.com/ondr3j/scoop-misc/blob/master/zlib.json)
-
-
-
-[https://github.com/mmichaelis/scoop-bucket](https://github.com/mmichaelis/scoop-bucket)
 
 
 
@@ -1383,10 +1355,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/foreleven/feng-scoop-bucket](https://github.com/foreleven/feng-scoop-bucket)
-
-
-
 [https://github.com/mko-x/bucket](https://github.com/mko-x/bucket)
   * [eclipse](https://github.com/mko-x/bucket/blob/master/eclipse.json)
 
@@ -1468,10 +1436,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/broovy/scoop-bucket](https://github.com/broovy/scoop-bucket)
   * [androidsdk](https://github.com/broovy/scoop-bucket/blob/master/androidsdk.json)
-
-
-
-[https://github.com/maoizm/scoopBucket](https://github.com/maoizm/scoopBucket)
 
 
 
@@ -1592,9 +1556,5 @@ A collection of awesome resource for the scoop package manager for windows
 
 [https://github.com/demesne/dev-extras](https://github.com/demesne/dev-extras)
   * [sublime-dev](https://github.com/demesne/dev-extras/blob/master/sublime-dev.json)
-
-
-
-[https://github.com/S3FL-REST/TeensyProgram](https://github.com/S3FL-REST/TeensyProgram)
 
 

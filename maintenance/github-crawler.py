@@ -79,12 +79,12 @@ sorted(actual_repos, key=lambda repo:cache[repo]['score'])
 print(str(len(actual_repos)) + 'valid repositories found.')
 
 #Update Readme file
-cache.pop('last_run', None)
 TEMPLATE_ENVIRONMENT = Environment(
     autoescape=False,
     loader=FileSystemLoader(os.path.join(dir_path, 'template')),
     trim_blocks=False)
 context = {
+        'sortedrepos':actual_repos,
         'cache': cache
 }
 markdown_content = TEMPLATE_ENVIRONMENT.get_template('ReadmeTemplate.tpl').render(context)
