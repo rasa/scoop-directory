@@ -2,1523 +2,1599 @@
 A collection of awesome resource for the scoop package manager for windows
 
 # Third party buckets by popularity
-[]
-    -     
- 
-[https://github.com/lukesampson/scoop-extras]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/accesschk.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/appengine-go.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/atom.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/audacity.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/autohotkey.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/autoruns.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/axis.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/baretail.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/blender.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/brackets.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/calibre.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/clink.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/cloudfoundry-cli.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/cmake-rc.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/conemu.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/console2.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/cpu-z.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/CSharp-SnippetCompiler.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/dart-dev.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/darteditor.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/dartium-dev.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/dartium.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/dartium_content_shell-dev.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/dartium_content_shell.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/deadlock.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/diff-pdf.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/ditto.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/dont-sleep.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/ec2-api-tools.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/echoargs.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-android.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-automotive.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-committers.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-cpp.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-dsl.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-java.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-javascript.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-jee.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-modeling.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-parallel.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-php.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-platform.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-rcp.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-reporting.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-scout.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-sdk.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/eclipse-testing.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/elasticsearch.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/emacs.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/enso.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/etcher-cli.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/etcher.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/fciv.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/filezilla.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/find-java.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/firefox-developer.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/firefox-esr.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/firefox.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/gcc-arm-none-eabi.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/gifcam.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/gimp.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/gitea.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/gitextensions.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/gitkraken.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/gnupg.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/go-ipfs.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/gvim.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/handbrake.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/handle.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/haskellx.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/heidisql.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/heroku-cli.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/httrack.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/hwmonitor.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/idea.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/ilspy.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/inkscape.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/inkscape32bit.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/ios-webkit-debug-proxy.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/jkrypto.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/keepass.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/keepassxc.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/keypirinha.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/kibana.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/kitty.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/krita.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/leet.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/lighttable.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/linqpad.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/LinqPadLess.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/logstash.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/LosslessCut.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/love.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/mancy.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/mkvtoolnix.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/mobaxterm.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/moonscript.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/mpc-hc.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/mplayer.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/mpv.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/ncftpclient.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/neovim-qt.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/neovim.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/ngrok.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/nimbleset.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/nimbletext.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/notepad2-mod.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/notepad2.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/notepadplusplus.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/oneget.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/openvpn.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/oraclejdk.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/oraclejdk7.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/oraclejre-server.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/oraclejre.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/orca.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/p4merge.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/pandoc.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/patheditor.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/php-nts-xdebug.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/php-xdebug.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/processhacker.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/procexp.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/protobuf.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/pstools.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/putty.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/qbittorrent.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/rabbitmq.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/rabbitmqadmin.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/ragel.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/rambox.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/RapidEE.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/resource-hacker.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/robomongo.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/rstudio.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/rust-msvc-nightly.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/rust-nightly.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/sandman.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/screentogif.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/sfk.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/shadowsocks.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/ShareX.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/shim.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/slack.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/snipaste.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/sourcetree.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/speedcrunch.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/sqlitebrowser.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/steam-library-manager.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/storageexplorer.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/streamlink.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/strings.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/stunnel.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/sublime-text.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/SumatraPDF.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/synctrayzor.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/sysinternals.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/telegram.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/thunderbird.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/tomcat.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/tortoisemerge.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/tortoisesvn.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/transmission.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/UniversalPauseButton.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/unlocker.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/util-linux-ng.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vcredist.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vcredist2008.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vcredist2010.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vcredist2012.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vcredist2013.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vcredist2015.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vcredist2017.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vcxsrv.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/visual-arm-emulator.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/visualc.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vlc.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vscode.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/vswhere.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/webpicmd.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/webstorm.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/whatsapp.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/whois.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/wifi-manager.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/winbox.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/winmerge.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/winmerge2011.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/wireshark.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/write.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/xmllint.json]
-        * [https://github.com/lukesampson/scoop-extras/blob/master/zeal.json]
-    -     
- 
-[https://github.com/maman/scoop-bucket]
-        * [https://github.com/maman/scoop-bucket/blob/master/android-platform-tools.json]
-        * [https://github.com/maman/scoop-bucket/blob/master/android-sdk.json]
-        * [https://github.com/maman/scoop-bucket/blob/master/heroku-toolbelt.json]
-        * [https://github.com/maman/scoop-bucket/blob/master/otto.json]
-        * [https://github.com/maman/scoop-bucket/blob/master/phantomjs19.json]
-        * [https://github.com/maman/scoop-bucket/blob/master/screenfetch.json]
-        * [https://github.com/maman/scoop-bucket/blob/master/vim-nox.json]
-    -     
- 
-[https://github.com/jmcarbo/scoopbucket]
-        * [https://github.com/jmcarbo/scoopbucket/blob/master/cmder.json]
-        * [https://github.com/jmcarbo/scoopbucket/blob/master/minioclient.json]
-        * [https://github.com/jmcarbo/scoopbucket/blob/master/pt.json]
-        * [https://github.com/jmcarbo/scoopbucket/blob/master/rclone.json]
-        * [https://github.com/jmcarbo/scoopbucket/blob/master/removedrive.json]
-        * [https://github.com/jmcarbo/scoopbucket/blob/master/rufus.json]
-    -     
- 
-[https://github.com/Aaike/scoop]
-        * [https://github.com/Aaike/scoop/blob/master/github.json]
-    -     
- 
-[https://github.com/mikerockett/scoop]
-        * [https://github.com/mikerockett/scoop/blob/master/hostess.json]
-        * [https://github.com/mikerockett/scoop/blob/master/hosts.json]
-        * [https://github.com/mikerockett/scoop/blob/master/sslscan.json]
-    -     
- 
-[https://github.com/nueko/php-ext-bucket]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-amqp.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-apcu.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-apcu_bc.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-bitset.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-couchbase.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-crypto.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-dio.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-doublemetaphone.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-ds.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-event.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-fann.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-gender.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-geoip.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-hprose.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-igbinary.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-imagick.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-libsodium.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-lua.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-lzf.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-mailparse.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-mongodb.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-msgpack.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-oauth.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-oci8.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-pcs.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-pdo_sqlsrv.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-phalcon.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-propro.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-rdkafka.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-redis.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-rrd.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-scrypt.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-seaslog.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-solr.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-sqlsrv.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-ssh2.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-stem.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-stomp.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-taint.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-timezonedb.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-trader.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-translit.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-ui.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-varnish.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-vld.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-weakref.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-win32service.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-xdiff.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-xmldiff.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-xxtea.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-yac.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-yar.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-zip.json]
-        * [https://github.com/nueko/php-ext-bucket/blob/master/php71-zmq.json]
-    -     
- 
-[https://github.com/kodybrown/scoop-nirsoft]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/deviceioview.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/dllexportviewer.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/dotnetresourcesextract.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/filetypesman.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/gacview.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/gdiview.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/heapmemview.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/regdllview.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/regfromapp.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/regscanner.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/resourcesextract.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/shellexview.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/shellmenuview.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/simpledebugger.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/socketsniff.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/specialfoldersview.json]
-        * [https://github.com/kodybrown/scoop-nirsoft/blob/master/sysexporter.json]
-    -     
- 
-[https://github.com/klaidliadon/scoop-buckets]
-        * [https://github.com/klaidliadon/scoop-buckets/blob/master/glide.json]
-        * [https://github.com/klaidliadon/scoop-buckets/blob/master/rethinkdb.json]
-    -     
- 
-[https://github.com/wangzq/scoop-bucket]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/AzureSDK28.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/clojure.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/DeltaCopy.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/dnspy.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/everything.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/freemind.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/fsharp4.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/geckodriver.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/gitext.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/GreenShot.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/http.sys-manager.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/iedriver.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/java.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/myfirefox.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/myprocesshacker.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/MySysInternals.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/OwinHost.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/plantuml.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/psgitext.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/restart-chrome.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/ScreenToGif.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/selenium-dotnet.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/siggen.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/sqliteadmin.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/sqliteman.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/vcredist2010.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/vcredist2015.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/vim8.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/winrm-https.json]
-        * [https://github.com/wangzq/scoop-bucket/blob/master/winscp.json]
-    -     
- 
-[https://github.com/stlhrt/steel-buckets]
-        * [https://github.com/stlhrt/steel-buckets/blob/master/git-ssh.json]
-    -     
- 
-[https://github.com/toburger/scoop-buckets]
-        * [https://github.com/toburger/scoop-buckets/blob/master/dotnet.json]
-        * [https://github.com/toburger/scoop-buckets/blob/master/psreadline.json]
-    -     
- 
-[https://github.com/FoxBuru/scoop-buckets]
-    -     
- 
-[https://github.com/pcrama/scoop-buckets]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/autoit.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/dngrep.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/dview.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/ezwinports.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/FindAndRunRobotPortable.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/flux.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/FSViewer.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/multicommander.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/sift.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/stduviewer.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/SumatraPDF.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/unison.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/wdscli.json]
-        * [https://github.com/pcrama/scoop-buckets/blob/master/workrave.json]
-    -     
- 
-[https://github.com/twxs/scoop-buckets]
-        * [https://github.com/twxs/scoop-buckets/blob/master/apache.json]
-    -     
- 
-[https://github.com/h404bi/dorado]
-        * [https://github.com/h404bi/dorado/blob/master/anaconda2.json]
-        * [https://github.com/h404bi/dorado/blob/master/intellij-idea-ce.json]
-        * [https://github.com/h404bi/dorado/blob/master/nvm-windows.json]
-        * [https://github.com/h404bi/dorado/blob/master/tcping.json]
-        * [https://github.com/h404bi/dorado/blob/master/trash.json]
-    -     
- 
-[https://github.com/nueko/snub]
-    -     
- 
-[https://github.com/simonwjackson/my-bucket]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/display-fusion.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/figma.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/hyper.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/image-usb.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/iris.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/mountain-duck.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/sharpkeys.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/simplenote.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/space-radar.json]
-        * [https://github.com/simonwjackson/my-bucket/blob/master/vivaldi.json]
-    -     
- 
-[https://github.com/idursun/my-bucket]
-        * [https://github.com/idursun/my-bucket/blob/master/vimrc.json]
-    -     
- 
-[https://github.com/wrokred/phpdev-scoop-bucket]
-        * [https://github.com/wrokred/phpdev-scoop-bucket/blob/master/behat.json]
-        * [https://github.com/wrokred/phpdev-scoop-bucket/blob/master/composer.json]
-        * [https://github.com/wrokred/phpdev-scoop-bucket/blob/master/drupal-console.json]
-        * [https://github.com/wrokred/phpdev-scoop-bucket/blob/master/laravel.json]
-        * [https://github.com/wrokred/phpdev-scoop-bucket/blob/master/wp-cli.json]
-    -     
- 
-[https://github.com/Sandex/scoop-supernova]
-        * [https://github.com/Sandex/scoop-supernova/blob/master/apache-mod-fcgi.json]
-        * [https://github.com/Sandex/scoop-supernova/blob/master/apache-vc14.json]
-        * [https://github.com/Sandex/scoop-supernova/blob/master/ms-vc14.json]
-        * [https://github.com/Sandex/scoop-supernova/blob/master/php7.json]
-        * [https://github.com/Sandex/scoop-supernova/blob/master/phpstorm.json]
-        * [https://github.com/Sandex/scoop-supernova/blob/master/winscp.json]
-    -     
- 
-[https://github.com/Congee/barrel]
-        * [https://github.com/Congee/barrel/blob/master/BaiduPCS.json]
-        * [https://github.com/Congee/barrel/blob/master/Everything.json]
-        * [https://github.com/Congee/barrel/blob/master/JabRef.json]
-        * [https://github.com/Congee/barrel/blob/master/javarepl.json]
-        * [https://github.com/Congee/barrel/blob/master/KindleMate.json]
-        * [https://github.com/Congee/barrel/blob/master/mpv.json]
-        * [https://github.com/Congee/barrel/blob/master/OllyDbg.json]
-        * [https://github.com/Congee/barrel/blob/master/pasteboard.json]
-        * [https://github.com/Congee/barrel/blob/master/PuTTYtray.json]
-        * [https://github.com/Congee/barrel/blob/master/snipaste.json]
-        * [https://github.com/Congee/barrel/blob/master/texlive.json]
-        * [https://github.com/Congee/barrel/blob/master/unassoc.json]
-        * [https://github.com/Congee/barrel/blob/master/Win32-OpenSSH-64bit.json]
-        * [https://github.com/Congee/barrel/blob/master/x64dbg.json]
-    -     
- 
-[https://github.com/gkantsidis/scoop-public-bucket]
-    -     
- 
-[https://github.com/nikolasd/scoop-bucket]
-        * [https://github.com/nikolasd/scoop-bucket/blob/master/git-bundle.json]
-    -     
- 
-[https://github.com/noquierouser/nqu-scoop]
-        * [https://github.com/noquierouser/nqu-scoop/blob/master/php55.json]
-        * [https://github.com/noquierouser/nqu-scoop/blob/master/putty.json]
-        * [https://github.com/noquierouser/nqu-scoop/blob/master/trid.json]
-    -     
- 
-[https://github.com/mattkang/scoop-bucket]
-        * [https://github.com/mattkang/scoop-bucket/blob/master/atom64.json]
-        * [https://github.com/mattkang/scoop-bucket/blob/master/meshlab.json]
-    -     
- 
-[https://github.com/fredjoseph/scoop-bucket]
-        * [https://github.com/fredjoseph/scoop-bucket/blob/master/my-keepass.json]
-        * [https://github.com/fredjoseph/scoop-bucket/blob/master/PenguinSubtitlePlayer.json]
-        * [https://github.com/fredjoseph/scoop-bucket/blob/master/SocketSniffer.json]
-        * [https://github.com/fredjoseph/scoop-bucket/blob/master/WMIExplorer.json]
-    -     
- 
-[https://github.com/rivy/scoop.bucket-scoop.main]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/7zip.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ack.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/acmesharp.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/adb.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ag.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/allure.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ant.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/apache.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/apex.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/apngasm.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/aria2.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/autoit.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/axel.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/bfg.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/bochs.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/busybox.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/bzip2.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cacert.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/caddy.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/casperjs.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cdrtools.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/chromedriver.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/clink.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cmake.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cmder.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/composer.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/concfg.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/coreutils.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cowsay.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/csvtosql.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ctags.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/curl.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cygwin.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dart-sass.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dart.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dd.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/devd.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/diffutils.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dig.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dnvm.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker-compose.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker-machine.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dosbox.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dotnet.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/doxygen.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/draft.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/editorconfig.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/elixir.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/erlang.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/eventstore.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/exiftool.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/far.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ffmpeg-SP3-1.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ffmpeg.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/figlet.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/file.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/findutils.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/flatc.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/flow.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/forge.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/fossil.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/fzf.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gawk.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gcc.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gdb.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ghostscript.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gibo.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git-lfs.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git-town.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git-up.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git-with-openssh.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git19.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gitignore.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/glide.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/go.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gow.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gpg.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gradle.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/grails.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/graphviz.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/grep.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/groovy.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gzip.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/handbrake-cli.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/hashcat.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/haskell.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/haxe.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/helm.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/highlight.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/hub.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/hugo.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/iconv.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/imagemagick.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/innounp.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/invoke-build.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/jetbrains-toolbox.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/jq.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/julia.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/kotlin.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/kubectl.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/kvm.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/latex.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/leiningen.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/less.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lessmsi.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lilypond.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/llvm.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ln.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lua.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lynx.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mailsend.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/make.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mariadb.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/maven.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mediainfo.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mercurial.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/metastore.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/minikube.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/minio-client.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/minio.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/minisign.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/modd.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mongodb.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mono.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mozjpeg.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/msys.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/msys2.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mysql-workbench.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mysql.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nano.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nasm.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/neko.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/netcat.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nginx.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ngrok.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nikto.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nim.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ninja.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nircmd.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nmap.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nodejs-lts.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nodejs.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nssm.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nuget.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nvm.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/octave.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openjdk.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openssh.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openssl.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/optipng.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/packer.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/patch.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pciutils.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pcregrep.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pdftk.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/perl.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pester.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/phantomjs.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/php-nts-SP3-1.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/php-nts.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/php-SP3-1.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/php.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pkg-config.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pngcrush.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/poppler.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/postgresql.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/premake4.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/premake5.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/psake.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/psgithub.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pshazz.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pt.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/puppet.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/python-exp.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/python.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/qemu.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/r.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/racket.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/radare2.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rancher-compose.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/redis.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/resharper-clt.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rethinkdb.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rg.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rktools2k3.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rsync.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ruby.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ruby19.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/runat.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rust-msvc.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rust.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/say.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sbcl.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sbt.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/scala.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/scholdoc.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/scriptcs.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sed.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/shasum.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sliksvn.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/smartmontools.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sonarqube.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sqlite.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/srvman.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ssh-copy-id.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sslscan.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/stack.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sudo.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/syncany-cli.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/syncthing.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/tar.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/telnet.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/terraform.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/tesseract.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/thrift.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/tidy.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/time.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/touch.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/transmission-cli.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/unar.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/unbound.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/unrar.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/unzip.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/upx.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/vagrant.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/vault.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/vim.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/vimtutor.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/webp.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/wget.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/which.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/wkhtmltopdf.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/x264-10bit.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/x264.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xming.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xmlstarlet.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xsv.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xz.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/yarn.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/youtube-dl.json]
-        * [https://github.com/rivy/scoop.bucket-scoop.main/blob/master/zip.json]
-    -     
- 
-[https://github.com/deevus/scoop-games]
-        * [https://github.com/deevus/scoop-games/blob/master/dwarf-fortress.json]
-        * [https://github.com/deevus/scoop-games/blob/master/pixel-dungeon.json]
-    -     
- 
-[https://github.com/ghchinoy/scoop-ce]
-        * [https://github.com/ghchinoy/scoop-ce/blob/master/cectl.json]
-    -     
- 
-[https://github.com/fadhlika/scoop-bucket]
-        * [https://github.com/fadhlika/scoop-bucket/blob/master/avr8-gnu-toolchain.json]
-        * [https://github.com/fadhlika/scoop-bucket/blob/master/avrdude.json]
-    -     
- 
-[https://github.com/se35710/scoop-ibm]
-        * [https://github.com/se35710/scoop-ibm/blob/master/bluemix-cli.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/eclipse-mfs.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/eclipse-wdt.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/mfp-cli63.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/mfp-cli70.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/mfp-cli71.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/mfp-devkit.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/nodejs-ibm.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/wlp-javaee.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/wlp-javaeeclient.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/wlp-kernel.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/wlp-micro.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/wlp-osgi.json]
-        * [https://github.com/se35710/scoop-ibm/blob/master/wlp.json]
-    -     
- 
-[https://github.com/ErnWong/scoop-bucket]
-        * [https://github.com/ErnWong/scoop-bucket/blob/master/clib.json]
-        * [https://github.com/ErnWong/scoop-bucket/blob/master/llvm.json]
-        * [https://github.com/ErnWong/scoop-bucket/blob/master/vim-ernwong.json]
-    -     
- 
-[https://github.com/ghchinoy/scoop-roguewave]
-        * [https://github.com/ghchinoy/scoop-roguewave/blob/master/rwctl.json]
-    -     
- 
-[https://github.com/cprecioso/scoop-lektor]
-        * [https://github.com/cprecioso/scoop-lektor/blob/master/lektor.json]
-    -     
- 
-[https://github.com/anurse/scoop-bucket]
-        * [https://github.com/anurse/scoop-bucket/blob/master/cbwin.json]
-        * [https://github.com/anurse/scoop-bucket/blob/master/gnumake.json]
-        * [https://github.com/anurse/scoop-bucket/blob/master/ilspy.json]
-        * [https://github.com/anurse/scoop-bucket/blob/master/protoc.json]
-        * [https://github.com/anurse/scoop-bucket/blob/master/python2.json]
-        * [https://github.com/anurse/scoop-bucket/blob/master/win-openssh.json]
-    -     
- 
-[https://github.com/masaeedu/scoop-growlnotify]
-        * [https://github.com/masaeedu/scoop-growlnotify/blob/master/growlnotify.json]
-    -     
- 
-[https://github.com/jlabedo/scoop-bucket]
-    -     
- 
-[https://github.com/bitrvmpd/scoop-wuff]
-        * [https://github.com/bitrvmpd/scoop-wuff/blob/master/mariadb.json]
-    -     
- 
-[https://github.com/tditlu/scoop-amiga]
-        * [https://github.com/tditlu/scoop-amiga/blob/master/vasm.json]
-        * [https://github.com/tditlu/scoop-amiga/blob/master/vbcc.json]
-        * [https://github.com/tditlu/scoop-amiga/blob/master/vlink.json]
-    -     
- 
-[https://github.com/pastleo/scoop-bucket]
-        * [https://github.com/pastleo/scoop-bucket/blob/master/addShortCut.json]
-        * [https://github.com/pastleo/scoop-bucket/blob/master/mBash.json]
-    -     
- 
-[https://github.com/Alxandr/scoop-bucket]
-        * [https://github.com/Alxandr/scoop-bucket/blob/master/cmder.json]
-        * [https://github.com/Alxandr/scoop-bucket/blob/master/pandoc.json]
-    -     
- 
-[https://github.com/demas/demas-scoop]
-        * [https://github.com/demas/demas-scoop/blob/master/consul.json]
-        * [https://github.com/demas/demas-scoop/blob/master/hello.json]
-        * [https://github.com/demas/demas-scoop/blob/master/tomcat.json]
-        * [https://github.com/demas/demas-scoop/blob/master/total-commander.json]
-        * [https://github.com/demas/demas-scoop/blob/master/web-storm.json]
-    -     
- 
-[https://github.com/gx/scoop-misc]
-        * [https://github.com/gx/scoop-misc/blob/master/global.json]
-        * [https://github.com/gx/scoop-misc/blob/master/jom.json]
-    -     
- 
-[https://github.com/mrkishi/scoop-me]
-    -     
- 
-[https://github.com/rcqls/scoop-extras]
-        * [https://github.com/rcqls/scoop-extras/blob/master/miktex.json]
-        * [https://github.com/rcqls/scoop-extras/blob/master/pandoc.json]
-        * [https://github.com/rcqls/scoop-extras/blob/master/red-latest.json]
-        * [https://github.com/rcqls/scoop-extras/blob/master/red.json]
-    -     
- 
-[https://github.com/narnaud/scoop-bucket]
-        * [https://github.com/narnaud/scoop-bucket/blob/master/cloc.json]
-        * [https://github.com/narnaud/scoop-bucket/blob/master/flex-bison.json]
-        * [https://github.com/narnaud/scoop-bucket/blob/master/hub.json]
-        * [https://github.com/narnaud/scoop-bucket/blob/master/jhead.json]
-        * [https://github.com/narnaud/scoop-bucket/blob/master/jom.json]
-    -     
- 
-[https://github.com/galbro/my-bucket]
-        * [https://github.com/galbro/my-bucket/blob/master/hello.json]
-    -     
- 
-[https://github.com/DimiG/dgBucket]
-        * [https://github.com/DimiG/dgBucket/blob/master/FFmbc.json]
-        * [https://github.com/DimiG/dgBucket/blob/master/PassGEN.json]
-        * [https://github.com/DimiG/dgBucket/blob/master/ProResCreator.json]
-        * [https://github.com/DimiG/dgBucket/blob/master/ProResMaker.json]
-        * [https://github.com/DimiG/dgBucket/blob/master/PSWinUpdate.json]
-        * [https://github.com/DimiG/dgBucket/blob/master/RoboSync.json]
-    -     
- 
-[https://github.com/tunoas/my_scoop_bucket]
-    -     
- 
-[https://github.com/masonm12/scoop-personal]
-        * [https://github.com/masonm12/scoop-personal/blob/master/consolez.json]
-        * [https://github.com/masonm12/scoop-personal/blob/master/poshvs.json]
-        * [https://github.com/masonm12/scoop-personal/blob/master/rapidee.json]
-        * [https://github.com/masonm12/scoop-personal/blob/master/savepics.json]
-    -     
- 
-[https://github.com/ondr3j/scoop-misc]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/acpica.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/bison.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/c-client.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/coffimplib.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/curl.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/dirent.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/dmd.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/dub.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/elevate.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/fciv.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/file.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/flex.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/freetype.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/glib.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/icu.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/ldc.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libargon2.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libbzip2.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libffi.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libiconv.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libintl.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libjpeg.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libmcrypt.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libpng.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libsasl.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libssh2.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libxml2.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libxpm.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/libxslt.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/lzo.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/lzop.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/openssl.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/re2c.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/rsvg-convert.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/wineditline.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/xz.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/zip.json]
-        * [https://github.com/ondr3j/scoop-misc/blob/master/zlib.json]
-    -     
- 
-[https://github.com/mmichaelis/scoop-bucket]
-    -     
- 
-[https://github.com/Guard13007/ScoopBucket]
-        * [https://github.com/Guard13007/ScoopBucket/blob/master/rosus.json]
-    -     
- 
-[https://github.com/nueko/scoop-php]
-        * [https://github.com/nueko/scoop-php/blob/master/php3.0.11.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php3.0.13.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php3.0.14.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php3.0.15.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php3.0.16.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php3.0.17.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.0.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.0.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.0.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.0.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.0.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.0.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.0.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.1.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.1.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.1.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.2.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.2.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.2.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.2.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.10.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.11.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.7.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.8.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.3.9.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.4.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.4.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.4.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.4.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.4.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.4.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php4.4.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.0.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.0.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.0.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.0.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.0.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.0.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.1.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.1.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.1.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.1.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.1.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.1.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.1-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.10-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.10.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.11-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.11.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.12-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.12.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.13-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.13.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.14-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.14.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.15-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.15.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.16-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.16.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.17-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.17.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.2-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.3-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.4-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.5-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.6-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.7-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.7.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.8-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.8.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.9-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.9.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.0-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.1-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.10-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.10.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.11-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.11.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.12-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.12.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.13-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.13.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.14-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.14.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.15-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.15.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.16-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.16.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.17-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.17.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.18-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.18.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.19-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.19.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.2-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.20-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.20.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.21-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.21.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.22-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.22.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.23-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.23.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.24-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.24.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.25-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.25.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.26-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.26.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.27-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.27.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.28-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.28.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.29-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.29.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.3-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.4-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.5-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.6-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.7-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.7.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.8-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.8.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.9-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.9.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.0-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.1-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.10-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.10.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.11-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.11.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.12-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.12.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.13-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.13.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.14-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.14.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.15-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.15.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.16-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.16.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.17-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.17.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.18-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.18.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.19-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.19.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.2-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.20-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.20.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.21-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.21.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.22-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.22.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.23-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.23.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.24-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.24.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.25-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.25.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.26-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.26.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.27-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.27.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.28-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.28.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.29-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.29.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.3-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.30-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.30.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.31-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.31.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.32-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.32.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.33-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.33.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.34-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.34.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.35-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.35.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.36-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.36.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.37-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.37.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.38-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.38.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.39-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.39.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.4-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.40-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.40.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.41-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.41.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.42-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.42.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.43-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.43.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.44-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.44.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.45-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.45.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.5-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.6-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.7-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.7.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.8-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.8.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.9-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.9.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.0-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.1-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.10-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.10.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.11-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.11.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.12-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.12.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.13-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.13.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.14-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.14.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.15-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.15.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.16-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.16.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.17-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.17.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.18-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.18.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.19-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.19.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.2-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.20-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.20.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.21-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.21.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.22-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.22.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.23-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.23.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.24-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.24.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.25-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.25.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.26-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.26.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.27-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.27.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.28-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.28.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.29-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.29.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.3-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.30-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.30.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.31-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.31.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.32-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.32.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.33-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.33.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.34-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.34.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.35-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.35.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.36-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.36.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.37-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.37.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.4-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.5-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.6-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.7-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.7.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.8-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.8.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.9-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.9.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.0-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.1-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.10-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.10.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.11-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.11.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.12-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.12.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.13-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.13.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.14-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.14.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.15-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.15.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.16-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.16.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.17-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.17.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.18-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.18.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.19-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.19.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.2-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.20-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.20.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.21-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.21.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.22-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.22.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.23-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.23.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.24-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.24.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.25-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.25.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.26-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.26.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.27-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.27.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.28-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.28.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.29-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.29.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.3-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.4-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.5-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.6-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.7-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.7.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.8-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.8.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.9-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.9.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php5.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.0-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.1-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.10-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.10.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.11-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.11.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.12-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.12.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.13-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.13.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.14-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.14.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.15-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.15.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.16-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.16.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.17-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.17.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.18-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.18.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.2-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.3-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.4-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.5-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.5.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.6-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.6.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.7-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.7.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.8-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.8.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.9-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.9.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.0-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.0.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.1-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.1.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.2-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.2.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.3-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.3.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.4-nts.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.4.json]
-        * [https://github.com/nueko/scoop-php/blob/master/php7.1.json]
-    -     
- 
-[https://github.com/foreleven/feng-scoop-bucket]
-    -     
- 
-[https://github.com/mko-x/bucket]
-        * [https://github.com/mko-x/bucket/blob/master/eclipse.json]
-    -     
- 
-[https://github.com/webwesen/webwesen-scoop-bucket]
-        * [https://github.com/webwesen/webwesen-scoop-bucket/blob/master/ccleaner.json]
-        * [https://github.com/webwesen/webwesen-scoop-bucket/blob/master/pycharm.json]
-        * [https://github.com/webwesen/webwesen-scoop-bucket/blob/master/winscp.json]
-    -     
- 
-[https://github.com/systemexitzero/scoop-bucket]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/chefdk.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/cloudfoundry-cli.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/dontsleep.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/gifsicle.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/html-tidy.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/nodejs4.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/pngout.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/rapidee.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/sox.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/unison.json]
-        * [https://github.com/systemexitzero/scoop-bucket/blob/master/wolcmd.json]
-    -     
- 
-[https://github.com/liaoya/scoop-bucket]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/doublecmd.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/ezwinports.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/greenshot.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/ideaIC.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/liteide.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/realvnc-vncviewer.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/ripgrep.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/tiger-vncviewer.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/Win32-OpenSSH.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/winscp.json]
-        * [https://github.com/liaoya/scoop-bucket/blob/master/winsshterm.json]
-    -     
- 
-[https://github.com/zeero/scoop-my-bucket]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/a5m2.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/clipnote.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/cmigemo.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/df.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/explzh.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/git-credential-manager-for-windows.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/git-for-windows-sdk.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/gvim-kaoriya.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/honeyview.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/keyswap.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/kiki.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/mactype.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/madonote.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/magnet_window.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/mausuji.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/mingw-get.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/mktemp.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/nkf.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/openlink.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/pathcp.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/sakura.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/softtilt.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/tortoisesvn.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/tortoisesvn_ja.json]
-        * [https://github.com/zeero/scoop-my-bucket/blob/master/wheel_redirector.json]
-    -     
- 
-[https://github.com/Lomeli12/ScoopBucket]
-        * [https://github.com/Lomeli12/ScoopBucket/blob/master/hasher.json]
-        * [https://github.com/Lomeli12/ScoopBucket/blob/master/mp3o.json]
-        * [https://github.com/Lomeli12/ScoopBucket/blob/master/plummod.json]
-        * [https://github.com/Lomeli12/ScoopBucket/blob/master/pngcap.json]
-    -     
- 
-[https://github.com/broovy/scoop-bucket]
-        * [https://github.com/broovy/scoop-bucket/blob/master/androidsdk.json]
-    -     
- 
-[https://github.com/maoizm/scoopBucket]
-    -     
- 
-[https://github.com/lillicoder/scoop-openjdk6]
-        * [https://github.com/lillicoder/scoop-openjdk6/blob/master/openjdk6.json]
-    -     
- 
-[https://github.com/TnmkFan/my-bucket]
-        * [https://github.com/TnmkFan/my-bucket/blob/master/vagrant.json]
-    -     
- 
-[https://github.com/alapala/apl-scoop-bucket]
-        * [https://github.com/alapala/apl-scoop-bucket/blob/master/gpg4win.json]
-    -     
- 
-[https://github.com/jsorah/jsorah-scoop-bucket]
-        * [https://github.com/jsorah/jsorah-scoop-bucket/blob/master/hxd.json]
-        * [https://github.com/jsorah/jsorah-scoop-bucket/blob/master/jd-gui.json]
-        * [https://github.com/jsorah/jsorah-scoop-bucket/blob/master/xvi32.json]
-    -     
- 
-[https://github.com/Callidin/ragnar-scoop]
-        * [https://github.com/Callidin/ragnar-scoop/blob/master/python27.json]
-    -     
- 
-[https://github.com/Guard13007/ScoopBucket-ThirdParty]
-        * [https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/butler.json]
-        * [https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/crystaldiskinfo.json]
-        * [https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/kitty.json]
-        * [https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/love.json]
-        * [https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/moonscript.json]
-        * [https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/openresty.json]
-        * [https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/resource-hacker.json]
-    -     
- 
-[https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras]
-        * [https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/blob/master/fornax.json]
-    -     
- 
-[https://github.com/wangfeishine/adds]
-        * [https://github.com/wangfeishine/adds/blob/master/derby.json]
-    -     
- 
-[https://github.com/jm0477/bucket]
-        * [https://github.com/jm0477/bucket/blob/master/7zip.json]
-        * [https://github.com/jm0477/bucket/blob/master/adobereader.json]
-    -     
- 
-[https://github.com/dennislloydjr/scoop-bucket-devbox]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/artifactory.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-bamboo.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-confluence.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-crowd.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-jira.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-stash.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/ds9.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/eclipse-kepler.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/eclipse-luna.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/eclipse-mars.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/gradle.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/java7.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/java8.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/mysql.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/sonar.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/spacesniffer.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/tomcat7.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/tomcat8.json]
-        * [https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/virtualbox.json]
-    -     
- 
-[https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools]
-        * [https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/blob/master/inkscape.json]
-    -     
- 
-[https://github.com/Guard13007/ScoopBucket-LoveVersions]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.10.0.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.10.1.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.10.2.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.6.2.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.7.0.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.7.1.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.7.2.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.8.0.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.0.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.1.json]
-        * [https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.2.json]
-    -     
- 
-[https://github.com/mundusnine/m9-bucket]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/cabbage.json]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/clang.json]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/gcc5.json]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/lmms-beta.json]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/lmms.json]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/reaper.json]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/reaperThemes.json]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/Synth1.json]
-        * [https://github.com/mundusnine/m9-bucket/blob/master/voicemeeter.json]
-    -     
- 
-[https://github.com/devilishcherub/scoop-app-bucket]
-        * [https://github.com/devilishcherub/scoop-app-bucket/blob/master/hyper.json]
-    -     
- 
-[https://github.com/demesne/dev-extras]
-        * [https://github.com/demesne/dev-extras/blob/master/sublime-dev.json]
-    -     
- 
-[https://github.com/S3FL-REST/TeensyProgram]
-    -     
- 
+
+[https://github.com/lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras)
+  * [accesschk](https://github.com/lukesampson/scoop-extras/blob/master/accesschk.json)
+  * [appengine-go](https://github.com/lukesampson/scoop-extras/blob/master/appengine-go.json)
+  * [atom](https://github.com/lukesampson/scoop-extras/blob/master/atom.json)
+  * [audacity](https://github.com/lukesampson/scoop-extras/blob/master/audacity.json)
+  * [autohotkey](https://github.com/lukesampson/scoop-extras/blob/master/autohotkey.json)
+  * [autoruns](https://github.com/lukesampson/scoop-extras/blob/master/autoruns.json)
+  * [axis](https://github.com/lukesampson/scoop-extras/blob/master/axis.json)
+  * [baretail](https://github.com/lukesampson/scoop-extras/blob/master/baretail.json)
+  * [blender](https://github.com/lukesampson/scoop-extras/blob/master/blender.json)
+  * [brackets](https://github.com/lukesampson/scoop-extras/blob/master/brackets.json)
+  * [calibre](https://github.com/lukesampson/scoop-extras/blob/master/calibre.json)
+  * [clink](https://github.com/lukesampson/scoop-extras/blob/master/clink.json)
+  * [cloudfoundry-cli](https://github.com/lukesampson/scoop-extras/blob/master/cloudfoundry-cli.json)
+  * [cmake-rc](https://github.com/lukesampson/scoop-extras/blob/master/cmake-rc.json)
+  * [conemu](https://github.com/lukesampson/scoop-extras/blob/master/conemu.json)
+  * [console2](https://github.com/lukesampson/scoop-extras/blob/master/console2.json)
+  * [cpu-z](https://github.com/lukesampson/scoop-extras/blob/master/cpu-z.json)
+  * [CSharp-SnippetCompiler](https://github.com/lukesampson/scoop-extras/blob/master/CSharp-SnippetCompiler.json)
+  * [dart-dev](https://github.com/lukesampson/scoop-extras/blob/master/dart-dev.json)
+  * [darteditor](https://github.com/lukesampson/scoop-extras/blob/master/darteditor.json)
+  * [dartium-dev](https://github.com/lukesampson/scoop-extras/blob/master/dartium-dev.json)
+  * [dartium](https://github.com/lukesampson/scoop-extras/blob/master/dartium.json)
+  * [dartium_content_shell-dev](https://github.com/lukesampson/scoop-extras/blob/master/dartium_content_shell-dev.json)
+  * [dartium_content_shell](https://github.com/lukesampson/scoop-extras/blob/master/dartium_content_shell.json)
+  * [deadlock](https://github.com/lukesampson/scoop-extras/blob/master/deadlock.json)
+  * [diff-pdf](https://github.com/lukesampson/scoop-extras/blob/master/diff-pdf.json)
+  * [ditto](https://github.com/lukesampson/scoop-extras/blob/master/ditto.json)
+  * [dont-sleep](https://github.com/lukesampson/scoop-extras/blob/master/dont-sleep.json)
+  * [ec2-api-tools](https://github.com/lukesampson/scoop-extras/blob/master/ec2-api-tools.json)
+  * [echoargs](https://github.com/lukesampson/scoop-extras/blob/master/echoargs.json)
+  * [eclipse-android](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-android.json)
+  * [eclipse-automotive](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-automotive.json)
+  * [eclipse-committers](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-committers.json)
+  * [eclipse-cpp](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-cpp.json)
+  * [eclipse-dsl](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-dsl.json)
+  * [eclipse-java](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-java.json)
+  * [eclipse-javascript](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-javascript.json)
+  * [eclipse-jee](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-jee.json)
+  * [eclipse-modeling](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-modeling.json)
+  * [eclipse-parallel](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-parallel.json)
+  * [eclipse-php](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-php.json)
+  * [eclipse-platform](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-platform.json)
+  * [eclipse-rcp](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-rcp.json)
+  * [eclipse-reporting](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-reporting.json)
+  * [eclipse-scout](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-scout.json)
+  * [eclipse-sdk](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-sdk.json)
+  * [eclipse-testing](https://github.com/lukesampson/scoop-extras/blob/master/eclipse-testing.json)
+  * [elasticsearch](https://github.com/lukesampson/scoop-extras/blob/master/elasticsearch.json)
+  * [emacs](https://github.com/lukesampson/scoop-extras/blob/master/emacs.json)
+  * [enso](https://github.com/lukesampson/scoop-extras/blob/master/enso.json)
+  * [etcher-cli](https://github.com/lukesampson/scoop-extras/blob/master/etcher-cli.json)
+  * [etcher](https://github.com/lukesampson/scoop-extras/blob/master/etcher.json)
+  * [fciv](https://github.com/lukesampson/scoop-extras/blob/master/fciv.json)
+  * [filezilla](https://github.com/lukesampson/scoop-extras/blob/master/filezilla.json)
+  * [find-java](https://github.com/lukesampson/scoop-extras/blob/master/find-java.json)
+  * [firefox-developer](https://github.com/lukesampson/scoop-extras/blob/master/firefox-developer.json)
+  * [firefox-esr](https://github.com/lukesampson/scoop-extras/blob/master/firefox-esr.json)
+  * [firefox](https://github.com/lukesampson/scoop-extras/blob/master/firefox.json)
+  * [gcc-arm-none-eabi](https://github.com/lukesampson/scoop-extras/blob/master/gcc-arm-none-eabi.json)
+  * [gifcam](https://github.com/lukesampson/scoop-extras/blob/master/gifcam.json)
+  * [gimp](https://github.com/lukesampson/scoop-extras/blob/master/gimp.json)
+  * [gitea](https://github.com/lukesampson/scoop-extras/blob/master/gitea.json)
+  * [gitextensions](https://github.com/lukesampson/scoop-extras/blob/master/gitextensions.json)
+  * [gitkraken](https://github.com/lukesampson/scoop-extras/blob/master/gitkraken.json)
+  * [gnupg](https://github.com/lukesampson/scoop-extras/blob/master/gnupg.json)
+  * [go-ipfs](https://github.com/lukesampson/scoop-extras/blob/master/go-ipfs.json)
+  * [gvim](https://github.com/lukesampson/scoop-extras/blob/master/gvim.json)
+  * [handbrake](https://github.com/lukesampson/scoop-extras/blob/master/handbrake.json)
+  * [handle](https://github.com/lukesampson/scoop-extras/blob/master/handle.json)
+  * [haskellx](https://github.com/lukesampson/scoop-extras/blob/master/haskellx.json)
+  * [heidisql](https://github.com/lukesampson/scoop-extras/blob/master/heidisql.json)
+  * [heroku-cli](https://github.com/lukesampson/scoop-extras/blob/master/heroku-cli.json)
+  * [httrack](https://github.com/lukesampson/scoop-extras/blob/master/httrack.json)
+  * [hwmonitor](https://github.com/lukesampson/scoop-extras/blob/master/hwmonitor.json)
+  * [idea](https://github.com/lukesampson/scoop-extras/blob/master/idea.json)
+  * [ilspy](https://github.com/lukesampson/scoop-extras/blob/master/ilspy.json)
+  * [inkscape](https://github.com/lukesampson/scoop-extras/blob/master/inkscape.json)
+  * [inkscape32bit](https://github.com/lukesampson/scoop-extras/blob/master/inkscape32bit.json)
+  * [ios-webkit-debug-proxy](https://github.com/lukesampson/scoop-extras/blob/master/ios-webkit-debug-proxy.json)
+  * [jkrypto](https://github.com/lukesampson/scoop-extras/blob/master/jkrypto.json)
+  * [keepass](https://github.com/lukesampson/scoop-extras/blob/master/keepass.json)
+  * [keepassxc](https://github.com/lukesampson/scoop-extras/blob/master/keepassxc.json)
+  * [keypirinha](https://github.com/lukesampson/scoop-extras/blob/master/keypirinha.json)
+  * [kibana](https://github.com/lukesampson/scoop-extras/blob/master/kibana.json)
+  * [kitty](https://github.com/lukesampson/scoop-extras/blob/master/kitty.json)
+  * [krita](https://github.com/lukesampson/scoop-extras/blob/master/krita.json)
+  * [leet](https://github.com/lukesampson/scoop-extras/blob/master/leet.json)
+  * [lighttable](https://github.com/lukesampson/scoop-extras/blob/master/lighttable.json)
+  * [linqpad](https://github.com/lukesampson/scoop-extras/blob/master/linqpad.json)
+  * [LinqPadLess](https://github.com/lukesampson/scoop-extras/blob/master/LinqPadLess.json)
+  * [logstash](https://github.com/lukesampson/scoop-extras/blob/master/logstash.json)
+  * [LosslessCut](https://github.com/lukesampson/scoop-extras/blob/master/LosslessCut.json)
+  * [love](https://github.com/lukesampson/scoop-extras/blob/master/love.json)
+  * [mancy](https://github.com/lukesampson/scoop-extras/blob/master/mancy.json)
+  * [mkvtoolnix](https://github.com/lukesampson/scoop-extras/blob/master/mkvtoolnix.json)
+  * [mobaxterm](https://github.com/lukesampson/scoop-extras/blob/master/mobaxterm.json)
+  * [moonscript](https://github.com/lukesampson/scoop-extras/blob/master/moonscript.json)
+  * [mpc-hc](https://github.com/lukesampson/scoop-extras/blob/master/mpc-hc.json)
+  * [mplayer](https://github.com/lukesampson/scoop-extras/blob/master/mplayer.json)
+  * [mpv](https://github.com/lukesampson/scoop-extras/blob/master/mpv.json)
+  * [ncftpclient](https://github.com/lukesampson/scoop-extras/blob/master/ncftpclient.json)
+  * [neovim-qt](https://github.com/lukesampson/scoop-extras/blob/master/neovim-qt.json)
+  * [neovim](https://github.com/lukesampson/scoop-extras/blob/master/neovim.json)
+  * [ngrok](https://github.com/lukesampson/scoop-extras/blob/master/ngrok.json)
+  * [nimbleset](https://github.com/lukesampson/scoop-extras/blob/master/nimbleset.json)
+  * [nimbletext](https://github.com/lukesampson/scoop-extras/blob/master/nimbletext.json)
+  * [notepad2-mod](https://github.com/lukesampson/scoop-extras/blob/master/notepad2-mod.json)
+  * [notepad2](https://github.com/lukesampson/scoop-extras/blob/master/notepad2.json)
+  * [notepadplusplus](https://github.com/lukesampson/scoop-extras/blob/master/notepadplusplus.json)
+  * [oneget](https://github.com/lukesampson/scoop-extras/blob/master/oneget.json)
+  * [openvpn](https://github.com/lukesampson/scoop-extras/blob/master/openvpn.json)
+  * [oraclejdk](https://github.com/lukesampson/scoop-extras/blob/master/oraclejdk.json)
+  * [oraclejdk7](https://github.com/lukesampson/scoop-extras/blob/master/oraclejdk7.json)
+  * [oraclejre-server](https://github.com/lukesampson/scoop-extras/blob/master/oraclejre-server.json)
+  * [oraclejre](https://github.com/lukesampson/scoop-extras/blob/master/oraclejre.json)
+  * [orca](https://github.com/lukesampson/scoop-extras/blob/master/orca.json)
+  * [p4merge](https://github.com/lukesampson/scoop-extras/blob/master/p4merge.json)
+  * [pandoc](https://github.com/lukesampson/scoop-extras/blob/master/pandoc.json)
+  * [patheditor](https://github.com/lukesampson/scoop-extras/blob/master/patheditor.json)
+  * [php-nts-xdebug](https://github.com/lukesampson/scoop-extras/blob/master/php-nts-xdebug.json)
+  * [php-xdebug](https://github.com/lukesampson/scoop-extras/blob/master/php-xdebug.json)
+  * [processhacker](https://github.com/lukesampson/scoop-extras/blob/master/processhacker.json)
+  * [procexp](https://github.com/lukesampson/scoop-extras/blob/master/procexp.json)
+  * [protobuf](https://github.com/lukesampson/scoop-extras/blob/master/protobuf.json)
+  * [pstools](https://github.com/lukesampson/scoop-extras/blob/master/pstools.json)
+  * [putty](https://github.com/lukesampson/scoop-extras/blob/master/putty.json)
+  * [qbittorrent](https://github.com/lukesampson/scoop-extras/blob/master/qbittorrent.json)
+  * [rabbitmq](https://github.com/lukesampson/scoop-extras/blob/master/rabbitmq.json)
+  * [rabbitmqadmin](https://github.com/lukesampson/scoop-extras/blob/master/rabbitmqadmin.json)
+  * [ragel](https://github.com/lukesampson/scoop-extras/blob/master/ragel.json)
+  * [rambox](https://github.com/lukesampson/scoop-extras/blob/master/rambox.json)
+  * [RapidEE](https://github.com/lukesampson/scoop-extras/blob/master/RapidEE.json)
+  * [resource-hacker](https://github.com/lukesampson/scoop-extras/blob/master/resource-hacker.json)
+  * [robomongo](https://github.com/lukesampson/scoop-extras/blob/master/robomongo.json)
+  * [rstudio](https://github.com/lukesampson/scoop-extras/blob/master/rstudio.json)
+  * [rust-msvc-nightly](https://github.com/lukesampson/scoop-extras/blob/master/rust-msvc-nightly.json)
+  * [rust-nightly](https://github.com/lukesampson/scoop-extras/blob/master/rust-nightly.json)
+  * [sandman](https://github.com/lukesampson/scoop-extras/blob/master/sandman.json)
+  * [screentogif](https://github.com/lukesampson/scoop-extras/blob/master/screentogif.json)
+  * [sfk](https://github.com/lukesampson/scoop-extras/blob/master/sfk.json)
+  * [shadowsocks](https://github.com/lukesampson/scoop-extras/blob/master/shadowsocks.json)
+  * [ShareX](https://github.com/lukesampson/scoop-extras/blob/master/ShareX.json)
+  * [shim](https://github.com/lukesampson/scoop-extras/blob/master/shim.json)
+  * [slack](https://github.com/lukesampson/scoop-extras/blob/master/slack.json)
+  * [snipaste](https://github.com/lukesampson/scoop-extras/blob/master/snipaste.json)
+  * [sourcetree](https://github.com/lukesampson/scoop-extras/blob/master/sourcetree.json)
+  * [speedcrunch](https://github.com/lukesampson/scoop-extras/blob/master/speedcrunch.json)
+  * [sqlitebrowser](https://github.com/lukesampson/scoop-extras/blob/master/sqlitebrowser.json)
+  * [steam-library-manager](https://github.com/lukesampson/scoop-extras/blob/master/steam-library-manager.json)
+  * [storageexplorer](https://github.com/lukesampson/scoop-extras/blob/master/storageexplorer.json)
+  * [streamlink](https://github.com/lukesampson/scoop-extras/blob/master/streamlink.json)
+  * [strings](https://github.com/lukesampson/scoop-extras/blob/master/strings.json)
+  * [stunnel](https://github.com/lukesampson/scoop-extras/blob/master/stunnel.json)
+  * [sublime-text](https://github.com/lukesampson/scoop-extras/blob/master/sublime-text.json)
+  * [SumatraPDF](https://github.com/lukesampson/scoop-extras/blob/master/SumatraPDF.json)
+  * [synctrayzor](https://github.com/lukesampson/scoop-extras/blob/master/synctrayzor.json)
+  * [sysinternals](https://github.com/lukesampson/scoop-extras/blob/master/sysinternals.json)
+  * [telegram](https://github.com/lukesampson/scoop-extras/blob/master/telegram.json)
+  * [thunderbird](https://github.com/lukesampson/scoop-extras/blob/master/thunderbird.json)
+  * [tomcat](https://github.com/lukesampson/scoop-extras/blob/master/tomcat.json)
+  * [tortoisemerge](https://github.com/lukesampson/scoop-extras/blob/master/tortoisemerge.json)
+  * [tortoisesvn](https://github.com/lukesampson/scoop-extras/blob/master/tortoisesvn.json)
+  * [transmission](https://github.com/lukesampson/scoop-extras/blob/master/transmission.json)
+  * [UniversalPauseButton](https://github.com/lukesampson/scoop-extras/blob/master/UniversalPauseButton.json)
+  * [unlocker](https://github.com/lukesampson/scoop-extras/blob/master/unlocker.json)
+  * [util-linux-ng](https://github.com/lukesampson/scoop-extras/blob/master/util-linux-ng.json)
+  * [vcredist](https://github.com/lukesampson/scoop-extras/blob/master/vcredist.json)
+  * [vcredist2008](https://github.com/lukesampson/scoop-extras/blob/master/vcredist2008.json)
+  * [vcredist2010](https://github.com/lukesampson/scoop-extras/blob/master/vcredist2010.json)
+  * [vcredist2012](https://github.com/lukesampson/scoop-extras/blob/master/vcredist2012.json)
+  * [vcredist2013](https://github.com/lukesampson/scoop-extras/blob/master/vcredist2013.json)
+  * [vcredist2015](https://github.com/lukesampson/scoop-extras/blob/master/vcredist2015.json)
+  * [vcredist2017](https://github.com/lukesampson/scoop-extras/blob/master/vcredist2017.json)
+  * [vcxsrv](https://github.com/lukesampson/scoop-extras/blob/master/vcxsrv.json)
+  * [visual-arm-emulator](https://github.com/lukesampson/scoop-extras/blob/master/visual-arm-emulator.json)
+  * [visualc](https://github.com/lukesampson/scoop-extras/blob/master/visualc.json)
+  * [vlc](https://github.com/lukesampson/scoop-extras/blob/master/vlc.json)
+  * [vscode](https://github.com/lukesampson/scoop-extras/blob/master/vscode.json)
+  * [vswhere](https://github.com/lukesampson/scoop-extras/blob/master/vswhere.json)
+  * [webpicmd](https://github.com/lukesampson/scoop-extras/blob/master/webpicmd.json)
+  * [webstorm](https://github.com/lukesampson/scoop-extras/blob/master/webstorm.json)
+  * [whatsapp](https://github.com/lukesampson/scoop-extras/blob/master/whatsapp.json)
+  * [whois](https://github.com/lukesampson/scoop-extras/blob/master/whois.json)
+  * [wifi-manager](https://github.com/lukesampson/scoop-extras/blob/master/wifi-manager.json)
+  * [winbox](https://github.com/lukesampson/scoop-extras/blob/master/winbox.json)
+  * [winmerge](https://github.com/lukesampson/scoop-extras/blob/master/winmerge.json)
+  * [winmerge2011](https://github.com/lukesampson/scoop-extras/blob/master/winmerge2011.json)
+  * [wireshark](https://github.com/lukesampson/scoop-extras/blob/master/wireshark.json)
+  * [write](https://github.com/lukesampson/scoop-extras/blob/master/write.json)
+  * [xmllint](https://github.com/lukesampson/scoop-extras/blob/master/xmllint.json)
+  * [zeal](https://github.com/lukesampson/scoop-extras/blob/master/zeal.json)
+
+
+
+[https://github.com/maman/scoop-bucket](https://github.com/maman/scoop-bucket)
+  * [android-platform-tools](https://github.com/maman/scoop-bucket/blob/master/android-platform-tools.json)
+  * [android-sdk](https://github.com/maman/scoop-bucket/blob/master/android-sdk.json)
+  * [heroku-toolbelt](https://github.com/maman/scoop-bucket/blob/master/heroku-toolbelt.json)
+  * [otto](https://github.com/maman/scoop-bucket/blob/master/otto.json)
+  * [phantomjs19](https://github.com/maman/scoop-bucket/blob/master/phantomjs19.json)
+  * [screenfetch](https://github.com/maman/scoop-bucket/blob/master/screenfetch.json)
+  * [vim-nox](https://github.com/maman/scoop-bucket/blob/master/vim-nox.json)
+
+
+
+[https://github.com/jmcarbo/scoopbucket](https://github.com/jmcarbo/scoopbucket)
+  * [cmder](https://github.com/jmcarbo/scoopbucket/blob/master/cmder.json)
+  * [minioclient](https://github.com/jmcarbo/scoopbucket/blob/master/minioclient.json)
+  * [pt](https://github.com/jmcarbo/scoopbucket/blob/master/pt.json)
+  * [rclone](https://github.com/jmcarbo/scoopbucket/blob/master/rclone.json)
+  * [removedrive](https://github.com/jmcarbo/scoopbucket/blob/master/removedrive.json)
+  * [rufus](https://github.com/jmcarbo/scoopbucket/blob/master/rufus.json)
+
+
+
+[https://github.com/Aaike/scoop](https://github.com/Aaike/scoop)
+  * [github](https://github.com/Aaike/scoop/blob/master/github.json)
+
+
+
+[https://github.com/mikerockett/scoop](https://github.com/mikerockett/scoop)
+  * [hostess](https://github.com/mikerockett/scoop/blob/master/hostess.json)
+  * [hosts](https://github.com/mikerockett/scoop/blob/master/hosts.json)
+  * [sslscan](https://github.com/mikerockett/scoop/blob/master/sslscan.json)
+
+
+
+[https://github.com/nueko/php-ext-bucket](https://github.com/nueko/php-ext-bucket)
+  * [php71-amqp](https://github.com/nueko/php-ext-bucket/blob/master/php71-amqp.json)
+  * [php71-apcu](https://github.com/nueko/php-ext-bucket/blob/master/php71-apcu.json)
+  * [php71-apcu_bc](https://github.com/nueko/php-ext-bucket/blob/master/php71-apcu_bc.json)
+  * [php71-bitset](https://github.com/nueko/php-ext-bucket/blob/master/php71-bitset.json)
+  * [php71-couchbase](https://github.com/nueko/php-ext-bucket/blob/master/php71-couchbase.json)
+  * [php71-crypto](https://github.com/nueko/php-ext-bucket/blob/master/php71-crypto.json)
+  * [php71-dio](https://github.com/nueko/php-ext-bucket/blob/master/php71-dio.json)
+  * [php71-doublemetaphone](https://github.com/nueko/php-ext-bucket/blob/master/php71-doublemetaphone.json)
+  * [php71-ds](https://github.com/nueko/php-ext-bucket/blob/master/php71-ds.json)
+  * [php71-event](https://github.com/nueko/php-ext-bucket/blob/master/php71-event.json)
+  * [php71-fann](https://github.com/nueko/php-ext-bucket/blob/master/php71-fann.json)
+  * [php71-gender](https://github.com/nueko/php-ext-bucket/blob/master/php71-gender.json)
+  * [php71-geoip](https://github.com/nueko/php-ext-bucket/blob/master/php71-geoip.json)
+  * [php71-hprose](https://github.com/nueko/php-ext-bucket/blob/master/php71-hprose.json)
+  * [php71-igbinary](https://github.com/nueko/php-ext-bucket/blob/master/php71-igbinary.json)
+  * [php71-imagick](https://github.com/nueko/php-ext-bucket/blob/master/php71-imagick.json)
+  * [php71-libsodium](https://github.com/nueko/php-ext-bucket/blob/master/php71-libsodium.json)
+  * [php71-lua](https://github.com/nueko/php-ext-bucket/blob/master/php71-lua.json)
+  * [php71-lzf](https://github.com/nueko/php-ext-bucket/blob/master/php71-lzf.json)
+  * [php71-mailparse](https://github.com/nueko/php-ext-bucket/blob/master/php71-mailparse.json)
+  * [php71-mongodb](https://github.com/nueko/php-ext-bucket/blob/master/php71-mongodb.json)
+  * [php71-msgpack](https://github.com/nueko/php-ext-bucket/blob/master/php71-msgpack.json)
+  * [php71-oauth](https://github.com/nueko/php-ext-bucket/blob/master/php71-oauth.json)
+  * [php71-oci8](https://github.com/nueko/php-ext-bucket/blob/master/php71-oci8.json)
+  * [php71-pcs](https://github.com/nueko/php-ext-bucket/blob/master/php71-pcs.json)
+  * [php71-pdo_sqlsrv](https://github.com/nueko/php-ext-bucket/blob/master/php71-pdo_sqlsrv.json)
+  * [php71-phalcon](https://github.com/nueko/php-ext-bucket/blob/master/php71-phalcon.json)
+  * [php71-propro](https://github.com/nueko/php-ext-bucket/blob/master/php71-propro.json)
+  * [php71-rdkafka](https://github.com/nueko/php-ext-bucket/blob/master/php71-rdkafka.json)
+  * [php71-redis](https://github.com/nueko/php-ext-bucket/blob/master/php71-redis.json)
+  * [php71-rrd](https://github.com/nueko/php-ext-bucket/blob/master/php71-rrd.json)
+  * [php71-scrypt](https://github.com/nueko/php-ext-bucket/blob/master/php71-scrypt.json)
+  * [php71-seaslog](https://github.com/nueko/php-ext-bucket/blob/master/php71-seaslog.json)
+  * [php71-solr](https://github.com/nueko/php-ext-bucket/blob/master/php71-solr.json)
+  * [php71-sqlsrv](https://github.com/nueko/php-ext-bucket/blob/master/php71-sqlsrv.json)
+  * [php71-ssh2](https://github.com/nueko/php-ext-bucket/blob/master/php71-ssh2.json)
+  * [php71-stem](https://github.com/nueko/php-ext-bucket/blob/master/php71-stem.json)
+  * [php71-stomp](https://github.com/nueko/php-ext-bucket/blob/master/php71-stomp.json)
+  * [php71-taint](https://github.com/nueko/php-ext-bucket/blob/master/php71-taint.json)
+  * [php71-timezonedb](https://github.com/nueko/php-ext-bucket/blob/master/php71-timezonedb.json)
+  * [php71-trader](https://github.com/nueko/php-ext-bucket/blob/master/php71-trader.json)
+  * [php71-translit](https://github.com/nueko/php-ext-bucket/blob/master/php71-translit.json)
+  * [php71-ui](https://github.com/nueko/php-ext-bucket/blob/master/php71-ui.json)
+  * [php71-varnish](https://github.com/nueko/php-ext-bucket/blob/master/php71-varnish.json)
+  * [php71-vld](https://github.com/nueko/php-ext-bucket/blob/master/php71-vld.json)
+  * [php71-weakref](https://github.com/nueko/php-ext-bucket/blob/master/php71-weakref.json)
+  * [php71-win32service](https://github.com/nueko/php-ext-bucket/blob/master/php71-win32service.json)
+  * [php71-xdiff](https://github.com/nueko/php-ext-bucket/blob/master/php71-xdiff.json)
+  * [php71-xmldiff](https://github.com/nueko/php-ext-bucket/blob/master/php71-xmldiff.json)
+  * [php71-xxtea](https://github.com/nueko/php-ext-bucket/blob/master/php71-xxtea.json)
+  * [php71-yac](https://github.com/nueko/php-ext-bucket/blob/master/php71-yac.json)
+  * [php71-yar](https://github.com/nueko/php-ext-bucket/blob/master/php71-yar.json)
+  * [php71-zip](https://github.com/nueko/php-ext-bucket/blob/master/php71-zip.json)
+  * [php71-zmq](https://github.com/nueko/php-ext-bucket/blob/master/php71-zmq.json)
+
+
+
+[https://github.com/kodybrown/scoop-nirsoft](https://github.com/kodybrown/scoop-nirsoft)
+  * [deviceioview](https://github.com/kodybrown/scoop-nirsoft/blob/master/deviceioview.json)
+  * [dllexportviewer](https://github.com/kodybrown/scoop-nirsoft/blob/master/dllexportviewer.json)
+  * [dotnetresourcesextract](https://github.com/kodybrown/scoop-nirsoft/blob/master/dotnetresourcesextract.json)
+  * [filetypesman](https://github.com/kodybrown/scoop-nirsoft/blob/master/filetypesman.json)
+  * [gacview](https://github.com/kodybrown/scoop-nirsoft/blob/master/gacview.json)
+  * [gdiview](https://github.com/kodybrown/scoop-nirsoft/blob/master/gdiview.json)
+  * [heapmemview](https://github.com/kodybrown/scoop-nirsoft/blob/master/heapmemview.json)
+  * [regdllview](https://github.com/kodybrown/scoop-nirsoft/blob/master/regdllview.json)
+  * [regfromapp](https://github.com/kodybrown/scoop-nirsoft/blob/master/regfromapp.json)
+  * [regscanner](https://github.com/kodybrown/scoop-nirsoft/blob/master/regscanner.json)
+  * [resourcesextract](https://github.com/kodybrown/scoop-nirsoft/blob/master/resourcesextract.json)
+  * [shellexview](https://github.com/kodybrown/scoop-nirsoft/blob/master/shellexview.json)
+  * [shellmenuview](https://github.com/kodybrown/scoop-nirsoft/blob/master/shellmenuview.json)
+  * [simpledebugger](https://github.com/kodybrown/scoop-nirsoft/blob/master/simpledebugger.json)
+  * [socketsniff](https://github.com/kodybrown/scoop-nirsoft/blob/master/socketsniff.json)
+  * [specialfoldersview](https://github.com/kodybrown/scoop-nirsoft/blob/master/specialfoldersview.json)
+  * [sysexporter](https://github.com/kodybrown/scoop-nirsoft/blob/master/sysexporter.json)
+
+
+
+[https://github.com/klaidliadon/scoop-buckets](https://github.com/klaidliadon/scoop-buckets)
+  * [glide](https://github.com/klaidliadon/scoop-buckets/blob/master/glide.json)
+  * [rethinkdb](https://github.com/klaidliadon/scoop-buckets/blob/master/rethinkdb.json)
+
+
+
+[https://github.com/wangzq/scoop-bucket](https://github.com/wangzq/scoop-bucket)
+  * [AzureSDK28](https://github.com/wangzq/scoop-bucket/blob/master/AzureSDK28.json)
+  * [clojure](https://github.com/wangzq/scoop-bucket/blob/master/clojure.json)
+  * [DeltaCopy](https://github.com/wangzq/scoop-bucket/blob/master/DeltaCopy.json)
+  * [dnspy](https://github.com/wangzq/scoop-bucket/blob/master/dnspy.json)
+  * [everything](https://github.com/wangzq/scoop-bucket/blob/master/everything.json)
+  * [freemind](https://github.com/wangzq/scoop-bucket/blob/master/freemind.json)
+  * [fsharp4](https://github.com/wangzq/scoop-bucket/blob/master/fsharp4.json)
+  * [geckodriver](https://github.com/wangzq/scoop-bucket/blob/master/geckodriver.json)
+  * [gitext](https://github.com/wangzq/scoop-bucket/blob/master/gitext.json)
+  * [GreenShot](https://github.com/wangzq/scoop-bucket/blob/master/GreenShot.json)
+  * [http.sys-manager](https://github.com/wangzq/scoop-bucket/blob/master/http.sys-manager.json)
+  * [iedriver](https://github.com/wangzq/scoop-bucket/blob/master/iedriver.json)
+  * [java](https://github.com/wangzq/scoop-bucket/blob/master/java.json)
+  * [myfirefox](https://github.com/wangzq/scoop-bucket/blob/master/myfirefox.json)
+  * [myprocesshacker](https://github.com/wangzq/scoop-bucket/blob/master/myprocesshacker.json)
+  * [MySysInternals](https://github.com/wangzq/scoop-bucket/blob/master/MySysInternals.json)
+  * [OwinHost](https://github.com/wangzq/scoop-bucket/blob/master/OwinHost.json)
+  * [plantuml](https://github.com/wangzq/scoop-bucket/blob/master/plantuml.json)
+  * [psgitext](https://github.com/wangzq/scoop-bucket/blob/master/psgitext.json)
+  * [restart-chrome](https://github.com/wangzq/scoop-bucket/blob/master/restart-chrome.json)
+  * [ScreenToGif](https://github.com/wangzq/scoop-bucket/blob/master/ScreenToGif.json)
+  * [selenium-dotnet](https://github.com/wangzq/scoop-bucket/blob/master/selenium-dotnet.json)
+  * [siggen](https://github.com/wangzq/scoop-bucket/blob/master/siggen.json)
+  * [sqliteadmin](https://github.com/wangzq/scoop-bucket/blob/master/sqliteadmin.json)
+  * [sqliteman](https://github.com/wangzq/scoop-bucket/blob/master/sqliteman.json)
+  * [vcredist2010](https://github.com/wangzq/scoop-bucket/blob/master/vcredist2010.json)
+  * [vcredist2015](https://github.com/wangzq/scoop-bucket/blob/master/vcredist2015.json)
+  * [vim8](https://github.com/wangzq/scoop-bucket/blob/master/vim8.json)
+  * [winrm-https](https://github.com/wangzq/scoop-bucket/blob/master/winrm-https.json)
+  * [winscp](https://github.com/wangzq/scoop-bucket/blob/master/winscp.json)
+
+
+
+[https://github.com/stlhrt/steel-buckets](https://github.com/stlhrt/steel-buckets)
+  * [git-ssh](https://github.com/stlhrt/steel-buckets/blob/master/git-ssh.json)
+
+
+
+[https://github.com/toburger/scoop-buckets](https://github.com/toburger/scoop-buckets)
+  * [dotnet](https://github.com/toburger/scoop-buckets/blob/master/dotnet.json)
+  * [psreadline](https://github.com/toburger/scoop-buckets/blob/master/psreadline.json)
+
+
+
+[https://github.com/FoxBuru/scoop-buckets](https://github.com/FoxBuru/scoop-buckets)
+
+
+
+[https://github.com/pcrama/scoop-buckets](https://github.com/pcrama/scoop-buckets)
+  * [autoit](https://github.com/pcrama/scoop-buckets/blob/master/autoit.json)
+  * [dngrep](https://github.com/pcrama/scoop-buckets/blob/master/dngrep.json)
+  * [dview](https://github.com/pcrama/scoop-buckets/blob/master/dview.json)
+  * [ezwinports](https://github.com/pcrama/scoop-buckets/blob/master/ezwinports.json)
+  * [FindAndRunRobotPortable](https://github.com/pcrama/scoop-buckets/blob/master/FindAndRunRobotPortable.json)
+  * [flux](https://github.com/pcrama/scoop-buckets/blob/master/flux.json)
+  * [FSViewer](https://github.com/pcrama/scoop-buckets/blob/master/FSViewer.json)
+  * [multicommander](https://github.com/pcrama/scoop-buckets/blob/master/multicommander.json)
+  * [sift](https://github.com/pcrama/scoop-buckets/blob/master/sift.json)
+  * [stduviewer](https://github.com/pcrama/scoop-buckets/blob/master/stduviewer.json)
+  * [SumatraPDF](https://github.com/pcrama/scoop-buckets/blob/master/SumatraPDF.json)
+  * [unison](https://github.com/pcrama/scoop-buckets/blob/master/unison.json)
+  * [wdscli](https://github.com/pcrama/scoop-buckets/blob/master/wdscli.json)
+  * [workrave](https://github.com/pcrama/scoop-buckets/blob/master/workrave.json)
+
+
+
+[https://github.com/twxs/scoop-buckets](https://github.com/twxs/scoop-buckets)
+  * [apache](https://github.com/twxs/scoop-buckets/blob/master/apache.json)
+
+
+
+[https://github.com/h404bi/dorado](https://github.com/h404bi/dorado)
+  * [anaconda2](https://github.com/h404bi/dorado/blob/master/anaconda2.json)
+  * [intellij-idea-ce](https://github.com/h404bi/dorado/blob/master/intellij-idea-ce.json)
+  * [nvm-windows](https://github.com/h404bi/dorado/blob/master/nvm-windows.json)
+  * [tcping](https://github.com/h404bi/dorado/blob/master/tcping.json)
+  * [trash](https://github.com/h404bi/dorado/blob/master/trash.json)
+
+
+
+[https://github.com/nueko/snub](https://github.com/nueko/snub)
+
+
+
+[https://github.com/simonwjackson/my-bucket](https://github.com/simonwjackson/my-bucket)
+  * [display-fusion](https://github.com/simonwjackson/my-bucket/blob/master/display-fusion.json)
+  * [figma](https://github.com/simonwjackson/my-bucket/blob/master/figma.json)
+  * [hyper](https://github.com/simonwjackson/my-bucket/blob/master/hyper.json)
+  * [image-usb](https://github.com/simonwjackson/my-bucket/blob/master/image-usb.json)
+  * [iris](https://github.com/simonwjackson/my-bucket/blob/master/iris.json)
+  * [mountain-duck](https://github.com/simonwjackson/my-bucket/blob/master/mountain-duck.json)
+  * [sharpkeys](https://github.com/simonwjackson/my-bucket/blob/master/sharpkeys.json)
+  * [simplenote](https://github.com/simonwjackson/my-bucket/blob/master/simplenote.json)
+  * [space-radar](https://github.com/simonwjackson/my-bucket/blob/master/space-radar.json)
+  * [vivaldi](https://github.com/simonwjackson/my-bucket/blob/master/vivaldi.json)
+
+
+
+[https://github.com/idursun/my-bucket](https://github.com/idursun/my-bucket)
+  * [vimrc](https://github.com/idursun/my-bucket/blob/master/vimrc.json)
+
+
+
+[https://github.com/wrokred/phpdev-scoop-bucket](https://github.com/wrokred/phpdev-scoop-bucket)
+  * [behat](https://github.com/wrokred/phpdev-scoop-bucket/blob/master/behat.json)
+  * [composer](https://github.com/wrokred/phpdev-scoop-bucket/blob/master/composer.json)
+  * [drupal-console](https://github.com/wrokred/phpdev-scoop-bucket/blob/master/drupal-console.json)
+  * [laravel](https://github.com/wrokred/phpdev-scoop-bucket/blob/master/laravel.json)
+  * [wp-cli](https://github.com/wrokred/phpdev-scoop-bucket/blob/master/wp-cli.json)
+
+
+
+[https://github.com/Sandex/scoop-supernova](https://github.com/Sandex/scoop-supernova)
+  * [apache-mod-fcgi](https://github.com/Sandex/scoop-supernova/blob/master/apache-mod-fcgi.json)
+  * [apache-vc14](https://github.com/Sandex/scoop-supernova/blob/master/apache-vc14.json)
+  * [ms-vc14](https://github.com/Sandex/scoop-supernova/blob/master/ms-vc14.json)
+  * [php7](https://github.com/Sandex/scoop-supernova/blob/master/php7.json)
+  * [phpstorm](https://github.com/Sandex/scoop-supernova/blob/master/phpstorm.json)
+  * [winscp](https://github.com/Sandex/scoop-supernova/blob/master/winscp.json)
+
+
+
+[https://github.com/Congee/barrel](https://github.com/Congee/barrel)
+  * [BaiduPCS](https://github.com/Congee/barrel/blob/master/BaiduPCS.json)
+  * [Everything](https://github.com/Congee/barrel/blob/master/Everything.json)
+  * [JabRef](https://github.com/Congee/barrel/blob/master/JabRef.json)
+  * [javarepl](https://github.com/Congee/barrel/blob/master/javarepl.json)
+  * [KindleMate](https://github.com/Congee/barrel/blob/master/KindleMate.json)
+  * [mpv](https://github.com/Congee/barrel/blob/master/mpv.json)
+  * [OllyDbg](https://github.com/Congee/barrel/blob/master/OllyDbg.json)
+  * [pasteboard](https://github.com/Congee/barrel/blob/master/pasteboard.json)
+  * [PuTTYtray](https://github.com/Congee/barrel/blob/master/PuTTYtray.json)
+  * [snipaste](https://github.com/Congee/barrel/blob/master/snipaste.json)
+  * [texlive](https://github.com/Congee/barrel/blob/master/texlive.json)
+  * [unassoc](https://github.com/Congee/barrel/blob/master/unassoc.json)
+  * [Win32-OpenSSH-64bit](https://github.com/Congee/barrel/blob/master/Win32-OpenSSH-64bit.json)
+  * [x64dbg](https://github.com/Congee/barrel/blob/master/x64dbg.json)
+
+
+
+[https://github.com/gkantsidis/scoop-public-bucket](https://github.com/gkantsidis/scoop-public-bucket)
+
+
+
+[https://github.com/nikolasd/scoop-bucket](https://github.com/nikolasd/scoop-bucket)
+  * [git-bundle](https://github.com/nikolasd/scoop-bucket/blob/master/git-bundle.json)
+
+
+
+[https://github.com/noquierouser/nqu-scoop](https://github.com/noquierouser/nqu-scoop)
+  * [php55](https://github.com/noquierouser/nqu-scoop/blob/master/php55.json)
+  * [putty](https://github.com/noquierouser/nqu-scoop/blob/master/putty.json)
+  * [trid](https://github.com/noquierouser/nqu-scoop/blob/master/trid.json)
+
+
+
+[https://github.com/mattkang/scoop-bucket](https://github.com/mattkang/scoop-bucket)
+  * [atom64](https://github.com/mattkang/scoop-bucket/blob/master/atom64.json)
+  * [meshlab](https://github.com/mattkang/scoop-bucket/blob/master/meshlab.json)
+
+
+
+[https://github.com/fredjoseph/scoop-bucket](https://github.com/fredjoseph/scoop-bucket)
+  * [my-keepass](https://github.com/fredjoseph/scoop-bucket/blob/master/my-keepass.json)
+  * [PenguinSubtitlePlayer](https://github.com/fredjoseph/scoop-bucket/blob/master/PenguinSubtitlePlayer.json)
+  * [SocketSniffer](https://github.com/fredjoseph/scoop-bucket/blob/master/SocketSniffer.json)
+  * [WMIExplorer](https://github.com/fredjoseph/scoop-bucket/blob/master/WMIExplorer.json)
+
+
+
+[https://github.com/rivy/scoop.bucket-scoop.main](https://github.com/rivy/scoop.bucket-scoop.main)
+  * [7zip](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/7zip.json)
+  * [ack](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ack.json)
+  * [acmesharp](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/acmesharp.json)
+  * [adb](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/adb.json)
+  * [ag](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ag.json)
+  * [allure](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/allure.json)
+  * [ant](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ant.json)
+  * [apache](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/apache.json)
+  * [apex](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/apex.json)
+  * [apngasm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/apngasm.json)
+  * [aria2](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/aria2.json)
+  * [autoit](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/autoit.json)
+  * [axel](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/axel.json)
+  * [bfg](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/bfg.json)
+  * [bochs](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/bochs.json)
+  * [busybox](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/busybox.json)
+  * [bzip2](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/bzip2.json)
+  * [cacert](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cacert.json)
+  * [caddy](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/caddy.json)
+  * [casperjs](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/casperjs.json)
+  * [cdrtools](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cdrtools.json)
+  * [chromedriver](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/chromedriver.json)
+  * [clink](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/clink.json)
+  * [cmake](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cmake.json)
+  * [cmder](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cmder.json)
+  * [composer](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/composer.json)
+  * [concfg](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/concfg.json)
+  * [coreutils](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/coreutils.json)
+  * [cowsay](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cowsay.json)
+  * [csvtosql](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/csvtosql.json)
+  * [ctags](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ctags.json)
+  * [curl](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/curl.json)
+  * [cygwin](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cygwin.json)
+  * [dart-sass](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dart-sass.json)
+  * [dart](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dart.json)
+  * [dd](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dd.json)
+  * [devd](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/devd.json)
+  * [diffutils](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/diffutils.json)
+  * [dig](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dig.json)
+  * [dnvm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dnvm.json)
+  * [docker-compose](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker-compose.json)
+  * [docker-machine](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker-machine.json)
+  * [docker](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker.json)
+  * [dosbox](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dosbox.json)
+  * [dotnet](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dotnet.json)
+  * [doxygen](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/doxygen.json)
+  * [draft](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/draft.json)
+  * [editorconfig](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/editorconfig.json)
+  * [elixir](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/elixir.json)
+  * [erlang](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/erlang.json)
+  * [eventstore](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/eventstore.json)
+  * [exiftool](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/exiftool.json)
+  * [far](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/far.json)
+  * [ffmpeg-SP3-1](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ffmpeg-SP3-1.json)
+  * [ffmpeg](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ffmpeg.json)
+  * [figlet](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/figlet.json)
+  * [file](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/file.json)
+  * [findutils](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/findutils.json)
+  * [flatc](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/flatc.json)
+  * [flow](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/flow.json)
+  * [forge](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/forge.json)
+  * [fossil](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/fossil.json)
+  * [fzf](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/fzf.json)
+  * [gawk](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gawk.json)
+  * [gcc](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gcc.json)
+  * [gdb](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gdb.json)
+  * [ghostscript](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ghostscript.json)
+  * [gibo](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gibo.json)
+  * [git-lfs](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git-lfs.json)
+  * [git-town](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git-town.json)
+  * [git-up](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git-up.json)
+  * [git-with-openssh](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git-with-openssh.json)
+  * [git](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git.json)
+  * [git19](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/git19.json)
+  * [gitignore](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gitignore.json)
+  * [glide](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/glide.json)
+  * [go](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/go.json)
+  * [gow](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gow.json)
+  * [gpg](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gpg.json)
+  * [gradle](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gradle.json)
+  * [grails](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/grails.json)
+  * [graphviz](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/graphviz.json)
+  * [grep](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/grep.json)
+  * [groovy](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/groovy.json)
+  * [gzip](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/gzip.json)
+  * [handbrake-cli](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/handbrake-cli.json)
+  * [hashcat](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/hashcat.json)
+  * [haskell](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/haskell.json)
+  * [haxe](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/haxe.json)
+  * [helm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/helm.json)
+  * [highlight](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/highlight.json)
+  * [hub](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/hub.json)
+  * [hugo](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/hugo.json)
+  * [iconv](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/iconv.json)
+  * [imagemagick](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/imagemagick.json)
+  * [innounp](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/innounp.json)
+  * [invoke-build](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/invoke-build.json)
+  * [jetbrains-toolbox](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/jetbrains-toolbox.json)
+  * [jq](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/jq.json)
+  * [julia](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/julia.json)
+  * [kotlin](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/kotlin.json)
+  * [kubectl](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/kubectl.json)
+  * [kvm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/kvm.json)
+  * [latex](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/latex.json)
+  * [leiningen](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/leiningen.json)
+  * [less](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/less.json)
+  * [lessmsi](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lessmsi.json)
+  * [lilypond](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lilypond.json)
+  * [llvm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/llvm.json)
+  * [ln](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ln.json)
+  * [lua](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lua.json)
+  * [lynx](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lynx.json)
+  * [mailsend](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mailsend.json)
+  * [make](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/make.json)
+  * [mariadb](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mariadb.json)
+  * [maven](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/maven.json)
+  * [mediainfo](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mediainfo.json)
+  * [mercurial](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mercurial.json)
+  * [metastore](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/metastore.json)
+  * [minikube](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/minikube.json)
+  * [minio-client](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/minio-client.json)
+  * [minio](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/minio.json)
+  * [minisign](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/minisign.json)
+  * [modd](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/modd.json)
+  * [mongodb](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mongodb.json)
+  * [mono](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mono.json)
+  * [mozjpeg](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mozjpeg.json)
+  * [msys](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/msys.json)
+  * [msys2](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/msys2.json)
+  * [mysql-workbench](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mysql-workbench.json)
+  * [mysql](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/mysql.json)
+  * [nano](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nano.json)
+  * [nasm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nasm.json)
+  * [neko](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/neko.json)
+  * [netcat](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/netcat.json)
+  * [nginx](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nginx.json)
+  * [ngrok](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ngrok.json)
+  * [nikto](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nikto.json)
+  * [nim](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nim.json)
+  * [ninja](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ninja.json)
+  * [nircmd](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nircmd.json)
+  * [nmap](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nmap.json)
+  * [nodejs-lts](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nodejs-lts.json)
+  * [nodejs](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nodejs.json)
+  * [nssm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nssm.json)
+  * [nuget](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nuget.json)
+  * [nvm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nvm.json)
+  * [octave](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/octave.json)
+  * [openjdk](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openjdk.json)
+  * [openssh](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openssh.json)
+  * [openssl](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openssl.json)
+  * [optipng](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/optipng.json)
+  * [packer](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/packer.json)
+  * [patch](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/patch.json)
+  * [pciutils](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pciutils.json)
+  * [pcregrep](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pcregrep.json)
+  * [pdftk](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pdftk.json)
+  * [perl](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/perl.json)
+  * [pester](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pester.json)
+  * [phantomjs](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/phantomjs.json)
+  * [php-nts-SP3-1](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/php-nts-SP3-1.json)
+  * [php-nts](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/php-nts.json)
+  * [php-SP3-1](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/php-SP3-1.json)
+  * [php](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/php.json)
+  * [pkg-config](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pkg-config.json)
+  * [pngcrush](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pngcrush.json)
+  * [poppler](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/poppler.json)
+  * [postgresql](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/postgresql.json)
+  * [premake4](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/premake4.json)
+  * [premake5](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/premake5.json)
+  * [psake](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/psake.json)
+  * [psgithub](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/psgithub.json)
+  * [pshazz](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pshazz.json)
+  * [pt](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pt.json)
+  * [puppet](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/puppet.json)
+  * [python-exp](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/python-exp.json)
+  * [python](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/python.json)
+  * [qemu](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/qemu.json)
+  * [r](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/r.json)
+  * [racket](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/racket.json)
+  * [radare2](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/radare2.json)
+  * [rancher-compose](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rancher-compose.json)
+  * [redis](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/redis.json)
+  * [resharper-clt](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/resharper-clt.json)
+  * [rethinkdb](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rethinkdb.json)
+  * [rg](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rg.json)
+  * [rktools2k3](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rktools2k3.json)
+  * [rsync](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rsync.json)
+  * [ruby](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ruby.json)
+  * [ruby19](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ruby19.json)
+  * [runat](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/runat.json)
+  * [rust-msvc](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rust-msvc.json)
+  * [rust](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/rust.json)
+  * [say](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/say.json)
+  * [sbcl](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sbcl.json)
+  * [sbt](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sbt.json)
+  * [scala](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/scala.json)
+  * [scholdoc](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/scholdoc.json)
+  * [scriptcs](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/scriptcs.json)
+  * [sed](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sed.json)
+  * [shasum](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/shasum.json)
+  * [sliksvn](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sliksvn.json)
+  * [smartmontools](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/smartmontools.json)
+  * [sonarqube](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sonarqube.json)
+  * [sqlite](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sqlite.json)
+  * [srvman](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/srvman.json)
+  * [ssh-copy-id](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ssh-copy-id.json)
+  * [sslscan](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sslscan.json)
+  * [stack](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/stack.json)
+  * [sudo](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/sudo.json)
+  * [syncany-cli](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/syncany-cli.json)
+  * [syncthing](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/syncthing.json)
+  * [tar](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/tar.json)
+  * [telnet](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/telnet.json)
+  * [terraform](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/terraform.json)
+  * [tesseract](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/tesseract.json)
+  * [thrift](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/thrift.json)
+  * [tidy](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/tidy.json)
+  * [time](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/time.json)
+  * [touch](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/touch.json)
+  * [transmission-cli](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/transmission-cli.json)
+  * [unar](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/unar.json)
+  * [unbound](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/unbound.json)
+  * [unrar](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/unrar.json)
+  * [unzip](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/unzip.json)
+  * [upx](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/upx.json)
+  * [vagrant](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/vagrant.json)
+  * [vault](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/vault.json)
+  * [vim](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/vim.json)
+  * [vimtutor](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/vimtutor.json)
+  * [webp](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/webp.json)
+  * [wget](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/wget.json)
+  * [which](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/which.json)
+  * [wkhtmltopdf](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/wkhtmltopdf.json)
+  * [x264-10bit](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/x264-10bit.json)
+  * [x264](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/x264.json)
+  * [xming](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xming.json)
+  * [xmlstarlet](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xmlstarlet.json)
+  * [xsv](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xsv.json)
+  * [xz](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xz.json)
+  * [yarn](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/yarn.json)
+  * [youtube-dl](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/youtube-dl.json)
+  * [zip](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/zip.json)
+
+
+
+[https://github.com/deevus/scoop-games](https://github.com/deevus/scoop-games)
+  * [dwarf-fortress](https://github.com/deevus/scoop-games/blob/master/dwarf-fortress.json)
+  * [pixel-dungeon](https://github.com/deevus/scoop-games/blob/master/pixel-dungeon.json)
+
+
+
+[https://github.com/ghchinoy/scoop-ce](https://github.com/ghchinoy/scoop-ce)
+  * [cectl](https://github.com/ghchinoy/scoop-ce/blob/master/cectl.json)
+
+
+
+[https://github.com/fadhlika/scoop-bucket](https://github.com/fadhlika/scoop-bucket)
+  * [avr8-gnu-toolchain](https://github.com/fadhlika/scoop-bucket/blob/master/avr8-gnu-toolchain.json)
+  * [avrdude](https://github.com/fadhlika/scoop-bucket/blob/master/avrdude.json)
+
+
+
+[https://github.com/se35710/scoop-ibm](https://github.com/se35710/scoop-ibm)
+  * [bluemix-cli](https://github.com/se35710/scoop-ibm/blob/master/bluemix-cli.json)
+  * [eclipse-mfs](https://github.com/se35710/scoop-ibm/blob/master/eclipse-mfs.json)
+  * [eclipse-wdt](https://github.com/se35710/scoop-ibm/blob/master/eclipse-wdt.json)
+  * [mfp-cli63](https://github.com/se35710/scoop-ibm/blob/master/mfp-cli63.json)
+  * [mfp-cli70](https://github.com/se35710/scoop-ibm/blob/master/mfp-cli70.json)
+  * [mfp-cli71](https://github.com/se35710/scoop-ibm/blob/master/mfp-cli71.json)
+  * [mfp-devkit](https://github.com/se35710/scoop-ibm/blob/master/mfp-devkit.json)
+  * [nodejs-ibm](https://github.com/se35710/scoop-ibm/blob/master/nodejs-ibm.json)
+  * [wlp-javaee](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaee.json)
+  * [wlp-javaeeclient](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaeeclient.json)
+  * [wlp-kernel](https://github.com/se35710/scoop-ibm/blob/master/wlp-kernel.json)
+  * [wlp-micro](https://github.com/se35710/scoop-ibm/blob/master/wlp-micro.json)
+  * [wlp-osgi](https://github.com/se35710/scoop-ibm/blob/master/wlp-osgi.json)
+  * [wlp](https://github.com/se35710/scoop-ibm/blob/master/wlp.json)
+
+
+
+[https://github.com/ErnWong/scoop-bucket](https://github.com/ErnWong/scoop-bucket)
+  * [clib](https://github.com/ErnWong/scoop-bucket/blob/master/clib.json)
+  * [llvm](https://github.com/ErnWong/scoop-bucket/blob/master/llvm.json)
+  * [vim-ernwong](https://github.com/ErnWong/scoop-bucket/blob/master/vim-ernwong.json)
+
+
+
+[https://github.com/ghchinoy/scoop-roguewave](https://github.com/ghchinoy/scoop-roguewave)
+  * [rwctl](https://github.com/ghchinoy/scoop-roguewave/blob/master/rwctl.json)
+
+
+
+[https://github.com/cprecioso/scoop-lektor](https://github.com/cprecioso/scoop-lektor)
+  * [lektor](https://github.com/cprecioso/scoop-lektor/blob/master/lektor.json)
+
+
+
+[https://github.com/anurse/scoop-bucket](https://github.com/anurse/scoop-bucket)
+  * [cbwin](https://github.com/anurse/scoop-bucket/blob/master/cbwin.json)
+  * [gnumake](https://github.com/anurse/scoop-bucket/blob/master/gnumake.json)
+  * [ilspy](https://github.com/anurse/scoop-bucket/blob/master/ilspy.json)
+  * [protoc](https://github.com/anurse/scoop-bucket/blob/master/protoc.json)
+  * [python2](https://github.com/anurse/scoop-bucket/blob/master/python2.json)
+  * [win-openssh](https://github.com/anurse/scoop-bucket/blob/master/win-openssh.json)
+
+
+
+[https://github.com/masaeedu/scoop-growlnotify](https://github.com/masaeedu/scoop-growlnotify)
+  * [growlnotify](https://github.com/masaeedu/scoop-growlnotify/blob/master/growlnotify.json)
+
+
+
+[https://github.com/jlabedo/scoop-bucket](https://github.com/jlabedo/scoop-bucket)
+
+
+
+[https://github.com/bitrvmpd/scoop-wuff](https://github.com/bitrvmpd/scoop-wuff)
+  * [mariadb](https://github.com/bitrvmpd/scoop-wuff/blob/master/mariadb.json)
+
+
+
+[https://github.com/tditlu/scoop-amiga](https://github.com/tditlu/scoop-amiga)
+  * [vasm](https://github.com/tditlu/scoop-amiga/blob/master/vasm.json)
+  * [vbcc](https://github.com/tditlu/scoop-amiga/blob/master/vbcc.json)
+  * [vlink](https://github.com/tditlu/scoop-amiga/blob/master/vlink.json)
+
+
+
+[https://github.com/pastleo/scoop-bucket](https://github.com/pastleo/scoop-bucket)
+  * [addShortCut](https://github.com/pastleo/scoop-bucket/blob/master/addShortCut.json)
+  * [mBash](https://github.com/pastleo/scoop-bucket/blob/master/mBash.json)
+
+
+
+[https://github.com/Alxandr/scoop-bucket](https://github.com/Alxandr/scoop-bucket)
+  * [cmder](https://github.com/Alxandr/scoop-bucket/blob/master/cmder.json)
+  * [pandoc](https://github.com/Alxandr/scoop-bucket/blob/master/pandoc.json)
+
+
+
+[https://github.com/demas/demas-scoop](https://github.com/demas/demas-scoop)
+  * [consul](https://github.com/demas/demas-scoop/blob/master/consul.json)
+  * [hello](https://github.com/demas/demas-scoop/blob/master/hello.json)
+  * [tomcat](https://github.com/demas/demas-scoop/blob/master/tomcat.json)
+  * [total-commander](https://github.com/demas/demas-scoop/blob/master/total-commander.json)
+  * [web-storm](https://github.com/demas/demas-scoop/blob/master/web-storm.json)
+
+
+
+[https://github.com/gx/scoop-misc](https://github.com/gx/scoop-misc)
+  * [global](https://github.com/gx/scoop-misc/blob/master/global.json)
+  * [jom](https://github.com/gx/scoop-misc/blob/master/jom.json)
+
+
+
+[https://github.com/mrkishi/scoop-me](https://github.com/mrkishi/scoop-me)
+
+
+
+[https://github.com/rcqls/scoop-extras](https://github.com/rcqls/scoop-extras)
+  * [miktex](https://github.com/rcqls/scoop-extras/blob/master/miktex.json)
+  * [pandoc](https://github.com/rcqls/scoop-extras/blob/master/pandoc.json)
+  * [red-latest](https://github.com/rcqls/scoop-extras/blob/master/red-latest.json)
+  * [red](https://github.com/rcqls/scoop-extras/blob/master/red.json)
+
+
+
+[https://github.com/narnaud/scoop-bucket](https://github.com/narnaud/scoop-bucket)
+  * [cloc](https://github.com/narnaud/scoop-bucket/blob/master/cloc.json)
+  * [flex-bison](https://github.com/narnaud/scoop-bucket/blob/master/flex-bison.json)
+  * [hub](https://github.com/narnaud/scoop-bucket/blob/master/hub.json)
+  * [jhead](https://github.com/narnaud/scoop-bucket/blob/master/jhead.json)
+  * [jom](https://github.com/narnaud/scoop-bucket/blob/master/jom.json)
+
+
+
+[https://github.com/galbro/my-bucket](https://github.com/galbro/my-bucket)
+  * [hello](https://github.com/galbro/my-bucket/blob/master/hello.json)
+
+
+
+[https://github.com/DimiG/dgBucket](https://github.com/DimiG/dgBucket)
+  * [FFmbc](https://github.com/DimiG/dgBucket/blob/master/FFmbc.json)
+  * [PassGEN](https://github.com/DimiG/dgBucket/blob/master/PassGEN.json)
+  * [ProResCreator](https://github.com/DimiG/dgBucket/blob/master/ProResCreator.json)
+  * [ProResMaker](https://github.com/DimiG/dgBucket/blob/master/ProResMaker.json)
+  * [PSWinUpdate](https://github.com/DimiG/dgBucket/blob/master/PSWinUpdate.json)
+  * [RoboSync](https://github.com/DimiG/dgBucket/blob/master/RoboSync.json)
+
+
+
+[https://github.com/tunoas/my_scoop_bucket](https://github.com/tunoas/my_scoop_bucket)
+
+
+
+[https://github.com/masonm12/scoop-personal](https://github.com/masonm12/scoop-personal)
+  * [consolez](https://github.com/masonm12/scoop-personal/blob/master/consolez.json)
+  * [poshvs](https://github.com/masonm12/scoop-personal/blob/master/poshvs.json)
+  * [rapidee](https://github.com/masonm12/scoop-personal/blob/master/rapidee.json)
+  * [savepics](https://github.com/masonm12/scoop-personal/blob/master/savepics.json)
+
+
+
+[https://github.com/ondr3j/scoop-misc](https://github.com/ondr3j/scoop-misc)
+  * [acpica](https://github.com/ondr3j/scoop-misc/blob/master/acpica.json)
+  * [bison](https://github.com/ondr3j/scoop-misc/blob/master/bison.json)
+  * [c-client](https://github.com/ondr3j/scoop-misc/blob/master/c-client.json)
+  * [coffimplib](https://github.com/ondr3j/scoop-misc/blob/master/coffimplib.json)
+  * [curl](https://github.com/ondr3j/scoop-misc/blob/master/curl.json)
+  * [dirent](https://github.com/ondr3j/scoop-misc/blob/master/dirent.json)
+  * [dmd](https://github.com/ondr3j/scoop-misc/blob/master/dmd.json)
+  * [dub](https://github.com/ondr3j/scoop-misc/blob/master/dub.json)
+  * [elevate](https://github.com/ondr3j/scoop-misc/blob/master/elevate.json)
+  * [fciv](https://github.com/ondr3j/scoop-misc/blob/master/fciv.json)
+  * [file](https://github.com/ondr3j/scoop-misc/blob/master/file.json)
+  * [flex](https://github.com/ondr3j/scoop-misc/blob/master/flex.json)
+  * [freetype](https://github.com/ondr3j/scoop-misc/blob/master/freetype.json)
+  * [glib](https://github.com/ondr3j/scoop-misc/blob/master/glib.json)
+  * [icu](https://github.com/ondr3j/scoop-misc/blob/master/icu.json)
+  * [ldc](https://github.com/ondr3j/scoop-misc/blob/master/ldc.json)
+  * [libargon2](https://github.com/ondr3j/scoop-misc/blob/master/libargon2.json)
+  * [libbzip2](https://github.com/ondr3j/scoop-misc/blob/master/libbzip2.json)
+  * [libffi](https://github.com/ondr3j/scoop-misc/blob/master/libffi.json)
+  * [libiconv](https://github.com/ondr3j/scoop-misc/blob/master/libiconv.json)
+  * [libintl](https://github.com/ondr3j/scoop-misc/blob/master/libintl.json)
+  * [libjpeg](https://github.com/ondr3j/scoop-misc/blob/master/libjpeg.json)
+  * [libmcrypt](https://github.com/ondr3j/scoop-misc/blob/master/libmcrypt.json)
+  * [libpng](https://github.com/ondr3j/scoop-misc/blob/master/libpng.json)
+  * [libsasl](https://github.com/ondr3j/scoop-misc/blob/master/libsasl.json)
+  * [libssh2](https://github.com/ondr3j/scoop-misc/blob/master/libssh2.json)
+  * [libxml2](https://github.com/ondr3j/scoop-misc/blob/master/libxml2.json)
+  * [libxpm](https://github.com/ondr3j/scoop-misc/blob/master/libxpm.json)
+  * [libxslt](https://github.com/ondr3j/scoop-misc/blob/master/libxslt.json)
+  * [lzo](https://github.com/ondr3j/scoop-misc/blob/master/lzo.json)
+  * [lzop](https://github.com/ondr3j/scoop-misc/blob/master/lzop.json)
+  * [openssl](https://github.com/ondr3j/scoop-misc/blob/master/openssl.json)
+  * [re2c](https://github.com/ondr3j/scoop-misc/blob/master/re2c.json)
+  * [rsvg-convert](https://github.com/ondr3j/scoop-misc/blob/master/rsvg-convert.json)
+  * [wineditline](https://github.com/ondr3j/scoop-misc/blob/master/wineditline.json)
+  * [xz](https://github.com/ondr3j/scoop-misc/blob/master/xz.json)
+  * [zip](https://github.com/ondr3j/scoop-misc/blob/master/zip.json)
+  * [zlib](https://github.com/ondr3j/scoop-misc/blob/master/zlib.json)
+
+
+
+[https://github.com/mmichaelis/scoop-bucket](https://github.com/mmichaelis/scoop-bucket)
+
+
+
+[https://github.com/Guard13007/ScoopBucket](https://github.com/Guard13007/ScoopBucket)
+  * [rosus](https://github.com/Guard13007/ScoopBucket/blob/master/rosus.json)
+
+
+
+[https://github.com/nueko/scoop-php](https://github.com/nueko/scoop-php)
+  * [php3.0.11](https://github.com/nueko/scoop-php/blob/master/php3.0.11.json)
+  * [php3.0.13](https://github.com/nueko/scoop-php/blob/master/php3.0.13.json)
+  * [php3.0.14](https://github.com/nueko/scoop-php/blob/master/php3.0.14.json)
+  * [php3.0.15](https://github.com/nueko/scoop-php/blob/master/php3.0.15.json)
+  * [php3.0.16](https://github.com/nueko/scoop-php/blob/master/php3.0.16.json)
+  * [php3.0.17](https://github.com/nueko/scoop-php/blob/master/php3.0.17.json)
+  * [php4.0.0](https://github.com/nueko/scoop-php/blob/master/php4.0.0.json)
+  * [php4.0.1](https://github.com/nueko/scoop-php/blob/master/php4.0.1.json)
+  * [php4.0.2](https://github.com/nueko/scoop-php/blob/master/php4.0.2.json)
+  * [php4.0.3](https://github.com/nueko/scoop-php/blob/master/php4.0.3.json)
+  * [php4.0.4](https://github.com/nueko/scoop-php/blob/master/php4.0.4.json)
+  * [php4.0.5](https://github.com/nueko/scoop-php/blob/master/php4.0.5.json)
+  * [php4.0.6](https://github.com/nueko/scoop-php/blob/master/php4.0.6.json)
+  * [php4.1.0](https://github.com/nueko/scoop-php/blob/master/php4.1.0.json)
+  * [php4.1.1](https://github.com/nueko/scoop-php/blob/master/php4.1.1.json)
+  * [php4.1.2](https://github.com/nueko/scoop-php/blob/master/php4.1.2.json)
+  * [php4.2.0](https://github.com/nueko/scoop-php/blob/master/php4.2.0.json)
+  * [php4.2.1](https://github.com/nueko/scoop-php/blob/master/php4.2.1.json)
+  * [php4.2.2](https://github.com/nueko/scoop-php/blob/master/php4.2.2.json)
+  * [php4.2.3](https://github.com/nueko/scoop-php/blob/master/php4.2.3.json)
+  * [php4.3.0](https://github.com/nueko/scoop-php/blob/master/php4.3.0.json)
+  * [php4.3.1](https://github.com/nueko/scoop-php/blob/master/php4.3.1.json)
+  * [php4.3.10](https://github.com/nueko/scoop-php/blob/master/php4.3.10.json)
+  * [php4.3.11](https://github.com/nueko/scoop-php/blob/master/php4.3.11.json)
+  * [php4.3.2](https://github.com/nueko/scoop-php/blob/master/php4.3.2.json)
+  * [php4.3.3](https://github.com/nueko/scoop-php/blob/master/php4.3.3.json)
+  * [php4.3.4](https://github.com/nueko/scoop-php/blob/master/php4.3.4.json)
+  * [php4.3.5](https://github.com/nueko/scoop-php/blob/master/php4.3.5.json)
+  * [php4.3.6](https://github.com/nueko/scoop-php/blob/master/php4.3.6.json)
+  * [php4.3.7](https://github.com/nueko/scoop-php/blob/master/php4.3.7.json)
+  * [php4.3.8](https://github.com/nueko/scoop-php/blob/master/php4.3.8.json)
+  * [php4.3.9](https://github.com/nueko/scoop-php/blob/master/php4.3.9.json)
+  * [php4.4.0](https://github.com/nueko/scoop-php/blob/master/php4.4.0.json)
+  * [php4.4.1](https://github.com/nueko/scoop-php/blob/master/php4.4.1.json)
+  * [php4.4.2](https://github.com/nueko/scoop-php/blob/master/php4.4.2.json)
+  * [php4.4.3](https://github.com/nueko/scoop-php/blob/master/php4.4.3.json)
+  * [php4.4.4](https://github.com/nueko/scoop-php/blob/master/php4.4.4.json)
+  * [php4.4.5](https://github.com/nueko/scoop-php/blob/master/php4.4.5.json)
+  * [php4.4.6](https://github.com/nueko/scoop-php/blob/master/php4.4.6.json)
+  * [php5.0.0](https://github.com/nueko/scoop-php/blob/master/php5.0.0.json)
+  * [php5.0.1](https://github.com/nueko/scoop-php/blob/master/php5.0.1.json)
+  * [php5.0.2](https://github.com/nueko/scoop-php/blob/master/php5.0.2.json)
+  * [php5.0.3](https://github.com/nueko/scoop-php/blob/master/php5.0.3.json)
+  * [php5.0.4](https://github.com/nueko/scoop-php/blob/master/php5.0.4.json)
+  * [php5.0.5](https://github.com/nueko/scoop-php/blob/master/php5.0.5.json)
+  * [php5.1.0](https://github.com/nueko/scoop-php/blob/master/php5.1.0.json)
+  * [php5.1.1](https://github.com/nueko/scoop-php/blob/master/php5.1.1.json)
+  * [php5.1.2](https://github.com/nueko/scoop-php/blob/master/php5.1.2.json)
+  * [php5.1.3](https://github.com/nueko/scoop-php/blob/master/php5.1.3.json)
+  * [php5.1.4](https://github.com/nueko/scoop-php/blob/master/php5.1.4.json)
+  * [php5.1.6](https://github.com/nueko/scoop-php/blob/master/php5.1.6.json)
+  * [php5.2-nts](https://github.com/nueko/scoop-php/blob/master/php5.2-nts.json)
+  * [php5.2.0](https://github.com/nueko/scoop-php/blob/master/php5.2.0.json)
+  * [php5.2.1-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.1-nts.json)
+  * [php5.2.1](https://github.com/nueko/scoop-php/blob/master/php5.2.1.json)
+  * [php5.2.10-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.10-nts.json)
+  * [php5.2.10](https://github.com/nueko/scoop-php/blob/master/php5.2.10.json)
+  * [php5.2.11-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.11-nts.json)
+  * [php5.2.11](https://github.com/nueko/scoop-php/blob/master/php5.2.11.json)
+  * [php5.2.12-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.12-nts.json)
+  * [php5.2.12](https://github.com/nueko/scoop-php/blob/master/php5.2.12.json)
+  * [php5.2.13-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.13-nts.json)
+  * [php5.2.13](https://github.com/nueko/scoop-php/blob/master/php5.2.13.json)
+  * [php5.2.14-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.14-nts.json)
+  * [php5.2.14](https://github.com/nueko/scoop-php/blob/master/php5.2.14.json)
+  * [php5.2.15-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.15-nts.json)
+  * [php5.2.15](https://github.com/nueko/scoop-php/blob/master/php5.2.15.json)
+  * [php5.2.16-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.16-nts.json)
+  * [php5.2.16](https://github.com/nueko/scoop-php/blob/master/php5.2.16.json)
+  * [php5.2.17-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.17-nts.json)
+  * [php5.2.17](https://github.com/nueko/scoop-php/blob/master/php5.2.17.json)
+  * [php5.2.2-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.2-nts.json)
+  * [php5.2.2](https://github.com/nueko/scoop-php/blob/master/php5.2.2.json)
+  * [php5.2.3-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.3-nts.json)
+  * [php5.2.3](https://github.com/nueko/scoop-php/blob/master/php5.2.3.json)
+  * [php5.2.4-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.4-nts.json)
+  * [php5.2.4](https://github.com/nueko/scoop-php/blob/master/php5.2.4.json)
+  * [php5.2.5-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.5-nts.json)
+  * [php5.2.5](https://github.com/nueko/scoop-php/blob/master/php5.2.5.json)
+  * [php5.2.6-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.6-nts.json)
+  * [php5.2.6](https://github.com/nueko/scoop-php/blob/master/php5.2.6.json)
+  * [php5.2.7-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.7-nts.json)
+  * [php5.2.7](https://github.com/nueko/scoop-php/blob/master/php5.2.7.json)
+  * [php5.2.8-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.8-nts.json)
+  * [php5.2.8](https://github.com/nueko/scoop-php/blob/master/php5.2.8.json)
+  * [php5.2.9-nts](https://github.com/nueko/scoop-php/blob/master/php5.2.9-nts.json)
+  * [php5.2.9](https://github.com/nueko/scoop-php/blob/master/php5.2.9.json)
+  * [php5.2](https://github.com/nueko/scoop-php/blob/master/php5.2.json)
+  * [php5.3-nts](https://github.com/nueko/scoop-php/blob/master/php5.3-nts.json)
+  * [php5.3.0-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.0-nts.json)
+  * [php5.3.0](https://github.com/nueko/scoop-php/blob/master/php5.3.0.json)
+  * [php5.3.1-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.1-nts.json)
+  * [php5.3.1](https://github.com/nueko/scoop-php/blob/master/php5.3.1.json)
+  * [php5.3.10-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.10-nts.json)
+  * [php5.3.10](https://github.com/nueko/scoop-php/blob/master/php5.3.10.json)
+  * [php5.3.11-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.11-nts.json)
+  * [php5.3.11](https://github.com/nueko/scoop-php/blob/master/php5.3.11.json)
+  * [php5.3.12-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.12-nts.json)
+  * [php5.3.12](https://github.com/nueko/scoop-php/blob/master/php5.3.12.json)
+  * [php5.3.13-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.13-nts.json)
+  * [php5.3.13](https://github.com/nueko/scoop-php/blob/master/php5.3.13.json)
+  * [php5.3.14-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.14-nts.json)
+  * [php5.3.14](https://github.com/nueko/scoop-php/blob/master/php5.3.14.json)
+  * [php5.3.15-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.15-nts.json)
+  * [php5.3.15](https://github.com/nueko/scoop-php/blob/master/php5.3.15.json)
+  * [php5.3.16-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.16-nts.json)
+  * [php5.3.16](https://github.com/nueko/scoop-php/blob/master/php5.3.16.json)
+  * [php5.3.17-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.17-nts.json)
+  * [php5.3.17](https://github.com/nueko/scoop-php/blob/master/php5.3.17.json)
+  * [php5.3.18-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.18-nts.json)
+  * [php5.3.18](https://github.com/nueko/scoop-php/blob/master/php5.3.18.json)
+  * [php5.3.19-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.19-nts.json)
+  * [php5.3.19](https://github.com/nueko/scoop-php/blob/master/php5.3.19.json)
+  * [php5.3.2-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.2-nts.json)
+  * [php5.3.2](https://github.com/nueko/scoop-php/blob/master/php5.3.2.json)
+  * [php5.3.20-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.20-nts.json)
+  * [php5.3.20](https://github.com/nueko/scoop-php/blob/master/php5.3.20.json)
+  * [php5.3.21-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.21-nts.json)
+  * [php5.3.21](https://github.com/nueko/scoop-php/blob/master/php5.3.21.json)
+  * [php5.3.22-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.22-nts.json)
+  * [php5.3.22](https://github.com/nueko/scoop-php/blob/master/php5.3.22.json)
+  * [php5.3.23-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.23-nts.json)
+  * [php5.3.23](https://github.com/nueko/scoop-php/blob/master/php5.3.23.json)
+  * [php5.3.24-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.24-nts.json)
+  * [php5.3.24](https://github.com/nueko/scoop-php/blob/master/php5.3.24.json)
+  * [php5.3.25-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.25-nts.json)
+  * [php5.3.25](https://github.com/nueko/scoop-php/blob/master/php5.3.25.json)
+  * [php5.3.26-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.26-nts.json)
+  * [php5.3.26](https://github.com/nueko/scoop-php/blob/master/php5.3.26.json)
+  * [php5.3.27-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.27-nts.json)
+  * [php5.3.27](https://github.com/nueko/scoop-php/blob/master/php5.3.27.json)
+  * [php5.3.28-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.28-nts.json)
+  * [php5.3.28](https://github.com/nueko/scoop-php/blob/master/php5.3.28.json)
+  * [php5.3.29-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.29-nts.json)
+  * [php5.3.29](https://github.com/nueko/scoop-php/blob/master/php5.3.29.json)
+  * [php5.3.3-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.3-nts.json)
+  * [php5.3.3](https://github.com/nueko/scoop-php/blob/master/php5.3.3.json)
+  * [php5.3.4-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.4-nts.json)
+  * [php5.3.4](https://github.com/nueko/scoop-php/blob/master/php5.3.4.json)
+  * [php5.3.5-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.5-nts.json)
+  * [php5.3.5](https://github.com/nueko/scoop-php/blob/master/php5.3.5.json)
+  * [php5.3.6-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.6-nts.json)
+  * [php5.3.6](https://github.com/nueko/scoop-php/blob/master/php5.3.6.json)
+  * [php5.3.7-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.7-nts.json)
+  * [php5.3.7](https://github.com/nueko/scoop-php/blob/master/php5.3.7.json)
+  * [php5.3.8-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.8-nts.json)
+  * [php5.3.8](https://github.com/nueko/scoop-php/blob/master/php5.3.8.json)
+  * [php5.3.9-nts](https://github.com/nueko/scoop-php/blob/master/php5.3.9-nts.json)
+  * [php5.3.9](https://github.com/nueko/scoop-php/blob/master/php5.3.9.json)
+  * [php5.3](https://github.com/nueko/scoop-php/blob/master/php5.3.json)
+  * [php5.4-nts](https://github.com/nueko/scoop-php/blob/master/php5.4-nts.json)
+  * [php5.4.0-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.0-nts.json)
+  * [php5.4.0](https://github.com/nueko/scoop-php/blob/master/php5.4.0.json)
+  * [php5.4.1-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.1-nts.json)
+  * [php5.4.1](https://github.com/nueko/scoop-php/blob/master/php5.4.1.json)
+  * [php5.4.10-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.10-nts.json)
+  * [php5.4.10](https://github.com/nueko/scoop-php/blob/master/php5.4.10.json)
+  * [php5.4.11-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.11-nts.json)
+  * [php5.4.11](https://github.com/nueko/scoop-php/blob/master/php5.4.11.json)
+  * [php5.4.12-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.12-nts.json)
+  * [php5.4.12](https://github.com/nueko/scoop-php/blob/master/php5.4.12.json)
+  * [php5.4.13-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.13-nts.json)
+  * [php5.4.13](https://github.com/nueko/scoop-php/blob/master/php5.4.13.json)
+  * [php5.4.14-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.14-nts.json)
+  * [php5.4.14](https://github.com/nueko/scoop-php/blob/master/php5.4.14.json)
+  * [php5.4.15-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.15-nts.json)
+  * [php5.4.15](https://github.com/nueko/scoop-php/blob/master/php5.4.15.json)
+  * [php5.4.16-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.16-nts.json)
+  * [php5.4.16](https://github.com/nueko/scoop-php/blob/master/php5.4.16.json)
+  * [php5.4.17-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.17-nts.json)
+  * [php5.4.17](https://github.com/nueko/scoop-php/blob/master/php5.4.17.json)
+  * [php5.4.18-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.18-nts.json)
+  * [php5.4.18](https://github.com/nueko/scoop-php/blob/master/php5.4.18.json)
+  * [php5.4.19-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.19-nts.json)
+  * [php5.4.19](https://github.com/nueko/scoop-php/blob/master/php5.4.19.json)
+  * [php5.4.2-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.2-nts.json)
+  * [php5.4.2](https://github.com/nueko/scoop-php/blob/master/php5.4.2.json)
+  * [php5.4.20-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.20-nts.json)
+  * [php5.4.20](https://github.com/nueko/scoop-php/blob/master/php5.4.20.json)
+  * [php5.4.21-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.21-nts.json)
+  * [php5.4.21](https://github.com/nueko/scoop-php/blob/master/php5.4.21.json)
+  * [php5.4.22-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.22-nts.json)
+  * [php5.4.22](https://github.com/nueko/scoop-php/blob/master/php5.4.22.json)
+  * [php5.4.23-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.23-nts.json)
+  * [php5.4.23](https://github.com/nueko/scoop-php/blob/master/php5.4.23.json)
+  * [php5.4.24-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.24-nts.json)
+  * [php5.4.24](https://github.com/nueko/scoop-php/blob/master/php5.4.24.json)
+  * [php5.4.25-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.25-nts.json)
+  * [php5.4.25](https://github.com/nueko/scoop-php/blob/master/php5.4.25.json)
+  * [php5.4.26-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.26-nts.json)
+  * [php5.4.26](https://github.com/nueko/scoop-php/blob/master/php5.4.26.json)
+  * [php5.4.27-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.27-nts.json)
+  * [php5.4.27](https://github.com/nueko/scoop-php/blob/master/php5.4.27.json)
+  * [php5.4.28-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.28-nts.json)
+  * [php5.4.28](https://github.com/nueko/scoop-php/blob/master/php5.4.28.json)
+  * [php5.4.29-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.29-nts.json)
+  * [php5.4.29](https://github.com/nueko/scoop-php/blob/master/php5.4.29.json)
+  * [php5.4.3-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.3-nts.json)
+  * [php5.4.3](https://github.com/nueko/scoop-php/blob/master/php5.4.3.json)
+  * [php5.4.30-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.30-nts.json)
+  * [php5.4.30](https://github.com/nueko/scoop-php/blob/master/php5.4.30.json)
+  * [php5.4.31-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.31-nts.json)
+  * [php5.4.31](https://github.com/nueko/scoop-php/blob/master/php5.4.31.json)
+  * [php5.4.32-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.32-nts.json)
+  * [php5.4.32](https://github.com/nueko/scoop-php/blob/master/php5.4.32.json)
+  * [php5.4.33-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.33-nts.json)
+  * [php5.4.33](https://github.com/nueko/scoop-php/blob/master/php5.4.33.json)
+  * [php5.4.34-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.34-nts.json)
+  * [php5.4.34](https://github.com/nueko/scoop-php/blob/master/php5.4.34.json)
+  * [php5.4.35-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.35-nts.json)
+  * [php5.4.35](https://github.com/nueko/scoop-php/blob/master/php5.4.35.json)
+  * [php5.4.36-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.36-nts.json)
+  * [php5.4.36](https://github.com/nueko/scoop-php/blob/master/php5.4.36.json)
+  * [php5.4.37-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.37-nts.json)
+  * [php5.4.37](https://github.com/nueko/scoop-php/blob/master/php5.4.37.json)
+  * [php5.4.38-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.38-nts.json)
+  * [php5.4.38](https://github.com/nueko/scoop-php/blob/master/php5.4.38.json)
+  * [php5.4.39-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.39-nts.json)
+  * [php5.4.39](https://github.com/nueko/scoop-php/blob/master/php5.4.39.json)
+  * [php5.4.4-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.4-nts.json)
+  * [php5.4.4](https://github.com/nueko/scoop-php/blob/master/php5.4.4.json)
+  * [php5.4.40-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.40-nts.json)
+  * [php5.4.40](https://github.com/nueko/scoop-php/blob/master/php5.4.40.json)
+  * [php5.4.41-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.41-nts.json)
+  * [php5.4.41](https://github.com/nueko/scoop-php/blob/master/php5.4.41.json)
+  * [php5.4.42-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.42-nts.json)
+  * [php5.4.42](https://github.com/nueko/scoop-php/blob/master/php5.4.42.json)
+  * [php5.4.43-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.43-nts.json)
+  * [php5.4.43](https://github.com/nueko/scoop-php/blob/master/php5.4.43.json)
+  * [php5.4.44-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.44-nts.json)
+  * [php5.4.44](https://github.com/nueko/scoop-php/blob/master/php5.4.44.json)
+  * [php5.4.45-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.45-nts.json)
+  * [php5.4.45](https://github.com/nueko/scoop-php/blob/master/php5.4.45.json)
+  * [php5.4.5-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.5-nts.json)
+  * [php5.4.5](https://github.com/nueko/scoop-php/blob/master/php5.4.5.json)
+  * [php5.4.6-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.6-nts.json)
+  * [php5.4.6](https://github.com/nueko/scoop-php/blob/master/php5.4.6.json)
+  * [php5.4.7-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.7-nts.json)
+  * [php5.4.7](https://github.com/nueko/scoop-php/blob/master/php5.4.7.json)
+  * [php5.4.8-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.8-nts.json)
+  * [php5.4.8](https://github.com/nueko/scoop-php/blob/master/php5.4.8.json)
+  * [php5.4.9-nts](https://github.com/nueko/scoop-php/blob/master/php5.4.9-nts.json)
+  * [php5.4.9](https://github.com/nueko/scoop-php/blob/master/php5.4.9.json)
+  * [php5.4](https://github.com/nueko/scoop-php/blob/master/php5.4.json)
+  * [php5.5-nts](https://github.com/nueko/scoop-php/blob/master/php5.5-nts.json)
+  * [php5.5.0-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.0-nts.json)
+  * [php5.5.0](https://github.com/nueko/scoop-php/blob/master/php5.5.0.json)
+  * [php5.5.1-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.1-nts.json)
+  * [php5.5.1](https://github.com/nueko/scoop-php/blob/master/php5.5.1.json)
+  * [php5.5.10-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.10-nts.json)
+  * [php5.5.10](https://github.com/nueko/scoop-php/blob/master/php5.5.10.json)
+  * [php5.5.11-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.11-nts.json)
+  * [php5.5.11](https://github.com/nueko/scoop-php/blob/master/php5.5.11.json)
+  * [php5.5.12-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.12-nts.json)
+  * [php5.5.12](https://github.com/nueko/scoop-php/blob/master/php5.5.12.json)
+  * [php5.5.13-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.13-nts.json)
+  * [php5.5.13](https://github.com/nueko/scoop-php/blob/master/php5.5.13.json)
+  * [php5.5.14-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.14-nts.json)
+  * [php5.5.14](https://github.com/nueko/scoop-php/blob/master/php5.5.14.json)
+  * [php5.5.15-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.15-nts.json)
+  * [php5.5.15](https://github.com/nueko/scoop-php/blob/master/php5.5.15.json)
+  * [php5.5.16-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.16-nts.json)
+  * [php5.5.16](https://github.com/nueko/scoop-php/blob/master/php5.5.16.json)
+  * [php5.5.17-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.17-nts.json)
+  * [php5.5.17](https://github.com/nueko/scoop-php/blob/master/php5.5.17.json)
+  * [php5.5.18-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.18-nts.json)
+  * [php5.5.18](https://github.com/nueko/scoop-php/blob/master/php5.5.18.json)
+  * [php5.5.19-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.19-nts.json)
+  * [php5.5.19](https://github.com/nueko/scoop-php/blob/master/php5.5.19.json)
+  * [php5.5.2-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.2-nts.json)
+  * [php5.5.2](https://github.com/nueko/scoop-php/blob/master/php5.5.2.json)
+  * [php5.5.20-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.20-nts.json)
+  * [php5.5.20](https://github.com/nueko/scoop-php/blob/master/php5.5.20.json)
+  * [php5.5.21-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.21-nts.json)
+  * [php5.5.21](https://github.com/nueko/scoop-php/blob/master/php5.5.21.json)
+  * [php5.5.22-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.22-nts.json)
+  * [php5.5.22](https://github.com/nueko/scoop-php/blob/master/php5.5.22.json)
+  * [php5.5.23-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.23-nts.json)
+  * [php5.5.23](https://github.com/nueko/scoop-php/blob/master/php5.5.23.json)
+  * [php5.5.24-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.24-nts.json)
+  * [php5.5.24](https://github.com/nueko/scoop-php/blob/master/php5.5.24.json)
+  * [php5.5.25-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.25-nts.json)
+  * [php5.5.25](https://github.com/nueko/scoop-php/blob/master/php5.5.25.json)
+  * [php5.5.26-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.26-nts.json)
+  * [php5.5.26](https://github.com/nueko/scoop-php/blob/master/php5.5.26.json)
+  * [php5.5.27-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.27-nts.json)
+  * [php5.5.27](https://github.com/nueko/scoop-php/blob/master/php5.5.27.json)
+  * [php5.5.28-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.28-nts.json)
+  * [php5.5.28](https://github.com/nueko/scoop-php/blob/master/php5.5.28.json)
+  * [php5.5.29-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.29-nts.json)
+  * [php5.5.29](https://github.com/nueko/scoop-php/blob/master/php5.5.29.json)
+  * [php5.5.3-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.3-nts.json)
+  * [php5.5.3](https://github.com/nueko/scoop-php/blob/master/php5.5.3.json)
+  * [php5.5.30-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.30-nts.json)
+  * [php5.5.30](https://github.com/nueko/scoop-php/blob/master/php5.5.30.json)
+  * [php5.5.31-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.31-nts.json)
+  * [php5.5.31](https://github.com/nueko/scoop-php/blob/master/php5.5.31.json)
+  * [php5.5.32-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.32-nts.json)
+  * [php5.5.32](https://github.com/nueko/scoop-php/blob/master/php5.5.32.json)
+  * [php5.5.33-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.33-nts.json)
+  * [php5.5.33](https://github.com/nueko/scoop-php/blob/master/php5.5.33.json)
+  * [php5.5.34-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.34-nts.json)
+  * [php5.5.34](https://github.com/nueko/scoop-php/blob/master/php5.5.34.json)
+  * [php5.5.35-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.35-nts.json)
+  * [php5.5.35](https://github.com/nueko/scoop-php/blob/master/php5.5.35.json)
+  * [php5.5.36-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.36-nts.json)
+  * [php5.5.36](https://github.com/nueko/scoop-php/blob/master/php5.5.36.json)
+  * [php5.5.37-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.37-nts.json)
+  * [php5.5.37](https://github.com/nueko/scoop-php/blob/master/php5.5.37.json)
+  * [php5.5.4-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.4-nts.json)
+  * [php5.5.4](https://github.com/nueko/scoop-php/blob/master/php5.5.4.json)
+  * [php5.5.5-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.5-nts.json)
+  * [php5.5.5](https://github.com/nueko/scoop-php/blob/master/php5.5.5.json)
+  * [php5.5.6-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.6-nts.json)
+  * [php5.5.6](https://github.com/nueko/scoop-php/blob/master/php5.5.6.json)
+  * [php5.5.7-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.7-nts.json)
+  * [php5.5.7](https://github.com/nueko/scoop-php/blob/master/php5.5.7.json)
+  * [php5.5.8-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.8-nts.json)
+  * [php5.5.8](https://github.com/nueko/scoop-php/blob/master/php5.5.8.json)
+  * [php5.5.9-nts](https://github.com/nueko/scoop-php/blob/master/php5.5.9-nts.json)
+  * [php5.5.9](https://github.com/nueko/scoop-php/blob/master/php5.5.9.json)
+  * [php5.5](https://github.com/nueko/scoop-php/blob/master/php5.5.json)
+  * [php5.6-nts](https://github.com/nueko/scoop-php/blob/master/php5.6-nts.json)
+  * [php5.6.0-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.0-nts.json)
+  * [php5.6.0](https://github.com/nueko/scoop-php/blob/master/php5.6.0.json)
+  * [php5.6.1-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.1-nts.json)
+  * [php5.6.1](https://github.com/nueko/scoop-php/blob/master/php5.6.1.json)
+  * [php5.6.10-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.10-nts.json)
+  * [php5.6.10](https://github.com/nueko/scoop-php/blob/master/php5.6.10.json)
+  * [php5.6.11-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.11-nts.json)
+  * [php5.6.11](https://github.com/nueko/scoop-php/blob/master/php5.6.11.json)
+  * [php5.6.12-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.12-nts.json)
+  * [php5.6.12](https://github.com/nueko/scoop-php/blob/master/php5.6.12.json)
+  * [php5.6.13-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.13-nts.json)
+  * [php5.6.13](https://github.com/nueko/scoop-php/blob/master/php5.6.13.json)
+  * [php5.6.14-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.14-nts.json)
+  * [php5.6.14](https://github.com/nueko/scoop-php/blob/master/php5.6.14.json)
+  * [php5.6.15-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.15-nts.json)
+  * [php5.6.15](https://github.com/nueko/scoop-php/blob/master/php5.6.15.json)
+  * [php5.6.16-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.16-nts.json)
+  * [php5.6.16](https://github.com/nueko/scoop-php/blob/master/php5.6.16.json)
+  * [php5.6.17-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.17-nts.json)
+  * [php5.6.17](https://github.com/nueko/scoop-php/blob/master/php5.6.17.json)
+  * [php5.6.18-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.18-nts.json)
+  * [php5.6.18](https://github.com/nueko/scoop-php/blob/master/php5.6.18.json)
+  * [php5.6.19-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.19-nts.json)
+  * [php5.6.19](https://github.com/nueko/scoop-php/blob/master/php5.6.19.json)
+  * [php5.6.2-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.2-nts.json)
+  * [php5.6.2](https://github.com/nueko/scoop-php/blob/master/php5.6.2.json)
+  * [php5.6.20-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.20-nts.json)
+  * [php5.6.20](https://github.com/nueko/scoop-php/blob/master/php5.6.20.json)
+  * [php5.6.21-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.21-nts.json)
+  * [php5.6.21](https://github.com/nueko/scoop-php/blob/master/php5.6.21.json)
+  * [php5.6.22-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.22-nts.json)
+  * [php5.6.22](https://github.com/nueko/scoop-php/blob/master/php5.6.22.json)
+  * [php5.6.23-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.23-nts.json)
+  * [php5.6.23](https://github.com/nueko/scoop-php/blob/master/php5.6.23.json)
+  * [php5.6.24-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.24-nts.json)
+  * [php5.6.24](https://github.com/nueko/scoop-php/blob/master/php5.6.24.json)
+  * [php5.6.25-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.25-nts.json)
+  * [php5.6.25](https://github.com/nueko/scoop-php/blob/master/php5.6.25.json)
+  * [php5.6.26-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.26-nts.json)
+  * [php5.6.26](https://github.com/nueko/scoop-php/blob/master/php5.6.26.json)
+  * [php5.6.27-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.27-nts.json)
+  * [php5.6.27](https://github.com/nueko/scoop-php/blob/master/php5.6.27.json)
+  * [php5.6.28-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.28-nts.json)
+  * [php5.6.28](https://github.com/nueko/scoop-php/blob/master/php5.6.28.json)
+  * [php5.6.29-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.29-nts.json)
+  * [php5.6.29](https://github.com/nueko/scoop-php/blob/master/php5.6.29.json)
+  * [php5.6.3-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.3-nts.json)
+  * [php5.6.3](https://github.com/nueko/scoop-php/blob/master/php5.6.3.json)
+  * [php5.6.4-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.4-nts.json)
+  * [php5.6.4](https://github.com/nueko/scoop-php/blob/master/php5.6.4.json)
+  * [php5.6.5-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.5-nts.json)
+  * [php5.6.5](https://github.com/nueko/scoop-php/blob/master/php5.6.5.json)
+  * [php5.6.6-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.6-nts.json)
+  * [php5.6.6](https://github.com/nueko/scoop-php/blob/master/php5.6.6.json)
+  * [php5.6.7-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.7-nts.json)
+  * [php5.6.7](https://github.com/nueko/scoop-php/blob/master/php5.6.7.json)
+  * [php5.6.8-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.8-nts.json)
+  * [php5.6.8](https://github.com/nueko/scoop-php/blob/master/php5.6.8.json)
+  * [php5.6.9-nts](https://github.com/nueko/scoop-php/blob/master/php5.6.9-nts.json)
+  * [php5.6.9](https://github.com/nueko/scoop-php/blob/master/php5.6.9.json)
+  * [php5.6](https://github.com/nueko/scoop-php/blob/master/php5.6.json)
+  * [php7.0-nts](https://github.com/nueko/scoop-php/blob/master/php7.0-nts.json)
+  * [php7.0.0-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.0-nts.json)
+  * [php7.0.0](https://github.com/nueko/scoop-php/blob/master/php7.0.0.json)
+  * [php7.0.1-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.1-nts.json)
+  * [php7.0.1](https://github.com/nueko/scoop-php/blob/master/php7.0.1.json)
+  * [php7.0.10-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.10-nts.json)
+  * [php7.0.10](https://github.com/nueko/scoop-php/blob/master/php7.0.10.json)
+  * [php7.0.11-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.11-nts.json)
+  * [php7.0.11](https://github.com/nueko/scoop-php/blob/master/php7.0.11.json)
+  * [php7.0.12-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.12-nts.json)
+  * [php7.0.12](https://github.com/nueko/scoop-php/blob/master/php7.0.12.json)
+  * [php7.0.13-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.13-nts.json)
+  * [php7.0.13](https://github.com/nueko/scoop-php/blob/master/php7.0.13.json)
+  * [php7.0.14-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.14-nts.json)
+  * [php7.0.14](https://github.com/nueko/scoop-php/blob/master/php7.0.14.json)
+  * [php7.0.15-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.15-nts.json)
+  * [php7.0.15](https://github.com/nueko/scoop-php/blob/master/php7.0.15.json)
+  * [php7.0.16-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.16-nts.json)
+  * [php7.0.16](https://github.com/nueko/scoop-php/blob/master/php7.0.16.json)
+  * [php7.0.17-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.17-nts.json)
+  * [php7.0.17](https://github.com/nueko/scoop-php/blob/master/php7.0.17.json)
+  * [php7.0.18-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.18-nts.json)
+  * [php7.0.18](https://github.com/nueko/scoop-php/blob/master/php7.0.18.json)
+  * [php7.0.2-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.2-nts.json)
+  * [php7.0.2](https://github.com/nueko/scoop-php/blob/master/php7.0.2.json)
+  * [php7.0.3-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.3-nts.json)
+  * [php7.0.3](https://github.com/nueko/scoop-php/blob/master/php7.0.3.json)
+  * [php7.0.4-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.4-nts.json)
+  * [php7.0.4](https://github.com/nueko/scoop-php/blob/master/php7.0.4.json)
+  * [php7.0.5-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.5-nts.json)
+  * [php7.0.5](https://github.com/nueko/scoop-php/blob/master/php7.0.5.json)
+  * [php7.0.6-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.6-nts.json)
+  * [php7.0.6](https://github.com/nueko/scoop-php/blob/master/php7.0.6.json)
+  * [php7.0.7-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.7-nts.json)
+  * [php7.0.7](https://github.com/nueko/scoop-php/blob/master/php7.0.7.json)
+  * [php7.0.8-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.8-nts.json)
+  * [php7.0.8](https://github.com/nueko/scoop-php/blob/master/php7.0.8.json)
+  * [php7.0.9-nts](https://github.com/nueko/scoop-php/blob/master/php7.0.9-nts.json)
+  * [php7.0.9](https://github.com/nueko/scoop-php/blob/master/php7.0.9.json)
+  * [php7.0](https://github.com/nueko/scoop-php/blob/master/php7.0.json)
+  * [php7.1-nts](https://github.com/nueko/scoop-php/blob/master/php7.1-nts.json)
+  * [php7.1.0-nts](https://github.com/nueko/scoop-php/blob/master/php7.1.0-nts.json)
+  * [php7.1.0](https://github.com/nueko/scoop-php/blob/master/php7.1.0.json)
+  * [php7.1.1-nts](https://github.com/nueko/scoop-php/blob/master/php7.1.1-nts.json)
+  * [php7.1.1](https://github.com/nueko/scoop-php/blob/master/php7.1.1.json)
+  * [php7.1.2-nts](https://github.com/nueko/scoop-php/blob/master/php7.1.2-nts.json)
+  * [php7.1.2](https://github.com/nueko/scoop-php/blob/master/php7.1.2.json)
+  * [php7.1.3-nts](https://github.com/nueko/scoop-php/blob/master/php7.1.3-nts.json)
+  * [php7.1.3](https://github.com/nueko/scoop-php/blob/master/php7.1.3.json)
+  * [php7.1.4-nts](https://github.com/nueko/scoop-php/blob/master/php7.1.4-nts.json)
+  * [php7.1.4](https://github.com/nueko/scoop-php/blob/master/php7.1.4.json)
+  * [php7.1](https://github.com/nueko/scoop-php/blob/master/php7.1.json)
+
+
+
+[https://github.com/foreleven/feng-scoop-bucket](https://github.com/foreleven/feng-scoop-bucket)
+
+
+
+[https://github.com/mko-x/bucket](https://github.com/mko-x/bucket)
+  * [eclipse](https://github.com/mko-x/bucket/blob/master/eclipse.json)
+
+
+
+[https://github.com/webwesen/webwesen-scoop-bucket](https://github.com/webwesen/webwesen-scoop-bucket)
+  * [ccleaner](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/ccleaner.json)
+  * [pycharm](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/pycharm.json)
+  * [winscp](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/winscp.json)
+
+
+
+[https://github.com/systemexitzero/scoop-bucket](https://github.com/systemexitzero/scoop-bucket)
+  * [chefdk](https://github.com/systemexitzero/scoop-bucket/blob/master/chefdk.json)
+  * [cloudfoundry-cli](https://github.com/systemexitzero/scoop-bucket/blob/master/cloudfoundry-cli.json)
+  * [dontsleep](https://github.com/systemexitzero/scoop-bucket/blob/master/dontsleep.json)
+  * [gifsicle](https://github.com/systemexitzero/scoop-bucket/blob/master/gifsicle.json)
+  * [html-tidy](https://github.com/systemexitzero/scoop-bucket/blob/master/html-tidy.json)
+  * [nodejs4](https://github.com/systemexitzero/scoop-bucket/blob/master/nodejs4.json)
+  * [pngout](https://github.com/systemexitzero/scoop-bucket/blob/master/pngout.json)
+  * [rapidee](https://github.com/systemexitzero/scoop-bucket/blob/master/rapidee.json)
+  * [sox](https://github.com/systemexitzero/scoop-bucket/blob/master/sox.json)
+  * [unison](https://github.com/systemexitzero/scoop-bucket/blob/master/unison.json)
+  * [wolcmd](https://github.com/systemexitzero/scoop-bucket/blob/master/wolcmd.json)
+
+
+
+[https://github.com/liaoya/scoop-bucket](https://github.com/liaoya/scoop-bucket)
+  * [doublecmd](https://github.com/liaoya/scoop-bucket/blob/master/doublecmd.json)
+  * [ezwinports](https://github.com/liaoya/scoop-bucket/blob/master/ezwinports.json)
+  * [greenshot](https://github.com/liaoya/scoop-bucket/blob/master/greenshot.json)
+  * [ideaIC](https://github.com/liaoya/scoop-bucket/blob/master/ideaIC.json)
+  * [liteide](https://github.com/liaoya/scoop-bucket/blob/master/liteide.json)
+  * [realvnc-vncviewer](https://github.com/liaoya/scoop-bucket/blob/master/realvnc-vncviewer.json)
+  * [ripgrep](https://github.com/liaoya/scoop-bucket/blob/master/ripgrep.json)
+  * [tiger-vncviewer](https://github.com/liaoya/scoop-bucket/blob/master/tiger-vncviewer.json)
+  * [Win32-OpenSSH](https://github.com/liaoya/scoop-bucket/blob/master/Win32-OpenSSH.json)
+  * [winscp](https://github.com/liaoya/scoop-bucket/blob/master/winscp.json)
+  * [winsshterm](https://github.com/liaoya/scoop-bucket/blob/master/winsshterm.json)
+
+
+
+[https://github.com/zeero/scoop-my-bucket](https://github.com/zeero/scoop-my-bucket)
+  * [a5m2](https://github.com/zeero/scoop-my-bucket/blob/master/a5m2.json)
+  * [clipnote](https://github.com/zeero/scoop-my-bucket/blob/master/clipnote.json)
+  * [cmigemo](https://github.com/zeero/scoop-my-bucket/blob/master/cmigemo.json)
+  * [df](https://github.com/zeero/scoop-my-bucket/blob/master/df.json)
+  * [explzh](https://github.com/zeero/scoop-my-bucket/blob/master/explzh.json)
+  * [git-credential-manager-for-windows](https://github.com/zeero/scoop-my-bucket/blob/master/git-credential-manager-for-windows.json)
+  * [git-for-windows-sdk](https://github.com/zeero/scoop-my-bucket/blob/master/git-for-windows-sdk.json)
+  * [gvim-kaoriya](https://github.com/zeero/scoop-my-bucket/blob/master/gvim-kaoriya.json)
+  * [honeyview](https://github.com/zeero/scoop-my-bucket/blob/master/honeyview.json)
+  * [keyswap](https://github.com/zeero/scoop-my-bucket/blob/master/keyswap.json)
+  * [kiki](https://github.com/zeero/scoop-my-bucket/blob/master/kiki.json)
+  * [mactype](https://github.com/zeero/scoop-my-bucket/blob/master/mactype.json)
+  * [madonote](https://github.com/zeero/scoop-my-bucket/blob/master/madonote.json)
+  * [magnet_window](https://github.com/zeero/scoop-my-bucket/blob/master/magnet_window.json)
+  * [mausuji](https://github.com/zeero/scoop-my-bucket/blob/master/mausuji.json)
+  * [mingw-get](https://github.com/zeero/scoop-my-bucket/blob/master/mingw-get.json)
+  * [mktemp](https://github.com/zeero/scoop-my-bucket/blob/master/mktemp.json)
+  * [nkf](https://github.com/zeero/scoop-my-bucket/blob/master/nkf.json)
+  * [openlink](https://github.com/zeero/scoop-my-bucket/blob/master/openlink.json)
+  * [pathcp](https://github.com/zeero/scoop-my-bucket/blob/master/pathcp.json)
+  * [sakura](https://github.com/zeero/scoop-my-bucket/blob/master/sakura.json)
+  * [softtilt](https://github.com/zeero/scoop-my-bucket/blob/master/softtilt.json)
+  * [tortoisesvn](https://github.com/zeero/scoop-my-bucket/blob/master/tortoisesvn.json)
+  * [tortoisesvn_ja](https://github.com/zeero/scoop-my-bucket/blob/master/tortoisesvn_ja.json)
+  * [wheel_redirector](https://github.com/zeero/scoop-my-bucket/blob/master/wheel_redirector.json)
+
+
+
+[https://github.com/Lomeli12/ScoopBucket](https://github.com/Lomeli12/ScoopBucket)
+  * [hasher](https://github.com/Lomeli12/ScoopBucket/blob/master/hasher.json)
+  * [mp3o](https://github.com/Lomeli12/ScoopBucket/blob/master/mp3o.json)
+  * [plummod](https://github.com/Lomeli12/ScoopBucket/blob/master/plummod.json)
+  * [pngcap](https://github.com/Lomeli12/ScoopBucket/blob/master/pngcap.json)
+
+
+
+[https://github.com/broovy/scoop-bucket](https://github.com/broovy/scoop-bucket)
+  * [androidsdk](https://github.com/broovy/scoop-bucket/blob/master/androidsdk.json)
+
+
+
+[https://github.com/maoizm/scoopBucket](https://github.com/maoizm/scoopBucket)
+
+
+
+[https://github.com/lillicoder/scoop-openjdk6](https://github.com/lillicoder/scoop-openjdk6)
+  * [openjdk6](https://github.com/lillicoder/scoop-openjdk6/blob/master/openjdk6.json)
+
+
+
+[https://github.com/TnmkFan/my-bucket](https://github.com/TnmkFan/my-bucket)
+  * [vagrant](https://github.com/TnmkFan/my-bucket/blob/master/vagrant.json)
+
+
+
+[https://github.com/alapala/apl-scoop-bucket](https://github.com/alapala/apl-scoop-bucket)
+  * [gpg4win](https://github.com/alapala/apl-scoop-bucket/blob/master/gpg4win.json)
+
+
+
+[https://github.com/jsorah/jsorah-scoop-bucket](https://github.com/jsorah/jsorah-scoop-bucket)
+  * [hxd](https://github.com/jsorah/jsorah-scoop-bucket/blob/master/hxd.json)
+  * [jd-gui](https://github.com/jsorah/jsorah-scoop-bucket/blob/master/jd-gui.json)
+  * [xvi32](https://github.com/jsorah/jsorah-scoop-bucket/blob/master/xvi32.json)
+
+
+
+[https://github.com/Callidin/ragnar-scoop](https://github.com/Callidin/ragnar-scoop)
+  * [python27](https://github.com/Callidin/ragnar-scoop/blob/master/python27.json)
+
+
+
+[https://github.com/Guard13007/ScoopBucket-ThirdParty](https://github.com/Guard13007/ScoopBucket-ThirdParty)
+  * [butler](https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/butler.json)
+  * [crystaldiskinfo](https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/crystaldiskinfo.json)
+  * [kitty](https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/kitty.json)
+  * [love](https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/love.json)
+  * [moonscript](https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/moonscript.json)
+  * [openresty](https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/openresty.json)
+  * [resource-hacker](https://github.com/Guard13007/ScoopBucket-ThirdParty/blob/master/resource-hacker.json)
+
+
+
+[https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras)
+  * [fornax](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/blob/master/fornax.json)
+
+
+
+[https://github.com/wangfeishine/adds](https://github.com/wangfeishine/adds)
+  * [derby](https://github.com/wangfeishine/adds/blob/master/derby.json)
+
+
+
+[https://github.com/jm0477/bucket](https://github.com/jm0477/bucket)
+  * [7zip](https://github.com/jm0477/bucket/blob/master/7zip.json)
+  * [adobereader](https://github.com/jm0477/bucket/blob/master/adobereader.json)
+
+
+
+[https://github.com/dennislloydjr/scoop-bucket-devbox](https://github.com/dennislloydjr/scoop-bucket-devbox)
+  * [artifactory](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/artifactory.json)
+  * [atlassian-bamboo](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-bamboo.json)
+  * [atlassian-confluence](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-confluence.json)
+  * [atlassian-crowd](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-crowd.json)
+  * [atlassian-jira](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-jira.json)
+  * [atlassian-stash](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/atlassian-stash.json)
+  * [ds9](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/ds9.json)
+  * [eclipse-kepler](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/eclipse-kepler.json)
+  * [eclipse-luna](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/eclipse-luna.json)
+  * [eclipse-mars](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/eclipse-mars.json)
+  * [gradle](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/gradle.json)
+  * [java7](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/java7.json)
+  * [java8](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/java8.json)
+  * [mysql](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/mysql.json)
+  * [sonar](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/sonar.json)
+  * [spacesniffer](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/spacesniffer.json)
+  * [tomcat7](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/tomcat7.json)
+  * [tomcat8](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/tomcat8.json)
+  * [virtualbox](https://github.com/dennislloydjr/scoop-bucket-devbox/blob/master/virtualbox.json)
+
+
+
+[https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools)
+  * [inkscape](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/blob/master/inkscape.json)
+
+
+
+[https://github.com/Guard13007/ScoopBucket-LoveVersions](https://github.com/Guard13007/ScoopBucket-LoveVersions)
+  * [love0.10.0](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.10.0.json)
+  * [love0.10.1](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.10.1.json)
+  * [love0.10.2](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.10.2.json)
+  * [love0.6.2](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.6.2.json)
+  * [love0.7.0](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.7.0.json)
+  * [love0.7.1](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.7.1.json)
+  * [love0.7.2](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.7.2.json)
+  * [love0.8.0](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.8.0.json)
+  * [love0.9.0](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.0.json)
+  * [love0.9.1](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.1.json)
+  * [love0.9.2](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.2.json)
+
+
+
+[https://github.com/mundusnine/m9-bucket](https://github.com/mundusnine/m9-bucket)
+  * [cabbage](https://github.com/mundusnine/m9-bucket/blob/master/cabbage.json)
+  * [clang](https://github.com/mundusnine/m9-bucket/blob/master/clang.json)
+  * [gcc5](https://github.com/mundusnine/m9-bucket/blob/master/gcc5.json)
+  * [lmms-beta](https://github.com/mundusnine/m9-bucket/blob/master/lmms-beta.json)
+  * [lmms](https://github.com/mundusnine/m9-bucket/blob/master/lmms.json)
+  * [reaper](https://github.com/mundusnine/m9-bucket/blob/master/reaper.json)
+  * [reaperThemes](https://github.com/mundusnine/m9-bucket/blob/master/reaperThemes.json)
+  * [Synth1](https://github.com/mundusnine/m9-bucket/blob/master/Synth1.json)
+  * [voicemeeter](https://github.com/mundusnine/m9-bucket/blob/master/voicemeeter.json)
+
+
+
+[https://github.com/devilishcherub/scoop-app-bucket](https://github.com/devilishcherub/scoop-app-bucket)
+  * [hyper](https://github.com/devilishcherub/scoop-app-bucket/blob/master/hyper.json)
+
+
+
+[https://github.com/demesne/dev-extras](https://github.com/demesne/dev-extras)
+  * [sublime-dev](https://github.com/demesne/dev-extras/blob/master/sublime-dev.json)
+
+
+
+[https://github.com/S3FL-REST/TeensyProgram](https://github.com/S3FL-REST/TeensyProgram)
+
+
