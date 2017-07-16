@@ -1485,14 +1485,14 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/wangfeishine/adds](https://github.com/wangfeishine/adds)
-  * [derby](https://github.com/wangfeishine/adds/blob/master/derby.json)
-
-
-
 [https://github.com/jm0477/bucket](https://github.com/jm0477/bucket)
   * [7zip](https://github.com/jm0477/bucket/blob/master/7zip.json)
   * [adobereader](https://github.com/jm0477/bucket/blob/master/adobereader.json)
+
+
+
+[https://github.com/wangfeishine/adds](https://github.com/wangfeishine/adds)
+  * [derby](https://github.com/wangfeishine/adds/blob/master/derby.json)
 
 
 
@@ -1519,11 +1519,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools)
-  * [inkscape](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/blob/master/inkscape.json)
-
-
-
 [https://github.com/Guard13007/ScoopBucket-LoveVersions](https://github.com/Guard13007/ScoopBucket-LoveVersions)
   * [love0.10.0](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.10.0.json)
   * [love0.10.1](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.10.1.json)
@@ -1536,6 +1531,11 @@ A collection of awesome resource for the scoop package manager for windows
   * [love0.9.0](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.0.json)
   * [love0.9.1](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.1.json)
   * [love0.9.2](https://github.com/Guard13007/ScoopBucket-LoveVersions/blob/master/love0.9.2.json)
+
+
+
+[https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools)
+  * [inkscape](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/blob/master/inkscape.json)
 
 
 
