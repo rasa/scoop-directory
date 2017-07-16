@@ -9,5 +9,4 @@ deploy:
   skip_cleanup: true
   on:
     branch: master
-after_success:
-  - .travis/push.sh
+    
