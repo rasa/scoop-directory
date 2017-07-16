@@ -39,13 +39,12 @@ for repo in fetchjson('https://api.github.com/search/repositories?q=scoop+bucket
 
     if(not repofoldername in cache):
         #Delete folder if exists
-
         #clone repo to cache folder
         i += 1
         Repo.clone_from(git_clone_url, os.path.join(dir_path,'cache',repofoldername))
-        cache[repofoldername] = {'name':name,'url':html_url,'score':float(repo_score),'entries':[]}
+        cache[repofoldername] = {'name':name,'url':html_url,'score':float(repo_score),'entries':[]}        
     
-    if repofoldername in cache and (last_updated > last_run ):
+    elif repofoldername in cache and (last_updated > last_run ):
         i += 1
         repo = Repo(os.path.join(dir_path, 'cache', repofoldername))
         o = repo.remotes.origin
