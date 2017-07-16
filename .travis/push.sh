@@ -9,6 +9,7 @@ setup_git() {
 upload_files() {  
   git add . -A
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+  echo "https://${GITHUB_TOKEN}@github.com/algomaniac/awesome-scoop"
   git push --quiet "https://${GITHUB_TOKEN}@github.com/algomaniac/awesome-scoop" master:master > /dev/null 2>&1
 }
 
