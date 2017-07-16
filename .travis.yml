@@ -7,4 +7,4 @@ after_success:
   - .travis/push.sh
 env:
   global:
-    secure: e88334827c0a92cea27216897ba0275c45061d25
+    secure: 15256b24a9a72adab6a42cc2dc4e46c180234685
