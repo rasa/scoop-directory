@@ -5,8 +5,7 @@ install: "pip install -r maintenance/requirements.txt"
 script: "python maintenance/github-crawler.py"
 deploy:
   provider: script
-  script: .travis/push.sh
+  script: sh $TRAVIS_BUILD_DIR/.travis/push.sh
   skip_cleanup: true
   on:
     branch: master
-    
