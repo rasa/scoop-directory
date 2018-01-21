@@ -2,7 +2,7 @@
 A collection of awesome resource for the scoop package manager for windows
 
 # Build Status
-![Build Status](https://travis-ci.org/algomaniac/awesome-scoop.svg?branch=master)
+![Build Status](https://travis-ci.org/tapanchandra/awesome-scoop.svg?branch=master)
 
 # Third party buckets by popularity
 
