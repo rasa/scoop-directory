@@ -36,6 +36,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [azure-ps](https://github.com/lukesampson/scoop-extras/blob/master/azure-ps.json)
   * [baretail](https://github.com/lukesampson/scoop-extras/blob/master/baretail.json)
   * [bazel](https://github.com/lukesampson/scoop-extras/blob/master/bazel.json)
+  * [bitwarden](https://github.com/lukesampson/scoop-extras/blob/master/bitwarden.json)
   * [bleachbit](https://github.com/lukesampson/scoop-extras/blob/master/bleachbit.json)
   * [blender](https://github.com/lukesampson/scoop-extras/blob/master/blender.json)
   * [boot-clj](https://github.com/lukesampson/scoop-extras/blob/master/boot-clj.json)
@@ -268,8 +269,8 @@ A collection of awesome resource for the scoop package manager for windows
   * [renderdoc](https://github.com/lukesampson/scoop-extras/blob/master/renderdoc.json)
   * [reshade](https://github.com/lukesampson/scoop-extras/blob/master/reshade.json)
   * [resource-hacker](https://github.com/lukesampson/scoop-extras/blob/master/resource-hacker.json)
-  * [retroarch](https://github.com/lukesampson/scoop-extras/blob/master/retroarch.json)
   * [robo3t](https://github.com/lukesampson/scoop-extras/blob/master/robo3t.json)
+  * [retroarch](https://github.com/lukesampson/scoop-extras/blob/master/retroarch.json)
   * [rstudio](https://github.com/lukesampson/scoop-extras/blob/master/rstudio.json)
   * [rufus](https://github.com/lukesampson/scoop-extras/blob/master/rufus.json)
   * [rust-msvc-nightly](https://github.com/lukesampson/scoop-extras/blob/master/rust-msvc-nightly.json)
@@ -368,25 +369,14 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/kodybrown/scoop-nirsoft](https://github.com/kodybrown/scoop-nirsoft)
-  * [deviceioview](https://github.com/kodybrown/scoop-nirsoft/blob/master/deviceioview.json)
-  * [dllexportviewer](https://github.com/kodybrown/scoop-nirsoft/blob/master/dllexportviewer.json)
-  * [dotnetresourcesextract](https://github.com/kodybrown/scoop-nirsoft/blob/master/dotnetresourcesextract.json)
-  * [filetypesman](https://github.com/kodybrown/scoop-nirsoft/blob/master/filetypesman.json)
-  * [gacview](https://github.com/kodybrown/scoop-nirsoft/blob/master/gacview.json)
-  * [gdiview](https://github.com/kodybrown/scoop-nirsoft/blob/master/gdiview.json)
-  * [heapmemview](https://github.com/kodybrown/scoop-nirsoft/blob/master/heapmemview.json)
-  * [openedfilesview](https://github.com/kodybrown/scoop-nirsoft/blob/master/openedfilesview.json)
-  * [regdllview](https://github.com/kodybrown/scoop-nirsoft/blob/master/regdllview.json)
-  * [regfromapp](https://github.com/kodybrown/scoop-nirsoft/blob/master/regfromapp.json)
-  * [regscanner](https://github.com/kodybrown/scoop-nirsoft/blob/master/regscanner.json)
-  * [resourcesextract](https://github.com/kodybrown/scoop-nirsoft/blob/master/resourcesextract.json)
-  * [shellexview](https://github.com/kodybrown/scoop-nirsoft/blob/master/shellexview.json)
-  * [shellmenuview](https://github.com/kodybrown/scoop-nirsoft/blob/master/shellmenuview.json)
-  * [simpledebugger](https://github.com/kodybrown/scoop-nirsoft/blob/master/simpledebugger.json)
-  * [socketsniff](https://github.com/kodybrown/scoop-nirsoft/blob/master/socketsniff.json)
-  * [specialfoldersview](https://github.com/kodybrown/scoop-nirsoft/blob/master/specialfoldersview.json)
-  * [sysexporter](https://github.com/kodybrown/scoop-nirsoft/blob/master/sysexporter.json)
+[https://github.com/maman/scoop-bucket](https://github.com/maman/scoop-bucket)
+  * [android-platform-tools](https://github.com/maman/scoop-bucket/blob/master/android-platform-tools.json)
+  * [android-sdk](https://github.com/maman/scoop-bucket/blob/master/android-sdk.json)
+  * [heroku-toolbelt](https://github.com/maman/scoop-bucket/blob/master/heroku-toolbelt.json)
+  * [otto](https://github.com/maman/scoop-bucket/blob/master/otto.json)
+  * [phantomjs19](https://github.com/maman/scoop-bucket/blob/master/phantomjs19.json)
+  * [screenfetch](https://github.com/maman/scoop-bucket/blob/master/screenfetch.json)
+  * [vim-nox](https://github.com/maman/scoop-bucket/blob/master/vim-nox.json)
 
 
 
@@ -448,14 +438,25 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/maman/scoop-bucket](https://github.com/maman/scoop-bucket)
-  * [android-platform-tools](https://github.com/maman/scoop-bucket/blob/master/android-platform-tools.json)
-  * [android-sdk](https://github.com/maman/scoop-bucket/blob/master/android-sdk.json)
-  * [heroku-toolbelt](https://github.com/maman/scoop-bucket/blob/master/heroku-toolbelt.json)
-  * [otto](https://github.com/maman/scoop-bucket/blob/master/otto.json)
-  * [phantomjs19](https://github.com/maman/scoop-bucket/blob/master/phantomjs19.json)
-  * [screenfetch](https://github.com/maman/scoop-bucket/blob/master/screenfetch.json)
-  * [vim-nox](https://github.com/maman/scoop-bucket/blob/master/vim-nox.json)
+[https://github.com/kodybrown/scoop-nirsoft](https://github.com/kodybrown/scoop-nirsoft)
+  * [deviceioview](https://github.com/kodybrown/scoop-nirsoft/blob/master/deviceioview.json)
+  * [dllexportviewer](https://github.com/kodybrown/scoop-nirsoft/blob/master/dllexportviewer.json)
+  * [dotnetresourcesextract](https://github.com/kodybrown/scoop-nirsoft/blob/master/dotnetresourcesextract.json)
+  * [filetypesman](https://github.com/kodybrown/scoop-nirsoft/blob/master/filetypesman.json)
+  * [gacview](https://github.com/kodybrown/scoop-nirsoft/blob/master/gacview.json)
+  * [gdiview](https://github.com/kodybrown/scoop-nirsoft/blob/master/gdiview.json)
+  * [heapmemview](https://github.com/kodybrown/scoop-nirsoft/blob/master/heapmemview.json)
+  * [openedfilesview](https://github.com/kodybrown/scoop-nirsoft/blob/master/openedfilesview.json)
+  * [regdllview](https://github.com/kodybrown/scoop-nirsoft/blob/master/regdllview.json)
+  * [regfromapp](https://github.com/kodybrown/scoop-nirsoft/blob/master/regfromapp.json)
+  * [regscanner](https://github.com/kodybrown/scoop-nirsoft/blob/master/regscanner.json)
+  * [resourcesextract](https://github.com/kodybrown/scoop-nirsoft/blob/master/resourcesextract.json)
+  * [shellexview](https://github.com/kodybrown/scoop-nirsoft/blob/master/shellexview.json)
+  * [shellmenuview](https://github.com/kodybrown/scoop-nirsoft/blob/master/shellmenuview.json)
+  * [simpledebugger](https://github.com/kodybrown/scoop-nirsoft/blob/master/simpledebugger.json)
+  * [socketsniff](https://github.com/kodybrown/scoop-nirsoft/blob/master/socketsniff.json)
+  * [specialfoldersview](https://github.com/kodybrown/scoop-nirsoft/blob/master/specialfoldersview.json)
+  * [sysexporter](https://github.com/kodybrown/scoop-nirsoft/blob/master/sysexporter.json)
 
 
 
@@ -467,6 +468,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [babelmap](https://github.com/rasa/scoops/blob/master/babelmap.json)
   * [babelpad](https://github.com/rasa/scoops/blob/master/babelpad.json)
   * [cherrytree](https://github.com/rasa/scoops/blob/master/cherrytree.json)
+  * [cpdf](https://github.com/rasa/scoops/blob/master/cpdf.json)
   * [deletedosdevice](https://github.com/rasa/scoops/blob/master/deletedosdevice.json)
   * [diffpdf](https://github.com/rasa/scoops/blob/master/diffpdf.json)
   * [diskspd](https://github.com/rasa/scoops/blob/master/diskspd.json)
@@ -519,7 +521,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [simple-dnscrypt](https://github.com/rasa/scoops/blob/master/simple-dnscrypt.json)
   * [time-it](https://github.com/rasa/scoops/blob/master/time-it.json)
   * [tmac](https://github.com/rasa/scoops/blob/master/tmac.json)
-  * [tor-messenger](https://github.com/rasa/scoops/blob/master/tor-messenger.json)
   * [usbdeview-ids](https://github.com/rasa/scoops/blob/master/usbdeview-ids.json)
   * [usbtreeview](https://github.com/rasa/scoops/blob/master/usbtreeview.json)
   * [vlc-bluray-plugin](https://github.com/rasa/scoops/blob/master/vlc-bluray-plugin.json)
@@ -529,6 +530,32 @@ A collection of awesome resource for the scoop package manager for windows
   * [wizmo](https://github.com/rasa/scoops/blob/master/wizmo.json)
   * [xnview-mp](https://github.com/rasa/scoops/blob/master/xnview-mp.json)
   * [ztree](https://github.com/rasa/scoops/blob/master/ztree.json)
+
+
+
+[https://github.com/ezhikov/scoop-bucket](https://github.com/ezhikov/scoop-bucket)
+  * [wincompose-portable](https://github.com/ezhikov/scoop-bucket/blob/master/wincompose-portable.json)
+  * [wincompose](https://github.com/ezhikov/scoop-bucket/blob/master/wincompose.json)
+
+
+
+[https://github.com/jmcarbo/scoopbucket](https://github.com/jmcarbo/scoopbucket)
+  * [cmder](https://github.com/jmcarbo/scoopbucket/blob/master/cmder.json)
+  * [minioclient](https://github.com/jmcarbo/scoopbucket/blob/master/minioclient.json)
+  * [pt](https://github.com/jmcarbo/scoopbucket/blob/master/pt.json)
+  * [rclone](https://github.com/jmcarbo/scoopbucket/blob/master/rclone.json)
+  * [removedrive](https://github.com/jmcarbo/scoopbucket/blob/master/removedrive.json)
+  * [rufus](https://github.com/jmcarbo/scoopbucket/blob/master/rufus.json)
+
+
+
+[https://github.com/Aaike/scoop](https://github.com/Aaike/scoop)
+  * [github](https://github.com/Aaike/scoop/blob/master/github.json)
+
+
+
+[https://github.com/Doublemine/scoops](https://github.com/Doublemine/scoops)
+  * [v2ray-core](https://github.com/Doublemine/scoops/blob/master/v2ray-core.json)
 
 
 
@@ -974,13 +1001,9 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/jmcarbo/scoopbucket](https://github.com/jmcarbo/scoopbucket)
-  * [cmder](https://github.com/jmcarbo/scoopbucket/blob/master/cmder.json)
-  * [minioclient](https://github.com/jmcarbo/scoopbucket/blob/master/minioclient.json)
-  * [pt](https://github.com/jmcarbo/scoopbucket/blob/master/pt.json)
-  * [rclone](https://github.com/jmcarbo/scoopbucket/blob/master/rclone.json)
-  * [removedrive](https://github.com/jmcarbo/scoopbucket/blob/master/removedrive.json)
-  * [rufus](https://github.com/jmcarbo/scoopbucket/blob/master/rufus.json)
+[https://github.com/kingchang/scoop-buckets](https://github.com/kingchang/scoop-buckets)
+  * [intellij-idea-ce](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea-ce.json)
+  * [intellij-idea](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea.json)
 
 
 
@@ -1022,9 +1045,16 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/kingchang/scoop-buckets](https://github.com/kingchang/scoop-buckets)
-  * [intellij-idea-ce](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea-ce.json)
-  * [intellij-idea](https://github.com/kingchang/scoop-buckets/blob/master/intellij-idea.json)
+[https://github.com/hermanjustnu/scoop-emulators](https://github.com/hermanjustnu/scoop-emulators)
+  * [cemu](https://github.com/hermanjustnu/scoop-emulators/blob/master/cemu.json)
+  * [citra-nightly](https://github.com/hermanjustnu/scoop-emulators/blob/master/citra-nightly.json)
+  * [dolphin-dev](https://github.com/hermanjustnu/scoop-emulators/blob/master/dolphin-dev.json)
+  * [dolphin](https://github.com/hermanjustnu/scoop-emulators/blob/master/dolphin.json)
+  * [fceux](https://github.com/hermanjustnu/scoop-emulators/blob/master/fceux.json)
+  * [mame](https://github.com/hermanjustnu/scoop-emulators/blob/master/mame.json)
+  * [mgba](https://github.com/hermanjustnu/scoop-emulators/blob/master/mgba.json)
+  * [project64](https://github.com/hermanjustnu/scoop-emulators/blob/master/project64.json)
+  * [snes9x](https://github.com/hermanjustnu/scoop-emulators/blob/master/snes9x.json)
 
 
 
@@ -1099,75 +1129,145 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
+[https://github.com/se35710/scoop-java](https://github.com/se35710/scoop-java)
+  * [ojdkbuild](https://github.com/se35710/scoop-java/blob/master/ojdkbuild.json)
+  * [ojdkbuild10](https://github.com/se35710/scoop-java/blob/master/ojdkbuild10.json)
+  * [ojdkbuild8](https://github.com/se35710/scoop-java/blob/master/ojdkbuild8.json)
+  * [ojdkbuild9](https://github.com/se35710/scoop-java/blob/master/ojdkbuild9.json)
+  * [openjdk](https://github.com/se35710/scoop-java/blob/master/openjdk.json)
+  * [openjdk10](https://github.com/se35710/scoop-java/blob/master/openjdk10.json)
+  * [openjdk11](https://github.com/se35710/scoop-java/blob/master/openjdk11.json)
+  * [openjdk9](https://github.com/se35710/scoop-java/blob/master/openjdk9.json)
+  * [oraclejdk-lts](https://github.com/se35710/scoop-java/blob/master/oraclejdk-lts.json)
+  * [oraclejdk](https://github.com/se35710/scoop-java/blob/master/oraclejdk.json)
+  * [oraclejdk10](https://github.com/se35710/scoop-java/blob/master/oraclejdk10.json)
+  * [oraclejdk11](https://github.com/se35710/scoop-java/blob/master/oraclejdk11.json)
+  * [oraclejdk8](https://github.com/se35710/scoop-java/blob/master/oraclejdk8.json)
+  * [oraclejdk8u](https://github.com/se35710/scoop-java/blob/master/oraclejdk8u.json)
+  * [oraclejre-lts](https://github.com/se35710/scoop-java/blob/master/oraclejre-lts.json)
+  * [oraclejre-server-lts](https://github.com/se35710/scoop-java/blob/master/oraclejre-server-lts.json)
+  * [oraclejre-server](https://github.com/se35710/scoop-java/blob/master/oraclejre-server.json)
+  * [oraclejre-server10](https://github.com/se35710/scoop-java/blob/master/oraclejre-server10.json)
+  * [oraclejre-server8](https://github.com/se35710/scoop-java/blob/master/oraclejre-server8.json)
+  * [oraclejre-server8u](https://github.com/se35710/scoop-java/blob/master/oraclejre-server8u.json)
+  * [oraclejre](https://github.com/se35710/scoop-java/blob/master/oraclejre.json)
+  * [oraclejre10](https://github.com/se35710/scoop-java/blob/master/oraclejre10.json)
+  * [oraclejre8](https://github.com/se35710/scoop-java/blob/master/oraclejre8.json)
+  * [oraclejre8u](https://github.com/se35710/scoop-java/blob/master/oraclejre8u.json)
+  * [zulu](https://github.com/se35710/scoop-java/blob/master/zulu.json)
+  * [zulu10](https://github.com/se35710/scoop-java/blob/master/zulu10.json)
+  * [zulu6](https://github.com/se35710/scoop-java/blob/master/zulu6.json)
+  * [zulu7](https://github.com/se35710/scoop-java/blob/master/zulu7.json)
+  * [zulu8](https://github.com/se35710/scoop-java/blob/master/zulu8.json)
+  * [zulu9](https://github.com/se35710/scoop-java/blob/master/zulu9.json)
+
+
+
+[https://github.com/klaidliadon/scoop-buckets](https://github.com/klaidliadon/scoop-buckets)
+  * [glide](https://github.com/klaidliadon/scoop-buckets/blob/master/glide.json)
+  * [rethinkdb](https://github.com/klaidliadon/scoop-buckets/blob/master/rethinkdb.json)
+
+
+
 [https://github.com/stlhrt/steel-buckets](https://github.com/stlhrt/steel-buckets)
   * [git-ssh](https://github.com/stlhrt/steel-buckets/blob/master/git-ssh.json)
 
 
 
-[https://github.com/h404bi/dorado](https://github.com/h404bi/dorado)
-  * [aegisub](https://github.com/h404bi/dorado/blob/master/aegisub.json)
-  * [anaconda2](https://github.com/h404bi/dorado/blob/master/anaconda2.json)
-  * [anaconda3](https://github.com/h404bi/dorado/blob/master/anaconda3.json)
-  * [chunky](https://github.com/h404bi/dorado/blob/master/chunky.json)
-  * [dnscrypt-proxy](https://github.com/h404bi/dorado/blob/master/dnscrypt-proxy.json)
-  * [electrum](https://github.com/h404bi/dorado/blob/master/electrum.json)
-  * [fasttracker2-clone](https://github.com/h404bi/dorado/blob/master/fasttracker2-clone.json)
-  * [flv-extract](https://github.com/h404bi/dorado/blob/master/flv-extract.json)
-  * [fu](https://github.com/h404bi/dorado/blob/master/fu.json)
-  * [hfs](https://github.com/h404bi/dorado/blob/master/hfs.json)
-  * [innoextract](https://github.com/h404bi/dorado/blob/master/innoextract.json)
-  * [intellij-idea-ce](https://github.com/h404bi/dorado/blob/master/intellij-idea-ce.json)
-  * [jd-gui](https://github.com/h404bi/dorado/blob/master/jd-gui.json)
-  * [lepton](https://github.com/h404bi/dorado/blob/master/lepton.json)
-  * [mcskin3d](https://github.com/h404bi/dorado/blob/master/mcskin3d.json)
-  * [miniconda2](https://github.com/h404bi/dorado/blob/master/miniconda2.json)
-  * [miniconda3](https://github.com/h404bi/dorado/blob/master/miniconda3.json)
-  * [mpc-be](https://github.com/h404bi/dorado/blob/master/mpc-be.json)
-  * [nbtexplorer](https://github.com/h404bi/dorado/blob/master/nbtexplorer.json)
-  * [nexusfont](https://github.com/h404bi/dorado/blob/master/nexusfont.json)
-  * [nvm-windows](https://github.com/h404bi/dorado/blob/master/nvm-windows.json)
-  * [pycharm-ce](https://github.com/h404bi/dorado/blob/master/pycharm-ce.json)
-  * [pycharm](https://github.com/h404bi/dorado/blob/master/pycharm.json)
-  * [rustup](https://github.com/h404bi/dorado/blob/master/rustup.json)
-  * [tcping](https://github.com/h404bi/dorado/blob/master/tcping.json)
-  * [trash](https://github.com/h404bi/dorado/blob/master/trash.json)
-  * [virgo](https://github.com/h404bi/dorado/blob/master/virgo.json)
-  * [vscode-insiders](https://github.com/h404bi/dorado/blob/master/vscode-insiders.json)
-  * [yarn](https://github.com/h404bi/dorado/blob/master/yarn.json)
+[https://github.com/twxs/scoop-buckets](https://github.com/twxs/scoop-buckets)
+  * [apache](https://github.com/twxs/scoop-buckets/blob/master/apache.json)
 
 
 
-[https://github.com/liaoya/scoop-bucket](https://github.com/liaoya/scoop-bucket)
-  * [MinGit](https://github.com/liaoya/scoop-bucket/blob/master/MinGit.json)
-  * [QOwnNotes](https://github.com/liaoya/scoop-bucket/blob/master/QOwnNotes.json)
-  * [adoptopenjdk9](https://github.com/liaoya/scoop-bucket/blob/master/adoptopenjdk9.json)
-  * [codeblocks-nightly](https://github.com/liaoya/scoop-bucket/blob/master/codeblocks-nightly.json)
-  * [codeblocks](https://github.com/liaoya/scoop-bucket/blob/master/codeblocks.json)
-  * [gnuplot](https://github.com/liaoya/scoop-bucket/blob/master/gnuplot.json)
-  * [h2database](https://github.com/liaoya/scoop-bucket/blob/master/h2database.json)
-  * [kubeval](https://github.com/liaoya/scoop-bucket/blob/master/kubeval.json)
-  * [liteide](https://github.com/liaoya/scoop-bucket/blob/master/liteide.json)
-  * [mingw-nuwen](https://github.com/liaoya/scoop-bucket/blob/master/mingw-nuwen.json)
-  * [multi-commander](https://github.com/liaoya/scoop-bucket/blob/master/multi-commander.json)
-  * [openjdk9](https://github.com/liaoya/scoop-bucket/blob/master/openjdk9.json)
-  * [pyscripter](https://github.com/liaoya/scoop-bucket/blob/master/pyscripter.json)
-  * [realvnc-vncviewer](https://github.com/liaoya/scoop-bucket/blob/master/realvnc-vncviewer.json)
-  * [rhash](https://github.com/liaoya/scoop-bucket/blob/master/rhash.json)
-  * [srware-iron](https://github.com/liaoya/scoop-bucket/blob/master/srware-iron.json)
-  * [sublime-text-dev](https://github.com/liaoya/scoop-bucket/blob/master/sublime-text-dev.json)
-  * [tiger-vncviewer](https://github.com/liaoya/scoop-bucket/blob/master/tiger-vncviewer.json)
-  * [vnote](https://github.com/liaoya/scoop-bucket/blob/master/vnote.json)
-  * [wing-personal](https://github.com/liaoya/scoop-bucket/blob/master/wing-personal.json)
-  * [winmerge-jp](https://github.com/liaoya/scoop-bucket/blob/master/winmerge-jp.json)
-  * [winsshterm](https://github.com/liaoya/scoop-bucket/blob/master/winsshterm.json)
-  * [zulu-openjdk10](https://github.com/liaoya/scoop-bucket/blob/master/zulu-openjdk10.json)
-  * [zulu-openjdk8](https://github.com/liaoya/scoop-bucket/blob/master/zulu-openjdk8.json)
-  * [zulu-openjdk9](https://github.com/liaoya/scoop-bucket/blob/master/zulu-openjdk9.json)
+[https://github.com/toburger/scoop-buckets](https://github.com/toburger/scoop-buckets)
+  * [dotnet](https://github.com/toburger/scoop-buckets/blob/master/dotnet.json)
+  * [psreadline](https://github.com/toburger/scoop-buckets/blob/master/psreadline.json)
 
 
 
-[https://github.com/svkoh/scoop-bucket](https://github.com/svkoh/scoop-bucket)
-  * [tortoisegit](https://github.com/svkoh/scoop-bucket/blob/master/tortoisegit.json)
+[https://github.com/pcrama/scoop-buckets](https://github.com/pcrama/scoop-buckets)
+  * [FindAndRunRobotPortable](https://github.com/pcrama/scoop-buckets/blob/master/FindAndRunRobotPortable.json)
+  * [dngrep](https://github.com/pcrama/scoop-buckets/blob/master/dngrep.json)
+  * [dview](https://github.com/pcrama/scoop-buckets/blob/master/dview.json)
+  * [emax64](https://github.com/pcrama/scoop-buckets/blob/master/emax64.json)
+  * [ezwinports](https://github.com/pcrama/scoop-buckets/blob/master/ezwinports.json)
+  * [flux](https://github.com/pcrama/scoop-buckets/blob/master/flux.json)
+  * [multicommander](https://github.com/pcrama/scoop-buckets/blob/master/multicommander.json)
+  * [sift](https://github.com/pcrama/scoop-buckets/blob/master/sift.json)
+  * [smallcliutils](https://github.com/pcrama/scoop-buckets/blob/master/smallcliutils.json)
+  * [stduviewer](https://github.com/pcrama/scoop-buckets/blob/master/stduviewer.json)
+  * [unison](https://github.com/pcrama/scoop-buckets/blob/master/unison.json)
+  * [workrave](https://github.com/pcrama/scoop-buckets/blob/master/workrave.json)
+
+
+
+[https://github.com/yutahaga/scoop-bucket](https://github.com/yutahaga/scoop-bucket)
+  * [bandi-zip](https://github.com/yutahaga/scoop-bucket/blob/master/bandi-zip.json)
+  * [cmder](https://github.com/yutahaga/scoop-bucket/blob/master/cmder.json)
+  * [fenrir-fs](https://github.com/yutahaga/scoop-bucket/blob/master/fenrir-fs.json)
+  * [git-ftp](https://github.com/yutahaga/scoop-bucket/blob/master/git-ftp.json)
+  * [guetzli](https://github.com/yutahaga/scoop-bucket/blob/master/guetzli.json)
+  * [nexusfont](https://github.com/yutahaga/scoop-bucket/blob/master/nexusfont.json)
+  * [nyagos](https://github.com/yutahaga/scoop-bucket/blob/master/nyagos.json)
+  * [pngquant](https://github.com/yutahaga/scoop-bucket/blob/master/pngquant.json)
+  * [poedit](https://github.com/yutahaga/scoop-bucket/blob/master/poedit.json)
+  * [vscode-insiders](https://github.com/yutahaga/scoop-bucket/blob/master/vscode-insiders.json)
+
+
+
+[https://github.com/Sathishkrishn/appbucket](https://github.com/Sathishkrishn/appbucket)
+  * [laverna](https://github.com/Sathishkrishn/appbucket/blob/master/laverna.json)
+  * [markText](https://github.com/Sathishkrishn/appbucket/blob/master/markText.json)
+  * [openNumistat](https://github.com/Sathishkrishn/appbucket/blob/master/openNumistat.json)
+  * [scrcpy](https://github.com/Sathishkrishn/appbucket/blob/master/scrcpy.json)
+
+
+
+[https://github.com/Jokler/scoop-bucket](https://github.com/Jokler/scoop-bucket)
+  * [auto-steamgifts](https://github.com/Jokler/scoop-bucket/blob/master/auto-steamgifts.json)
+  * [bdedit](https://github.com/Jokler/scoop-bucket/blob/master/bdedit.json)
+  * [carnac](https://github.com/Jokler/scoop-bucket/blob/master/carnac.json)
+  * [ovr-advanced-settings](https://github.com/Jokler/scoop-bucket/blob/master/ovr-advanced-settings.json)
+  * [vapoursynth](https://github.com/Jokler/scoop-bucket/blob/master/vapoursynth.json)
+  * [x64dbg](https://github.com/Jokler/scoop-bucket/blob/master/x64dbg.json)
+
+
+
+[https://github.com/fredjoseph/scoop-bucket](https://github.com/fredjoseph/scoop-bucket)
+  * [NZBGet](https://github.com/fredjoseph/scoop-bucket/blob/master/NZBGet.json)
+  * [PenguinSubtitlePlayer](https://github.com/fredjoseph/scoop-bucket/blob/master/PenguinSubtitlePlayer.json)
+  * [SmartSniff](https://github.com/fredjoseph/scoop-bucket/blob/master/SmartSniff.json)
+  * [SocketSniff](https://github.com/fredjoseph/scoop-bucket/blob/master/SocketSniff.json)
+  * [SyncFolders](https://github.com/fredjoseph/scoop-bucket/blob/master/SyncFolders.json)
+  * [WMIExplorer](https://github.com/fredjoseph/scoop-bucket/blob/master/WMIExplorer.json)
+  * [WNetWatcher](https://github.com/fredjoseph/scoop-bucket/blob/master/WNetWatcher.json)
+  * [lepton](https://github.com/fredjoseph/scoop-bucket/blob/master/lepton.json)
+  * [my-keepass](https://github.com/fredjoseph/scoop-bucket/blob/master/my-keepass.json)
+  * [synchredible](https://github.com/fredjoseph/scoop-bucket/blob/master/synchredible.json)
+
+
+
+[https://github.com/simonwjackson/my-bucket](https://github.com/simonwjackson/my-bucket)
+  * [vivaldi](https://github.com/simonwjackson/my-bucket/blob/master/vivaldi.json)
+
+
+
+[https://github.com/furyfire/my-bucket](https://github.com/furyfire/my-bucket)
+  * [mosquitto](https://github.com/furyfire/my-bucket/blob/master/mosquitto.json)
+
+
+
+[https://github.com/idursun/my-bucket](https://github.com/idursun/my-bucket)
+  * [vimrc](https://github.com/idursun/my-bucket/blob/master/vimrc.json)
+
+
+
+[https://github.com/BjoernPetersen/scoop-bucket](https://github.com/BjoernPetersen/scoop-bucket)
+  * [dos2unix](https://github.com/BjoernPetersen/scoop-bucket/blob/master/dos2unix.json)
+  * [dualmonitortools](https://github.com/BjoernPetersen/scoop-bucket/blob/master/dualmonitortools.json)
+  * [jetty](https://github.com/BjoernPetersen/scoop-bucket/blob/master/jetty.json)
+  * [neorouter-portable](https://github.com/BjoernPetersen/scoop-bucket/blob/master/neorouter-portable.json)
+  * [treesize](https://github.com/BjoernPetersen/scoop-bucket/blob/master/treesize.json)
 
 
 
@@ -1178,22 +1278,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [php7](https://github.com/Sandex/scoop-supernova/blob/master/php7.json)
   * [phpstorm](https://github.com/Sandex/scoop-supernova/blob/master/phpstorm.json)
   * [winscp](https://github.com/Sandex/scoop-supernova/blob/master/winscp.json)
-
-
-
-[https://github.com/furyfire/my-bucket](https://github.com/furyfire/my-bucket)
-  * [mosquitto](https://github.com/furyfire/my-bucket/blob/master/mosquitto.json)
-
-
-
-[https://github.com/simonwjackson/my-bucket](https://github.com/simonwjackson/my-bucket)
-  * [vivaldi](https://github.com/simonwjackson/my-bucket/blob/master/vivaldi.json)
-
-
-
-[https://github.com/ezhikov/scoop-bucket](https://github.com/ezhikov/scoop-bucket)
-  * [wincompose-portable](https://github.com/ezhikov/scoop-bucket/blob/master/wincompose-portable.json)
-  * [wincompose](https://github.com/ezhikov/scoop-bucket/blob/master/wincompose.json)
 
 
 
@@ -1220,8 +1304,69 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/Aaike/scoop](https://github.com/Aaike/scoop)
-  * [github](https://github.com/Aaike/scoop/blob/master/github.json)
+[https://github.com/se35710/scoop-ibm](https://github.com/se35710/scoop-ibm)
+  * [bluemix-cli](https://github.com/se35710/scoop-ibm/blob/master/bluemix-cli.json)
+  * [eclipse-wdt](https://github.com/se35710/scoop-ibm/blob/master/eclipse-wdt.json)
+  * [nodejs-ibm](https://github.com/se35710/scoop-ibm/blob/master/nodejs-ibm.json)
+  * [nodejs4-ibm](https://github.com/se35710/scoop-ibm/blob/master/nodejs4-ibm.json)
+  * [nodejs6-ibm](https://github.com/se35710/scoop-ibm/blob/master/nodejs6-ibm.json)
+  * [nodejs8-ibm](https://github.com/se35710/scoop-ibm/blob/master/nodejs8-ibm.json)
+  * [wlp-javaee](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaee.json)
+  * [wlp-javaeeclient](https://github.com/se35710/scoop-ibm/blob/master/wlp-javaeeclient.json)
+  * [wlp-kernel](https://github.com/se35710/scoop-ibm/blob/master/wlp-kernel.json)
+  * [wlp-micro](https://github.com/se35710/scoop-ibm/blob/master/wlp-micro.json)
+  * [wlp-osgi](https://github.com/se35710/scoop-ibm/blob/master/wlp-osgi.json)
+  * [wlp](https://github.com/se35710/scoop-ibm/blob/master/wlp.json)
+
+
+
+[https://github.com/svkoh/scoop-bucket](https://github.com/svkoh/scoop-bucket)
+  * [tortoisegit](https://github.com/svkoh/scoop-bucket/blob/master/tortoisegit.json)
+
+
+
+[https://github.com/tetradice/scoop-iyokan-jp](https://github.com/tetradice/scoop-iyokan-jp)
+  * [bluewind](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind.json)
+  * [bluewind170b](https://github.com/tetradice/scoop-iyokan-jp/blob/master/bluewind170b.json)
+  * [ckw](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ckw.json)
+  * [crystaldiskinfo-kureikei](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-kureikei.json)
+  * [crystaldiskinfo-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo-shizuku.json)
+  * [crystaldiskinfo](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskinfo.json)
+  * [crystaldiskmark-shizuku](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark-shizuku.json)
+  * [crystaldiskmark](https://github.com/tetradice/scoop-iyokan-jp/blob/master/crystaldiskmark.json)
+  * [massigra](https://github.com/tetradice/scoop-iyokan-jp/blob/master/massigra.json)
+  * [mery](https://github.com/tetradice/scoop-iyokan-jp/blob/master/mery.json)
+  * [nyagos](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyagos.json)
+  * [nyaos3](https://github.com/tetradice/scoop-iyokan-jp/blob/master/nyaos3.json)
+  * [opera](https://github.com/tetradice/scoop-iyokan-jp/blob/master/opera.json)
+  * [putty-ranvis](https://github.com/tetradice/scoop-iyokan-jp/blob/master/putty-ranvis.json)
+  * [ssp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/ssp.json)
+  * [tablacus-explorer](https://github.com/tetradice/scoop-iyokan-jp/blob/master/tablacus-explorer.json)
+  * [winmerge-jp](https://github.com/tetradice/scoop-iyokan-jp/blob/master/winmerge-jp.json)
+
+
+
+[https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
+  * [aida64](https://github.com/yuanying1199/scoopbucket/blob/master/aida64.json)
+  * [bcompare4](https://github.com/yuanying1199/scoopbucket/blob/master/bcompare4.json)
+  * [bru](https://github.com/yuanying1199/scoopbucket/blob/master/bru.json)
+  * [cajviewerlite](https://github.com/yuanying1199/scoopbucket/blob/master/cajviewerlite.json)
+  * [codeblocks](https://github.com/yuanying1199/scoopbucket/blob/master/codeblocks.json)
+  * [copyq](https://github.com/yuanying1199/scoopbucket/blob/master/copyq.json)
+  * [geek](https://github.com/yuanying1199/scoopbucket/blob/master/geek.json)
+  * [goldendict](https://github.com/yuanying1199/scoopbucket/blob/master/goldendict.json)
+  * [guiyouget](https://github.com/yuanying1199/scoopbucket/blob/master/guiyouget.json)
+  * [jabref](https://github.com/yuanying1199/scoopbucket/blob/master/jabref.json)
+  * [netsetman](https://github.com/yuanying1199/scoopbucket/blob/master/netsetman.json)
+  * [nexusfont](https://github.com/yuanying1199/scoopbucket/blob/master/nexusfont.json)
+  * [phonerlite](https://github.com/yuanying1199/scoopbucket/blob/master/phonerlite.json)
+  * [sdcc](https://github.com/yuanying1199/scoopbucket/blob/master/sdcc.json)
+  * [ssr](https://github.com/yuanying1199/scoopbucket/blob/master/ssr.json)
+  * [texstudio](https://github.com/yuanying1199/scoopbucket/blob/master/texstudio.json)
+  * [typora](https://github.com/yuanying1199/scoopbucket/blob/master/typora.json)
+  * [v2ray](https://github.com/yuanying1199/scoopbucket/blob/master/v2ray.json)
+  * [winhex](https://github.com/yuanying1199/scoopbucket/blob/master/winhex.json)
+  * [yu-writer](https://github.com/yuanying1199/scoopbucket/blob/master/yu-writer.json)
 
 
 
@@ -1230,8 +1375,29 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/idursun/my-bucket](https://github.com/idursun/my-bucket)
-  * [vimrc](https://github.com/idursun/my-bucket/blob/master/vimrc.json)
+[https://github.com/liaoya/scoop-bucket](https://github.com/liaoya/scoop-bucket)
+  * [MinGit](https://github.com/liaoya/scoop-bucket/blob/master/MinGit.json)
+  * [QOwnNotes](https://github.com/liaoya/scoop-bucket/blob/master/QOwnNotes.json)
+  * [adoptopenjdk9](https://github.com/liaoya/scoop-bucket/blob/master/adoptopenjdk9.json)
+  * [codeblocks-nightly](https://github.com/liaoya/scoop-bucket/blob/master/codeblocks-nightly.json)
+  * [codeblocks](https://github.com/liaoya/scoop-bucket/blob/master/codeblocks.json)
+  * [gnuplot](https://github.com/liaoya/scoop-bucket/blob/master/gnuplot.json)
+  * [h2database](https://github.com/liaoya/scoop-bucket/blob/master/h2database.json)
+  * [kubeval](https://github.com/liaoya/scoop-bucket/blob/master/kubeval.json)
+  * [liteide](https://github.com/liaoya/scoop-bucket/blob/master/liteide.json)
+  * [mingw-nuwen](https://github.com/liaoya/scoop-bucket/blob/master/mingw-nuwen.json)
+  * [multi-commander](https://github.com/liaoya/scoop-bucket/blob/master/multi-commander.json)
+  * [ojdkbuild9](https://github.com/liaoya/scoop-bucket/blob/master/ojdkbuild9.json)
+  * [pyscripter](https://github.com/liaoya/scoop-bucket/blob/master/pyscripter.json)
+  * [realvnc-vncviewer](https://github.com/liaoya/scoop-bucket/blob/master/realvnc-vncviewer.json)
+  * [rhash](https://github.com/liaoya/scoop-bucket/blob/master/rhash.json)
+  * [srware-iron](https://github.com/liaoya/scoop-bucket/blob/master/srware-iron.json)
+  * [sublime-text-dev](https://github.com/liaoya/scoop-bucket/blob/master/sublime-text-dev.json)
+  * [tiger-vncviewer](https://github.com/liaoya/scoop-bucket/blob/master/tiger-vncviewer.json)
+  * [vnote](https://github.com/liaoya/scoop-bucket/blob/master/vnote.json)
+  * [wing-personal](https://github.com/liaoya/scoop-bucket/blob/master/wing-personal.json)
+  * [winmerge-jp](https://github.com/liaoya/scoop-bucket/blob/master/winmerge-jp.json)
+  * [winsshterm](https://github.com/liaoya/scoop-bucket/blob/master/winsshterm.json)
 
 
 
@@ -1240,56 +1406,28 @@ A collection of awesome resource for the scoop package manager for windows
   * [asciidocfx](https://github.com/sh4869221b/scoop-bucket/blob/master/asciidocfx.json)
   * [chainlp](https://github.com/sh4869221b/scoop-bucket/blob/master/chainlp.json)
   * [dokany](https://github.com/sh4869221b/scoop-bucket/blob/master/dokany.json)
+  * [ganttproject](https://github.com/sh4869221b/scoop-bucket/blob/master/ganttproject.json)
   * [infinit](https://github.com/sh4869221b/scoop-bucket/blob/master/infinit.json)
   * [mnmn](https://github.com/sh4869221b/scoop-bucket/blob/master/mnmn.json)
   * [mockoon](https://github.com/sh4869221b/scoop-bucket/blob/master/mockoon.json)
+  * [vertx](https://github.com/sh4869221b/scoop-bucket/blob/master/vertx.json)
 
 
 
-[https://github.com/klaidliadon/scoop-buckets](https://github.com/klaidliadon/scoop-buckets)
-  * [glide](https://github.com/klaidliadon/scoop-buckets/blob/master/glide.json)
-  * [rethinkdb](https://github.com/klaidliadon/scoop-buckets/blob/master/rethinkdb.json)
+[https://github.com/javageek/scoop-bucket](https://github.com/javageek/scoop-bucket)
+  * [minishift](https://github.com/javageek/scoop-bucket/blob/master/minishift.json)
 
 
 
-[https://github.com/toburger/scoop-buckets](https://github.com/toburger/scoop-buckets)
-  * [dotnet](https://github.com/toburger/scoop-buckets/blob/master/dotnet.json)
-  * [psreadline](https://github.com/toburger/scoop-buckets/blob/master/psreadline.json)
+[https://github.com/kimbirkelund/scoop-bucket](https://github.com/kimbirkelund/scoop-bucket)
+  * [procdump](https://github.com/kimbirkelund/scoop-bucket/blob/master/procdump.json)
+  * [procmon](https://github.com/kimbirkelund/scoop-bucket/blob/master/procmon.json)
 
 
 
-[https://github.com/twxs/scoop-buckets](https://github.com/twxs/scoop-buckets)
-  * [apache](https://github.com/twxs/scoop-buckets/blob/master/apache.json)
-
-
-
-[https://github.com/pcrama/scoop-buckets](https://github.com/pcrama/scoop-buckets)
-  * [FindAndRunRobotPortable](https://github.com/pcrama/scoop-buckets/blob/master/FindAndRunRobotPortable.json)
-  * [dngrep](https://github.com/pcrama/scoop-buckets/blob/master/dngrep.json)
-  * [dview](https://github.com/pcrama/scoop-buckets/blob/master/dview.json)
-  * [emax64](https://github.com/pcrama/scoop-buckets/blob/master/emax64.json)
-  * [ezwinports](https://github.com/pcrama/scoop-buckets/blob/master/ezwinports.json)
-  * [flux](https://github.com/pcrama/scoop-buckets/blob/master/flux.json)
-  * [multicommander](https://github.com/pcrama/scoop-buckets/blob/master/multicommander.json)
-  * [sift](https://github.com/pcrama/scoop-buckets/blob/master/sift.json)
-  * [smallcliutils](https://github.com/pcrama/scoop-buckets/blob/master/smallcliutils.json)
-  * [stduviewer](https://github.com/pcrama/scoop-buckets/blob/master/stduviewer.json)
-  * [unison](https://github.com/pcrama/scoop-buckets/blob/master/unison.json)
-  * [workrave](https://github.com/pcrama/scoop-buckets/blob/master/workrave.json)
-
-
-
-[https://github.com/Jokler/scoop-bucket](https://github.com/Jokler/scoop-bucket)
-  * [bdedit](https://github.com/Jokler/scoop-bucket/blob/master/bdedit.json)
-  * [carnac](https://github.com/Jokler/scoop-bucket/blob/master/carnac.json)
-  * [ovr-advanced-settings](https://github.com/Jokler/scoop-bucket/blob/master/ovr-advanced-settings.json)
-  * [vapoursynth](https://github.com/Jokler/scoop-bucket/blob/master/vapoursynth.json)
-  * [x64dbg](https://github.com/Jokler/scoop-bucket/blob/master/x64dbg.json)
-
-
-
-[https://github.com/TnmkFan/my-bucket](https://github.com/TnmkFan/my-bucket)
-  * [vagrant](https://github.com/TnmkFan/my-bucket/blob/master/vagrant.json)
+[https://github.com/mattkang/scoop-bucket](https://github.com/mattkang/scoop-bucket)
+  * [atom64](https://github.com/mattkang/scoop-bucket/blob/master/atom64.json)
+  * [meshlab](https://github.com/mattkang/scoop-bucket/blob/master/meshlab.json)
 
 
 
@@ -1298,18 +1436,53 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/yt3r/test-bucket](https://github.com/yt3r/test-bucket)
-  * [mpd](https://github.com/yt3r/test-bucket/blob/master/mpd.json)
+[https://github.com/masaeedu/scoop-growlnotify](https://github.com/masaeedu/scoop-growlnotify)
+  * [growlnotify](https://github.com/masaeedu/scoop-growlnotify/blob/master/growlnotify.json)
 
 
 
-[https://github.com/anurse/scoop-bucket](https://github.com/anurse/scoop-bucket)
-  * [cbwin](https://github.com/anurse/scoop-bucket/blob/master/cbwin.json)
-  * [gnumake](https://github.com/anurse/scoop-bucket/blob/master/gnumake.json)
-  * [ilspy](https://github.com/anurse/scoop-bucket/blob/master/ilspy.json)
-  * [protoc](https://github.com/anurse/scoop-bucket/blob/master/protoc.json)
-  * [python2](https://github.com/anurse/scoop-bucket/blob/master/python2.json)
-  * [win-openssh](https://github.com/anurse/scoop-bucket/blob/master/win-openssh.json)
+[https://github.com/deevus/scoop-games](https://github.com/deevus/scoop-games)
+  * [dwarf-fortress](https://github.com/deevus/scoop-games/blob/master/dwarf-fortress.json)
+  * [pixel-dungeon](https://github.com/deevus/scoop-games/blob/master/pixel-dungeon.json)
+
+
+
+[https://github.com/h404bi/dorado](https://github.com/h404bi/dorado)
+  * [aegisub](https://github.com/h404bi/dorado/blob/master/aegisub.json)
+  * [anaconda2](https://github.com/h404bi/dorado/blob/master/anaconda2.json)
+  * [anaconda3](https://github.com/h404bi/dorado/blob/master/anaconda3.json)
+  * [chunky](https://github.com/h404bi/dorado/blob/master/chunky.json)
+  * [dnscrypt-proxy](https://github.com/h404bi/dorado/blob/master/dnscrypt-proxy.json)
+  * [electrum](https://github.com/h404bi/dorado/blob/master/electrum.json)
+  * [fasttracker2-clone](https://github.com/h404bi/dorado/blob/master/fasttracker2-clone.json)
+  * [flv-extract](https://github.com/h404bi/dorado/blob/master/flv-extract.json)
+  * [fu](https://github.com/h404bi/dorado/blob/master/fu.json)
+  * [hfs](https://github.com/h404bi/dorado/blob/master/hfs.json)
+  * [innoextract](https://github.com/h404bi/dorado/blob/master/innoextract.json)
+  * [intellij-idea-ce](https://github.com/h404bi/dorado/blob/master/intellij-idea-ce.json)
+  * [itch](https://github.com/h404bi/dorado/blob/master/itch.json)
+  * [jd-gui](https://github.com/h404bi/dorado/blob/master/jd-gui.json)
+  * [lepton](https://github.com/h404bi/dorado/blob/master/lepton.json)
+  * [mcskin3d](https://github.com/h404bi/dorado/blob/master/mcskin3d.json)
+  * [miniconda2](https://github.com/h404bi/dorado/blob/master/miniconda2.json)
+  * [miniconda3](https://github.com/h404bi/dorado/blob/master/miniconda3.json)
+  * [mpc-be](https://github.com/h404bi/dorado/blob/master/mpc-be.json)
+  * [nbtexplorer](https://github.com/h404bi/dorado/blob/master/nbtexplorer.json)
+  * [nexusfont](https://github.com/h404bi/dorado/blob/master/nexusfont.json)
+  * [nvm-windows](https://github.com/h404bi/dorado/blob/master/nvm-windows.json)
+  * [pycharm-ce](https://github.com/h404bi/dorado/blob/master/pycharm-ce.json)
+  * [pycharm](https://github.com/h404bi/dorado/blob/master/pycharm.json)
+  * [rustup](https://github.com/h404bi/dorado/blob/master/rustup.json)
+  * [tcping](https://github.com/h404bi/dorado/blob/master/tcping.json)
+  * [trash](https://github.com/h404bi/dorado/blob/master/trash.json)
+  * [virgo](https://github.com/h404bi/dorado/blob/master/virgo.json)
+  * [vscode-insiders](https://github.com/h404bi/dorado/blob/master/vscode-insiders.json)
+  * [yarn](https://github.com/h404bi/dorado/blob/master/yarn.json)
+
+
+
+[https://github.com/nikolasd/scoop-bucket](https://github.com/nikolasd/scoop-bucket)
+  * [git-bundle](https://github.com/nikolasd/scoop-bucket/blob/master/git-bundle.json)
 
 
 
@@ -1324,118 +1497,8 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/lzimd/lzimd-scoop-bucket](https://github.com/lzimd/lzimd-scoop-bucket)
-  * [apache-jmeter](https://github.com/lzimd/lzimd-scoop-bucket/blob/master/apache-jmeter.json)
-  * [everything](https://github.com/lzimd/lzimd-scoop-bucket/blob/master/everything.json)
-  * [javarepl](https://github.com/lzimd/lzimd-scoop-bucket/blob/master/javarepl.json)
-  * [springboot](https://github.com/lzimd/lzimd-scoop-bucket/blob/master/springboot.json)
-
-
-
-[https://github.com/tditlu/scoop-amiga](https://github.com/tditlu/scoop-amiga)
-  * [vasm](https://github.com/tditlu/scoop-amiga/blob/master/vasm.json)
-  * [vbcc](https://github.com/tditlu/scoop-amiga/blob/master/vbcc.json)
-  * [vlink](https://github.com/tditlu/scoop-amiga/blob/master/vlink.json)
-
-
-
-[https://github.com/follnoob/follnoob-bucket](https://github.com/follnoob/follnoob-bucket)
-  * [flac](https://github.com/follnoob/follnoob-bucket/blob/master/flac.json)
-  * [python3.6](https://github.com/follnoob/follnoob-bucket/blob/master/python3.6.json)
-
-
-
-[https://github.com/narnaud/scoop-bucket](https://github.com/narnaud/scoop-bucket)
-  * [cloc](https://github.com/narnaud/scoop-bucket/blob/master/cloc.json)
-  * [flex-bison](https://github.com/narnaud/scoop-bucket/blob/master/flex-bison.json)
-  * [hub](https://github.com/narnaud/scoop-bucket/blob/master/hub.json)
-  * [jhead](https://github.com/narnaud/scoop-bucket/blob/master/jhead.json)
-  * [jom](https://github.com/narnaud/scoop-bucket/blob/master/jom.json)
-  * [jpegtran](https://github.com/narnaud/scoop-bucket/blob/master/jpegtran.json)
-
-
-
-[https://github.com/mattkang/scoop-bucket](https://github.com/mattkang/scoop-bucket)
-  * [atom64](https://github.com/mattkang/scoop-bucket/blob/master/atom64.json)
-  * [meshlab](https://github.com/mattkang/scoop-bucket/blob/master/meshlab.json)
-
-
-
-[https://github.com/yutahaga/scoop-bucket](https://github.com/yutahaga/scoop-bucket)
-  * [bandi-zip](https://github.com/yutahaga/scoop-bucket/blob/master/bandi-zip.json)
-  * [cmder](https://github.com/yutahaga/scoop-bucket/blob/master/cmder.json)
-  * [fenrir-fs](https://github.com/yutahaga/scoop-bucket/blob/master/fenrir-fs.json)
-  * [git-ftp](https://github.com/yutahaga/scoop-bucket/blob/master/git-ftp.json)
-  * [guetzli](https://github.com/yutahaga/scoop-bucket/blob/master/guetzli.json)
-  * [nexusfont](https://github.com/yutahaga/scoop-bucket/blob/master/nexusfont.json)
-  * [nyagos](https://github.com/yutahaga/scoop-bucket/blob/master/nyagos.json)
-  * [pngquant](https://github.com/yutahaga/scoop-bucket/blob/master/pngquant.json)
-  * [poedit](https://github.com/yutahaga/scoop-bucket/blob/master/poedit.json)
-  * [vscode-insiders](https://github.com/yutahaga/scoop-bucket/blob/master/vscode-insiders.json)
-
-
-
-[https://github.com/andreysaksonov/scoop-bucket](https://github.com/andreysaksonov/scoop-bucket)
-  * [springboot](https://github.com/andreysaksonov/scoop-bucket/blob/master/springboot.json)
-
-
-
-[https://github.com/galbro/my-bucket](https://github.com/galbro/my-bucket)
-  * [hello](https://github.com/galbro/my-bucket/blob/master/hello.json)
-
-
-
-[https://github.com/javageek/scoop-bucket](https://github.com/javageek/scoop-bucket)
-  * [minishift](https://github.com/javageek/scoop-bucket/blob/master/minishift.json)
-
-
-
-[https://github.com/nikolasd/scoop-bucket](https://github.com/nikolasd/scoop-bucket)
-  * [git-bundle](https://github.com/nikolasd/scoop-bucket/blob/master/git-bundle.json)
-
-
-
-[https://github.com/kentork/scoop-leaky-bucket](https://github.com/kentork/scoop-leaky-bucket)
-  * [a5m2](https://github.com/kentork/scoop-leaky-bucket/blob/master/a5m2.json)
-  * [rapture](https://github.com/kentork/scoop-leaky-bucket/blob/master/rapture.json)
-  * [rlogin](https://github.com/kentork/scoop-leaky-bucket/blob/master/rlogin.json)
-
-
-
-[https://github.com/mko-x/bucket](https://github.com/mko-x/bucket)
-  * [eclipse](https://github.com/mko-x/bucket/blob/master/eclipse.json)
-
-
-
-[https://github.com/rcqls/scoop-extras](https://github.com/rcqls/scoop-extras)
-  * [miktex](https://github.com/rcqls/scoop-extras/blob/master/miktex.json)
-  * [pandoc](https://github.com/rcqls/scoop-extras/blob/master/pandoc.json)
-  * [red-latest](https://github.com/rcqls/scoop-extras/blob/master/red-latest.json)
-  * [red](https://github.com/rcqls/scoop-extras/blob/master/red.json)
-
-
-
-[https://github.com/hermanjustnu/scoop-emulators](https://github.com/hermanjustnu/scoop-emulators)
-  * [cemu](https://github.com/hermanjustnu/scoop-emulators/blob/master/cemu.json)
-  * [citra-nightly](https://github.com/hermanjustnu/scoop-emulators/blob/master/citra-nightly.json)
-  * [dolphin-dev](https://github.com/hermanjustnu/scoop-emulators/blob/master/dolphin-dev.json)
-  * [dolphin](https://github.com/hermanjustnu/scoop-emulators/blob/master/dolphin.json)
-  * [fceux](https://github.com/hermanjustnu/scoop-emulators/blob/master/fceux.json)
-  * [mame](https://github.com/hermanjustnu/scoop-emulators/blob/master/mame.json)
-  * [mgba](https://github.com/hermanjustnu/scoop-emulators/blob/master/mgba.json)
-  * [project64](https://github.com/hermanjustnu/scoop-emulators/blob/master/project64.json)
-  * [snes9x](https://github.com/hermanjustnu/scoop-emulators/blob/master/snes9x.json)
-
-
-
-[https://github.com/shyun3/my-bucket](https://github.com/shyun3/my-bucket)
-  * [cppcheck](https://github.com/shyun3/my-bucket/blob/master/cppcheck.json)
-  * [universal-ctags](https://github.com/shyun3/my-bucket/blob/master/universal-ctags.json)
-
-
-
-[https://github.com/klauern/trackello-bucket](https://github.com/klauern/trackello-bucket)
-  * [trackello](https://github.com/klauern/trackello-bucket/blob/master/trackello.json)
+[https://github.com/nrakochy/scoop-solidity](https://github.com/nrakochy/scoop-solidity)
+  * [solidity](https://github.com/nrakochy/scoop-solidity/blob/master/solidity.json)
 
 
 
@@ -1443,110 +1506,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [php55](https://github.com/noquierouser/nqu-scoop/blob/master/php55.json)
   * [putty](https://github.com/noquierouser/nqu-scoop/blob/master/putty.json)
   * [trid](https://github.com/noquierouser/nqu-scoop/blob/master/trid.json)
-
-
-
-[https://github.com/DimiG/dgBucket](https://github.com/DimiG/dgBucket)
-  * [FFmbc](https://github.com/DimiG/dgBucket/blob/master/FFmbc.json)
-  * [Mov2mp4](https://github.com/DimiG/dgBucket/blob/master/Mov2mp4.json)
-  * [Mov2mp4_hb](https://github.com/DimiG/dgBucket/blob/master/Mov2mp4_hb.json)
-  * [PSWinUpdate](https://github.com/DimiG/dgBucket/blob/master/PSWinUpdate.json)
-  * [PassGEN](https://github.com/DimiG/dgBucket/blob/master/PassGEN.json)
-  * [ProResCreator](https://github.com/DimiG/dgBucket/blob/master/ProResCreator.json)
-  * [ProResMaker](https://github.com/DimiG/dgBucket/blob/master/ProResMaker.json)
-  * [RoboSync](https://github.com/DimiG/dgBucket/blob/master/RoboSync.json)
-  * [TigerVNC](https://github.com/DimiG/dgBucket/blob/master/TigerVNC.json)
-
-
-
-[https://github.com/themrhead/scoop-bucket-apps](https://github.com/themrhead/scoop-bucket-apps)
-  * [hello](https://github.com/themrhead/scoop-bucket-apps/blob/master/hello.json)
-
-
-
-[https://github.com/fredjoseph/scoop-bucket](https://github.com/fredjoseph/scoop-bucket)
-  * [NZBGet](https://github.com/fredjoseph/scoop-bucket/blob/master/NZBGet.json)
-  * [PenguinSubtitlePlayer](https://github.com/fredjoseph/scoop-bucket/blob/master/PenguinSubtitlePlayer.json)
-  * [SmartSniff](https://github.com/fredjoseph/scoop-bucket/blob/master/SmartSniff.json)
-  * [SocketSniff](https://github.com/fredjoseph/scoop-bucket/blob/master/SocketSniff.json)
-  * [SyncFolders](https://github.com/fredjoseph/scoop-bucket/blob/master/SyncFolders.json)
-  * [WMIExplorer](https://github.com/fredjoseph/scoop-bucket/blob/master/WMIExplorer.json)
-  * [WNetWatcher](https://github.com/fredjoseph/scoop-bucket/blob/master/WNetWatcher.json)
-  * [lepton](https://github.com/fredjoseph/scoop-bucket/blob/master/lepton.json)
-  * [my-keepass](https://github.com/fredjoseph/scoop-bucket/blob/master/my-keepass.json)
-  * [synchredible](https://github.com/fredjoseph/scoop-bucket/blob/master/synchredible.json)
-
-
-
-[https://github.com/pastleo/scoop-bucket](https://github.com/pastleo/scoop-bucket)
-  * [addShortCut](https://github.com/pastleo/scoop-bucket/blob/master/addShortCut.json)
-  * [mBash](https://github.com/pastleo/scoop-bucket/blob/master/mBash.json)
-
-
-
-[https://github.com/webwesen/webwesen-scoop-bucket](https://github.com/webwesen/webwesen-scoop-bucket)
-  * [ccleaner](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/ccleaner.json)
-  * [pycharm](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/pycharm.json)
-  * [winscp](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/winscp.json)
-
-
-
-[https://github.com/demas/demas-scoop](https://github.com/demas/demas-scoop)
-  * [consul](https://github.com/demas/demas-scoop/blob/master/consul.json)
-  * [hello](https://github.com/demas/demas-scoop/blob/master/hello.json)
-  * [tomcat](https://github.com/demas/demas-scoop/blob/master/tomcat.json)
-  * [total-commander](https://github.com/demas/demas-scoop/blob/master/total-commander.json)
-  * [web-storm](https://github.com/demas/demas-scoop/blob/master/web-storm.json)
-
-
-
-[https://github.com/yuanying1199/scoopbucket](https://github.com/yuanying1199/scoopbucket)
-  * [aida64](https://github.com/yuanying1199/scoopbucket/blob/master/aida64.json)
-  * [bcompare4](https://github.com/yuanying1199/scoopbucket/blob/master/bcompare4.json)
-  * [bru](https://github.com/yuanying1199/scoopbucket/blob/master/bru.json)
-  * [cajviewerlite](https://github.com/yuanying1199/scoopbucket/blob/master/cajviewerlite.json)
-  * [chfs](https://github.com/yuanying1199/scoopbucket/blob/master/chfs.json)
-  * [copyq](https://github.com/yuanying1199/scoopbucket/blob/master/copyq.json)
-  * [geek](https://github.com/yuanying1199/scoopbucket/blob/master/geek.json)
-  * [goldendict](https://github.com/yuanying1199/scoopbucket/blob/master/goldendict.json)
-  * [guiyouget](https://github.com/yuanying1199/scoopbucket/blob/master/guiyouget.json)
-  * [jabref](https://github.com/yuanying1199/scoopbucket/blob/master/jabref.json)
-  * [netsetman](https://github.com/yuanying1199/scoopbucket/blob/master/netsetman.json)
-  * [nexusfont](https://github.com/yuanying1199/scoopbucket/blob/master/nexusfont.json)
-  * [phonerlite](https://github.com/yuanying1199/scoopbucket/blob/master/phonerlite.json)
-  * [ss-qt5](https://github.com/yuanying1199/scoopbucket/blob/master/ss-qt5.json)
-  * [ssr](https://github.com/yuanying1199/scoopbucket/blob/master/ssr.json)
-  * [texstudio](https://github.com/yuanying1199/scoopbucket/blob/master/texstudio.json)
-  * [v2ray](https://github.com/yuanying1199/scoopbucket/blob/master/v2ray.json)
-  * [winhex](https://github.com/yuanying1199/scoopbucket/blob/master/winhex.json)
-  * [yu-writer](https://github.com/yuanying1199/scoopbucket/blob/master/yu-writer.json)
-
-
-
-[https://github.com/Doublemine/scoops](https://github.com/Doublemine/scoops)
-  * [v2ray-core](https://github.com/Doublemine/scoops/blob/master/v2ray-core.json)
-
-
-
-[https://github.com/iainsgillis/isg-bucket](https://github.com/iainsgillis/isg-bucket)
-  * [cmder-full](https://github.com/iainsgillis/isg-bucket/blob/master/cmder-full.json)
-  * [hyper-canary](https://github.com/iainsgillis/isg-bucket/blob/master/hyper-canary.json)
-  * [pdfsam-basic](https://github.com/iainsgillis/isg-bucket/blob/master/pdfsam-basic.json)
-
-
-
-[https://github.com/TokunaKimochi/scoop-bucket](https://github.com/TokunaKimochi/scoop-bucket)
-  * [nyagos](https://github.com/TokunaKimochi/scoop-bucket/blob/master/nyagos.json)
-
-
-
-[https://github.com/BjoernPetersen/scoop-bucket](https://github.com/BjoernPetersen/scoop-bucket)
-  * [dos2unix](https://github.com/BjoernPetersen/scoop-bucket/blob/master/dos2unix.json)
-  * [dualmonitortools](https://github.com/BjoernPetersen/scoop-bucket/blob/master/dualmonitortools.json)
-  * [neorouter-portable](https://github.com/BjoernPetersen/scoop-bucket/blob/master/neorouter-portable.json)
-  * [oraclejdk10](https://github.com/BjoernPetersen/scoop-bucket/blob/master/oraclejdk10.json)
-  * [oraclejdk9](https://github.com/BjoernPetersen/scoop-bucket/blob/master/oraclejdk9.json)
-  * [treesize](https://github.com/BjoernPetersen/scoop-bucket/blob/master/treesize.json)
 
 
 
@@ -1591,6 +1550,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [consul](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/consul.json)
   * [coreutils](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/coreutils.json)
   * [cowsay](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cowsay.json)
+  * [cppcheck](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cppcheck.json)
   * [cscope](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/cscope.json)
   * [csvtosql](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/csvtosql.json)
   * [ctags](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/ctags.json)
@@ -1608,6 +1568,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [dnvm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dnvm.json)
   * [docker-compose](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker-compose.json)
   * [docker-machine](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker-machine.json)
+  * [docker-nightly](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker-nightly.json)
   * [docker](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/docker.json)
   * [dos2unix](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dos2unix.json)
   * [dosbox](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/dosbox.json)
@@ -1636,6 +1597,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [flow](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/flow.json)
   * [flyway](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/flyway.json)
   * [fnproject](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/fnproject.json)
+  * [force](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/force.json)
   * [forge](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/forge.json)
   * [fossil](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/fossil.json)
   * [fzf](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/fzf.json)
@@ -1700,6 +1662,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [kubectl](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/kubectl.json)
   * [kvm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/kvm.json)
   * [latex](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/latex.json)
+  * [lcow](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lcow.json)
   * [leiningen](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/leiningen.json)
   * [less](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/less.json)
   * [lessmsi](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/lessmsi.json)
@@ -1749,7 +1712,6 @@ A collection of awesome resource for the scoop package manager for windows
   * [nuget](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nuget.json)
   * [nvm](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/nvm.json)
   * [octave](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/octave.json)
-  * [openjdk](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openjdk.json)
   * [openshift-origin-client](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openshift-origin-client.json)
   * [openssh](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openssh.json)
   * [openssl](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/openssl.json)
@@ -1768,6 +1730,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [pngcrush](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pngcrush.json)
   * [pngquant](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/pngquant.json)
   * [poppler](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/poppler.json)
+  * [portainer](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/portainer.json)
   * [postgresql](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/postgresql.json)
   * [premake4](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/premake4.json)
   * [premake5](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/premake5.json)
@@ -1854,6 +1817,7 @@ A collection of awesome resource for the scoop package manager for windows
   * [wixtoolset](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/wixtoolset.json)
   * [wkhtmltopdf](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/wkhtmltopdf.json)
   * [wuzz](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/wuzz.json)
+  * [wyam](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/wyam.json)
   * [x264-10bit](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/x264-10bit.json)
   * [x264](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/x264.json)
   * [xming](https://github.com/rivy/scoop.bucket-scoop.main/blob/master/xming.json)
@@ -1869,48 +1833,45 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/zeero/scoop-my-bucket](https://github.com/zeero/scoop-my-bucket)
-  * [a5m2](https://github.com/zeero/scoop-my-bucket/blob/master/a5m2.json)
-  * [clipnote](https://github.com/zeero/scoop-my-bucket/blob/master/clipnote.json)
-  * [cmigemo](https://github.com/zeero/scoop-my-bucket/blob/master/cmigemo.json)
-  * [df](https://github.com/zeero/scoop-my-bucket/blob/master/df.json)
-  * [explzh](https://github.com/zeero/scoop-my-bucket/blob/master/explzh.json)
-  * [git-credential-manager-for-windows](https://github.com/zeero/scoop-my-bucket/blob/master/git-credential-manager-for-windows.json)
-  * [git-for-windows-sdk](https://github.com/zeero/scoop-my-bucket/blob/master/git-for-windows-sdk.json)
-  * [gvim-kaoriya](https://github.com/zeero/scoop-my-bucket/blob/master/gvim-kaoriya.json)
-  * [honeyview](https://github.com/zeero/scoop-my-bucket/blob/master/honeyview.json)
-  * [keyswap](https://github.com/zeero/scoop-my-bucket/blob/master/keyswap.json)
-  * [kiki](https://github.com/zeero/scoop-my-bucket/blob/master/kiki.json)
-  * [mactype](https://github.com/zeero/scoop-my-bucket/blob/master/mactype.json)
-  * [madonote](https://github.com/zeero/scoop-my-bucket/blob/master/madonote.json)
-  * [magnet_window](https://github.com/zeero/scoop-my-bucket/blob/master/magnet_window.json)
-  * [mausuji](https://github.com/zeero/scoop-my-bucket/blob/master/mausuji.json)
-  * [mingw-get](https://github.com/zeero/scoop-my-bucket/blob/master/mingw-get.json)
-  * [mktemp](https://github.com/zeero/scoop-my-bucket/blob/master/mktemp.json)
-  * [nkf](https://github.com/zeero/scoop-my-bucket/blob/master/nkf.json)
-  * [openlink](https://github.com/zeero/scoop-my-bucket/blob/master/openlink.json)
-  * [pathcp](https://github.com/zeero/scoop-my-bucket/blob/master/pathcp.json)
-  * [sakura](https://github.com/zeero/scoop-my-bucket/blob/master/sakura.json)
-  * [softtilt](https://github.com/zeero/scoop-my-bucket/blob/master/softtilt.json)
-  * [tortoisesvn](https://github.com/zeero/scoop-my-bucket/blob/master/tortoisesvn.json)
-  * [tortoisesvn_ja](https://github.com/zeero/scoop-my-bucket/blob/master/tortoisesvn_ja.json)
-  * [wheel_redirector](https://github.com/zeero/scoop-my-bucket/blob/master/wheel_redirector.json)
+[https://github.com/tditlu/scoop-amiga](https://github.com/tditlu/scoop-amiga)
+  * [vasm](https://github.com/tditlu/scoop-amiga/blob/master/vasm.json)
+  * [vbcc](https://github.com/tditlu/scoop-amiga/blob/master/vbcc.json)
+  * [vlink](https://github.com/tditlu/scoop-amiga/blob/master/vlink.json)
 
 
 
-[https://github.com/comp500/scoop-browser](https://github.com/comp500/scoop-browser)
-  * [package-lock](https://github.com/comp500/scoop-browser/blob/master/package-lock.json)
-  * [package](https://github.com/comp500/scoop-browser/blob/master/package.json)
+[https://github.com/narnaud/scoop-bucket](https://github.com/narnaud/scoop-bucket)
+  * [cloc](https://github.com/narnaud/scoop-bucket/blob/master/cloc.json)
+  * [flex-bison](https://github.com/narnaud/scoop-bucket/blob/master/flex-bison.json)
+  * [hub](https://github.com/narnaud/scoop-bucket/blob/master/hub.json)
+  * [jhead](https://github.com/narnaud/scoop-bucket/blob/master/jhead.json)
+  * [jom](https://github.com/narnaud/scoop-bucket/blob/master/jom.json)
+  * [jpegtran](https://github.com/narnaud/scoop-bucket/blob/master/jpegtran.json)
 
 
 
-[https://github.com/michaelxmcbride/scoop-michaelxmcbride](https://github.com/michaelxmcbride/scoop-michaelxmcbride)
-  * [wifi-password](https://github.com/michaelxmcbride/scoop-michaelxmcbride/blob/master/wifi-password.json)
+[https://github.com/ghchinoy/scoop-ce](https://github.com/ghchinoy/scoop-ce)
+  * [cectl](https://github.com/ghchinoy/scoop-ce/blob/master/cectl.json)
 
 
 
-[https://github.com/masaeedu/scoop-growlnotify](https://github.com/masaeedu/scoop-growlnotify)
-  * [growlnotify](https://github.com/masaeedu/scoop-growlnotify/blob/master/growlnotify.json)
+[https://github.com/pastleo/scoop-bucket](https://github.com/pastleo/scoop-bucket)
+  * [addShortCut](https://github.com/pastleo/scoop-bucket/blob/master/addShortCut.json)
+  * [mBash](https://github.com/pastleo/scoop-bucket/blob/master/mBash.json)
+
+
+
+[https://github.com/demas/demas-scoop](https://github.com/demas/demas-scoop)
+  * [consul](https://github.com/demas/demas-scoop/blob/master/consul.json)
+  * [hello](https://github.com/demas/demas-scoop/blob/master/hello.json)
+  * [tomcat](https://github.com/demas/demas-scoop/blob/master/tomcat.json)
+  * [total-commander](https://github.com/demas/demas-scoop/blob/master/total-commander.json)
+  * [web-storm](https://github.com/demas/demas-scoop/blob/master/web-storm.json)
+
+
+
+[https://github.com/TokunaKimochi/scoop-bucket](https://github.com/TokunaKimochi/scoop-bucket)
+  * [nyagos](https://github.com/TokunaKimochi/scoop-bucket/blob/master/nyagos.json)
 
 
 
@@ -1920,13 +1881,11 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/ghchinoy/scoop-ce](https://github.com/ghchinoy/scoop-ce)
-  * [cectl](https://github.com/ghchinoy/scoop-ce/blob/master/cectl.json)
-
-
-
-[https://github.com/nrakochy/scoop-solidity](https://github.com/nrakochy/scoop-solidity)
-  * [solidity](https://github.com/nrakochy/scoop-solidity/blob/master/solidity.json)
+[https://github.com/rcqls/scoop-extras](https://github.com/rcqls/scoop-extras)
+  * [miktex](https://github.com/rcqls/scoop-extras/blob/master/miktex.json)
+  * [pandoc](https://github.com/rcqls/scoop-extras/blob/master/pandoc.json)
+  * [red-latest](https://github.com/rcqls/scoop-extras/blob/master/red-latest.json)
+  * [red](https://github.com/rcqls/scoop-extras/blob/master/red.json)
 
 
 
@@ -1938,38 +1897,19 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/jm0477/bucket](https://github.com/jm0477/bucket)
-  * [7zip](https://github.com/jm0477/bucket/blob/master/7zip.json)
-  * [adobereader](https://github.com/jm0477/bucket/blob/master/adobereader.json)
-
-
-
 [https://github.com/divanvisagie/scoop-bucket](https://github.com/divanvisagie/scoop-bucket)
   * [ghr](https://github.com/divanvisagie/scoop-bucket/blob/master/ghr.json)
   * [new](https://github.com/divanvisagie/scoop-bucket/blob/master/new.json)
 
 
 
-[https://github.com/Vngdv/another-useless-scoop-bucket](https://github.com/Vngdv/another-useless-scoop-bucket)
-  * [bandizip](https://github.com/Vngdv/another-useless-scoop-bucket/blob/master/bandizip.json)
-  * [discord](https://github.com/Vngdv/another-useless-scoop-bucket/blob/master/discord.json)
-  * [steam](https://github.com/Vngdv/another-useless-scoop-bucket/blob/master/steam.json)
+[https://github.com/cprecioso/scoop-lektor](https://github.com/cprecioso/scoop-lektor)
+  * [lektor](https://github.com/cprecioso/scoop-lektor/blob/master/lektor.json)
 
 
 
-[https://github.com/deevus/scoop-games](https://github.com/deevus/scoop-games)
-  * [dwarf-fortress](https://github.com/deevus/scoop-games/blob/master/dwarf-fortress.json)
-  * [pixel-dungeon](https://github.com/deevus/scoop-games/blob/master/pixel-dungeon.json)
-
-
-
-[https://github.com/TorrentKatten/torrentkatten-scoop-bucket](https://github.com/TorrentKatten/torrentkatten-scoop-bucket)
-  * [titan-hadoop1](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/blob/master/titan-hadoop1.json)
-
-
-
-[https://github.com/lillicoder/scoop-openjdk6](https://github.com/lillicoder/scoop-openjdk6)
-  * [openjdk6](https://github.com/lillicoder/scoop-openjdk6/blob/master/openjdk6.json)
+[https://github.com/michaelxmcbride/scoop-michaelxmcbride](https://github.com/michaelxmcbride/scoop-michaelxmcbride)
+  * [wifi-password](https://github.com/michaelxmcbride/scoop-michaelxmcbride/blob/master/wifi-password.json)
 
 
 
@@ -1978,16 +1918,33 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/sveco/my-bucket](https://github.com/sveco/my-bucket)
-  * [ansicon](https://github.com/sveco/my-bucket/blob/master/ansicon.json)
-  * [instant_eye_dropper](https://github.com/sveco/my-bucket/blob/master/instant_eye_dropper.json)
-  * [rainmeter](https://github.com/sveco/my-bucket/blob/master/rainmeter.json)
-
-
-
 [https://github.com/tapanchandra/scoop-personal](https://github.com/tapanchandra/scoop-personal)
   * [clipdiary](https://github.com/tapanchandra/scoop-personal/blob/master/clipdiary.json)
   * [winmd5](https://github.com/tapanchandra/scoop-personal/blob/master/winmd5.json)
+
+
+
+[https://github.com/comp500/scoop-browser](https://github.com/comp500/scoop-browser)
+  * [package-lock](https://github.com/comp500/scoop-browser/blob/master/package-lock.json)
+  * [package](https://github.com/comp500/scoop-browser/blob/master/package.json)
+
+
+
+[https://github.com/ErnWong/scoop-bucket](https://github.com/ErnWong/scoop-bucket)
+  * [clib](https://github.com/ErnWong/scoop-bucket/blob/master/clib.json)
+  * [llvm](https://github.com/ErnWong/scoop-bucket/blob/master/llvm.json)
+  * [vim-ernwong](https://github.com/ErnWong/scoop-bucket/blob/master/vim-ernwong.json)
+
+
+
+[https://github.com/anurse/scoop-bucket](https://github.com/anurse/scoop-bucket)
+  * [cbwin](https://github.com/anurse/scoop-bucket/blob/master/cbwin.json)
+  * [gnumake](https://github.com/anurse/scoop-bucket/blob/master/gnumake.json)
+  * [ilspy](https://github.com/anurse/scoop-bucket/blob/master/ilspy.json)
+  * [protoc](https://github.com/anurse/scoop-bucket/blob/master/protoc.json)
+  * [python2](https://github.com/anurse/scoop-bucket/blob/master/python2.json)
+  * [win-openssh](https://github.com/anurse/scoop-bucket/blob/master/win-openssh.json)
+  * [win32yank](https://github.com/anurse/scoop-bucket/blob/master/win32yank.json)
 
 
 
@@ -2033,18 +1990,6 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/82p/scoop-yubico-bucket](https://github.com/82p/scoop-yubico-bucket)
-  * [yubico-piv-tool](https://github.com/82p/scoop-yubico-bucket/blob/master/yubico-piv-tool.json)
-  * [yubihsm2-sdk](https://github.com/82p/scoop-yubico-bucket/blob/master/yubihsm2-sdk.json)
-  * [yubikey-personalization-tool](https://github.com/82p/scoop-yubico-bucket/blob/master/yubikey-personalization-tool.json)
-
-
-
-[https://github.com/wangfeishine/adds](https://github.com/wangfeishine/adds)
-  * [derby](https://github.com/wangfeishine/adds/blob/master/derby.json)
-
-
-
 [https://github.com/oltolm/scoop-nonportable](https://github.com/oltolm/scoop-nonportable)
   * [ditto-np](https://github.com/oltolm/scoop-nonportable/blob/master/ditto-np.json)
   * [everything-np](https://github.com/oltolm/scoop-nonportable/blob/master/everything-np.json)
@@ -2056,43 +2001,169 @@ A collection of awesome resource for the scoop package manager for windows
 
 
 
-[https://github.com/Guard13007/ScoopBucket](https://github.com/Guard13007/ScoopBucket)
-  * [mov2mp4](https://github.com/Guard13007/ScoopBucket/blob/master/mov2mp4.json)
-  * [rosus](https://github.com/Guard13007/ScoopBucket/blob/master/rosus.json)
+[https://github.com/galbro/my-bucket](https://github.com/galbro/my-bucket)
+  * [hello](https://github.com/galbro/my-bucket/blob/master/hello.json)
 
 
 
-[https://github.com/systemexitzero/scoop-bucket](https://github.com/systemexitzero/scoop-bucket)
-  * [chefdk](https://github.com/systemexitzero/scoop-bucket/blob/master/chefdk.json)
-  * [cloudfoundry-cli](https://github.com/systemexitzero/scoop-bucket/blob/master/cloudfoundry-cli.json)
-  * [dontsleep](https://github.com/systemexitzero/scoop-bucket/blob/master/dontsleep.json)
-  * [gifsicle](https://github.com/systemexitzero/scoop-bucket/blob/master/gifsicle.json)
-  * [html-tidy](https://github.com/systemexitzero/scoop-bucket/blob/master/html-tidy.json)
-  * [nodejs4](https://github.com/systemexitzero/scoop-bucket/blob/master/nodejs4.json)
-  * [pngout](https://github.com/systemexitzero/scoop-bucket/blob/master/pngout.json)
-  * [rapidee](https://github.com/systemexitzero/scoop-bucket/blob/master/rapidee.json)
-  * [sox](https://github.com/systemexitzero/scoop-bucket/blob/master/sox.json)
-  * [unison](https://github.com/systemexitzero/scoop-bucket/blob/master/unison.json)
-  * [wolcmd](https://github.com/systemexitzero/scoop-bucket/blob/master/wolcmd.json)
+[https://github.com/nickers/scoop-bucket](https://github.com/nickers/scoop-bucket)
+  * [qr-filetransfer](https://github.com/nickers/scoop-bucket/blob/master/qr-filetransfer.json)
 
 
 
-[https://github.com/sankaku-deltalab/sankaku-app-bucket](https://github.com/sankaku-deltalab/sankaku-app-bucket)
-  * [azpainter2](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/azpainter2.json)
-  * [bunbackup](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/bunbackup.json)
-  * [nohboard](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/nohboard.json)
-  * [obs](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/obs.json)
-  * [rapture](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/rapture.json)
-  * [shinkirou](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/shinkirou.json)
-  * [tray-volume](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/tray-volume.json)
-  * [upnpcj](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/upnpcj.json)
-  * [virtual-desktop-enhancer](https://github.com/sankaku-deltalab/sankaku-app-bucket/blob/master/virtual-desktop-enhancer.json)
+[https://github.com/jfut/scoop-jfut](https://github.com/jfut/scoop-jfut)
+  * [autopsy](https://github.com/jfut/scoop-jfut/blob/master/autopsy.json)
+  * [becky.ja](https://github.com/jfut/scoop-jfut/blob/master/becky.ja.json)
+  * [becky](https://github.com/jfut/scoop-jfut/blob/master/becky.json)
+  * [clnch](https://github.com/jfut/scoop-jfut/blob/master/clnch.json)
+  * [cotton](https://github.com/jfut/scoop-jfut/blob/master/cotton.json)
+  * [crystaldiskinfo](https://github.com/jfut/scoop-jfut/blob/master/crystaldiskinfo.json)
+  * [crystaldiskmark](https://github.com/jfut/scoop-jfut/blob/master/crystaldiskmark.json)
+  * [explzh.ja](https://github.com/jfut/scoop-jfut/blob/master/explzh.ja.json)
+  * [explzh](https://github.com/jfut/scoop-jfut/blob/master/explzh.json)
+  * [fastcopy](https://github.com/jfut/scoop-jfut/blob/master/fastcopy.json)
+  * [ffftp.ja](https://github.com/jfut/scoop-jfut/blob/master/ffftp.ja.json)
+  * [ffftp](https://github.com/jfut/scoop-jfut/blob/master/ffftp.json)
+  * [firefox.ja](https://github.com/jfut/scoop-jfut/blob/master/firefox.ja.json)
+  * [fitwin](https://github.com/jfut/scoop-jfut/blob/master/fitwin.json)
+  * [gopass](https://github.com/jfut/scoop-jfut/blob/master/gopass.json)
+  * [idmanager](https://github.com/jfut/scoop-jfut/blob/master/idmanager.json)
+  * [imgburn.ja](https://github.com/jfut/scoop-jfut/blob/master/imgburn.ja.json)
+  * [imgburn](https://github.com/jfut/scoop-jfut/blob/master/imgburn.json)
+  * [irfanview.ja](https://github.com/jfut/scoop-jfut/blob/master/irfanview.ja.json)
+  * [lhaz](https://github.com/jfut/scoop-jfut/blob/master/lhaz.json)
+  * [lyricsmaster](https://github.com/jfut/scoop-jfut/blob/master/lyricsmaster.json)
+  * [mattermost](https://github.com/jfut/scoop-jfut/blob/master/mattermost.json)
+  * [otbedit](https://github.com/jfut/scoop-jfut/blob/master/otbedit.json)
+  * [peco](https://github.com/jfut/scoop-jfut/blob/master/peco.json)
+  * [putty-gdi-pfwd](https://github.com/jfut/scoop-jfut/blob/master/putty-gdi-pfwd.json)
+  * [putty-gdi](https://github.com/jfut/scoop-jfut/blob/master/putty-gdi.json)
+  * [rdcman](https://github.com/jfut/scoop-jfut/blob/master/rdcman.json)
+  * [sizer](https://github.com/jfut/scoop-jfut/blob/master/sizer.json)
+  * [skype](https://github.com/jfut/scoop-jfut/blob/master/skype.json)
+  * [smplayer](https://github.com/jfut/scoop-jfut/blob/master/smplayer.json)
+  * [sudo](https://github.com/jfut/scoop-jfut/blob/master/sudo.json)
+  * [textpad.ja](https://github.com/jfut/scoop-jfut/blob/master/textpad.ja.json)
+  * [textpad](https://github.com/jfut/scoop-jfut/blob/master/textpad.json)
+  * [thunderbird.ja](https://github.com/jfut/scoop-jfut/blob/master/thunderbird.ja.json)
+  * [tigervnc-client](https://github.com/jfut/scoop-jfut/blob/master/tigervnc-client.json)
+  * [tursi](https://github.com/jfut/scoop-jfut/blob/master/tursi.json)
 
 
 
-[https://github.com/kimbirkelund/scoop-bucket](https://github.com/kimbirkelund/scoop-bucket)
-  * [procdump](https://github.com/kimbirkelund/scoop-bucket/blob/master/procdump.json)
-  * [procmon](https://github.com/kimbirkelund/scoop-bucket/blob/master/procmon.json)
+[https://github.com/follnoob/follnoob-bucket](https://github.com/follnoob/follnoob-bucket)
+  * [flac](https://github.com/follnoob/follnoob-bucket/blob/master/flac.json)
+  * [python3.6](https://github.com/follnoob/follnoob-bucket/blob/master/python3.6.json)
+
+
+
+[https://github.com/ghchinoy/scoop-roguewave](https://github.com/ghchinoy/scoop-roguewave)
+  * [rwctl](https://github.com/ghchinoy/scoop-roguewave/blob/master/rwctl.json)
+
+
+
+[https://github.com/nsstrunks/scoop-bucket](https://github.com/nsstrunks/scoop-bucket)
+  * [git-scm](https://github.com/nsstrunks/scoop-bucket/blob/master/git-scm.json)
+
+
+
+[https://github.com/jfut/scoop-pleiades](https://github.com/jfut/scoop-pleiades)
+  * [pleiades4.2-cpp-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-cpp-win-full.json)
+  * [pleiades4.2-cpp-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-cpp-win-standard.json)
+  * [pleiades4.2-java-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-java-win-full.json)
+  * [pleiades4.2-java-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-java-win-standard.json)
+  * [pleiades4.2-php-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-php-win-full.json)
+  * [pleiades4.2-php-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-php-win-standard.json)
+  * [pleiades4.2-platform-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-platform-win-full.json)
+  * [pleiades4.2-platform-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-platform-win-standard.json)
+  * [pleiades4.2-python-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-python-win-full.json)
+  * [pleiades4.2-python-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-python-win-standard.json)
+  * [pleiades4.2-ultimate-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-ultimate-win-full.json)
+  * [pleiades4.2-ultimate-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.2-ultimate-win-standard.json)
+  * [pleiades4.3-cpp-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-cpp-win-full.json)
+  * [pleiades4.3-cpp-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-cpp-win-standard.json)
+  * [pleiades4.3-java-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-java-win-full.json)
+  * [pleiades4.3-java-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-java-win-standard.json)
+  * [pleiades4.3-php-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-php-win-full.json)
+  * [pleiades4.3-php-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-php-win-standard.json)
+  * [pleiades4.3-platform-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-platform-win-full.json)
+  * [pleiades4.3-platform-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-platform-win-standard.json)
+  * [pleiades4.3-python-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-python-win-full.json)
+  * [pleiades4.3-python-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-python-win-standard.json)
+  * [pleiades4.3-ultimate-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-ultimate-win-full.json)
+  * [pleiades4.3-ultimate-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.3-ultimate-win-standard.json)
+  * [pleiades4.4-cpp-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-cpp-win-full.json)
+  * [pleiades4.4-cpp-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-cpp-win-standard.json)
+  * [pleiades4.4-java-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-java-win-full.json)
+  * [pleiades4.4-java-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-java-win-standard.json)
+  * [pleiades4.4-php-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-php-win-full.json)
+  * [pleiades4.4-php-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-php-win-standard.json)
+  * [pleiades4.4-platform-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-platform-win-full.json)
+  * [pleiades4.4-platform-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-platform-win-standard.json)
+  * [pleiades4.4-python-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-python-win-full.json)
+  * [pleiades4.4-python-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-python-win-standard.json)
+  * [pleiades4.4-ultimate-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-ultimate-win-full.json)
+  * [pleiades4.4-ultimate-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.4-ultimate-win-standard.json)
+  * [pleiades4.5-cpp-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-cpp-win-full.json)
+  * [pleiades4.5-cpp-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-cpp-win-standard.json)
+  * [pleiades4.5-java-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-java-win-full.json)
+  * [pleiades4.5-java-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-java-win-standard.json)
+  * [pleiades4.5-php-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-php-win-full.json)
+  * [pleiades4.5-php-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-php-win-standard.json)
+  * [pleiades4.5-platform-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-platform-win-full.json)
+  * [pleiades4.5-platform-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-platform-win-standard.json)
+  * [pleiades4.5-python-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-python-win-full.json)
+  * [pleiades4.5-python-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-python-win-standard.json)
+  * [pleiades4.5-ultimate-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-ultimate-win-full.json)
+  * [pleiades4.5-ultimate-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.5-ultimate-win-standard.json)
+  * [pleiades4.6-cpp-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-cpp-mac-full.json)
+  * [pleiades4.6-cpp-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-cpp-mac-standard.json)
+  * [pleiades4.6-cpp-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-cpp-win-full.json)
+  * [pleiades4.6-cpp-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-cpp-win-standard.json)
+  * [pleiades4.6-java-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-java-mac-full.json)
+  * [pleiades4.6-java-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-java-mac-standard.json)
+  * [pleiades4.6-java-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-java-win-full.json)
+  * [pleiades4.6-java-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-java-win-standard.json)
+  * [pleiades4.6-php-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-php-mac-full.json)
+  * [pleiades4.6-php-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-php-mac-standard.json)
+  * [pleiades4.6-php-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-php-win-full.json)
+  * [pleiades4.6-php-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-php-win-standard.json)
+  * [pleiades4.6-platform-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-platform-mac-full.json)
+  * [pleiades4.6-platform-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-platform-mac-standard.json)
+  * [pleiades4.6-platform-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-platform-win-full.json)
+  * [pleiades4.6-platform-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-platform-win-standard.json)
+  * [pleiades4.6-python-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-python-mac-full.json)
+  * [pleiades4.6-python-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-python-mac-standard.json)
+  * [pleiades4.6-python-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-python-win-full.json)
+  * [pleiades4.6-python-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-python-win-standard.json)
+  * [pleiades4.6-ultimate-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-ultimate-mac-full.json)
+  * [pleiades4.6-ultimate-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-ultimate-mac-standard.json)
+  * [pleiades4.6-ultimate-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-ultimate-win-full.json)
+  * [pleiades4.6-ultimate-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.6-ultimate-win-standard.json)
+  * [pleiades4.7-cpp-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-cpp-mac-full.json)
+  * [pleiades4.7-cpp-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-cpp-mac-standard.json)
+  * [pleiades4.7-cpp-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-cpp-win-full.json)
+  * [pleiades4.7-cpp-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-cpp-win-standard.json)
+  * [pleiades4.7-java-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-java-mac-full.json)
+  * [pleiades4.7-java-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-java-mac-standard.json)
+  * [pleiades4.7-java-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-java-win-full.json)
+  * [pleiades4.7-java-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-java-win-standard.json)
+  * [pleiades4.7-php-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-php-mac-full.json)
+  * [pleiades4.7-php-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-php-mac-standard.json)
+  * [pleiades4.7-php-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-php-win-full.json)
+  * [pleiades4.7-php-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-php-win-standard.json)
+  * [pleiades4.7-platform-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-platform-mac-full.json)
+  * [pleiades4.7-platform-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-platform-mac-standard.json)
+  * [pleiades4.7-platform-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-platform-win-full.json)
+  * [pleiades4.7-platform-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-platform-win-standard.json)
+  * [pleiades4.7-python-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-python-mac-full.json)
+  * [pleiades4.7-python-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-python-mac-standard.json)
+  * [pleiades4.7-python-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-python-win-full.json)
+  * [pleiades4.7-python-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-python-win-standard.json)
+  * [pleiades4.7-ultimate-mac-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-ultimate-mac-full.json)
+  * [pleiades4.7-ultimate-mac-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-ultimate-mac-standard.json)
+  * [pleiades4.7-ultimate-win-full](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-ultimate-win-full.json)
+  * [pleiades4.7-ultimate-win-standard](https://github.com/jfut/scoop-pleiades/blob/master/pleiades4.7-ultimate-win-standard.json)
 
 
 
@@ -2101,5 +2172,99 @@ A collection of awesome resource for the scoop package manager for windows
   * [ridnacs](https://github.com/mmichaelis/scoop-bucket/blob/master/ridnacs.json)
   * [sw-exporter](https://github.com/mmichaelis/scoop-bucket/blob/master/sw-exporter.json)
   * [typora](https://github.com/mmichaelis/scoop-bucket/blob/master/typora.json)
+
+
+
+[https://github.com/andreysaksonov/scoop-bucket](https://github.com/andreysaksonov/scoop-bucket)
+  * [springboot](https://github.com/andreysaksonov/scoop-bucket/blob/master/springboot.json)
+  * [springboot15](https://github.com/andreysaksonov/scoop-bucket/blob/master/springboot15.json)
+
+
+
+[https://github.com/lzimd/lzimd-scoop-bucket](https://github.com/lzimd/lzimd-scoop-bucket)
+  * [apache-jmeter](https://github.com/lzimd/lzimd-scoop-bucket/blob/master/apache-jmeter.json)
+  * [everything](https://github.com/lzimd/lzimd-scoop-bucket/blob/master/everything.json)
+  * [javarepl](https://github.com/lzimd/lzimd-scoop-bucket/blob/master/javarepl.json)
+  * [springboot](https://github.com/lzimd/lzimd-scoop-bucket/blob/master/springboot.json)
+
+
+
+[https://github.com/mko-x/bucket](https://github.com/mko-x/bucket)
+  * [eclipse](https://github.com/mko-x/bucket/blob/master/eclipse.json)
+
+
+
+[https://github.com/kentork/scoop-leaky-bucket](https://github.com/kentork/scoop-leaky-bucket)
+  * [a5m2](https://github.com/kentork/scoop-leaky-bucket/blob/master/a5m2.json)
+  * [rapture](https://github.com/kentork/scoop-leaky-bucket/blob/master/rapture.json)
+  * [rlogin](https://github.com/kentork/scoop-leaky-bucket/blob/master/rlogin.json)
+
+
+
+[https://github.com/Guard13007/ScoopBucket](https://github.com/Guard13007/ScoopBucket)
+  * [mov2mp4](https://github.com/Guard13007/ScoopBucket/blob/master/mov2mp4.json)
+  * [rosus](https://github.com/Guard13007/ScoopBucket/blob/master/rosus.json)
+
+
+
+[https://github.com/yt3r/test-bucket](https://github.com/yt3r/test-bucket)
+  * [mpd](https://github.com/yt3r/test-bucket/blob/master/mpd.json)
+
+
+
+[https://github.com/klauern/trackello-bucket](https://github.com/klauern/trackello-bucket)
+  * [trackello](https://github.com/klauern/trackello-bucket/blob/master/trackello.json)
+
+
+
+[https://github.com/leonidboykov/scoop-bucket](https://github.com/leonidboykov/scoop-bucket)
+  * [getmoe](https://github.com/leonidboykov/scoop-bucket/blob/master/getmoe.json)
+
+
+
+[https://github.com/shyun3/my-bucket](https://github.com/shyun3/my-bucket)
+  * [universal-ctags](https://github.com/shyun3/my-bucket/blob/master/universal-ctags.json)
+
+
+
+[https://github.com/comp500/scoop-comp500](https://github.com/comp500/scoop-comp500)
+  * [cemu-shortcut](https://github.com/comp500/scoop-comp500/blob/master/cemu-shortcut.json)
+  * [cemu](https://github.com/comp500/scoop-comp500/blob/master/cemu.json)
+  * [cemugraphicpacks](https://github.com/comp500/scoop-comp500/blob/master/cemugraphicpacks.json)
+  * [cemuhook](https://github.com/comp500/scoop-comp500/blob/master/cemuhook.json)
+  * [crystaldiskinfo](https://github.com/comp500/scoop-comp500/blob/master/crystaldiskinfo.json)
+  * [crystaldiskmark](https://github.com/comp500/scoop-comp500/blob/master/crystaldiskmark.json)
+  * [dolphin-dev](https://github.com/comp500/scoop-comp500/blob/master/dolphin-dev.json)
+  * [dolphin5](https://github.com/comp500/scoop-comp500/blob/master/dolphin5.json)
+  * [iperf3](https://github.com/comp500/scoop-comp500/blob/master/iperf3.json)
+  * [multimc](https://github.com/comp500/scoop-comp500/blob/master/multimc.json)
+  * [openttd](https://github.com/comp500/scoop-comp500/blob/master/openttd.json)
+  * [powdertoy](https://github.com/comp500/scoop-comp500/blob/master/powdertoy.json)
+  * [smartty](https://github.com/comp500/scoop-comp500/blob/master/smartty.json)
+  * [syncplay](https://github.com/comp500/scoop-comp500/blob/master/syncplay.json)
+  * [syncplaybeta](https://github.com/comp500/scoop-comp500/blob/master/syncplaybeta.json)
+  * [titledumper](https://github.com/comp500/scoop-comp500/blob/master/titledumper.json)
+  * [treesize](https://github.com/comp500/scoop-comp500/blob/master/treesize.json)
+  * [win32diskimager](https://github.com/comp500/scoop-comp500/blob/master/win32diskimager.json)
+
+
+
+[https://github.com/webwesen/webwesen-scoop-bucket](https://github.com/webwesen/webwesen-scoop-bucket)
+  * [ccleaner](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/ccleaner.json)
+  * [pycharm](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/pycharm.json)
+  * [winscp](https://github.com/webwesen/webwesen-scoop-bucket/blob/master/winscp.json)
+
+
+
+[https://github.com/DimiG/dgBucket](https://github.com/DimiG/dgBucket)
+  * [FFmbc](https://github.com/DimiG/dgBucket/blob/master/FFmbc.json)
+  * [Mov2mp4](https://github.com/DimiG/dgBucket/blob/master/Mov2mp4.json)
+  * [Mov2mp4_hb](https://github.com/DimiG/dgBucket/blob/master/Mov2mp4_hb.json)
+  * [PSWinUpdate](https://github.com/DimiG/dgBucket/blob/master/PSWinUpdate.json)
+  * [PassGEN](https://github.com/DimiG/dgBucket/blob/master/PassGEN.json)
+  * [ProResCreator](https://github.com/DimiG/dgBucket/blob/master/ProResCreator.json)
+  * [ProResMaker](https://github.com/DimiG/dgBucket/blob/master/ProResMaker.json)
+  * [RoboSync](https://github.com/DimiG/dgBucket/blob/master/RoboSync.json)
+  * [TigerVNC](https://github.com/DimiG/dgBucket/blob/master/TigerVNC.json)
 
 
