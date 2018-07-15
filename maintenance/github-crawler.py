@@ -679,6 +679,7 @@ def save_cache():
     """ @todo """
     global cache
 
+    print("Saving cache")
     cache['last_run'] = datetime.strftime(
         datetime.now().replace(hour=0, minute=0, second=0),
         '%Y-%m-%dT%H:%M:%SZ')
@@ -697,6 +698,7 @@ def sort_repos():
     global repos_by_score
     global repos_by_name
 
+    print("Sorting output")
     repos = [repo for repo in cache.keys()]
     repos_by_score = [
         repo for repo in repos
@@ -710,8 +712,8 @@ def sort_repos():
                 'packages'], cache[repo]['full_name'].lower()))
     # print(str(len(repos_by_score)) + ' valid repositories found.')
 
-    for i, repo in enumerate(repos_by_score):
-        repos_by_score[i]['index'] = i + 1
+    # for i, repo in enumerate(repos_by_score):
+    #    repos_by_score[i]['index'] = i + 1
 
     repos_by_name = copy.deepcopy(repos_by_score)
     repos_by_name = sorted(
@@ -721,6 +723,8 @@ def sort_repos():
 
 def do_render():
     """ @todo """
+    
+    print("Generating readme")
     TEMPLATE_ENVIRONMENT = Environment(
         autoescape=False,
         loader=FileSystemLoader(os.path.join(dir_path, 'template')),
@@ -733,7 +737,8 @@ def do_render():
     markdown_content = TEMPLATE_ENVIRONMENT.get_template(tpl).render(context)
     filename = os.path.join(dir_path, '..', 'README.md')
     with io.open(filename, 'w', encoding='utf-8', newline="\n") as f:
-        f.write(markdown_content)
+        written = f.write(markdown_content)
+        print("Wrote %d bytes" % written)
     return True
 
 
@@ -772,7 +777,7 @@ repos_by_name = []
 
 per_page = 100
 
-if False:
+if True:
     per_page = 1
     max_pages = 1
     searches[0]['pages'] = max_pages
