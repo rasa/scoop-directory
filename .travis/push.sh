@@ -10,7 +10,7 @@ upload_files() {
   git add . -A
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER [ci skip]"
   ls
-  git remote add github-origin https://algomaniac:${GITHuB_TOKEN}@github.com/algomaniac/awesome-scoop.git
+  git remote add github-origin https://rasa:${GITHuB_TOKEN}@github.com/rasa/scoop-directory.git
   git push --force --quiet github-origin master > /dev/null 2>&1
 }
 
