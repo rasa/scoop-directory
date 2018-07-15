@@ -1,5 +1,5 @@
 # Scoop buckets by <del>Github score</del> update date
-*https://scoop.sh* ![Build Status](https://travis-ci.org/rasa/scoop-directory.svg)
+*https://scoop.sh* [![Build Status](https://travis-ci.org/rasa/scoop-directory.svg)](https://travis-ci.org/rasa/scoop-directory "Build status")
 
 | Bucket | Apps | ![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars") | ![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks") | Updated |
 | :--- | ---: | ---: | ---: | ---: |
