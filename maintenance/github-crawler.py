@@ -782,7 +782,7 @@ repos_by_name = []
 
 per_page = 100
 
-if True:
+if False:
     per_page = 1
     max_pages = 1
     searches[0]['pages'] = max_pages
