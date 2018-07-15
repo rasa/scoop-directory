@@ -16,6 +16,7 @@ import re
 import sys
 import time
 
+# from builtins import dict
 from datetime import datetime
 
 import chardet
@@ -373,7 +374,8 @@ def fetchjson(urlstr):
 
 def get_builtins():
     """ @todo """
-    for key, url in bucket_list.iteritems():
+    for key in bucket_list:
+        url = bucket_list[key]
         m = re.search(r'github\.com/(.*)$', url, re.I)
         if m:
             name = m.group(1)
