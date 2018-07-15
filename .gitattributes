@@ -1,0 +1,21 @@
+# Detect text files automatically
+* text=auto eol=lf
+
+# Force CRLF line endings on these files
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.aspx -text
+
+#*.doc -text
+#*.docx -text
+#*.gif -text
+#*.ico -text
+#*.jpg -text
+#*.mp4 -text
+#*.ogg -text
+#*.pdf -text
+#*.png -text
+#*.tif -text
+#*.wav -text
+#*.xls -text
+#*.xlsx -text
