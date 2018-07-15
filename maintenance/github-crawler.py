@@ -767,7 +767,12 @@ keys = [
     'version', ]
 
 dir_path = os.path.dirname(os.path.realpath(__file__))
-cache_dir = 'd:/c'
+cache_dir = os.path.join(dir_path, 'cache')
+
+if 'COMPUTERNAME' in os.environ:
+    if os.environ['COMPUTERNAME'] == 'KITSUNE':
+        cache_dir = 'd:/c'
+
 last_run = None
 
 cache = {}
@@ -777,7 +782,7 @@ repos_by_name = []
 
 per_page = 100
 
-if True:
+if False:
     per_page = 1
     max_pages = 1
     searches[0]['pages'] = max_pages
