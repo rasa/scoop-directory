@@ -1,5 +1,5 @@
-# Scoop buckets by <del>Github score</del>update date
-*https://scoop.sh*
+# Scoop buckets by <del>Github score</del> update date
+*https://scoop.sh* ![Build Status](https://travis-ci.org/rasa/scoop-directory.svg)
 
 | Bucket | Apps | ![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars") | ![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks") | Updated |
 | :--- | ---: | ---: | ---: | ---: |
@@ -16,5 +16,4 @@
 {% endfor -%}
 {% endfor -%}
 
-<!-- *Generated on _ via _ by _* -->
 *<a href="https://icons8.com/">Icon pack by Icons8</a>*
