@@ -706,7 +706,7 @@ def sort_repos(first_sort_key):
     repos_by_score = sorted(
         repos_by_score,
         key=lambda repo: (
-            first_sort_key, -cache[repo]['score'], -cache[repo]['stars'],
+            -cache[repo][first_sort_key], -cache[repo]['score'], -cache[repo]['stars'],
             -cache[repo]['forks'], -cache[repo]['watchers'], -cache[repo][
                 'packages'], cache[repo]['full_name'].lower()))
     
@@ -746,10 +746,10 @@ def main():
     initialize_cache()
     do_searches()
     save_cache()
-    sort_repos(-cache[repo]['score'])
+    sort_repos('score')
     filename = os.path.realpath(os.path.join(dir_path, '..', 'README.md'))
     do_render(filename, 'Github score')
-    sort_repos(-cache[repo]['epoch'])
+    sort_repos('epoch')
     filename = os.path.realpath(os.path.join(dir_path, '..', 'by-date-updated.md'))
     do_render(filename, 'update date')
     return 0
