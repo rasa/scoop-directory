@@ -748,7 +748,7 @@ def main():
     save_cache()
     sort_repos(-cache[repo]['score'])
     filename = os.path.realpath(os.path.join(dir_path, '..', 'README.md'))
-    do_render(filename'Github score')
+    do_render(filename, 'Github score')
     sort_repos(-cache[repo]['epoch'])
     filename = os.path.realpath(os.path.join(dir_path, '..', 'by-date-updated.md'))
     do_render(filename, 'update date')
