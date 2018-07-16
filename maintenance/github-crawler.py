@@ -693,7 +693,7 @@ def save_cache():
     return 0
 
 
-def sort_repos():
+def sort_repos(first_sort_key):
     """ @todo """
     global repos_by_score
     global repos_by_name
@@ -705,26 +705,24 @@ def sort_repos():
         if repo != 'last_run' and len(cache[repo]['entries']) > 0]
     repos_by_score = sorted(
         repos_by_score,
-        # reverse=True,
         key=lambda repo: (
-            -cache[repo]['epoch'], -cache[repo]['score'], -cache[repo]['stars'],
+            first_sort_key, -cache[repo]['score'], -cache[repo]['stars'],
             -cache[repo]['forks'], -cache[repo]['watchers'], -cache[repo][
                 'packages'], cache[repo]['full_name'].lower()))
-    # print(str(len(repos_by_score)) + ' valid repositories found.')
-
-    # for i, repo in enumerate(repos_by_score):
-    #    repos_by_score[i]['index'] = i + 1
-
+    
     repos_by_name = copy.deepcopy(repos_by_score)
     repos_by_name = sorted(
         repos_by_name, key=lambda repo: cache[repo]['full_name'].lower())
     return True
 
 
-def do_render():
+def do_render(filename, sort_order_description):
     """ @todo """
     
-    print("Generating readme")
+    if not os.path.isfile(filename):
+        print("File not found: %s" % filename)
+        return False    
+    print("Generating %s" % filename)
     TEMPLATE_ENVIRONMENT = Environment(
         autoescape=False,
         loader=FileSystemLoader(os.path.join(dir_path, 'template')),
@@ -732,26 +730,28 @@ def do_render():
     context = {
         'repos_by_score': repos_by_score,
         'repos_by_name': repos_by_name,
-        'cache': cache}
+        'cache': cache,
+        'sort_order_description': sort_order_description}
     tpl = 'ReadmeTemplate.tpl'
     markdown_content = TEMPLATE_ENVIRONMENT.get_template(tpl).render(context)
-    filename = os.path.join(dir_path, '..', 'README.md')
     with io.open(filename, 'w', encoding='utf-8', newline="\n") as f:
         written = f.write(markdown_content)
-        print("Wrote %d bytes" % written)
+        print("Wrote %d bytes to %s" % (written, filename))
     return True
 
 
 def main():
     """ @todo """
     get_builtins()
-    # pprint.pprint(dict(builtins), width=1)
-    # sys.exit()
     initialize_cache()
     do_searches()
     save_cache()
-    sort_repos()
-    do_render()
+    sort_repos(-cache[repo]['score'])
+    filename = os.path.realpath(os.path.join(dir_path, '..', 'README.md'))
+    do_render(filename'Github score')
+    sort_repos(-cache[repo]['epoch'])
+    filename = os.path.realpath(os.path.join(dir_path, '..', 'by-date-updated.md'))
+    do_render(filename, 'update date')
     return 0
 
 
