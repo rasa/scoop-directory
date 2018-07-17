@@ -1,4 +1,4 @@
-# [Scoop](https://scoop.sh/) buckets by {{sort_order_description} 
+# [Scoop](https://scoop.sh/) buckets by {{sort_order_description}}
 [![Build Status](https://travis-ci.org/rasa/scoop-directory.svg)](https://travis-ci.org/rasa/scoop-directory "Build status") {#
 #} [![Chat on Gitter](https://badges.gitter.im/lukesampson/scoop.svg)](https://gitter.im/lukesampson/scoop) {#
 #} [!["MIT Licensed"](https://img.shields.io/github/license/tapanchandra/awesome-scoop.svg)](https://github.com/rasa/scoop-directory/blob/master/LICENSE "MIT Licensed")
