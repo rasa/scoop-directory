@@ -1,5 +1,5 @@
 # Scoop buckets by {{sort_order_description}}
-*https://scoop.sh* [![Build Status](https://travis-ci.org/rasa/scoop-directory.svg)](https://travis-ci.org/rasa/scoop-directory "Build status")
+*https://scoop.sh* [![Build Status](https://travis-ci.org/rasa/scoop-directory.svg)](https://travis-ci.org/rasa/scoop-directory "Build status") [![Chat on Gitter](https://badges.gitter.im/lukesampson/scoop.svg)](https://gitter.im/lukesampson/scoop)
 
 | Bucket | Apps | ![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars") | ![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks") | Updated |
 | :--- | ---: | ---: | ---: | ---: |
