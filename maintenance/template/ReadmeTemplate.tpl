@@ -3,7 +3,7 @@
 
 | Bucket | Apps | ![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars") | ![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks") | Updated |
 | :--- | ---: | ---: | ---: | ---: |
-{% for repo in repos_by_score %}|<a name="back_{{cache[repo]['id']}}" id="back_{{cache[repo]['id']}}"></a>[{{loop.index}}.](# "{{cache[repo]['score']}}")  [__{{cache[repo]['full_name']}}__]({{cache[repo]['url']}}){{cache[repo]['cdescription']}}|[{{cache[repo]['packages']}}](#{{cache[repo]['id']}})|[{{cache[repo]['stars']}}]({{cache[repo]['stars_url']}})|[{{cache[repo]['forks']}}]({{cache[repo]['forks_url']}})|[{{cache[repo]['updated']}}]({{cache[repo]['updated_url']}})|
+{% for repo in repos_by_score %}|<a name="back_{{cache[repo]['id']}}" id="back_{{cache[repo]['id']}}"></a>[{{loop.index}}.](# "{{cache[repo]['score']}}")  [__{{cache[repo]['full_name']}}__]({{cache[repo]['url']}}){{cache[repo]['cdescription']|e}}|[{{cache[repo]['packages']}}](#{{cache[repo]['id']}})|[{{cache[repo]['stars']}}]({{cache[repo]['stars_url']}})|[{{cache[repo]['forks']}}]({{cache[repo]['forks_url']}})|[{{cache[repo]['updated']}}]({{cache[repo]['updated_url']}})|
 {% endfor -%}
 | **Bucket** | **Apps** | **![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars")** | **![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks")** | **Updated** |
 
@@ -12,7 +12,7 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-{% for entry in cache[repo]['entries'] -%}| [{{entry['json']}}]({{entry['url']}}) | {{entry['version']}} | {{entry['description']}} | {{entry['license']}} |
+{% for entry in cache[repo]['entries'] -%}| [{{entry['json']}}]({{entry['url']}}) | {{entry['version']|e}} | {{entry['description']|e}} | {{entry['license']|e}} |
 {% endfor -%}
 {% endfor -%}
 
