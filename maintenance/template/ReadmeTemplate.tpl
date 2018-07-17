@@ -26,9 +26,9 @@
 | :--- | :--- | :--- | :--- |
 {% for entry in cache[repo]['entries'] -%}{#
 #}| [{{entry['json']}}]({{entry['url']}}) {#
-#}| {{entry['version']|e}} {#
+#}| {{entry['version']}} {#
 #}| {{entry['description']|e}} {#
-#}| {{entry['license']|e}} |
+#}| {{entry['license']}} |
 {% endfor -%}
 {% endfor -%}
 
