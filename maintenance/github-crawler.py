@@ -285,7 +285,7 @@ def do_license(v):
     if re.search('^(http|ftp)', url):
         if not identifier:
             identifier = 'Link'
-        v = '[%s](%s "%s")' % (identifier, url, url)
+        v = '[%s](%s)' % (identifier, url)
         return v
 
     if not identifier:
