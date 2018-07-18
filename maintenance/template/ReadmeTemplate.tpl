@@ -1,7 +1,7 @@
 # [Scoop](https://scoop.sh/) buckets by {{sort_order_description}}
 [![Build Status](https://travis-ci.org/rasa/scoop-directory.svg)](https://travis-ci.org/rasa/scoop-directory "Build status") {#
 #} [![Chat on Gitter](https://badges.gitter.im/lukesampson/scoop.svg)](https://gitter.im/lukesampson/scoop) {#
-#} <-- [!["MIT Licensed"](https://img.shields.io/github/license/tapanchandra/awesome-scoop.svg)](https://github.com/rasa/scoop-directory/blob/master/LICENSE "MIT Licensed") {#
+#} <!-- [!["MIT Licensed"](https://img.shields.io/github/license/tapanchandra/awesome-scoop.svg)](https://github.com/rasa/scoop-directory/blob/master/LICENSE "MIT Licensed") {#
 #} --> [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/h404bi/awesome-scoop/blob/master/README.md "Awesome Scoop")
 
 | Bucket | Apps | ![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars"){#
