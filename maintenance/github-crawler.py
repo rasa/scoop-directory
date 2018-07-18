@@ -304,7 +304,7 @@ def do_license(v):
         elif k in lmap:
             url = lmap[k]
         if url > '':
-            v += '[%s](%s "%s")' % (fix_license(part), url, url)
+            v += '[%s](%s)' % (fix_license(part), url)
         else:
             v += part
         break
@@ -350,7 +350,7 @@ def do_version(js):
         version = '*%s*' % version.strip()
     if url == '':
         return version
-    return '[%s](%s "%s")' % (version, url, url)
+    return '[%s](%s)' % (version, url)
 
 
 def fetchjson(urlstr):
@@ -434,7 +434,6 @@ def do_repo(repo, i, num_repos, do_score=True):
         pprint.pprint(dict(repo), width=1)
         return 0
 
-    # name = repo['name']
     full_name = repo['full_name']
 
     print('  %3d/%3d: %-50s: ' % (i, num_repos, full_name), end='')
@@ -497,7 +496,6 @@ def do_repo(repo, i, num_repos, do_score=True):
             idescription = ''
             cdescription = ''
 
-        # '2018-07-14T00:33:08Z',
         pattern = '%Y-%m-%dT%H:%M:%S'
         try:
             epoch = int(
@@ -601,6 +599,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                         v = do_version(j)
 
                     row[key] = v
+                # @TODO add bits/exes,shortcuts
                 # https://png.icons8.com/android/48/000000/ok.png
                 # https://png.icons8.com/android/48/000000/32bit.png
                 # https://png.icons8.com/android/48/000000/64bit.png
