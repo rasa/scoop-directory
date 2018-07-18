@@ -356,19 +356,17 @@ def do_version(js):
 def fetchjson(urlstr):
     """ @todo """
     response = requests.get(url=urlstr)
-    if response.status_code > 299:
+    if 'X-RateLimit-Remaining' not in response.headers:
         pprint.pprint(dict(response.headers), width=1)
-        return []
-    h = response.headers
-    if 'X-RateLimit-Remaining' not in h:
-        pprint.pprint(dict(response.headers), width=1)
-    if int(h['X-RateLimit-Remaining']) < 1:
-        reset = float(h['X-RateLimit-Reset'])
+    elif int(response.headers['X-RateLimit-Remaining']) < 1:
+        reset = float(response.headers['X-RateLimit-Reset'])
         secs = reset - time.time()
         if secs > 0:
-            print('Sleeping %d seconds' % secs)
+            print('Sleeping %d seconds due to rate limiting' % secs)
             time.sleep(secs)
-
+    if response.status_code > 299:
+        pprint.pprint(dict(response.headers), width=1)
+        return {}
     return response.json()
 
 
