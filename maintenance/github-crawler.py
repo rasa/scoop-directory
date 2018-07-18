@@ -515,7 +515,6 @@ def do_repo(repo, i, num_repos, do_score=True):
             'full_name': full_name,
             'id': id_,
             'idescription': idescription,
-            # 'name':name,
             'packages': 0,
             'score': score,
             'score5': round(score, 2),
@@ -524,9 +523,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             'stars_url': html_url + '/stargazers',
             'updated': repo['updated_at'][2:10].replace('-', '&#x2011;'),
             'updated_url': html_url + '/commits',
-            'url': html_url,
-            'watchers': int(repo['watchers']),
-            'watchers_url': html_url + '/watchers', }
+            'url': html_url, }
 
     elif repofoldername in cache and (last_updated > last_run):
         repo = Repo(os.path.join(cache_dir, repofoldername))
@@ -707,8 +704,8 @@ def sort_repos(first_sort_key):
         repos_by_score,
         key=lambda repo: (
             -cache[repo][first_sort_key], -cache[repo]['score'], -cache[repo]['stars'],
-            -cache[repo]['forks'], -cache[repo]['watchers'], -cache[repo][
-                'packages'], cache[repo]['full_name'].lower()))
+            -cache[repo]['forks'], -cache[repo]['packages'], 
+            cache[repo]['full_name'].lower()))
     
     repos_by_name = copy.deepcopy(repos_by_score)
     repos_by_name = sorted(
@@ -718,10 +715,6 @@ def sort_repos(first_sort_key):
 
 def do_render(filename, sort_order_description):
     """ @todo """
-    
-    if not os.path.isfile(filename):
-        print("File not found: %s" % filename)
-        return False    
     print("Generating %s" % filename)
     TEMPLATE_ENVIRONMENT = Environment(
         autoescape=False,
@@ -740,18 +733,25 @@ def do_render(filename, sort_order_description):
     return True
 
 
+def do_readme(sort_field, output_file, sort_order_description):
+    """ @todo """
+    filename = os.path.realpath(os.path.join(dir_path, '..', output_file))
+    if not os.path.isfile(filename):
+        print("File not found: %s" % filename)
+        return False    
+    sort_repos(sort_field)
+    do_render(filename, sort_order_description)
+    return True
+
+
 def main():
     """ @todo """
     get_builtins()
     initialize_cache()
     do_searches()
     save_cache()
-    sort_repos('score')
-    filename = os.path.realpath(os.path.join(dir_path, '..', 'README.md'))
-    do_render(filename, 'Github score')
-    sort_repos('epoch')
-    filename = os.path.realpath(os.path.join(dir_path, '..', 'by-date-updated.md'))
-    do_render(filename, 'update date')
+    do_readme('score', 'README.md', 'Github score')
+    do_readme('epoch', 'by-date-updated.md', 'update date')
     return 0
 
 
