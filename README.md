@@ -3,190 +3,190 @@
 
 | Bucket | Apps | ![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars") | ![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks") | Updated |
 | :--- | ---: | ---: | ---: | ---: |
-|<a name="back_lukesampson_scoop-extras" id="back_lukesampson_scoop-extras"></a>[1.](# "221.1645") [__lukesampson/scoop-extras__](https://github.com/lukesampson/scoop-extras): *&#34;Extras&#34; bucket for Scoop (scoop&#39;s built-in bucket &#39;extras&#39;)*|[412](#lukesampson_scoop-extras)|[248](https://github.com/lukesampson/scoop-extras/stargazers)|[215](https://github.com/lukesampson/scoop-extras/network)|[18&#x2011;07&#x2011;17](https://github.com/lukesampson/scoop-extras/commits)|
-|<a name="back_lukesampson_scoop" id="back_lukesampson_scoop"></a>[2.](# "99.45588") [__lukesampson/scoop__](https://github.com/lukesampson/scoop): *A command-line installer for Windows. (scoop&#39;s main/default bucket)*|[337](#lukesampson_scoop)|[4430](https://github.com/lukesampson/scoop/stargazers)|[487](https://github.com/lukesampson/scoop/network)|[18&#x2011;07&#x2011;18](https://github.com/lukesampson/scoop/commits)|
-|<a name="back_scoopinstaller_versions" id="back_scoopinstaller_versions"></a>[3.](# "91.10206") [__scoopinstaller/versions__](https://github.com/scoopinstaller/versions): *A Scoop bucket for alternative versions of apps. (scoop&#39;s built-in bucket &#39;versions&#39;)*|[59](#scoopinstaller_versions)|[7](https://github.com/scoopinstaller/versions/stargazers)|[20](https://github.com/scoopinstaller/versions/network)|[18&#x2011;07&#x2011;14](https://github.com/scoopinstaller/versions/commits)|
-|<a name="back_kodybrown_scoop-nirsoft" id="back_kodybrown_scoop-nirsoft"></a>[4.](# "68.23418") [__kodybrown/scoop-nirsoft__](https://github.com/kodybrown/scoop-nirsoft): *A Scoop bucket of useful NirSoft utilities (scoop&#39;s built-in bucket &#39;nirsoft&#39;)*|[18](#kodybrown_scoop-nirsoft)|[11](https://github.com/kodybrown/scoop-nirsoft/stargazers)|[3](https://github.com/kodybrown/scoop-nirsoft/network)|[18&#x2011;05&#x2011;15](https://github.com/kodybrown/scoop-nirsoft/commits)|
-|<a name="back_nueko_php-ext-bucket" id="back_nueko_php-ext-bucket"></a>[5.](# "61.11572") [__nueko/php-ext-bucket__](https://github.com/nueko/php-ext-bucket): *Scoop Bucket for PHP Extensions*|[54](#nueko_php-ext-bucket)|[3](https://github.com/nueko/php-ext-bucket/stargazers)|[3](https://github.com/nueko/php-ext-bucket/network)|[18&#x2011;06&#x2011;14](https://github.com/nueko/php-ext-bucket/commits)|
-|<a name="back_matthewjberger_scoop-nerd-fonts" id="back_matthewjberger_scoop-nerd-fonts"></a>[6.](# "60.59275") [__matthewjberger/scoop-nerd-fonts__](https://github.com/matthewjberger/scoop-nerd-fonts): *A scoop bucket for installing nerd fonts. (scoop&#39;s built-in bucket &#39;nerd-fonts&#39;)*|[34](#matthewjberger_scoop-nerd-fonts)|[13](https://github.com/matthewjberger/scoop-nerd-fonts/stargazers)|[1](https://github.com/matthewjberger/scoop-nerd-fonts/network)|[18&#x2011;07&#x2011;17](https://github.com/matthewjberger/scoop-nerd-fonts/commits)|
-|<a name="back_TheCjw_scoop-retools" id="back_TheCjw_scoop-retools"></a>[7.](# "54.840027") [__TheCjw/scoop-retools__](https://github.com/TheCjw/scoop-retools): *Scoop bucket for reverse engineering tools*|[15](#TheCjw_scoop-retools)|[7](https://github.com/TheCjw/scoop-retools/stargazers)|[2](https://github.com/TheCjw/scoop-retools/network)|[18&#x2011;07&#x2011;16](https://github.com/TheCjw/scoop-retools/commits)|
-|<a name="back_nueko_scoop-php" id="back_nueko_scoop-php"></a>[8.](# "51.018616") [__nueko/scoop-php__](https://github.com/nueko/scoop-php): *PHP Bucket for http://scoop.sh (scoop&#39;s built-in bucket &#39;php&#39;)*|[438](#nueko_scoop-php)|[5](https://github.com/nueko/scoop-php/stargazers)|[2](https://github.com/nueko/scoop-php/network)|[18&#x2011;07&#x2011;17](https://github.com/nueko/scoop-php/commits)|
-|<a name="back_rasa_scoops" id="back_rasa_scoops"></a>[9.](# "47.891167") [__rasa/scoops__](https://github.com/rasa/scoops): *:fries: A bucket of tasty scoop flavored apps.*|[68](#rasa_scoops)|[7](https://github.com/rasa/scoops/stargazers)|[2](https://github.com/rasa/scoops/network)|[18&#x2011;07&#x2011;17](https://github.com/rasa/scoops/commits)|
-|<a name="back_maman_scoop-bucket" id="back_maman_scoop-bucket"></a>[10.](# "46.188293") [__maman/scoop-bucket__](https://github.com/maman/scoop-bucket): *Additional buckets for scoop - homebrew for windows*|[7](#maman_scoop-bucket)|[2](https://github.com/maman/scoop-bucket/stargazers)|[2](https://github.com/maman/scoop-bucket/network)|[17&#x2011;05&#x2011;26](https://github.com/maman/scoop-bucket/commits)|
-|<a name="back_jmcarbo_scoopbucket" id="back_jmcarbo_scoopbucket"></a>[11.](# "42.072056") [__jmcarbo/scoopbucket__](https://github.com/jmcarbo/scoopbucket): *Scoop bucket install definitions*|[6](#jmcarbo_scoopbucket)|[1](https://github.com/jmcarbo/scoopbucket/stargazers)|[2](https://github.com/jmcarbo/scoopbucket/network)|[16&#x2011;09&#x2011;08](https://github.com/jmcarbo/scoopbucket/commits)|
-|<a name="back_red_scoop-bucket" id="back_red_scoop-bucket"></a>[12.](# "39.78551") [__red/scoop-bucket__](https://github.com/red/scoop-bucket)|[2](#red_scoop-bucket)|[1](https://github.com/red/scoop-bucket/stargazers)|[2](https://github.com/red/scoop-bucket/network)|[17&#x2011;05&#x2011;16](https://github.com/red/scoop-bucket/commits)|
-|<a name="back_Utdanningsdirektoratet_PAS-scoop-public" id="back_Utdanningsdirektoratet_PAS-scoop-public"></a>[13.](# "36.89534") [__Utdanningsdirektoratet/PAS-scoop-public__](https://github.com/Utdanningsdirektoratet/PAS-scoop-public)|[33](#Utdanningsdirektoratet_PAS-scoop-public)|[0](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/stargazers)|[0](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/network)|[16&#x2011;05&#x2011;31](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/commits)|
-|<a name="back_liaoya_scoop-bucket" id="back_liaoya_scoop-bucket"></a>[14.](# "34.233753") [__liaoya/scoop-bucket__](https://github.com/liaoya/scoop-bucket): *Tom&#39;s scoop bucket which contain the software does not exist in main and extras scoop bucket*|[23](#liaoya_scoop-bucket)|[3](https://github.com/liaoya/scoop-bucket/stargazers)|[0](https://github.com/liaoya/scoop-bucket/network)|[18&#x2011;07&#x2011;10](https://github.com/liaoya/scoop-bucket/commits)|
-|<a name="back_hermanjustnu_scoop-emulators" id="back_hermanjustnu_scoop-emulators"></a>[15.](# "32.56288") [__hermanjustnu/scoop-emulators__](https://github.com/hermanjustnu/scoop-emulators): *Scoop bucket for emulators*|[10](#hermanjustnu_scoop-emulators)|[2](https://github.com/hermanjustnu/scoop-emulators/stargazers)|[0](https://github.com/hermanjustnu/scoop-emulators/network)|[18&#x2011;07&#x2011;17](https://github.com/hermanjustnu/scoop-emulators/commits)|
-|<a name="back_h404bi_dorado" id="back_h404bi_dorado"></a>[16.](# "31.765207") [__h404bi/dorado__](https://github.com/h404bi/dorado): *🐟 A bucket of Scoop, for h404bi*|[37](#h404bi_dorado)|[3](https://github.com/h404bi/dorado/stargazers)|[0](https://github.com/h404bi/dorado/network)|[18&#x2011;07&#x2011;17](https://github.com/h404bi/dorado/commits)|
-|<a name="back_se35710_scoop-java" id="back_se35710_scoop-java"></a>[17.](# "31.016453") [__se35710/scoop-java__](https://github.com/se35710/scoop-java): *A bucket for Scoop, for Oracle Java, OpenJDK, Zulu, ojdkbuild and AdoptOpenJDK. (scoop&#39;s built-in bucket &#39;java&#39;)*|[36](#se35710_scoop-java)|[10](https://github.com/se35710/scoop-java/stargazers)|[1](https://github.com/se35710/scoop-java/network)|[18&#x2011;07&#x2011;17](https://github.com/se35710/scoop-java/commits)|
-|<a name="back_siddarthasagar_scoopbucket" id="back_siddarthasagar_scoopbucket"></a>[18.](# "30.466423") [__siddarthasagar/scoopbucket__](https://github.com/siddarthasagar/scoopbucket): *customBucket to support scoop installations*|[8](#siddarthasagar_scoopbucket)|[0](https://github.com/siddarthasagar/scoopbucket/stargazers)|[0](https://github.com/siddarthasagar/scoopbucket/network)|[18&#x2011;04&#x2011;22](https://github.com/siddarthasagar/scoopbucket/commits)|
-|<a name="back_wangzq_scoop-bucket" id="back_wangzq_scoop-bucket"></a>[19.](# "30.076588") [__wangzq/scoop-bucket__](https://github.com/wangzq/scoop-bucket): *A bucket for http://scoop.sh*|[73](#wangzq_scoop-bucket)|[2](https://github.com/wangzq/scoop-bucket/stargazers)|[0](https://github.com/wangzq/scoop-bucket/network)|[18&#x2011;07&#x2011;01](https://github.com/wangzq/scoop-bucket/commits)|
-|<a name="back_scoopinstaller_nightlies" id="back_scoopinstaller_nightlies"></a>[20.](# "30.052406") [__scoopinstaller/nightlies__](https://github.com/scoopinstaller/nightlies): * (scoop&#39;s built-in bucket &#39;nightlies&#39;)*|[1](#scoopinstaller_nightlies)|[0](https://github.com/scoopinstaller/nightlies/stargazers)|[0](https://github.com/scoopinstaller/nightlies/network)|[16&#x2011;01&#x2011;24](https://github.com/scoopinstaller/nightlies/commits)|
-|<a name="back_jamesgecko_scoop-packages" id="back_jamesgecko_scoop-packages"></a>[21.](# "27.807697") [__jamesgecko/scoop-packages__](https://github.com/jamesgecko/scoop-packages): *Random manifests*|[6](#jamesgecko_scoop-packages)|[0](https://github.com/jamesgecko/scoop-packages/stargazers)|[0](https://github.com/jamesgecko/scoop-packages/network)|[15&#x2011;04&#x2011;25](https://github.com/jamesgecko/scoop-packages/commits)|
-|<a name="back_cryptogrampus_cuztum-bucket" id="back_cryptogrampus_cuztum-bucket"></a>[22.](# "27.345") [__cryptogrampus/cuztum-bucket__](https://github.com/cryptogrampus/cuztum-bucket): *scoop bucket*|[1](#cryptogrampus_cuztum-bucket)|[0](https://github.com/cryptogrampus/cuztum-bucket/stargazers)|[0](https://github.com/cryptogrampus/cuztum-bucket/network)|[18&#x2011;05&#x2011;29](https://github.com/cryptogrampus/cuztum-bucket/commits)|
-|<a name="back_svkoh_scoop-bucket" id="back_svkoh_scoop-bucket"></a>[23.](# "27.307629") [__svkoh/scoop-bucket__](https://github.com/svkoh/scoop-bucket): *scoop-bucket*|[1](#svkoh_scoop-bucket)|[0](https://github.com/svkoh/scoop-bucket/stargazers)|[0](https://github.com/svkoh/scoop-bucket/network)|[17&#x2011;07&#x2011;26](https://github.com/svkoh/scoop-bucket/commits)|
-|<a name="back_simonwjackson_my-bucket" id="back_simonwjackson_my-bucket"></a>[24.](# "27.249947") [__simonwjackson/my-bucket__](https://github.com/simonwjackson/my-bucket): *Scoop bucket*|[1](#simonwjackson_my-bucket)|[0](https://github.com/simonwjackson/my-bucket/stargazers)|[0](https://github.com/simonwjackson/my-bucket/network)|[17&#x2011;04&#x2011;30](https://github.com/simonwjackson/my-bucket/commits)|
-|<a name="back_Sandex_scoop-supernova" id="back_Sandex_scoop-supernova"></a>[25.](# "27.185131") [__Sandex/scoop-supernova__](https://github.com/Sandex/scoop-supernova): *Scoop bucket*|[6](#Sandex_scoop-supernova)|[1](https://github.com/Sandex/scoop-supernova/stargazers)|[1](https://github.com/Sandex/scoop-supernova/network)|[18&#x2011;05&#x2011;04](https://github.com/Sandex/scoop-supernova/commits)|
-|<a name="back_Congee_barrel" id="back_Congee_barrel"></a>[26.](# "27.177067") [__Congee/barrel__](https://github.com/Congee/barrel): *Scoop bucket*|[14](#Congee_barrel)|[0](https://github.com/Congee/barrel/stargazers)|[0](https://github.com/Congee/barrel/network)|[16&#x2011;09&#x2011;28](https://github.com/Congee/barrel/commits)|
-|<a name="back_KeKsBoTer_my-bucket" id="back_KeKsBoTer_my-bucket"></a>[27.](# "27.177067") [__KeKsBoTer/my-bucket__](https://github.com/KeKsBoTer/my-bucket): *Scoop bucket*|[2](#KeKsBoTer_my-bucket)|[0](https://github.com/KeKsBoTer/my-bucket/stargazers)|[0](https://github.com/KeKsBoTer/my-bucket/network)|[18&#x2011;07&#x2011;10](https://github.com/KeKsBoTer/my-bucket/commits)|
-|<a name="back_gexclaude_scoop-bucket" id="back_gexclaude_scoop-bucket"></a>[28.](# "27.177067") [__gexclaude/scoop-bucket__](https://github.com/gexclaude/scoop-bucket): *Scoop Bucket*|[1](#gexclaude_scoop-bucket)|[0](https://github.com/gexclaude/scoop-bucket/stargazers)|[0](https://github.com/gexclaude/scoop-bucket/network)|[18&#x2011;06&#x2011;12](https://github.com/gexclaude/scoop-bucket/commits)|
-|<a name="back_furyfire_my-bucket" id="back_furyfire_my-bucket"></a>[29.](# "27.106983") [__furyfire/my-bucket__](https://github.com/furyfire/my-bucket): *scoop bucket*|[1](#furyfire_my-bucket)|[0](https://github.com/furyfire/my-bucket/stargazers)|[0](https://github.com/furyfire/my-bucket/network)|[17&#x2011;10&#x2011;10](https://github.com/furyfire/my-bucket/commits)|
-|<a name="back_Aaike_scoop" id="back_Aaike_scoop"></a>[30.](# "27.100723") [__Aaike/scoop__](https://github.com/Aaike/scoop): *Scoop bucket*|[1](#Aaike_scoop)|[0](https://github.com/Aaike/scoop/stargazers)|[0](https://github.com/Aaike/scoop/network)|[15&#x2011;06&#x2011;11](https://github.com/Aaike/scoop/commits)|
-|<a name="back_idursun_my-bucket" id="back_idursun_my-bucket"></a>[31.](# "26.991959") [__idursun/my-bucket__](https://github.com/idursun/my-bucket): *Scoop bucket*|[1](#idursun_my-bucket)|[0](https://github.com/idursun/my-bucket/stargazers)|[0](https://github.com/idursun/my-bucket/network)|[17&#x2011;05&#x2011;25](https://github.com/idursun/my-bucket/commits)|
-|<a name="back_kingchang_scoop-buckets" id="back_kingchang_scoop-buckets"></a>[32.](# "26.942572") [__kingchang/scoop-buckets__](https://github.com/kingchang/scoop-buckets): *Scoop Buckets*|[2](#kingchang_scoop-buckets)|[0](https://github.com/kingchang/scoop-buckets/stargazers)|[0](https://github.com/kingchang/scoop-buckets/network)|[18&#x2011;03&#x2011;29](https://github.com/kingchang/scoop-buckets/commits)|
-|<a name="back_sh4869221b_scoop-bucket" id="back_sh4869221b_scoop-bucket"></a>[33.](# "26.864164") [__sh4869221b/scoop-bucket__](https://github.com/sh4869221b/scoop-bucket): *scoop bucket*|[12](#sh4869221b_scoop-bucket)|[0](https://github.com/sh4869221b/scoop-bucket/stargazers)|[0](https://github.com/sh4869221b/scoop-bucket/network)|[18&#x2011;06&#x2011;25](https://github.com/sh4869221b/scoop-bucket/commits)|
-|<a name="back_excitoon_scoop-user" id="back_excitoon_scoop-user"></a>[34.](# "25.963783") [__excitoon/scoop-user__](https://github.com/excitoon/scoop-user): *My custom Scoop repository*|[43](#excitoon_scoop-user)|[0](https://github.com/excitoon/scoop-user/stargazers)|[0](https://github.com/excitoon/scoop-user/network)|[18&#x2011;07&#x2011;07](https://github.com/excitoon/scoop-user/commits)|
-|<a name="back_Southclaws_scoops" id="back_Southclaws_scoops"></a>[35.](# "25.506807") [__Southclaws/scoops__](https://github.com/Southclaws/scoops): *Southclaws&#39; scoop.sh bucket - https://scoop.sh*|[1](#Southclaws_scoops)|[0](https://github.com/Southclaws/scoops/stargazers)|[1](https://github.com/Southclaws/scoops/network)|[18&#x2011;07&#x2011;17](https://github.com/Southclaws/scoops/commits)|
-|<a name="back_TnmkFan_my-bucket" id="back_TnmkFan_my-bucket"></a>[36.](# "25.506807") [__TnmkFan/my-bucket__](https://github.com/TnmkFan/my-bucket): *bucket for scoop (extra apps for scoop)*|[1](#TnmkFan_my-bucket)|[0](https://github.com/TnmkFan/my-bucket/stargazers)|[0](https://github.com/TnmkFan/my-bucket/network)|[16&#x2011;09&#x2011;22](https://github.com/TnmkFan/my-bucket/commits)|
-|<a name="back_anurse_scoop-bucket" id="back_anurse_scoop-bucket"></a>[37.](# "25.439442") [__anurse/scoop-bucket__](https://github.com/anurse/scoop-bucket): *My Scoop (http://scoop.sh) bucket*|[7](#anurse_scoop-bucket)|[0](https://github.com/anurse/scoop-bucket/stargazers)|[0](https://github.com/anurse/scoop-bucket/network)|[18&#x2011;04&#x2011;25](https://github.com/anurse/scoop-bucket/commits)|
-|<a name="back_Lomeli12_ScoopBucket" id="back_Lomeli12_ScoopBucket"></a>[38.](# "25.43594") [__Lomeli12/ScoopBucket__](https://github.com/Lomeli12/ScoopBucket): *A bucket to install my programs using Scoop (http://scoop.sh/)*|[4](#Lomeli12_ScoopBucket)|[0](https://github.com/Lomeli12/ScoopBucket/stargazers)|[0](https://github.com/Lomeli12/ScoopBucket/network)|[17&#x2011;04&#x2011;24](https://github.com/Lomeli12/ScoopBucket/commits)|
-|<a name="back_Guard13007_ScoopBucket" id="back_Guard13007_ScoopBucket"></a>[39.](# "25.43594") [__Guard13007/ScoopBucket__](https://github.com/Guard13007/ScoopBucket): *Bucket for Scoop to install my stuff. (http://scoop.sh)*|[2](#Guard13007_ScoopBucket)|[0](https://github.com/Guard13007/ScoopBucket/stargazers)|[0](https://github.com/Guard13007/ScoopBucket/network)|[17&#x2011;05&#x2011;08](https://github.com/Guard13007/ScoopBucket/commits)|
-|<a name="back_Nunnery_ScoopBucket" id="back_Nunnery_ScoopBucket"></a>[40.](# "25.435728") [__Nunnery/ScoopBucket__](https://github.com/Nunnery/ScoopBucket)|[2](#Nunnery_ScoopBucket)|[0](https://github.com/Nunnery/ScoopBucket/stargazers)|[0](https://github.com/Nunnery/ScoopBucket/network)|[15&#x2011;09&#x2011;06](https://github.com/Nunnery/ScoopBucket/commits)|
-|<a name="back_Sathishkrishn_appbucket" id="back_Sathishkrishn_appbucket"></a>[41.](# "25.314432") [__Sathishkrishn/appbucket__](https://github.com/Sathishkrishn/appbucket): *Bucket for Scoop*|[4](#Sathishkrishn_appbucket)|[1](https://github.com/Sathishkrishn/appbucket/stargazers)|[0](https://github.com/Sathishkrishn/appbucket/network)|[18&#x2011;05&#x2011;19](https://github.com/Sathishkrishn/appbucket/commits)|
-|<a name="back_Alxandr_scoop-bucket" id="back_Alxandr_scoop-bucket"></a>[42.](# "25.314432") [__Alxandr/scoop-bucket__](https://github.com/Alxandr/scoop-bucket): *My scoop bucket*|[3](#Alxandr_scoop-bucket)|[0](https://github.com/Alxandr/scoop-bucket/stargazers)|[0](https://github.com/Alxandr/scoop-bucket/network)|[18&#x2011;06&#x2011;22](https://github.com/Alxandr/scoop-bucket/commits)|
-|<a name="back_bitrvmpd_scoop-wuff" id="back_bitrvmpd_scoop-wuff"></a>[43.](# "25.314432") [__bitrvmpd/scoop-wuff__](https://github.com/bitrvmpd/scoop-wuff): *Another Scoop Bucket*|[1](#bitrvmpd_scoop-wuff)|[0](https://github.com/bitrvmpd/scoop-wuff/stargazers)|[0](https://github.com/bitrvmpd/scoop-wuff/network)|[15&#x2011;09&#x2011;03](https://github.com/bitrvmpd/scoop-wuff/commits)|
-|<a name="back_dhillondeep_wio-bucket" id="back_dhillondeep_wio-bucket"></a>[44.](# "25.259903") [__dhillondeep/wio-bucket__](https://github.com/dhillondeep/wio-bucket): *Scoop Bucket for Wio*|[1](#dhillondeep_wio-bucket)|[0](https://github.com/dhillondeep/wio-bucket/stargazers)|[0](https://github.com/dhillondeep/wio-bucket/network)|[18&#x2011;06&#x2011;26](https://github.com/dhillondeep/wio-bucket/commits)|
-|<a name="back_stlhrt_steel-buckets" id="back_stlhrt_steel-buckets"></a>[45.](# "25.259903") [__stlhrt/steel-buckets__](https://github.com/stlhrt/steel-buckets): *my scoop buckets*|[1](#stlhrt_steel-buckets)|[0](https://github.com/stlhrt/steel-buckets/stargazers)|[0](https://github.com/stlhrt/steel-buckets/network)|[15&#x2011;05&#x2011;12](https://github.com/stlhrt/steel-buckets/commits)|
-|<a name="back_yt3r_test-bucket" id="back_yt3r_test-bucket"></a>[46.](# "25.259903") [__yt3r/test-bucket__](https://github.com/yt3r/test-bucket): *test bucket for scoop*|[1](#yt3r_test-bucket)|[0](https://github.com/yt3r/test-bucket/stargazers)|[0](https://github.com/yt3r/test-bucket/network)|[18&#x2011;01&#x2011;22](https://github.com/yt3r/test-bucket/commits)|
-|<a name="back_narnaud_scoop-bucket" id="back_narnaud_scoop-bucket"></a>[47.](# "25.23243") [__narnaud/scoop-bucket__](https://github.com/narnaud/scoop-bucket): *Extra bucket for scoop*|[6](#narnaud_scoop-bucket)|[0](https://github.com/narnaud/scoop-bucket/stargazers)|[0](https://github.com/narnaud/scoop-bucket/network)|[17&#x2011;07&#x2011;07](https://github.com/narnaud/scoop-bucket/commits)|
-|<a name="back_tditlu_scoop-amiga" id="back_tditlu_scoop-amiga"></a>[48.](# "25.23243") [__tditlu/scoop-amiga__](https://github.com/tditlu/scoop-amiga): *Amiga bucket for Scoop*|[3](#tditlu_scoop-amiga)|[0](https://github.com/tditlu/scoop-amiga/stargazers)|[0](https://github.com/tditlu/scoop-amiga/network)|[16&#x2011;06&#x2011;05](https://github.com/tditlu/scoop-amiga/commits)|
-|<a name="back_follnoob_follnoob-bucket" id="back_follnoob_follnoob-bucket"></a>[49.](# "25.23243") [__follnoob/follnoob-bucket__](https://github.com/follnoob/follnoob-bucket): *own scoop bucket*|[2](#follnoob_follnoob-bucket)|[0](https://github.com/follnoob/follnoob-bucket/stargazers)|[0](https://github.com/follnoob/follnoob-bucket/network)|[18&#x2011;01&#x2011;04](https://github.com/follnoob/follnoob-bucket/commits)|
-|<a name="back_yutahaga_scoop-bucket" id="back_yutahaga_scoop-bucket"></a>[50.](# "25.20677") [__yutahaga/scoop-bucket__](https://github.com/yutahaga/scoop-bucket): *my scoop bucket*|[10](#yutahaga_scoop-bucket)|[0](https://github.com/yutahaga/scoop-bucket/stargazers)|[0](https://github.com/yutahaga/scoop-bucket/network)|[18&#x2011;03&#x2011;31](https://github.com/yutahaga/scoop-bucket/commits)|
-|<a name="back_mattkang_scoop-bucket" id="back_mattkang_scoop-bucket"></a>[51.](# "25.20677") [__mattkang/scoop-bucket__](https://github.com/mattkang/scoop-bucket): *Bucket for scoop.sh*|[2](#mattkang_scoop-bucket)|[0](https://github.com/mattkang/scoop-bucket/stargazers)|[0](https://github.com/mattkang/scoop-bucket/network)|[17&#x2011;04&#x2011;20](https://github.com/mattkang/scoop-bucket/commits)|
-|<a name="back_Ash258_scoop-Ash258" id="back_Ash258_scoop-Ash258"></a>[52.](# "25.174934") [__Ash258/scoop-Ash258__](https://github.com/Ash258/scoop-Ash258): *Bucket for Scoop*|[29](#Ash258_scoop-Ash258)|[1](https://github.com/Ash258/scoop-Ash258/stargazers)|[0](https://github.com/Ash258/scoop-Ash258/network)|[18&#x2011;07&#x2011;17](https://github.com/Ash258/scoop-Ash258/commits)|
-|<a name="back_lzimd_lzimd-scoop-bucket" id="back_lzimd_lzimd-scoop-bucket"></a>[53.](# "25.174934") [__lzimd/lzimd-scoop-bucket__](https://github.com/lzimd/lzimd-scoop-bucket): *lzimd&#39;s scoop bucket*|[5](#lzimd_lzimd-scoop-bucket)|[0](https://github.com/lzimd/lzimd-scoop-bucket/stargazers)|[0](https://github.com/lzimd/lzimd-scoop-bucket/network)|[18&#x2011;06&#x2011;03](https://github.com/lzimd/lzimd-scoop-bucket/commits)|
-|<a name="back_DeezCashews_tilt-bucket" id="back_DeezCashews_tilt-bucket"></a>[54.](# "25.174934") [__DeezCashews/tilt-bucket__](https://github.com/DeezCashews/tilt-bucket): *Bucket for scoop installs*|[1](#DeezCashews_tilt-bucket)|[0](https://github.com/DeezCashews/tilt-bucket/stargazers)|[0](https://github.com/DeezCashews/tilt-bucket/network)|[18&#x2011;05&#x2011;17](https://github.com/DeezCashews/tilt-bucket/commits)|
-|<a name="back_andreysaksonov_scoop-bucket" id="back_andreysaksonov_scoop-bucket"></a>[55.](# "25.157078") [__andreysaksonov/scoop-bucket__](https://github.com/andreysaksonov/scoop-bucket): *Bucket for Scoop (http://scoop.sh/)*|[2](#andreysaksonov_scoop-bucket)|[0](https://github.com/andreysaksonov/scoop-bucket/stargazers)|[0](https://github.com/andreysaksonov/scoop-bucket/network)|[18&#x2011;04&#x2011;26](https://github.com/andreysaksonov/scoop-bucket/commits)|
-|<a name="back_javageek_scoop-bucket" id="back_javageek_scoop-bucket"></a>[56.](# "25.093172") [__javageek/scoop-bucket__](https://github.com/javageek/scoop-bucket): *scoop.sh bucket*|[1](#javageek_scoop-bucket)|[0](https://github.com/javageek/scoop-bucket/stargazers)|[0](https://github.com/javageek/scoop-bucket/network)|[17&#x2011;12&#x2011;07](https://github.com/javageek/scoop-bucket/commits)|
-|<a name="back_rcqls_scoop-extras" id="back_rcqls_scoop-extras"></a>[57.](# "25.082005") [__rcqls/scoop-extras__](https://github.com/rcqls/scoop-extras): *scoop bucket for rcqls*|[4](#rcqls_scoop-extras)|[0](https://github.com/rcqls/scoop-extras/stargazers)|[0](https://github.com/rcqls/scoop-extras/network)|[16&#x2011;11&#x2011;26](https://github.com/rcqls/scoop-extras/commits)|
-|<a name="back_mko-x_bucket" id="back_mko-x_bucket"></a>[58.](# "25.082005") [__mko-x/bucket__](https://github.com/mko-x/bucket): *scoop bucket customized*|[1](#mko-x_bucket)|[0](https://github.com/mko-x/bucket/stargazers)|[0](https://github.com/mko-x/bucket/network)|[15&#x2011;07&#x2011;09](https://github.com/mko-x/bucket/commits)|
-|<a name="back_shyun3_my-bucket" id="back_shyun3_my-bucket"></a>[59.](# "25.028542") [__shyun3/my-bucket__](https://github.com/shyun3/my-bucket): *My Scoop bucket*|[1](#shyun3_my-bucket)|[0](https://github.com/shyun3/my-bucket/stargazers)|[0](https://github.com/shyun3/my-bucket/network)|[18&#x2011;04&#x2011;23](https://github.com/shyun3/my-bucket/commits)|
-|<a name="back_atomicwrites_bucket" id="back_atomicwrites_bucket"></a>[60.](# "25.017536") [__atomicwrites/bucket__](https://github.com/atomicwrites/bucket): *Some windows apps I&#39;ve packaged for scoop.*|[4](#atomicwrites_bucket)|[0](https://github.com/atomicwrites/bucket/stargazers)|[0](https://github.com/atomicwrites/bucket/network)|[18&#x2011;05&#x2011;20](https://github.com/atomicwrites/bucket/commits)|
-|<a name="back_hyrious_scoop-hyrious" id="back_hyrious_scoop-hyrious"></a>[61.](# "24.940075") [__hyrious/scoop-hyrious__](https://github.com/hyrious/scoop-hyrious): *Personal Scoop buckets.*|[5](#hyrious_scoop-hyrious)|[0](https://github.com/hyrious/scoop-hyrious/stargazers)|[0](https://github.com/hyrious/scoop-hyrious/network)|[18&#x2011;06&#x2011;08](https://github.com/hyrious/scoop-hyrious/commits)|
-|<a name="back_hulucc_bucket" id="back_hulucc_bucket"></a>[62.](# "24.940075") [__hulucc/bucket__](https://github.com/hulucc/bucket): *my scoop bucket*|[1](#hulucc_bucket)|[0](https://github.com/hulucc/bucket/stargazers)|[0](https://github.com/hulucc/bucket/network)|[18&#x2011;06&#x2011;03](https://github.com/hulucc/bucket/commits)|
-|<a name="back_klauern_trackello-bucket" id="back_klauern_trackello-bucket"></a>[63.](# "24.940075") [__klauern/trackello-bucket__](https://github.com/klauern/trackello-bucket): *scoop bucket for trackello*|[1](#klauern_trackello-bucket)|[0](https://github.com/klauern/trackello-bucket/stargazers)|[0](https://github.com/klauern/trackello-bucket/network)|[18&#x2011;02&#x2011;16](https://github.com/klauern/trackello-bucket/commits)|
-|<a name="back_kentork_scoop-leaky-bucket" id="back_kentork_scoop-leaky-bucket"></a>[64.](# "24.923016") [__kentork/scoop-leaky-bucket__](https://github.com/kentork/scoop-leaky-bucket): *my scoop bucket*|[3](#kentork_scoop-leaky-bucket)|[0](https://github.com/kentork/scoop-leaky-bucket/stargazers)|[0](https://github.com/kentork/scoop-leaky-bucket/network)|[17&#x2011;11&#x2011;23](https://github.com/kentork/scoop-leaky-bucket/commits)|
-|<a name="back_MunsterPlop_munsterbucket" id="back_MunsterPlop_munsterbucket"></a>[65.](# "24.923016") [__MunsterPlop/munsterbucket__](https://github.com/MunsterPlop/munsterbucket): *My personal Scoop bucket*|[1](#MunsterPlop_munsterbucket)|[0](https://github.com/MunsterPlop/munsterbucket/stargazers)|[0](https://github.com/MunsterPlop/munsterbucket/network)|[18&#x2011;05&#x2011;16](https://github.com/MunsterPlop/munsterbucket/commits)|
-|<a name="back_nikolasd_scoop-bucket" id="back_nikolasd_scoop-bucket"></a>[66.](# "24.923016") [__nikolasd/scoop-bucket__](https://github.com/nikolasd/scoop-bucket): *My Scoop bucket*|[1](#nikolasd_scoop-bucket)|[0](https://github.com/nikolasd/scoop-bucket/stargazers)|[0](https://github.com/nikolasd/scoop-bucket/network)|[13&#x2011;11&#x2011;06](https://github.com/nikolasd/scoop-bucket/commits)|
-|<a name="back_DimiG_dgBucket" id="back_DimiG_dgBucket"></a>[67.](# "24.848434") [__DimiG/dgBucket__](https://github.com/DimiG/dgBucket): *Scoop personal bucket*|[9](#DimiG_dgBucket)|[1](https://github.com/DimiG/dgBucket/stargazers)|[0](https://github.com/DimiG/dgBucket/network)|[17&#x2011;12&#x2011;25](https://github.com/DimiG/dgBucket/commits)|
-|<a name="back_fredjoseph_scoop-bucket" id="back_fredjoseph_scoop-bucket"></a>[68.](# "24.848434") [__fredjoseph/scoop-bucket__](https://github.com/fredjoseph/scoop-bucket): *bucket for Scoop installer*|[11](#fredjoseph_scoop-bucket)|[0](https://github.com/fredjoseph/scoop-bucket/stargazers)|[0](https://github.com/fredjoseph/scoop-bucket/network)|[18&#x2011;07&#x2011;13](https://github.com/fredjoseph/scoop-bucket/commits)|
-|<a name="back_noquierouser_nqu-scoop" id="back_noquierouser_nqu-scoop"></a>[69.](# "24.848434") [__noquierouser/nqu-scoop__](https://github.com/noquierouser/nqu-scoop): *My own Scoop bucket*|[3](#noquierouser_nqu-scoop)|[0](https://github.com/noquierouser/nqu-scoop/stargazers)|[0](https://github.com/noquierouser/nqu-scoop/network)|[15&#x2011;03&#x2011;23](https://github.com/noquierouser/nqu-scoop/commits)|
-|<a name="back_daniel-scholz_my-bucket" id="back_daniel-scholz_my-bucket"></a>[70.](# "24.848434") [__daniel-scholz/my-bucket__](https://github.com/daniel-scholz/my-bucket): *scoop bucket from me*|[1](#daniel-scholz_my-bucket)|[0](https://github.com/daniel-scholz/my-bucket/stargazers)|[0](https://github.com/daniel-scholz/my-bucket/network)|[18&#x2011;06&#x2011;25](https://github.com/daniel-scholz/my-bucket/commits)|
-|<a name="back_yuanying1199_scoopbucket" id="back_yuanying1199_scoopbucket"></a>[71.](# "24.764568") [__yuanying1199/scoopbucket__](https://github.com/yuanying1199/scoopbucket): *my scoop bucket*|[21](#yuanying1199_scoopbucket)|[1](https://github.com/yuanying1199/scoopbucket/stargazers)|[0](https://github.com/yuanying1199/scoopbucket/network)|[18&#x2011;05&#x2011;21](https://github.com/yuanying1199/scoopbucket/commits)|
-|<a name="back_biehlermi_scoop-apps" id="back_biehlermi_scoop-apps"></a>[72.](# "24.764568") [__biehlermi/scoop-apps__](https://github.com/biehlermi/scoop-apps): *Bucket for Scoop.*|[5](#biehlermi_scoop-apps)|[0](https://github.com/biehlermi/scoop-apps/stargazers)|[0](https://github.com/biehlermi/scoop-apps/network)|[18&#x2011;07&#x2011;17](https://github.com/biehlermi/scoop-apps/commits)|
-|<a name="back_demas_demas-scoop" id="back_demas_demas-scoop"></a>[73.](# "24.764568") [__demas/demas-scoop__](https://github.com/demas/demas-scoop): *My Scoop Bucket*|[5](#demas_demas-scoop)|[0](https://github.com/demas/demas-scoop/stargazers)|[0](https://github.com/demas/demas-scoop/network)|[16&#x2011;09&#x2011;19](https://github.com/demas/demas-scoop/commits)|
-|<a name="back_ponta555_scoop-bucket" id="back_ponta555_scoop-bucket"></a>[74.](# "24.764568") [__ponta555/scoop-bucket__](https://github.com/ponta555/scoop-bucket): *My scoop bucket.*|[4](#ponta555_scoop-bucket)|[0](https://github.com/ponta555/scoop-bucket/stargazers)|[0](https://github.com/ponta555/scoop-bucket/network)|[18&#x2011;07&#x2011;14](https://github.com/ponta555/scoop-bucket/commits)|
-|<a name="back_pastleo_scoop-bucket" id="back_pastleo_scoop-bucket"></a>[75.](# "24.764568") [__pastleo/scoop-bucket__](https://github.com/pastleo/scoop-bucket): *My Scoop Bucket*|[2](#pastleo_scoop-bucket)|[0](https://github.com/pastleo/scoop-bucket/stargazers)|[0](https://github.com/pastleo/scoop-bucket/network)|[16&#x2011;03&#x2011;20](https://github.com/pastleo/scoop-bucket/commits)|
-|<a name="back_iainsgillis_isg-bucket" id="back_iainsgillis_isg-bucket"></a>[76.](# "24.680958") [__iainsgillis/isg-bucket__](https://github.com/iainsgillis/isg-bucket): *Personal bucket for scoop*|[4](#iainsgillis_isg-bucket)|[0](https://github.com/iainsgillis/isg-bucket/stargazers)|[0](https://github.com/iainsgillis/isg-bucket/network)|[18&#x2011;07&#x2011;03](https://github.com/iainsgillis/isg-bucket/commits)|
-|<a name="back_TokunaKimochi_scoop-bucket" id="back_TokunaKimochi_scoop-bucket"></a>[77.](# "24.680958") [__TokunaKimochi/scoop-bucket__](https://github.com/TokunaKimochi/scoop-bucket): *my bucket for Scoop*|[1](#TokunaKimochi_scoop-bucket)|[0](https://github.com/TokunaKimochi/scoop-bucket/stargazers)|[0](https://github.com/TokunaKimochi/scoop-bucket/network)|[18&#x2011;03&#x2011;11](https://github.com/TokunaKimochi/scoop-bucket/commits)|
-|<a name="back_Guard13007_ScoopBucket-ThirdParty" id="back_Guard13007_ScoopBucket-ThirdParty"></a>[78.](# "24.66299") [__Guard13007/ScoopBucket-ThirdParty__](https://github.com/Guard13007/ScoopBucket-ThirdParty): *Bucket for Scoop to install cool stuff I didn&#39;t make. (http://scoop.sh)*|[7](#Guard13007_ScoopBucket-ThirdParty)|[1](https://github.com/Guard13007/ScoopBucket-ThirdParty/stargazers)|[0](https://github.com/Guard13007/ScoopBucket-ThirdParty/network)|[18&#x2011;02&#x2011;01](https://github.com/Guard13007/ScoopBucket-ThirdParty/commits)|
-|<a name="back_se35710_scoop-ibm" id="back_se35710_scoop-ibm"></a>[79.](# "24.475517") [__se35710/scoop-ibm__](https://github.com/se35710/scoop-ibm): *Scoop bucket for IBM Cloud tools and IBM WebSphere Liberty*|[12](#se35710_scoop-ibm)|[2](https://github.com/se35710/scoop-ibm/stargazers)|[0](https://github.com/se35710/scoop-ibm/network)|[18&#x2011;06&#x2011;29](https://github.com/se35710/scoop-ibm/commits)|
-|<a name="back_mdekstrand_ekstrand-bucket" id="back_mdekstrand_ekstrand-bucket"></a>[80.](# "24.422318") [__mdekstrand/ekstrand-bucket__](https://github.com/mdekstrand/ekstrand-bucket): *My personal Scoop packages*|[1](#mdekstrand_ekstrand-bucket)|[0](https://github.com/mdekstrand/ekstrand-bucket/stargazers)|[0](https://github.com/mdekstrand/ekstrand-bucket/network)|[18&#x2011;05&#x2011;17](https://github.com/mdekstrand/ekstrand-bucket/commits)|
-|<a name="back_DamianReeves_scoop-tools" id="back_DamianReeves_scoop-tools"></a>[81.](# "23.810917") [__DamianReeves/scoop-tools__](https://github.com/DamianReeves/scoop-tools): *A scoop bucket for tools*|[1](#DamianReeves_scoop-tools)|[0](https://github.com/DamianReeves/scoop-tools/stargazers)|[0](https://github.com/DamianReeves/scoop-tools/network)|[18&#x2011;06&#x2011;09](https://github.com/DamianReeves/scoop-tools/commits)|
-|<a name="back_michaelxmcbride_scoop-michaelxmcbride" id="back_michaelxmcbride_scoop-michaelxmcbride"></a>[82.](# "23.810917") [__michaelxmcbride/scoop-michaelxmcbride__](https://github.com/michaelxmcbride/scoop-michaelxmcbride): *My personal bucket for Scoop*|[1](#michaelxmcbride_scoop-michaelxmcbride)|[0](https://github.com/michaelxmcbride/scoop-michaelxmcbride/stargazers)|[0](https://github.com/michaelxmcbride/scoop-michaelxmcbride/network)|[17&#x2011;11&#x2011;06](https://github.com/michaelxmcbride/scoop-michaelxmcbride/commits)|
-|<a name="back_zeero_scoop-my-bucket" id="back_zeero_scoop-my-bucket"></a>[83.](# "23.745758") [__zeero/scoop-my-bucket__](https://github.com/zeero/scoop-my-bucket): *My scoop bucket json files.*|[25](#zeero_scoop-my-bucket)|[0](https://github.com/zeero/scoop-my-bucket/stargazers)|[0](https://github.com/zeero/scoop-my-bucket/network)|[16&#x2011;12&#x2011;20](https://github.com/zeero/scoop-my-bucket/commits)|
-|<a name="back_DEEP-IMPACT-AG_scoop-hyperdrive" id="back_DEEP-IMPACT-AG_scoop-hyperdrive"></a>[84.](# "23.695965") [__DEEP-IMPACT-AG/scoop-hyperdrive__](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive): *Scoop bucket for the hyperdrive*|[1](#DEEP-IMPACT-AG_scoop-hyperdrive)|[0](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/stargazers)|[0](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/network)|[18&#x2011;07&#x2011;07](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/commits)|
-|<a name="back_ghchinoy_scoop-ce" id="back_ghchinoy_scoop-ce"></a>[85.](# "23.695965") [__ghchinoy/scoop-ce__](https://github.com/ghchinoy/scoop-ce): *scoop bucket for CE tools*|[1](#ghchinoy_scoop-ce)|[0](https://github.com/ghchinoy/scoop-ce/stargazers)|[0](https://github.com/ghchinoy/scoop-ce/network)|[18&#x2011;05&#x2011;15](https://github.com/ghchinoy/scoop-ce/commits)|
-|<a name="back_masaeedu_scoop-growlnotify" id="back_masaeedu_scoop-growlnotify"></a>[86.](# "23.695448") [__masaeedu/scoop-growlnotify__](https://github.com/masaeedu/scoop-growlnotify): *Bucket for growlnotify app*|[1](#masaeedu_scoop-growlnotify)|[0](https://github.com/masaeedu/scoop-growlnotify/stargazers)|[0](https://github.com/masaeedu/scoop-growlnotify/network)|[15&#x2011;06&#x2011;12](https://github.com/masaeedu/scoop-growlnotify/commits)|
-|<a name="back_nrakochy_scoop-solidity" id="back_nrakochy_scoop-solidity"></a>[87.](# "23.652325") [__nrakochy/scoop-solidity__](https://github.com/nrakochy/scoop-solidity): *Bucket manifest for solidity*|[1](#nrakochy_scoop-solidity)|[0](https://github.com/nrakochy/scoop-solidity/stargazers)|[0](https://github.com/nrakochy/scoop-solidity/network)|[17&#x2011;10&#x2011;27](https://github.com/nrakochy/scoop-solidity/commits)|
-|<a name="back_masonm12_scoop-personal" id="back_masonm12_scoop-personal"></a>[88.](# "23.649307") [__masonm12/scoop-personal__](https://github.com/masonm12/scoop-personal): *Bucket for personal scoop apps.*|[4](#masonm12_scoop-personal)|[0](https://github.com/masonm12/scoop-personal/stargazers)|[0](https://github.com/masonm12/scoop-personal/network)|[15&#x2011;05&#x2011;26](https://github.com/masonm12/scoop-personal/commits)|
-|<a name="back_divanvisagie_scoop-bucket" id="back_divanvisagie_scoop-bucket"></a>[89.](# "23.649307") [__divanvisagie/scoop-bucket__](https://github.com/divanvisagie/scoop-bucket): *A bucket for my scoops*|[2](#divanvisagie_scoop-bucket)|[0](https://github.com/divanvisagie/scoop-bucket/stargazers)|[0](https://github.com/divanvisagie/scoop-bucket/network)|[17&#x2011;08&#x2011;26](https://github.com/divanvisagie/scoop-bucket/commits)|
-|<a name="back_jm0477_bucket" id="back_jm0477_bucket"></a>[90.](# "23.649307") [__jm0477/bucket__](https://github.com/jm0477/bucket): *public scoop bucket  learning REPO*|[2](#jm0477_bucket)|[0](https://github.com/jm0477/bucket/stargazers)|[0](https://github.com/jm0477/bucket/network)|[17&#x2011;05&#x2011;11](https://github.com/jm0477/bucket/commits)|
-|<a name="back_icetee_icetee-bucket" id="back_icetee_icetee-bucket"></a>[91.](# "23.61713") [__icetee/icetee-bucket__](https://github.com/icetee/icetee-bucket): *My custom manifests for Scoop*|[3](#icetee_icetee-bucket)|[1](https://github.com/icetee/icetee-bucket/stargazers)|[0](https://github.com/icetee/icetee-bucket/network)|[16&#x2011;11&#x2011;26](https://github.com/icetee/icetee-bucket/commits)|
-|<a name="back_deevus_scoop-games" id="back_deevus_scoop-games"></a>[92.](# "23.59412") [__deevus/scoop-games__](https://github.com/deevus/scoop-games): *A Scoop bucket for Games.*|[2](#deevus_scoop-games)|[0](https://github.com/deevus/scoop-games/stargazers)|[1](https://github.com/deevus/scoop-games/network)|[15&#x2011;03&#x2011;25](https://github.com/deevus/scoop-games/commits)|
-|<a name="back_klaidliadon_scoop-buckets" id="back_klaidliadon_scoop-buckets"></a>[93.](# "23.59412") [__klaidliadon/scoop-buckets__](https://github.com/klaidliadon/scoop-buckets): *A collection of scoop buckets*|[2](#klaidliadon_scoop-buckets)|[0](https://github.com/klaidliadon/scoop-buckets/stargazers)|[0](https://github.com/klaidliadon/scoop-buckets/network)|[16&#x2011;02&#x2011;26](https://github.com/klaidliadon/scoop-buckets/commits)|
-|<a name="back_lillicoder_scoop-openjdk6" id="back_lillicoder_scoop-openjdk6"></a>[94.](# "23.587914") [__lillicoder/scoop-openjdk6__](https://github.com/lillicoder/scoop-openjdk6): *Scoop bucket definition for OpenJDK6*|[1](#lillicoder_scoop-openjdk6)|[0](https://github.com/lillicoder/scoop-openjdk6/stargazers)|[0](https://github.com/lillicoder/scoop-openjdk6/network)|[15&#x2011;04&#x2011;06](https://github.com/lillicoder/scoop-openjdk6/commits)|
-|<a name="back_smarthut_scoop-bucket" id="back_smarthut_scoop-bucket"></a>[95.](# "23.576324") [__smarthut/scoop-bucket__](https://github.com/smarthut/scoop-bucket): *Scoop bucket for @smarthut binaries*|[2](#smarthut_scoop-bucket)|[0](https://github.com/smarthut/scoop-bucket/stargazers)|[0](https://github.com/smarthut/scoop-bucket/network)|[18&#x2011;07&#x2011;11](https://github.com/smarthut/scoop-bucket/commits)|
-|<a name="back_Deide_deide-bucket" id="back_Deide_deide-bucket"></a>[96.](# "23.535156") [__Deide/deide-bucket__](https://github.com/Deide/deide-bucket): *Personal bucket for Scoop.sh*|[5](#Deide_deide-bucket)|[0](https://github.com/Deide/deide-bucket/stargazers)|[0](https://github.com/Deide/deide-bucket/network)|[18&#x2011;06&#x2011;25](https://github.com/Deide/deide-bucket/commits)|
-|<a name="back_SheldonNico_echoBucket" id="back_SheldonNico_echoBucket"></a>[97.](# "23.535156") [__SheldonNico/echoBucket__](https://github.com/SheldonNico/echoBucket): *self use bucket for scoop*|[5](#SheldonNico_echoBucket)|[0](https://github.com/SheldonNico/echoBucket/stargazers)|[0](https://github.com/SheldonNico/echoBucket/network)|[18&#x2011;07&#x2011;13](https://github.com/SheldonNico/echoBucket/commits)|
-|<a name="back_plombard_scoop-bucket" id="back_plombard_scoop-bucket"></a>[98.](# "23.535156") [__plombard/scoop-bucket__](https://github.com/plombard/scoop-bucket): *Personal bucket for scoop installs*|[1](#plombard_scoop-bucket)|[0](https://github.com/plombard/scoop-bucket/stargazers)|[0](https://github.com/plombard/scoop-bucket/network)|[18&#x2011;03&#x2011;24](https://github.com/plombard/scoop-bucket/commits)|
-|<a name="back_sveco_my-bucket" id="back_sveco_my-bucket"></a>[99.](# "23.483822") [__sveco/my-bucket__](https://github.com/sveco/my-bucket): *Scoop bucket for portable applications.*|[3](#sveco_my-bucket)|[0](https://github.com/sveco/my-bucket/stargazers)|[0](https://github.com/sveco/my-bucket/network)|[17&#x2011;07&#x2011;19](https://github.com/sveco/my-bucket/commits)|
-|<a name="back_systemexitzero_scoop-bucket" id="back_systemexitzero_scoop-bucket"></a>[100.](# "23.461382") [__systemexitzero/scoop-bucket__](https://github.com/systemexitzero/scoop-bucket): *Personal bucket for scoop. See https://github.com/lukesampson/scoop*|[11](#systemexitzero_scoop-bucket)|[0](https://github.com/systemexitzero/scoop-bucket/stargazers)|[0](https://github.com/systemexitzero/scoop-bucket/network)|[16&#x2011;04&#x2011;29](https://github.com/systemexitzero/scoop-bucket/commits)|
-|<a name="back_c7i_scoop-bucket" id="back_c7i_scoop-bucket"></a>[101.](# "23.461382") [__c7i/scoop-bucket__](https://github.com/c7i/scoop-bucket)|[1](#c7i_scoop-bucket)|[0](https://github.com/c7i/scoop-bucket/stargazers)|[0](https://github.com/c7i/scoop-bucket/network)|[18&#x2011;07&#x2011;07](https://github.com/c7i/scoop-bucket/commits)|
-|<a name="back_nickers_scoop-bucket" id="back_nickers_scoop-bucket"></a>[102.](# "23.461382") [__nickers/scoop-bucket__](https://github.com/nickers/scoop-bucket): *private bucket for http://scoop.sh/*|[1](#nickers_scoop-bucket)|[0](https://github.com/nickers/scoop-bucket/stargazers)|[0](https://github.com/nickers/scoop-bucket/network)|[18&#x2011;03&#x2011;22](https://github.com/nickers/scoop-bucket/commits)|
-|<a name="back_tnessy_scoop-bucket" id="back_tnessy_scoop-bucket"></a>[103.](# "23.454424") [__tnessy/scoop-bucket__](https://github.com/tnessy/scoop-bucket): *Custom scoop bucket for random things*|[1](#tnessy_scoop-bucket)|[0](https://github.com/tnessy/scoop-bucket/stargazers)|[0](https://github.com/tnessy/scoop-bucket/network)|[17&#x2011;07&#x2011;20](https://github.com/tnessy/scoop-bucket/commits)|
-|<a name="back_typhoon51280_scoop-bucket" id="back_typhoon51280_scoop-bucket"></a>[104.](# "23.454424") [__typhoon51280/scoop-bucket__](https://github.com/typhoon51280/scoop-bucket)|[1](#typhoon51280_scoop-bucket)|[0](https://github.com/typhoon51280/scoop-bucket/stargazers)|[0](https://github.com/typhoon51280/scoop-bucket/network)|[14&#x2011;09&#x2011;29](https://github.com/typhoon51280/scoop-bucket/commits)|
-|<a name="back_toburger_scoop-buckets" id="back_toburger_scoop-buckets"></a>[105.](# "23.449932") [__toburger/scoop-buckets__](https://github.com/toburger/scoop-buckets)|[2](#toburger_scoop-buckets)|[0](https://github.com/toburger/scoop-buckets/stargazers)|[0](https://github.com/toburger/scoop-buckets/network)|[16&#x2011;03&#x2011;16](https://github.com/toburger/scoop-buckets/commits)|
-|<a name="back_tapanchandra_scoop-personal" id="back_tapanchandra_scoop-personal"></a>[106.](# "23.443897") [__tapanchandra/scoop-personal__](https://github.com/tapanchandra/scoop-personal): *A personal bucket for scoop*|[2](#tapanchandra_scoop-personal)|[0](https://github.com/tapanchandra/scoop-personal/stargazers)|[0](https://github.com/tapanchandra/scoop-personal/network)|[18&#x2011;01&#x2011;21](https://github.com/tapanchandra/scoop-personal/commits)|
-|<a name="back_TorrentKatten_torrentkatten-scoop-bucket" id="back_TorrentKatten_torrentkatten-scoop-bucket"></a>[107.](# "23.429623") [__TorrentKatten/torrentkatten-scoop-bucket__](https://github.com/TorrentKatten/torrentkatten-scoop-bucket): *scoop bucket for titandb tools*|[1](#TorrentKatten_torrentkatten-scoop-bucket)|[0](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/stargazers)|[0](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/network)|[17&#x2011;10&#x2011;02](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/commits)|
-|<a name="back_holehan_scoop-bucket" id="back_holehan_scoop-bucket"></a>[108.](# "23.390337") [__holehan/scoop-bucket__](https://github.com/holehan/scoop-bucket)|[2](#holehan_scoop-bucket)|[0](https://github.com/holehan/scoop-bucket/stargazers)|[0](https://github.com/holehan/scoop-bucket/network)|[16&#x2011;10&#x2011;02](https://github.com/holehan/scoop-bucket/commits)|
-|<a name="back_broovy_scoop-bucket" id="back_broovy_scoop-bucket"></a>[109.](# "23.390337") [__broovy/scoop-bucket__](https://github.com/broovy/scoop-bucket): *A bucket for https://github.com/lukesampson/scoop*|[1](#broovy_scoop-bucket)|[0](https://github.com/broovy/scoop-bucket/stargazers)|[0](https://github.com/broovy/scoop-bucket/network)|[15&#x2011;08&#x2011;18](https://github.com/broovy/scoop-bucket/commits)|
-|<a name="back_qoomon_scoop-bucket" id="back_qoomon_scoop-bucket"></a>[110.](# "23.390337") [__qoomon/scoop-bucket__](https://github.com/qoomon/scoop-bucket)|[1](#qoomon_scoop-bucket)|[0](https://github.com/qoomon/scoop-bucket/stargazers)|[0](https://github.com/qoomon/scoop-bucket/network)|[18&#x2011;02&#x2011;09](https://github.com/qoomon/scoop-bucket/commits)|
-|<a name="back_superudo_scoop-bucket" id="back_superudo_scoop-bucket"></a>[111.](# "23.370155") [__superudo/scoop-bucket__](https://github.com/superudo/scoop-bucket)|[8](#superudo_scoop-bucket)|[0](https://github.com/superudo/scoop-bucket/stargazers)|[0](https://github.com/superudo/scoop-bucket/network)|[18&#x2011;05&#x2011;05](https://github.com/superudo/scoop-bucket/commits)|
-|<a name="back_PiwwowPants_scoop-bucket" id="back_PiwwowPants_scoop-bucket"></a>[112.](# "23.362259") [__PiwwowPants/scoop-bucket__](https://github.com/PiwwowPants/scoop-bucket): *A repo for my scoop bucket*|[5](#PiwwowPants_scoop-bucket)|[0](https://github.com/PiwwowPants/scoop-bucket/stargazers)|[0](https://github.com/PiwwowPants/scoop-bucket/network)|[18&#x2011;05&#x2011;31](https://github.com/PiwwowPants/scoop-bucket/commits)|
-|<a name="back_ErnWong_scoop-bucket" id="back_ErnWong_scoop-bucket"></a>[113.](# "23.362259") [__ErnWong/scoop-bucket__](https://github.com/ErnWong/scoop-bucket): *My personal manifests bucket of scoop goodness*|[3](#ErnWong_scoop-bucket)|[0](https://github.com/ErnWong/scoop-bucket/stargazers)|[0](https://github.com/ErnWong/scoop-bucket/network)|[18&#x2011;03&#x2011;13](https://github.com/ErnWong/scoop-bucket/commits)|
-|<a name="back_tbung_scoop-bucket" id="back_tbung_scoop-bucket"></a>[114.](# "23.362259") [__tbung/scoop-bucket__](https://github.com/tbung/scoop-bucket)|[3](#tbung_scoop-bucket)|[0](https://github.com/tbung/scoop-bucket/stargazers)|[0](https://github.com/tbung/scoop-bucket/network)|[16&#x2011;09&#x2011;21](https://github.com/tbung/scoop-bucket/commits)|
-|<a name="back_lurdan_scoop-bucket" id="back_lurdan_scoop-bucket"></a>[115.](# "23.331081") [__lurdan/scoop-bucket__](https://github.com/lurdan/scoop-bucket)|[20](#lurdan_scoop-bucket)|[0](https://github.com/lurdan/scoop-bucket/stargazers)|[0](https://github.com/lurdan/scoop-bucket/network)|[18&#x2011;07&#x2011;16](https://github.com/lurdan/scoop-bucket/commits)|
-|<a name="back_mmichaelis_scoop-bucket" id="back_mmichaelis_scoop-bucket"></a>[116.](# "23.331081") [__mmichaelis/scoop-bucket__](https://github.com/mmichaelis/scoop-bucket): *My scoop bucket as extension to default and extras bucket. For details see http://scoop.sh/*|[4](#mmichaelis_scoop-bucket)|[0](https://github.com/mmichaelis/scoop-bucket/stargazers)|[0](https://github.com/mmichaelis/scoop-bucket/network)|[18&#x2011;06&#x2011;18](https://github.com/mmichaelis/scoop-bucket/commits)|
-|<a name="back_dimdimych_scoop-bucket" id="back_dimdimych_scoop-bucket"></a>[117.](# "23.331081") [__dimdimych/scoop-bucket__](https://github.com/dimdimych/scoop-bucket)|[3](#dimdimych_scoop-bucket)|[0](https://github.com/dimdimych/scoop-bucket/stargazers)|[0](https://github.com/dimdimych/scoop-bucket/network)|[18&#x2011;03&#x2011;16](https://github.com/dimdimych/scoop-bucket/commits)|
-|<a name="back_eugenesvk_scoop-bucket" id="back_eugenesvk_scoop-bucket"></a>[118.](# "23.331081") [__eugenesvk/scoop-bucket__](https://github.com/eugenesvk/scoop-bucket): *List of additional apps that can be installed by Scoop*|[3](#eugenesvk_scoop-bucket)|[0](https://github.com/eugenesvk/scoop-bucket/stargazers)|[0](https://github.com/eugenesvk/scoop-bucket/network)|[16&#x2011;03&#x2011;10](https://github.com/eugenesvk/scoop-bucket/commits)|
-|<a name="back_SummerSad_scoop-bucket" id="back_SummerSad_scoop-bucket"></a>[119.](# "23.331081") [__SummerSad/scoop-bucket__](https://github.com/SummerSad/scoop-bucket): *More apps for scoop*|[3](#SummerSad_scoop-bucket)|[0](https://github.com/SummerSad/scoop-bucket/stargazers)|[0](https://github.com/SummerSad/scoop-bucket/network)|[18&#x2011;07&#x2011;14](https://github.com/SummerSad/scoop-bucket/commits)|
-|<a name="back_a2moveit_scoop-bucket" id="back_a2moveit_scoop-bucket"></a>[120.](# "23.329987") [__2moveit/scoop-bucket__](https://github.com/2moveit/scoop-bucket): *Repository for apps to install via scoop*|[10](#a2moveit_scoop-bucket)|[0](https://github.com/2moveit/scoop-bucket/stargazers)|[0](https://github.com/2moveit/scoop-bucket/network)|[16&#x2011;11&#x2011;09](https://github.com/2moveit/scoop-bucket/commits)|
-|<a name="back_itzg_scoop-bucket" id="back_itzg_scoop-bucket"></a>[121.](# "23.329987") [__itzg/scoop-bucket__](https://github.com/itzg/scoop-bucket): *My apps published for installation via scoop*|[2](#itzg_scoop-bucket)|[0](https://github.com/itzg/scoop-bucket/stargazers)|[0](https://github.com/itzg/scoop-bucket/network)|[18&#x2011;05&#x2011;19](https://github.com/itzg/scoop-bucket/commits)|
-|<a name="back_twxs_scoop-buckets" id="back_twxs_scoop-buckets"></a>[122.](# "23.299644") [__twxs/scoop-buckets__](https://github.com/twxs/scoop-buckets)|[1](#twxs_scoop-buckets)|[0](https://github.com/twxs/scoop-buckets/stargazers)|[0](https://github.com/twxs/scoop-buckets/network)|[16&#x2011;05&#x2011;08](https://github.com/twxs/scoop-buckets/commits)|
-|<a name="back_ondr3j_scoop-misc" id="back_ondr3j_scoop-misc"></a>[123.](# "23.287613") [__ondr3j/scoop-misc__](https://github.com/ondr3j/scoop-misc): *My &#34;Miscellaneous&#34; bucket for Scoop*|[38](#ondr3j_scoop-misc)|[1](https://github.com/ondr3j/scoop-misc/stargazers)|[1](https://github.com/ondr3j/scoop-misc/network)|[18&#x2011;02&#x2011;24](https://github.com/ondr3j/scoop-misc/commits)|
-|<a name="back_a82p_scoop-yubico-bucket" id="back_a82p_scoop-yubico-bucket"></a>[124.](# "23.287613") [__82p/scoop-yubico-bucket__](https://github.com/82p/scoop-yubico-bucket): *scoop bucket of yubico tools*|[4](#a82p_scoop-yubico-bucket)|[0](https://github.com/82p/scoop-yubico-bucket/stargazers)|[0](https://github.com/82p/scoop-yubico-bucket/network)|[18&#x2011;05&#x2011;09](https://github.com/82p/scoop-yubico-bucket/commits)|
-|<a name="back_philippgille_scoop-bucket" id="back_philippgille_scoop-bucket"></a>[125.](# "23.287613") [__philippgille/scoop-bucket__](https://github.com/philippgille/scoop-bucket): *Scoop bucket for my apps*|[1](#philippgille_scoop-bucket)|[0](https://github.com/philippgille/scoop-bucket/stargazers)|[0](https://github.com/philippgille/scoop-bucket/network)|[18&#x2011;05&#x2011;13](https://github.com/philippgille/scoop-bucket/commits)|
-|<a name="back_pcrama_scoop-buckets" id="back_pcrama_scoop-buckets"></a>[126.](# "23.284222") [__pcrama/scoop-buckets__](https://github.com/pcrama/scoop-buckets): *Bucket of extra software to install using scoop*|[11](#pcrama_scoop-buckets)|[0](https://github.com/pcrama/scoop-buckets/stargazers)|[0](https://github.com/pcrama/scoop-buckets/network)|[18&#x2011;06&#x2011;01](https://github.com/pcrama/scoop-buckets/commits)|
-|<a name="back_masaeedu_scoop-bucket" id="back_masaeedu_scoop-bucket"></a>[127.](# "23.284222") [__masaeedu/scoop-bucket__](https://github.com/masaeedu/scoop-bucket)|[3](#masaeedu_scoop-bucket)|[0](https://github.com/masaeedu/scoop-bucket/stargazers)|[0](https://github.com/masaeedu/scoop-bucket/network)|[17&#x2011;06&#x2011;14](https://github.com/masaeedu/scoop-bucket/commits)|
-|<a name="back_goreleaser_scoop-bucket" id="back_goreleaser_scoop-bucket"></a>[128.](# "23.284222") [__goreleaser/scoop-bucket__](https://github.com/goreleaser/scoop-bucket): *Scoop bucket for @goreleaser binaries, powered by @goreleaser*|[1](#goreleaser_scoop-bucket)|[0](https://github.com/goreleaser/scoop-bucket/stargazers)|[0](https://github.com/goreleaser/scoop-bucket/network)|[18&#x2011;07&#x2011;17](https://github.com/goreleaser/scoop-bucket/commits)|
-|<a name="back_oltolm_scoop-nonportable" id="back_oltolm_scoop-nonportable"></a>[129.](# "23.208233") [__oltolm/scoop-nonportable__](https://github.com/oltolm/scoop-nonportable): *Scoop bucket for nonportable apps (scoop&#39;s built-in bucket &#39;nonportable&#39;)*|[7](#oltolm_scoop-nonportable)|[1](https://github.com/oltolm/scoop-nonportable/stargazers)|[0](https://github.com/oltolm/scoop-nonportable/network)|[18&#x2011;06&#x2011;13](https://github.com/oltolm/scoop-nonportable/commits)|
-|<a name="back_wangfeishine_adds" id="back_wangfeishine_adds"></a>[130.](# "23.208233") [__wangfeishine/adds__](https://github.com/wangfeishine/adds): *My extra bucket for scoop*|[1](#wangfeishine_adds)|[0](https://github.com/wangfeishine/adds/stargazers)|[0](https://github.com/wangfeishine/adds/network)|[17&#x2011;05&#x2011;15](https://github.com/wangfeishine/adds/commits)|
-|<a name="back_Jokler_scoop-bucket" id="back_Jokler_scoop-bucket"></a>[131.](# "23.201931") [__Jokler/scoop-bucket__](https://github.com/Jokler/scoop-bucket): *My bucket for programs not in the official buckets*|[6](#Jokler_scoop-bucket)|[0](https://github.com/Jokler/scoop-bucket/stargazers)|[0](https://github.com/Jokler/scoop-bucket/network)|[18&#x2011;07&#x2011;17](https://github.com/Jokler/scoop-bucket/commits)|
-|<a name="back_hydra1983_scoop-bucket" id="back_hydra1983_scoop-bucket"></a>[132.](# "23.201931") [__hydra1983/scoop-bucket__](https://github.com/hydra1983/scoop-bucket)|[2](#hydra1983_scoop-bucket)|[0](https://github.com/hydra1983/scoop-bucket/stargazers)|[0](https://github.com/hydra1983/scoop-bucket/network)|[15&#x2011;03&#x2011;23](https://github.com/hydra1983/scoop-bucket/commits)|
-|<a name="back_rivy_scoop-bucket" id="back_rivy_scoop-bucket"></a>[133.](# "23.175999") [__rivy/scoop-bucket__](https://github.com/rivy/scoop-bucket)|[122](#rivy_scoop-bucket)|[1](https://github.com/rivy/scoop-bucket/stargazers)|[0](https://github.com/rivy/scoop-bucket/network)|[18&#x2011;07&#x2011;09](https://github.com/rivy/scoop-bucket/commits)|
-|<a name="back_tehbilly_scoop-bucket" id="back_tehbilly_scoop-bucket"></a>[134.](# "23.175999") [__tehbilly/scoop-bucket__](https://github.com/tehbilly/scoop-bucket)|[5](#tehbilly_scoop-bucket)|[1](https://github.com/tehbilly/scoop-bucket/stargazers)|[0](https://github.com/tehbilly/scoop-bucket/network)|[17&#x2011;06&#x2011;01](https://github.com/tehbilly/scoop-bucket/commits)|
-|<a name="back_giantswarm_scoop-bucket" id="back_giantswarm_scoop-bucket"></a>[135.](# "23.175999") [__giantswarm/scoop-bucket__](https://github.com/giantswarm/scoop-bucket): *App manifests for simple Windows installs using scoop*|[1](#giantswarm_scoop-bucket)|[0](https://github.com/giantswarm/scoop-bucket/stargazers)|[1](https://github.com/giantswarm/scoop-bucket/network)|[18&#x2011;06&#x2011;29](https://github.com/giantswarm/scoop-bucket/commits)|
-|<a name="back_leafgarland_scoop-bucket" id="back_leafgarland_scoop-bucket"></a>[136.](# "23.175999") [__leafgarland/scoop-bucket__](https://github.com/leafgarland/scoop-bucket): *Collection of app manifests for the Scoop package installer*|[5](#leafgarland_scoop-bucket)|[0](https://github.com/leafgarland/scoop-bucket/stargazers)|[0](https://github.com/leafgarland/scoop-bucket/network)|[14&#x2011;10&#x2011;09](https://github.com/leafgarland/scoop-bucket/commits)|
-|<a name="back_kimbirkelund_scoop-bucket" id="back_kimbirkelund_scoop-bucket"></a>[137.](# "23.175999") [__kimbirkelund/scoop-bucket__](https://github.com/kimbirkelund/scoop-bucket): *Apps I haven&#39;t found in main and extras scoop buckets.*|[2](#kimbirkelund_scoop-bucket)|[0](https://github.com/kimbirkelund/scoop-bucket/stargazers)|[0](https://github.com/kimbirkelund/scoop-bucket/network)|[18&#x2011;04&#x2011;17](https://github.com/kimbirkelund/scoop-bucket/commits)|
-|<a name="back_ubclaunchpad_scoop-bucket" id="back_ubclaunchpad_scoop-bucket"></a>[138.](# "23.175999") [__ubclaunchpad/scoop-bucket__](https://github.com/ubclaunchpad/scoop-bucket): *🥄 Scoop bucket for UBC Launch Pad projects*|[2](#ubclaunchpad_scoop-bucket)|[0](https://github.com/ubclaunchpad/scoop-bucket/stargazers)|[0](https://github.com/ubclaunchpad/scoop-bucket/network)|[18&#x2011;06&#x2011;30](https://github.com/ubclaunchpad/scoop-bucket/commits)|
-|<a name="back_izm4457_scoop_bucket" id="back_izm4457_scoop_bucket"></a>[139.](# "23.175999") [__izm4457/scoop_bucket__](https://github.com/izm4457/scoop_bucket)|[1](#izm4457_scoop_bucket)|[0](https://github.com/izm4457/scoop_bucket/stargazers)|[0](https://github.com/izm4457/scoop_bucket/network)|[18&#x2011;06&#x2011;19](https://github.com/izm4457/scoop_bucket/commits)|
-|<a name="back_slaxor_scoop-bucket" id="back_slaxor_scoop-bucket"></a>[140.](# "23.175999") [__slaxor/scoop-bucket__](https://github.com/slaxor/scoop-bucket): *My repo for Scoop*|[1](#slaxor_scoop-bucket)|[0](https://github.com/slaxor/scoop-bucket/stargazers)|[0](https://github.com/slaxor/scoop-bucket/network)|[17&#x2011;10&#x2011;04](https://github.com/slaxor/scoop-bucket/commits)|
-|<a name="back_mgarbvs_scoop-bucket" id="back_mgarbvs_scoop-bucket"></a>[141.](# "23.161583") [__mgarbvs/scoop-bucket__](https://github.com/mgarbvs/scoop-bucket)|[6](#mgarbvs_scoop-bucket)|[1](https://github.com/mgarbvs/scoop-bucket/stargazers)|[0](https://github.com/mgarbvs/scoop-bucket/network)|[15&#x2011;12&#x2011;05](https://github.com/mgarbvs/scoop-bucket/commits)|
-|<a name="back_derKrischan_scoop-bucket" id="back_derKrischan_scoop-bucket"></a>[142.](# "23.161583") [__derKrischan/scoop-bucket__](https://github.com/derKrischan/scoop-bucket): *Experiment with scoop.sh manifests*|[1](#derKrischan_scoop-bucket)|[0](https://github.com/derKrischan/scoop-bucket/stargazers)|[0](https://github.com/derKrischan/scoop-bucket/network)|[17&#x2011;12&#x2011;23](https://github.com/derKrischan/scoop-bucket/commits)|
-|<a name="back_gabrielrobert_scoop-bucket" id="back_gabrielrobert_scoop-bucket"></a>[143.](# "23.161583") [__gabrielrobert/scoop-bucket__](https://github.com/gabrielrobert/scoop-bucket)|[1](#gabrielrobert_scoop-bucket)|[0](https://github.com/gabrielrobert/scoop-bucket/stargazers)|[0](https://github.com/gabrielrobert/scoop-bucket/network)|[18&#x2011;04&#x2011;06](https://github.com/gabrielrobert/scoop-bucket/commits)|
-|<a name="back_icalder_scoop-bucket" id="back_icalder_scoop-bucket"></a>[144.](# "23.161583") [__icalder/scoop-bucket__](https://github.com/icalder/scoop-bucket)|[1](#icalder_scoop-bucket)|[0](https://github.com/icalder/scoop-bucket/stargazers)|[0](https://github.com/icalder/scoop-bucket/network)|[18&#x2011;01&#x2011;18](https://github.com/icalder/scoop-bucket/commits)|
-|<a name="back_leonidboykov_scoop-bucket" id="back_leonidboykov_scoop-bucket"></a>[145.](# "23.161583") [__leonidboykov/scoop-bucket__](https://github.com/leonidboykov/scoop-bucket): *Scoop bucket for my projects&#39; binaries*|[1](#leonidboykov_scoop-bucket)|[0](https://github.com/leonidboykov/scoop-bucket/stargazers)|[0](https://github.com/leonidboykov/scoop-bucket/network)|[18&#x2011;05&#x2011;04](https://github.com/leonidboykov/scoop-bucket/commits)|
-|<a name="back_nilkesede_scoop-bucket" id="back_nilkesede_scoop-bucket"></a>[146.](# "23.161583") [__nilkesede/scoop-bucket__](https://github.com/nilkesede/scoop-bucket)|[1](#nilkesede_scoop-bucket)|[0](https://github.com/nilkesede/scoop-bucket/stargazers)|[0](https://github.com/nilkesede/scoop-bucket/network)|[18&#x2011;06&#x2011;01](https://github.com/nilkesede/scoop-bucket/commits)|
-|<a name="back_mathieucarbou_scoop-bucket" id="back_mathieucarbou_scoop-bucket"></a>[147.](# "23.156075") [__mathieucarbou/scoop-bucket__](https://github.com/mathieucarbou/scoop-bucket)|[1](#mathieucarbou_scoop-bucket)|[0](https://github.com/mathieucarbou/scoop-bucket/stargazers)|[0](https://github.com/mathieucarbou/scoop-bucket/network)|[16&#x2011;01&#x2011;13](https://github.com/mathieucarbou/scoop-bucket/commits)|
-|<a name="back_dasbaumwolltier_scoop-bucket" id="back_dasbaumwolltier_scoop-bucket"></a>[148.](# "23.117523") [__dasbaumwolltier/scoop-bucket__](https://github.com/dasbaumwolltier/scoop-bucket)|[5](#dasbaumwolltier_scoop-bucket)|[0](https://github.com/dasbaumwolltier/scoop-bucket/stargazers)|[0](https://github.com/dasbaumwolltier/scoop-bucket/network)|[18&#x2011;04&#x2011;18](https://github.com/dasbaumwolltier/scoop-bucket/commits)|
-|<a name="back_proudzhu_scoop-bucket" id="back_proudzhu_scoop-bucket"></a>[149.](# "23.117523") [__proudzhu/scoop-bucket__](https://github.com/proudzhu/scoop-bucket)|[2](#proudzhu_scoop-bucket)|[0](https://github.com/proudzhu/scoop-bucket/stargazers)|[0](https://github.com/proudzhu/scoop-bucket/network)|[18&#x2011;06&#x2011;13](https://github.com/proudzhu/scoop-bucket/commits)|
-|<a name="back_Calinou_scoop-games" id="back_Calinou_scoop-games"></a>[150.](# "22.795164") [__Calinou/scoop-games__](https://github.com/Calinou/scoop-games): *Scoop bucket for open source/freeware games and game-related tools*|[32](#Calinou_scoop-games)|[3](https://github.com/Calinou/scoop-games/stargazers)|[0](https://github.com/Calinou/scoop-games/network)|[18&#x2011;07&#x2011;08](https://github.com/Calinou/scoop-games/commits)|
-|<a name="back_sankaku-deltalab_sankaku-app-bucket" id="back_sankaku-deltalab_sankaku-app-bucket"></a>[151.](# "22.6151") [__sankaku-deltalab/sankaku-app-bucket__](https://github.com/sankaku-deltalab/sankaku-app-bucket): *sankaku-app-bucket is [Scoop](http://scoop.sh/) bucket mainly contains applications used by Sankaku.*|[9](#sankaku-deltalab_sankaku-app-bucket)|[0](https://github.com/sankaku-deltalab/sankaku-app-bucket/stargazers)|[0](https://github.com/sankaku-deltalab/sankaku-app-bucket/network)|[17&#x2011;10&#x2011;27](https://github.com/sankaku-deltalab/sankaku-app-bucket/commits)|
-|<a name="back_lesstif_scoop-bucket-for-korean" id="back_lesstif_scoop-bucket-for-korean"></a>[152.](# "22.151043") [__lesstif/scoop-bucket-for-korean__](https://github.com/lesstif/scoop-bucket-for-korean): *네이버 나눔 폰트 scoop 버킷.*|[2](#lesstif_scoop-bucket-for-korean)|[1](https://github.com/lesstif/scoop-bucket-for-korean/stargazers)|[0](https://github.com/lesstif/scoop-bucket-for-korean/network)|[18&#x2011;05&#x2011;25](https://github.com/lesstif/scoop-bucket-for-korean/commits)|
-|<a name="back_vidarkongsli_vidars-scoop-bucket" id="back_vidarkongsli_vidars-scoop-bucket"></a>[153.](# "22.151043") [__vidarkongsli/vidars-scoop-bucket__](https://github.com/vidarkongsli/vidars-scoop-bucket)|[20](#vidarkongsli_vidars-scoop-bucket)|[0](https://github.com/vidarkongsli/vidars-scoop-bucket/stargazers)|[0](https://github.com/vidarkongsli/vidars-scoop-bucket/network)|[18&#x2011;06&#x2011;15](https://github.com/vidarkongsli/vidars-scoop-bucket/commits)|
-|<a name="back_devilishcherub_scoop-app-bucket" id="back_devilishcherub_scoop-app-bucket"></a>[154.](# "22.151043") [__devilishcherub/scoop-app-bucket__](https://github.com/devilishcherub/scoop-app-bucket): *Similar to Homebrew Cask on Mac. A bucket for actual apps.*|[1](#devilishcherub_scoop-app-bucket)|[0](https://github.com/devilishcherub/scoop-app-bucket/stargazers)|[0](https://github.com/devilishcherub/scoop-app-bucket/network)|[17&#x2011;07&#x2011;11](https://github.com/devilishcherub/scoop-app-bucket/commits)|
-|<a name="back_monotykamary_toms-scoop-bucket" id="back_monotykamary_toms-scoop-bucket"></a>[155.](# "22.058498") [__monotykamary/toms-scoop-bucket__](https://github.com/monotykamary/toms-scoop-bucket)|[9](#monotykamary_toms-scoop-bucket)|[0](https://github.com/monotykamary/toms-scoop-bucket/stargazers)|[1](https://github.com/monotykamary/toms-scoop-bucket/network)|[18&#x2011;05&#x2011;28](https://github.com/monotykamary/toms-scoop-bucket/commits)|
-|<a name="back_dennislloydjr_scoop-bucket-devbox" id="back_dennislloydjr_scoop-bucket-devbox"></a>[156.](# "22.02784") [__dennislloydjr/scoop-bucket-devbox__](https://github.com/dennislloydjr/scoop-bucket-devbox): *Scoop bucket for installing apps for development box*|[19](#dennislloydjr_scoop-bucket-devbox)|[0](https://github.com/dennislloydjr/scoop-bucket-devbox/stargazers)|[1](https://github.com/dennislloydjr/scoop-bucket-devbox/network)|[14&#x2011;11&#x2011;18](https://github.com/dennislloydjr/scoop-bucket-devbox/commits)|
-|<a name="back_thiagotelesdesigner_scoop-bucket-graphic-tools" id="back_thiagotelesdesigner_scoop-bucket-graphic-tools"></a>[157.](# "21.999401") [__thiagotelesdesigner/scoop-bucket-graphic-tools__](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools): *Bucket do Scoop, com app manifests de ferramentas gráficas*|[1](#thiagotelesdesigner_scoop-bucket-graphic-tools)|[0](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/stargazers)|[0](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/network)|[16&#x2011;04&#x2011;24](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/commits)|
-|<a name="back_hed0n1st_my-scoop-bucket" id="back_hed0n1st_my-scoop-bucket"></a>[158.](# "21.985256") [__hed0n1st/my-scoop-bucket__](https://github.com/hed0n1st/my-scoop-bucket)|[4](#hed0n1st_my-scoop-bucket)|[0](https://github.com/hed0n1st/my-scoop-bucket/stargazers)|[0](https://github.com/hed0n1st/my-scoop-bucket/network)|[18&#x2011;07&#x2011;05](https://github.com/hed0n1st/my-scoop-bucket/commits)|
-|<a name="back_rohitnarayanan_scoop-apps" id="back_rohitnarayanan_scoop-apps"></a>[159.](# "21.942816") [__rohitnarayanan/scoop-apps__](https://github.com/rohitnarayanan/scoop-apps): *private bucket for scoop apps not available in public buckets*|[7](#rohitnarayanan_scoop-apps)|[0](https://github.com/rohitnarayanan/scoop-apps/stargazers)|[0](https://github.com/rohitnarayanan/scoop-apps/network)|[18&#x2011;06&#x2011;27](https://github.com/rohitnarayanan/scoop-apps/commits)|
-|<a name="back_BjoernPetersen_scoop-misc-bucket" id="back_BjoernPetersen_scoop-misc-bucket"></a>[160.](# "21.90673") [__BjoernPetersen/scoop-misc-bucket__](https://github.com/BjoernPetersen/scoop-misc-bucket): *A scoop bucket containing some useful programs not included in the default buckets*|[5](#BjoernPetersen_scoop-misc-bucket)|[1](https://github.com/BjoernPetersen/scoop-misc-bucket/stargazers)|[0](https://github.com/BjoernPetersen/scoop-misc-bucket/network)|[18&#x2011;07&#x2011;16](https://github.com/BjoernPetersen/scoop-misc-bucket/commits)|
-|<a name="back_jsorah_jsorah-scoop-bucket" id="back_jsorah_jsorah-scoop-bucket"></a>[161.](# "21.90673") [__jsorah/jsorah-scoop-bucket__](https://github.com/jsorah/jsorah-scoop-bucket): *My personal scoop bucket, use at your own risk.*|[5](#jsorah_jsorah-scoop-bucket)|[0](https://github.com/jsorah/jsorah-scoop-bucket/stargazers)|[0](https://github.com/jsorah/jsorah-scoop-bucket/network)|[18&#x2011;02&#x2011;03](https://github.com/jsorah/jsorah-scoop-bucket/commits)|
-|<a name="back_aparkerlue_apl-scoop-bucket" id="back_aparkerlue_apl-scoop-bucket"></a>[162.](# "21.90673") [__aparkerlue/apl-scoop-bucket__](https://github.com/aparkerlue/apl-scoop-bucket): *Bucket (i.e., collection of apps) for scoop*|[1](#aparkerlue_apl-scoop-bucket)|[0](https://github.com/aparkerlue/apl-scoop-bucket/stargazers)|[0](https://github.com/aparkerlue/apl-scoop-bucket/network)|[16&#x2011;04&#x2011;08](https://github.com/aparkerlue/apl-scoop-bucket/commits)|
-|<a name="back_barohatoum_my-scoop-bucket" id="back_barohatoum_my-scoop-bucket"></a>[163.](# "21.883244") [__barohatoum/my-scoop-bucket__](https://github.com/barohatoum/my-scoop-bucket)|[1](#barohatoum_my-scoop-bucket)|[0](https://github.com/barohatoum/my-scoop-bucket/stargazers)|[0](https://github.com/barohatoum/my-scoop-bucket/network)|[15&#x2011;08&#x2011;19](https://github.com/barohatoum/my-scoop-bucket/commits)|
-|<a name="back_wrokred_phpdev-scoop-bucket" id="back_wrokred_phpdev-scoop-bucket"></a>[164.](# "21.863295") [__wrokred/phpdev-scoop-bucket__](https://github.com/wrokred/phpdev-scoop-bucket): *Basic Scoop bucket to manage installs needed for modern php framework.*|[5](#wrokred_phpdev-scoop-bucket)|[1](https://github.com/wrokred/phpdev-scoop-bucket/stargazers)|[0](https://github.com/wrokred/phpdev-scoop-bucket/network)|[17&#x2011;05&#x2011;31](https://github.com/wrokred/phpdev-scoop-bucket/commits)|
-|<a name="back_tksoftware_tks-scoop-bucket" id="back_tksoftware_tks-scoop-bucket"></a>[165.](# "21.863295") [__tksoftware/tks-scoop-bucket__](https://github.com/tksoftware/tks-scoop-bucket)|[2](#tksoftware_tks-scoop-bucket)|[0](https://github.com/tksoftware/tks-scoop-bucket/stargazers)|[0](https://github.com/tksoftware/tks-scoop-bucket/network)|[15&#x2011;10&#x2011;23](https://github.com/tksoftware/tks-scoop-bucket/commits)|
-|<a name="back_prezesp_scoop-viewer-bucket" id="back_prezesp_scoop-viewer-bucket"></a>[166.](# "21.863295") [__prezesp/scoop-viewer-bucket__](https://github.com/prezesp/scoop-viewer-bucket)|[1](#prezesp_scoop-viewer-bucket)|[0](https://github.com/prezesp/scoop-viewer-bucket/stargazers)|[0](https://github.com/prezesp/scoop-viewer-bucket/network)|[18&#x2011;05&#x2011;01](https://github.com/prezesp/scoop-viewer-bucket/commits)|
-|<a name="back_tmsdnl_scoop-dev-bucket" id="back_tmsdnl_scoop-dev-bucket"></a>[167.](# "21.824852") [__tmsdnl/scoop-dev-bucket__](https://github.com/tmsdnl/scoop-dev-bucket)|[1](#tmsdnl_scoop-dev-bucket)|[0](https://github.com/tmsdnl/scoop-dev-bucket/stargazers)|[0](https://github.com/tmsdnl/scoop-dev-bucket/network)|[15&#x2011;12&#x2011;02](https://github.com/tmsdnl/scoop-dev-bucket/commits)|
-|<a name="back_jfut_scoop-jfut" id="back_jfut_scoop-jfut"></a>[168.](# "21.658665") [__jfut/scoop-jfut__](https://github.com/jfut/scoop-jfut): *&#34;jfut&#34; bucket for http://scoop.sh*|[37](#jfut_scoop-jfut)|[0](https://github.com/jfut/scoop-jfut/stargazers)|[0](https://github.com/jfut/scoop-jfut/network)|[18&#x2011;07&#x2011;17](https://github.com/jfut/scoop-jfut/commits)|
-|<a name="back_cprecioso_scoop-lektor" id="back_cprecioso_scoop-lektor"></a>[169.](# "21.605492") [__cprecioso/scoop-lektor__](https://github.com/cprecioso/scoop-lektor): *Bucket to install Lektor with Scoop*|[1](#cprecioso_scoop-lektor)|[0](https://github.com/cprecioso/scoop-lektor/stargazers)|[0](https://github.com/cprecioso/scoop-lektor/network)|[17&#x2011;02&#x2011;21](https://github.com/cprecioso/scoop-lektor/commits)|
-|<a name="back_jfut_scoop-pleiades" id="back_jfut_scoop-pleiades"></a>[170.](# "21.553684") [__jfut/scoop-pleiades__](https://github.com/jfut/scoop-pleiades): *Pleiades Bucket for http://scoop.sh*|[120](#jfut_scoop-pleiades)|[0](https://github.com/jfut/scoop-pleiades/stargazers)|[0](https://github.com/jfut/scoop-pleiades/network)|[18&#x2011;07&#x2011;01](https://github.com/jfut/scoop-pleiades/commits)|
-|<a name="back_demesne_dev-extras" id="back_demesne_dev-extras"></a>[171.](# "21.460312") [__demesne/dev-extras__](https://github.com/demesne/dev-extras): *Scoop bucket for commonly used Development Tools*|[1](#demesne_dev-extras)|[0](https://github.com/demesne/dev-extras/stargazers)|[0](https://github.com/demesne/dev-extras/network)|[17&#x2011;06&#x2011;30](https://github.com/demesne/dev-extras/commits)|
-|<a name="back_Krzysztof-Cieslak_scoop-fsharp-extras" id="back_Krzysztof-Cieslak_scoop-fsharp-extras"></a>[172.](# "21.254192") [__Krzysztof-Cieslak/scoop-fsharp-extras__](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras): *Scoop bucket with F# specific utilities*|[1](#Krzysztof-Cieslak_scoop-fsharp-extras)|[0](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/stargazers)|[0](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/network)|[17&#x2011;06&#x2011;04](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/commits)|
-|<a name="back_nrakochy_leiningen_bucket" id="back_nrakochy_leiningen_bucket"></a>[173.](# "19.251204") [__nrakochy/leiningen_bucket__](https://github.com/nrakochy/leiningen_bucket): *JSON package for adding Leiningen to Windows via the Scoop installer*|[1](#nrakochy_leiningen_bucket)|[0](https://github.com/nrakochy/leiningen_bucket/stargazers)|[0](https://github.com/nrakochy/leiningen_bucket/network)|[16&#x2011;11&#x2011;17](https://github.com/nrakochy/leiningen_bucket/commits)|
-|<a name="back_Greydus_weeb-bucket" id="back_Greydus_weeb-bucket"></a>[174.](# "19.005505") [__Greydus/weeb-bucket__](https://github.com/Greydus/weeb-bucket): *A scoop bucket containing various utilities that I use*|[4](#Greydus_weeb-bucket)|[0](https://github.com/Greydus/weeb-bucket/stargazers)|[0](https://github.com/Greydus/weeb-bucket/network)|[18&#x2011;06&#x2011;20](https://github.com/Greydus/weeb-bucket/commits)|
-|<a name="back_Doublemine_scoops" id="back_Doublemine_scoops"></a>[175.](# "18.81242") [__Doublemine/scoops__](https://github.com/Doublemine/scoops): *a buckets to collection some application for scoop*|[1](#Doublemine_scoops)|[1](https://github.com/Doublemine/scoops/stargazers)|[0](https://github.com/Doublemine/scoops/network)|[17&#x2011;12&#x2011;25](https://github.com/Doublemine/scoops/commits)|
-|<a name="back_Praqma_scoop-praqma-tools" id="back_Praqma_scoop-praqma-tools"></a>[176.](# "18.649984") [__Praqma/scoop-praqma-tools__](https://github.com/Praqma/scoop-praqma-tools): *Scoop bucket for command line tools on windows*|[1](#Praqma_scoop-praqma-tools)|[0](https://github.com/Praqma/scoop-praqma-tools/stargazers)|[0](https://github.com/Praqma/scoop-praqma-tools/network)|[17&#x2011;08&#x2011;03](https://github.com/Praqma/scoop-praqma-tools/commits)|
-|<a name="back_ChinLong_scoop-customize" id="back_ChinLong_scoop-customize"></a>[177.](# "18.388699") [__ChinLong/scoop-customize__](https://github.com/ChinLong/scoop-customize): *It is customize for scoop-extras*|[14](#ChinLong_scoop-customize)|[3](https://github.com/ChinLong/scoop-customize/stargazers)|[0](https://github.com/ChinLong/scoop-customize/network)|[18&#x2011;07&#x2011;15](https://github.com/ChinLong/scoop-customize/commits)|
-|<a name="back_juliostanley_scoop-windows-linux-containers" id="back_juliostanley_scoop-windows-linux-containers"></a>[178.](# "17.324835") [__juliostanley/scoop-windows-linux-containers__](https://github.com/juliostanley/scoop-windows-linux-containers): *A setup script to enable containers on windows for local development*|[3](#juliostanley_scoop-windows-linux-containers)|[3](https://github.com/juliostanley/scoop-windows-linux-containers/stargazers)|[0](https://github.com/juliostanley/scoop-windows-linux-containers/network)|[18&#x2011;07&#x2011;06](https://github.com/juliostanley/scoop-windows-linux-containers/commits)|
-|<a name="back_tetradice_scoop-iyokan-jp" id="back_tetradice_scoop-iyokan-jp"></a>[179.](# "15.637669") [__tetradice/scoop-iyokan-jp__](https://github.com/tetradice/scoop-iyokan-jp): *日本語環境に最適化されたscoop bucket*|[18](#tetradice_scoop-iyokan-jp)|[0](https://github.com/tetradice/scoop-iyokan-jp/stargazers)|[1](https://github.com/tetradice/scoop-iyokan-jp/network)|[18&#x2011;07&#x2011;10](https://github.com/tetradice/scoop-iyokan-jp/commits)|
-|<a name="back_mundusnine_audio-bucket" id="back_mundusnine_audio-bucket"></a>[180.](# "15.513515") [__mundusnine/audio-bucket__](https://github.com/mundusnine/audio-bucket): *A bucket-list for scoop.sh that covers multiple audio technologies(apps, code base, tools etc.)*|[11](#mundusnine_audio-bucket)|[0](https://github.com/mundusnine/audio-bucket/stargazers)|[0](https://github.com/mundusnine/audio-bucket/network)|[18&#x2011;05&#x2011;31](https://github.com/mundusnine/audio-bucket/commits)|
-|<a name="back_Callidin_ragnar-scoop" id="back_Callidin_ragnar-scoop"></a>[181.](# "15.475595") [__Callidin/ragnar-scoop__](https://github.com/Callidin/ragnar-scoop): *A small bucket so I can find and install older versions of things from scoop repros.*|[1](#Callidin_ragnar-scoop)|[0](https://github.com/Callidin/ragnar-scoop/stargazers)|[0](https://github.com/Callidin/ragnar-scoop/network)|[16&#x2011;03&#x2011;16](https://github.com/Callidin/ragnar-scoop/commits)|
-|<a name="back_jfut_scoop-dell-xps-8920" id="back_jfut_scoop-dell-xps-8920"></a>[182.](# "15.432153") [__jfut/scoop-dell-xps-8920__](https://github.com/jfut/scoop-dell-xps-8920): *DELL XPS 8920 Hardware Driver and Software Bucket for http://scoop.sh*|[1](#jfut_scoop-dell-xps-8920)|[0](https://github.com/jfut/scoop-dell-xps-8920/stargazers)|[0](https://github.com/jfut/scoop-dell-xps-8920/network)|[17&#x2011;11&#x2011;24](https://github.com/jfut/scoop-dell-xps-8920/commits)|
-|<a name="back_comp500_scoop-comp500" id="back_comp500_scoop-comp500"></a>[183.](# "15.272258") [__comp500/scoop-comp500__](https://github.com/comp500/scoop-comp500): *Scoop bucket for my packages (software not made by me, only the package files)*|[19](#comp500_scoop-comp500)|[1](https://github.com/comp500/scoop-comp500/stargazers)|[0](https://github.com/comp500/scoop-comp500/network)|[18&#x2011;07&#x2011;18](https://github.com/comp500/scoop-comp500/commits)|
-|<a name="back_ArsLabora_scoop-tools" id="back_ArsLabora_scoop-tools"></a>[184.](# "15.217509") [__ArsLabora/scoop-tools__](https://github.com/ArsLabora/scoop-tools): *Scoop Bucket with additional tools and utilities I like to use.*|[4](#ArsLabora_scoop-tools)|[0](https://github.com/ArsLabora/scoop-tools/stargazers)|[0](https://github.com/ArsLabora/scoop-tools/network)|[18&#x2011;07&#x2011;17](https://github.com/ArsLabora/scoop-tools/commits)|
+|<a name="back_lukesampson_scoop-extras" id="back_lukesampson_scoop-extras"></a>[1.](# "220.72223") [__lukesampson/scoop-extras__](https://github.com/lukesampson/scoop-extras): *&#34;Extras&#34; bucket for Scoop (scoop&#39;s built-in bucket &#39;extras&#39;)*|[412](#lukesampson_scoop-extras)|[248](https://github.com/lukesampson/scoop-extras/stargazers)|[215](https://github.com/lukesampson/scoop-extras/network)|[18&#x2011;07&#x2011;18](https://github.com/lukesampson/scoop-extras/commits)|
+|<a name="back_lukesampson_scoop" id="back_lukesampson_scoop"></a>[2.](# "95.20005") [__lukesampson/scoop__](https://github.com/lukesampson/scoop): *A command-line installer for Windows. (scoop&#39;s main/default bucket)*|[337](#lukesampson_scoop)|[4433](https://github.com/lukesampson/scoop/stargazers)|[487](https://github.com/lukesampson/scoop/network)|[18&#x2011;07&#x2011;18](https://github.com/lukesampson/scoop/commits)|
+|<a name="back_scoopinstaller_versions" id="back_scoopinstaller_versions"></a>[3.](# "91.1536") [__scoopinstaller/versions__](https://github.com/scoopinstaller/versions): *A Scoop bucket for alternative versions of apps. (scoop&#39;s built-in bucket &#39;versions&#39;)*|[59](#scoopinstaller_versions)|[7](https://github.com/scoopinstaller/versions/stargazers)|[20](https://github.com/scoopinstaller/versions/network)|[18&#x2011;07&#x2011;14](https://github.com/scoopinstaller/versions/commits)|
+|<a name="back_kodybrown_scoop-nirsoft" id="back_kodybrown_scoop-nirsoft"></a>[4.](# "68.09307") [__kodybrown/scoop-nirsoft__](https://github.com/kodybrown/scoop-nirsoft): *A Scoop bucket of useful NirSoft utilities (scoop&#39;s built-in bucket &#39;nirsoft&#39;)*|[18](#kodybrown_scoop-nirsoft)|[11](https://github.com/kodybrown/scoop-nirsoft/stargazers)|[3](https://github.com/kodybrown/scoop-nirsoft/network)|[18&#x2011;05&#x2011;15](https://github.com/kodybrown/scoop-nirsoft/commits)|
+|<a name="back_nueko_php-ext-bucket" id="back_nueko_php-ext-bucket"></a>[5.](# "60.991722") [__nueko/php-ext-bucket__](https://github.com/nueko/php-ext-bucket): *Scoop Bucket for PHP Extensions*|[54](#nueko_php-ext-bucket)|[3](https://github.com/nueko/php-ext-bucket/stargazers)|[3](https://github.com/nueko/php-ext-bucket/network)|[18&#x2011;06&#x2011;14](https://github.com/nueko/php-ext-bucket/commits)|
+|<a name="back_matthewjberger_scoop-nerd-fonts" id="back_matthewjberger_scoop-nerd-fonts"></a>[6.](# "60.710423") [__matthewjberger/scoop-nerd-fonts__](https://github.com/matthewjberger/scoop-nerd-fonts): *A scoop bucket for installing nerd fonts. (scoop&#39;s built-in bucket &#39;nerd-fonts&#39;)*|[34](#matthewjberger_scoop-nerd-fonts)|[13](https://github.com/matthewjberger/scoop-nerd-fonts/stargazers)|[1](https://github.com/matthewjberger/scoop-nerd-fonts/network)|[18&#x2011;07&#x2011;17](https://github.com/matthewjberger/scoop-nerd-fonts/commits)|
+|<a name="back_TheCjw_scoop-retools" id="back_TheCjw_scoop-retools"></a>[7.](# "54.84238") [__TheCjw/scoop-retools__](https://github.com/TheCjw/scoop-retools): *Scoop bucket for reverse engineering tools*|[15](#TheCjw_scoop-retools)|[7](https://github.com/TheCjw/scoop-retools/stargazers)|[2](https://github.com/TheCjw/scoop-retools/network)|[18&#x2011;07&#x2011;16](https://github.com/TheCjw/scoop-retools/commits)|
+|<a name="back_nueko_scoop-php" id="back_nueko_scoop-php"></a>[8.](# "51.141483") [__nueko/scoop-php__](https://github.com/nueko/scoop-php): *PHP Bucket for http://scoop.sh (scoop&#39;s built-in bucket &#39;php&#39;)*|[438](#nueko_scoop-php)|[5](https://github.com/nueko/scoop-php/stargazers)|[2](https://github.com/nueko/scoop-php/network)|[18&#x2011;07&#x2011;17](https://github.com/nueko/scoop-php/commits)|
+|<a name="back_rasa_scoops" id="back_rasa_scoops"></a>[9.](# "47.925278") [__rasa/scoops__](https://github.com/rasa/scoops): *:fries: A bucket of tasty scoop flavored apps.*|[68](#rasa_scoops)|[7](https://github.com/rasa/scoops/stargazers)|[2](https://github.com/rasa/scoops/network)|[18&#x2011;07&#x2011;17](https://github.com/rasa/scoops/commits)|
+|<a name="back_maman_scoop-bucket" id="back_maman_scoop-bucket"></a>[10.](# "46.19694") [__maman/scoop-bucket__](https://github.com/maman/scoop-bucket): *Additional buckets for scoop - homebrew for windows*|[7](#maman_scoop-bucket)|[2](https://github.com/maman/scoop-bucket/stargazers)|[2](https://github.com/maman/scoop-bucket/network)|[17&#x2011;05&#x2011;26](https://github.com/maman/scoop-bucket/commits)|
+|<a name="back_jmcarbo_scoopbucket" id="back_jmcarbo_scoopbucket"></a>[11.](# "42.082417") [__jmcarbo/scoopbucket__](https://github.com/jmcarbo/scoopbucket): *Scoop bucket install definitions*|[6](#jmcarbo_scoopbucket)|[1](https://github.com/jmcarbo/scoopbucket/stargazers)|[2](https://github.com/jmcarbo/scoopbucket/network)|[16&#x2011;09&#x2011;08](https://github.com/jmcarbo/scoopbucket/commits)|
+|<a name="back_red_scoop-bucket" id="back_red_scoop-bucket"></a>[12.](# "39.77868") [__red/scoop-bucket__](https://github.com/red/scoop-bucket)|[2](#red_scoop-bucket)|[1](https://github.com/red/scoop-bucket/stargazers)|[2](https://github.com/red/scoop-bucket/network)|[17&#x2011;05&#x2011;16](https://github.com/red/scoop-bucket/commits)|
+|<a name="back_Utdanningsdirektoratet_PAS-scoop-public" id="back_Utdanningsdirektoratet_PAS-scoop-public"></a>[13.](# "36.888958") [__Utdanningsdirektoratet/PAS-scoop-public__](https://github.com/Utdanningsdirektoratet/PAS-scoop-public)|[33](#Utdanningsdirektoratet_PAS-scoop-public)|[0](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/stargazers)|[0](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/network)|[16&#x2011;05&#x2011;31](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/commits)|
+|<a name="back_liaoya_scoop-bucket" id="back_liaoya_scoop-bucket"></a>[14.](# "34.243896") [__liaoya/scoop-bucket__](https://github.com/liaoya/scoop-bucket): *Tom&#39;s scoop bucket which contain the software does not exist in main and extras scoop bucket*|[23](#liaoya_scoop-bucket)|[3](https://github.com/liaoya/scoop-bucket/stargazers)|[0](https://github.com/liaoya/scoop-bucket/network)|[18&#x2011;07&#x2011;10](https://github.com/liaoya/scoop-bucket/commits)|
+|<a name="back_hermanjustnu_scoop-emulators" id="back_hermanjustnu_scoop-emulators"></a>[15.](# "32.544563") [__hermanjustnu/scoop-emulators__](https://github.com/hermanjustnu/scoop-emulators): *Scoop bucket for emulators*|[10](#hermanjustnu_scoop-emulators)|[2](https://github.com/hermanjustnu/scoop-emulators/stargazers)|[0](https://github.com/hermanjustnu/scoop-emulators/network)|[18&#x2011;07&#x2011;17](https://github.com/hermanjustnu/scoop-emulators/commits)|
+|<a name="back_h404bi_dorado" id="back_h404bi_dorado"></a>[16.](# "31.78547") [__h404bi/dorado__](https://github.com/h404bi/dorado): *🐟 A bucket of Scoop, for h404bi*|[37](#h404bi_dorado)|[3](https://github.com/h404bi/dorado/stargazers)|[0](https://github.com/h404bi/dorado/network)|[18&#x2011;07&#x2011;18](https://github.com/h404bi/dorado/commits)|
+|<a name="back_se35710_scoop-java" id="back_se35710_scoop-java"></a>[17.](# "31.049595") [__se35710/scoop-java__](https://github.com/se35710/scoop-java): *A bucket for Scoop, for Oracle Java, OpenJDK, Zulu, ojdkbuild and AdoptOpenJDK. (scoop&#39;s built-in bucket &#39;java&#39;)*|[36](#se35710_scoop-java)|[10](https://github.com/se35710/scoop-java/stargazers)|[1](https://github.com/se35710/scoop-java/network)|[18&#x2011;07&#x2011;17](https://github.com/se35710/scoop-java/commits)|
+|<a name="back_siddarthasagar_scoopbucket" id="back_siddarthasagar_scoopbucket"></a>[18.](# "30.467133") [__siddarthasagar/scoopbucket__](https://github.com/siddarthasagar/scoopbucket): *customBucket to support scoop installations*|[8](#siddarthasagar_scoopbucket)|[0](https://github.com/siddarthasagar/scoopbucket/stargazers)|[0](https://github.com/siddarthasagar/scoopbucket/network)|[18&#x2011;04&#x2011;22](https://github.com/siddarthasagar/scoopbucket/commits)|
+|<a name="back_wangzq_scoop-bucket" id="back_wangzq_scoop-bucket"></a>[19.](# "30.092485") [__wangzq/scoop-bucket__](https://github.com/wangzq/scoop-bucket): *A bucket for http://scoop.sh*|[73](#wangzq_scoop-bucket)|[2](https://github.com/wangzq/scoop-bucket/stargazers)|[0](https://github.com/wangzq/scoop-bucket/network)|[18&#x2011;07&#x2011;01](https://github.com/wangzq/scoop-bucket/commits)|
+|<a name="back_scoopinstaller_nightlies" id="back_scoopinstaller_nightlies"></a>[20.](# "30.053118") [__scoopinstaller/nightlies__](https://github.com/scoopinstaller/nightlies): * (scoop&#39;s built-in bucket &#39;nightlies&#39;)*|[1](#scoopinstaller_nightlies)|[0](https://github.com/scoopinstaller/nightlies/stargazers)|[0](https://github.com/scoopinstaller/nightlies/network)|[16&#x2011;01&#x2011;24](https://github.com/scoopinstaller/nightlies/commits)|
+|<a name="back_jamesgecko_scoop-packages" id="back_jamesgecko_scoop-packages"></a>[21.](# "27.80871") [__jamesgecko/scoop-packages__](https://github.com/jamesgecko/scoop-packages): *Random manifests*|[6](#jamesgecko_scoop-packages)|[0](https://github.com/jamesgecko/scoop-packages/stargazers)|[0](https://github.com/jamesgecko/scoop-packages/network)|[15&#x2011;04&#x2011;25](https://github.com/jamesgecko/scoop-packages/commits)|
+|<a name="back_cryptogrampus_cuztum-bucket" id="back_cryptogrampus_cuztum-bucket"></a>[22.](# "27.350662") [__cryptogrampus/cuztum-bucket__](https://github.com/cryptogrampus/cuztum-bucket): *scoop bucket*|[1](#cryptogrampus_cuztum-bucket)|[0](https://github.com/cryptogrampus/cuztum-bucket/stargazers)|[0](https://github.com/cryptogrampus/cuztum-bucket/network)|[18&#x2011;05&#x2011;29](https://github.com/cryptogrampus/cuztum-bucket/commits)|
+|<a name="back_svkoh_scoop-bucket" id="back_svkoh_scoop-bucket"></a>[23.](# "27.344501") [__svkoh/scoop-bucket__](https://github.com/svkoh/scoop-bucket): *scoop-bucket*|[1](#svkoh_scoop-bucket)|[0](https://github.com/svkoh/scoop-bucket/stargazers)|[0](https://github.com/svkoh/scoop-bucket/network)|[17&#x2011;07&#x2011;26](https://github.com/svkoh/scoop-bucket/commits)|
+|<a name="back_simonwjackson_my-bucket" id="back_simonwjackson_my-bucket"></a>[24.](# "27.247505") [__simonwjackson/my-bucket__](https://github.com/simonwjackson/my-bucket): *Scoop bucket*|[1](#simonwjackson_my-bucket)|[0](https://github.com/simonwjackson/my-bucket/stargazers)|[0](https://github.com/simonwjackson/my-bucket/network)|[17&#x2011;04&#x2011;30](https://github.com/simonwjackson/my-bucket/commits)|
+|<a name="back_Sandex_scoop-supernova" id="back_Sandex_scoop-supernova"></a>[25.](# "27.212463") [__Sandex/scoop-supernova__](https://github.com/Sandex/scoop-supernova): *Scoop bucket*|[6](#Sandex_scoop-supernova)|[1](https://github.com/Sandex/scoop-supernova/stargazers)|[1](https://github.com/Sandex/scoop-supernova/network)|[18&#x2011;05&#x2011;04](https://github.com/Sandex/scoop-supernova/commits)|
+|<a name="back_Congee_barrel" id="back_Congee_barrel"></a>[26.](# "27.201473") [__Congee/barrel__](https://github.com/Congee/barrel): *Scoop bucket*|[14](#Congee_barrel)|[0](https://github.com/Congee/barrel/stargazers)|[0](https://github.com/Congee/barrel/network)|[16&#x2011;09&#x2011;28](https://github.com/Congee/barrel/commits)|
+|<a name="back_KeKsBoTer_my-bucket" id="back_KeKsBoTer_my-bucket"></a>[27.](# "27.201473") [__KeKsBoTer/my-bucket__](https://github.com/KeKsBoTer/my-bucket): *Scoop bucket*|[2](#KeKsBoTer_my-bucket)|[0](https://github.com/KeKsBoTer/my-bucket/stargazers)|[0](https://github.com/KeKsBoTer/my-bucket/network)|[18&#x2011;07&#x2011;10](https://github.com/KeKsBoTer/my-bucket/commits)|
+|<a name="back_gexclaude_scoop-bucket" id="back_gexclaude_scoop-bucket"></a>[28.](# "27.201473") [__gexclaude/scoop-bucket__](https://github.com/gexclaude/scoop-bucket): *Scoop Bucket*|[1](#gexclaude_scoop-bucket)|[0](https://github.com/gexclaude/scoop-bucket/stargazers)|[0](https://github.com/gexclaude/scoop-bucket/network)|[18&#x2011;06&#x2011;12](https://github.com/gexclaude/scoop-bucket/commits)|
+|<a name="back_furyfire_my-bucket" id="back_furyfire_my-bucket"></a>[29.](# "27.159603") [__furyfire/my-bucket__](https://github.com/furyfire/my-bucket): *scoop bucket*|[1](#furyfire_my-bucket)|[0](https://github.com/furyfire/my-bucket/stargazers)|[0](https://github.com/furyfire/my-bucket/network)|[17&#x2011;10&#x2011;10](https://github.com/furyfire/my-bucket/commits)|
+|<a name="back_Aaike_scoop" id="back_Aaike_scoop"></a>[30.](# "27.098265") [__Aaike/scoop__](https://github.com/Aaike/scoop): *Scoop bucket*|[1](#Aaike_scoop)|[0](https://github.com/Aaike/scoop/stargazers)|[0](https://github.com/Aaike/scoop/network)|[15&#x2011;06&#x2011;11](https://github.com/Aaike/scoop/commits)|
+|<a name="back_idursun_my-bucket" id="back_idursun_my-bucket"></a>[31.](# "27.004997") [__idursun/my-bucket__](https://github.com/idursun/my-bucket): *Scoop bucket*|[1](#idursun_my-bucket)|[0](https://github.com/idursun/my-bucket/stargazers)|[0](https://github.com/idursun/my-bucket/network)|[17&#x2011;05&#x2011;25](https://github.com/idursun/my-bucket/commits)|
+|<a name="back_kingchang_scoop-buckets" id="back_kingchang_scoop-buckets"></a>[32.](# "26.948387") [__kingchang/scoop-buckets__](https://github.com/kingchang/scoop-buckets): *Scoop Buckets*|[2](#kingchang_scoop-buckets)|[0](https://github.com/kingchang/scoop-buckets/stargazers)|[0](https://github.com/kingchang/scoop-buckets/network)|[18&#x2011;03&#x2011;29](https://github.com/kingchang/scoop-buckets/commits)|
+|<a name="back_sh4869221b_scoop-bucket" id="back_sh4869221b_scoop-bucket"></a>[33.](# "26.871954") [__sh4869221b/scoop-bucket__](https://github.com/sh4869221b/scoop-bucket): *scoop bucket*|[12](#sh4869221b_scoop-bucket)|[0](https://github.com/sh4869221b/scoop-bucket/stargazers)|[0](https://github.com/sh4869221b/scoop-bucket/network)|[18&#x2011;06&#x2011;25](https://github.com/sh4869221b/scoop-bucket/commits)|
+|<a name="back_excitoon_scoop-user" id="back_excitoon_scoop-user"></a>[34.](# "25.976662") [__excitoon/scoop-user__](https://github.com/excitoon/scoop-user): *My custom Scoop repository*|[43](#excitoon_scoop-user)|[0](https://github.com/excitoon/scoop-user/stargazers)|[0](https://github.com/excitoon/scoop-user/network)|[18&#x2011;07&#x2011;07](https://github.com/excitoon/scoop-user/commits)|
+|<a name="back_Southclaws_scoops" id="back_Southclaws_scoops"></a>[35.](# "25.451557") [__Southclaws/scoops__](https://github.com/Southclaws/scoops): *Southclaws&#39; scoop.sh bucket - https://scoop.sh*|[1](#Southclaws_scoops)|[0](https://github.com/Southclaws/scoops/stargazers)|[1](https://github.com/Southclaws/scoops/network)|[18&#x2011;07&#x2011;17](https://github.com/Southclaws/scoops/commits)|
+|<a name="back_TnmkFan_my-bucket" id="back_TnmkFan_my-bucket"></a>[36.](# "25.451557") [__TnmkFan/my-bucket__](https://github.com/TnmkFan/my-bucket): *bucket for scoop (extra apps for scoop)*|[1](#TnmkFan_my-bucket)|[0](https://github.com/TnmkFan/my-bucket/stargazers)|[0](https://github.com/TnmkFan/my-bucket/network)|[16&#x2011;09&#x2011;22](https://github.com/TnmkFan/my-bucket/commits)|
+|<a name="back_Lomeli12_ScoopBucket" id="back_Lomeli12_ScoopBucket"></a>[37.](# "25.44422") [__Lomeli12/ScoopBucket__](https://github.com/Lomeli12/ScoopBucket): *A bucket to install my programs using Scoop (http://scoop.sh/)*|[4](#Lomeli12_ScoopBucket)|[0](https://github.com/Lomeli12/ScoopBucket/stargazers)|[0](https://github.com/Lomeli12/ScoopBucket/network)|[17&#x2011;04&#x2011;24](https://github.com/Lomeli12/ScoopBucket/commits)|
+|<a name="back_Guard13007_ScoopBucket" id="back_Guard13007_ScoopBucket"></a>[38.](# "25.44422") [__Guard13007/ScoopBucket__](https://github.com/Guard13007/ScoopBucket): *Bucket for Scoop to install my stuff. (http://scoop.sh)*|[2](#Guard13007_ScoopBucket)|[0](https://github.com/Guard13007/ScoopBucket/stargazers)|[0](https://github.com/Guard13007/ScoopBucket/network)|[17&#x2011;05&#x2011;08](https://github.com/Guard13007/ScoopBucket/commits)|
+|<a name="back_anurse_scoop-bucket" id="back_anurse_scoop-bucket"></a>[39.](# "25.43431") [__anurse/scoop-bucket__](https://github.com/anurse/scoop-bucket): *My Scoop (http://scoop.sh) bucket*|[7](#anurse_scoop-bucket)|[0](https://github.com/anurse/scoop-bucket/stargazers)|[0](https://github.com/anurse/scoop-bucket/network)|[18&#x2011;04&#x2011;25](https://github.com/anurse/scoop-bucket/commits)|
+|<a name="back_Nunnery_ScoopBucket" id="back_Nunnery_ScoopBucket"></a>[40.](# "25.43411") [__Nunnery/ScoopBucket__](https://github.com/Nunnery/ScoopBucket)|[2](#Nunnery_ScoopBucket)|[0](https://github.com/Nunnery/ScoopBucket/stargazers)|[0](https://github.com/Nunnery/ScoopBucket/network)|[15&#x2011;09&#x2011;06](https://github.com/Nunnery/ScoopBucket/commits)|
+|<a name="back_Sathishkrishn_appbucket" id="back_Sathishkrishn_appbucket"></a>[41.](# "25.319351") [__Sathishkrishn/appbucket__](https://github.com/Sathishkrishn/appbucket): *Bucket for Scoop*|[4](#Sathishkrishn_appbucket)|[1](https://github.com/Sathishkrishn/appbucket/stargazers)|[0](https://github.com/Sathishkrishn/appbucket/network)|[18&#x2011;05&#x2011;19](https://github.com/Sathishkrishn/appbucket/commits)|
+|<a name="back_Alxandr_scoop-bucket" id="back_Alxandr_scoop-bucket"></a>[42.](# "25.319351") [__Alxandr/scoop-bucket__](https://github.com/Alxandr/scoop-bucket): *My scoop bucket*|[3](#Alxandr_scoop-bucket)|[0](https://github.com/Alxandr/scoop-bucket/stargazers)|[0](https://github.com/Alxandr/scoop-bucket/network)|[18&#x2011;06&#x2011;22](https://github.com/Alxandr/scoop-bucket/commits)|
+|<a name="back_bitrvmpd_scoop-wuff" id="back_bitrvmpd_scoop-wuff"></a>[43.](# "25.319351") [__bitrvmpd/scoop-wuff__](https://github.com/bitrvmpd/scoop-wuff): *Another Scoop Bucket*|[1](#bitrvmpd_scoop-wuff)|[0](https://github.com/bitrvmpd/scoop-wuff/stargazers)|[0](https://github.com/bitrvmpd/scoop-wuff/network)|[15&#x2011;09&#x2011;03](https://github.com/bitrvmpd/scoop-wuff/commits)|
+|<a name="back_dhillondeep_wio-bucket" id="back_dhillondeep_wio-bucket"></a>[44.](# "25.294346") [__dhillondeep/wio-bucket__](https://github.com/dhillondeep/wio-bucket): *Scoop Bucket for Wio*|[1](#dhillondeep_wio-bucket)|[0](https://github.com/dhillondeep/wio-bucket/stargazers)|[0](https://github.com/dhillondeep/wio-bucket/network)|[18&#x2011;06&#x2011;26](https://github.com/dhillondeep/wio-bucket/commits)|
+|<a name="back_stlhrt_steel-buckets" id="back_stlhrt_steel-buckets"></a>[45.](# "25.294346") [__stlhrt/steel-buckets__](https://github.com/stlhrt/steel-buckets): *my scoop buckets*|[1](#stlhrt_steel-buckets)|[0](https://github.com/stlhrt/steel-buckets/stargazers)|[0](https://github.com/stlhrt/steel-buckets/network)|[15&#x2011;05&#x2011;12](https://github.com/stlhrt/steel-buckets/commits)|
+|<a name="back_yt3r_test-bucket" id="back_yt3r_test-bucket"></a>[46.](# "25.294346") [__yt3r/test-bucket__](https://github.com/yt3r/test-bucket): *test bucket for scoop*|[1](#yt3r_test-bucket)|[0](https://github.com/yt3r/test-bucket/stargazers)|[0](https://github.com/yt3r/test-bucket/network)|[18&#x2011;01&#x2011;22](https://github.com/yt3r/test-bucket/commits)|
+|<a name="back_yutahaga_scoop-bucket" id="back_yutahaga_scoop-bucket"></a>[47.](# "25.20409") [__yutahaga/scoop-bucket__](https://github.com/yutahaga/scoop-bucket): *my scoop bucket*|[10](#yutahaga_scoop-bucket)|[0](https://github.com/yutahaga/scoop-bucket/stargazers)|[0](https://github.com/yutahaga/scoop-bucket/network)|[18&#x2011;03&#x2011;31](https://github.com/yutahaga/scoop-bucket/commits)|
+|<a name="back_mattkang_scoop-bucket" id="back_mattkang_scoop-bucket"></a>[48.](# "25.20409") [__mattkang/scoop-bucket__](https://github.com/mattkang/scoop-bucket): *Bucket for scoop.sh*|[2](#mattkang_scoop-bucket)|[0](https://github.com/mattkang/scoop-bucket/stargazers)|[0](https://github.com/mattkang/scoop-bucket/network)|[17&#x2011;04&#x2011;20](https://github.com/mattkang/scoop-bucket/commits)|
+|<a name="back_Ash258_scoop-Ash258" id="back_Ash258_scoop-Ash258"></a>[49.](# "25.199787") [__Ash258/scoop-Ash258__](https://github.com/Ash258/scoop-Ash258): *Bucket for Scoop*|[29](#Ash258_scoop-Ash258)|[1](https://github.com/Ash258/scoop-Ash258/stargazers)|[0](https://github.com/Ash258/scoop-Ash258/network)|[18&#x2011;07&#x2011;17](https://github.com/Ash258/scoop-Ash258/commits)|
+|<a name="back_lzimd_lzimd-scoop-bucket" id="back_lzimd_lzimd-scoop-bucket"></a>[50.](# "25.199787") [__lzimd/lzimd-scoop-bucket__](https://github.com/lzimd/lzimd-scoop-bucket): *lzimd&#39;s scoop bucket*|[5](#lzimd_lzimd-scoop-bucket)|[0](https://github.com/lzimd/lzimd-scoop-bucket/stargazers)|[0](https://github.com/lzimd/lzimd-scoop-bucket/network)|[18&#x2011;06&#x2011;03](https://github.com/lzimd/lzimd-scoop-bucket/commits)|
+|<a name="back_DeezCashews_tilt-bucket" id="back_DeezCashews_tilt-bucket"></a>[51.](# "25.199787") [__DeezCashews/tilt-bucket__](https://github.com/DeezCashews/tilt-bucket): *Bucket for scoop installs*|[1](#DeezCashews_tilt-bucket)|[0](https://github.com/DeezCashews/tilt-bucket/stargazers)|[0](https://github.com/DeezCashews/tilt-bucket/network)|[18&#x2011;05&#x2011;17](https://github.com/DeezCashews/tilt-bucket/commits)|
+|<a name="back_narnaud_scoop-bucket" id="back_narnaud_scoop-bucket"></a>[52.](# "25.18197") [__narnaud/scoop-bucket__](https://github.com/narnaud/scoop-bucket): *Extra bucket for scoop*|[6](#narnaud_scoop-bucket)|[0](https://github.com/narnaud/scoop-bucket/stargazers)|[0](https://github.com/narnaud/scoop-bucket/network)|[17&#x2011;07&#x2011;07](https://github.com/narnaud/scoop-bucket/commits)|
+|<a name="back_tditlu_scoop-amiga" id="back_tditlu_scoop-amiga"></a>[53.](# "25.18197") [__tditlu/scoop-amiga__](https://github.com/tditlu/scoop-amiga): *Amiga bucket for Scoop*|[3](#tditlu_scoop-amiga)|[0](https://github.com/tditlu/scoop-amiga/stargazers)|[0](https://github.com/tditlu/scoop-amiga/network)|[16&#x2011;06&#x2011;05](https://github.com/tditlu/scoop-amiga/commits)|
+|<a name="back_follnoob_follnoob-bucket" id="back_follnoob_follnoob-bucket"></a>[54.](# "25.18197") [__follnoob/follnoob-bucket__](https://github.com/follnoob/follnoob-bucket): *own scoop bucket*|[2](#follnoob_follnoob-bucket)|[0](https://github.com/follnoob/follnoob-bucket/stargazers)|[0](https://github.com/follnoob/follnoob-bucket/network)|[18&#x2011;01&#x2011;04](https://github.com/follnoob/follnoob-bucket/commits)|
+|<a name="back_andreysaksonov_scoop-bucket" id="back_andreysaksonov_scoop-bucket"></a>[55.](# "25.170311") [__andreysaksonov/scoop-bucket__](https://github.com/andreysaksonov/scoop-bucket): *Bucket for Scoop (http://scoop.sh/)*|[2](#andreysaksonov_scoop-bucket)|[0](https://github.com/andreysaksonov/scoop-bucket/stargazers)|[0](https://github.com/andreysaksonov/scoop-bucket/network)|[18&#x2011;04&#x2011;26](https://github.com/andreysaksonov/scoop-bucket/commits)|
+|<a name="back_javageek_scoop-bucket" id="back_javageek_scoop-bucket"></a>[56.](# "25.094172") [__javageek/scoop-bucket__](https://github.com/javageek/scoop-bucket): *scoop.sh bucket*|[1](#javageek_scoop-bucket)|[0](https://github.com/javageek/scoop-bucket/stargazers)|[0](https://github.com/javageek/scoop-bucket/network)|[17&#x2011;12&#x2011;07](https://github.com/javageek/scoop-bucket/commits)|
+|<a name="back_rcqls_scoop-extras" id="back_rcqls_scoop-extras"></a>[57.](# "25.08005") [__rcqls/scoop-extras__](https://github.com/rcqls/scoop-extras): *scoop bucket for rcqls*|[4](#rcqls_scoop-extras)|[0](https://github.com/rcqls/scoop-extras/stargazers)|[0](https://github.com/rcqls/scoop-extras/network)|[16&#x2011;11&#x2011;26](https://github.com/rcqls/scoop-extras/commits)|
+|<a name="back_mko-x_bucket" id="back_mko-x_bucket"></a>[58.](# "25.08005") [__mko-x/bucket__](https://github.com/mko-x/bucket): *scoop bucket customized*|[1](#mko-x_bucket)|[0](https://github.com/mko-x/bucket/stargazers)|[0](https://github.com/mko-x/bucket/network)|[15&#x2011;07&#x2011;09](https://github.com/mko-x/bucket/commits)|
+|<a name="back_shyun3_my-bucket" id="back_shyun3_my-bucket"></a>[59.](# "25.014462") [__shyun3/my-bucket__](https://github.com/shyun3/my-bucket): *My Scoop bucket*|[1](#shyun3_my-bucket)|[0](https://github.com/shyun3/my-bucket/stargazers)|[0](https://github.com/shyun3/my-bucket/network)|[18&#x2011;04&#x2011;23](https://github.com/shyun3/my-bucket/commits)|
+|<a name="back_atomicwrites_bucket" id="back_atomicwrites_bucket"></a>[60.](# "25.011566") [__atomicwrites/bucket__](https://github.com/atomicwrites/bucket): *Some windows apps I&#39;ve packaged for scoop.*|[4](#atomicwrites_bucket)|[0](https://github.com/atomicwrites/bucket/stargazers)|[0](https://github.com/atomicwrites/bucket/network)|[18&#x2011;05&#x2011;20](https://github.com/atomicwrites/bucket/commits)|
+|<a name="back_hyrious_scoop-hyrious" id="back_hyrious_scoop-hyrious"></a>[61.](# "24.952229") [__hyrious/scoop-hyrious__](https://github.com/hyrious/scoop-hyrious): *Personal Scoop buckets.*|[5](#hyrious_scoop-hyrious)|[0](https://github.com/hyrious/scoop-hyrious/stargazers)|[0](https://github.com/hyrious/scoop-hyrious/network)|[18&#x2011;06&#x2011;08](https://github.com/hyrious/scoop-hyrious/commits)|
+|<a name="back_hulucc_bucket" id="back_hulucc_bucket"></a>[62.](# "24.952229") [__hulucc/bucket__](https://github.com/hulucc/bucket): *my scoop bucket*|[1](#hulucc_bucket)|[0](https://github.com/hulucc/bucket/stargazers)|[0](https://github.com/hulucc/bucket/network)|[18&#x2011;06&#x2011;03](https://github.com/hulucc/bucket/commits)|
+|<a name="back_klauern_trackello-bucket" id="back_klauern_trackello-bucket"></a>[63.](# "24.952229") [__klauern/trackello-bucket__](https://github.com/klauern/trackello-bucket): *scoop bucket for trackello*|[1](#klauern_trackello-bucket)|[0](https://github.com/klauern/trackello-bucket/stargazers)|[0](https://github.com/klauern/trackello-bucket/network)|[18&#x2011;02&#x2011;16](https://github.com/klauern/trackello-bucket/commits)|
+|<a name="back_kentork_scoop-leaky-bucket" id="back_kentork_scoop-leaky-bucket"></a>[64.](# "24.928246") [__kentork/scoop-leaky-bucket__](https://github.com/kentork/scoop-leaky-bucket): *my scoop bucket*|[3](#kentork_scoop-leaky-bucket)|[0](https://github.com/kentork/scoop-leaky-bucket/stargazers)|[0](https://github.com/kentork/scoop-leaky-bucket/network)|[17&#x2011;11&#x2011;23](https://github.com/kentork/scoop-leaky-bucket/commits)|
+|<a name="back_MunsterPlop_munsterbucket" id="back_MunsterPlop_munsterbucket"></a>[65.](# "24.928246") [__MunsterPlop/munsterbucket__](https://github.com/MunsterPlop/munsterbucket): *My personal Scoop bucket*|[1](#MunsterPlop_munsterbucket)|[0](https://github.com/MunsterPlop/munsterbucket/stargazers)|[0](https://github.com/MunsterPlop/munsterbucket/network)|[18&#x2011;05&#x2011;16](https://github.com/MunsterPlop/munsterbucket/commits)|
+|<a name="back_nikolasd_scoop-bucket" id="back_nikolasd_scoop-bucket"></a>[66.](# "24.928246") [__nikolasd/scoop-bucket__](https://github.com/nikolasd/scoop-bucket): *My Scoop bucket*|[1](#nikolasd_scoop-bucket)|[0](https://github.com/nikolasd/scoop-bucket/stargazers)|[0](https://github.com/nikolasd/scoop-bucket/network)|[13&#x2011;11&#x2011;06](https://github.com/nikolasd/scoop-bucket/commits)|
+|<a name="back_DimiG_dgBucket" id="back_DimiG_dgBucket"></a>[67.](# "24.854553") [__DimiG/dgBucket__](https://github.com/DimiG/dgBucket): *Scoop personal bucket*|[9](#DimiG_dgBucket)|[1](https://github.com/DimiG/dgBucket/stargazers)|[0](https://github.com/DimiG/dgBucket/network)|[17&#x2011;12&#x2011;25](https://github.com/DimiG/dgBucket/commits)|
+|<a name="back_fredjoseph_scoop-bucket" id="back_fredjoseph_scoop-bucket"></a>[68.](# "24.854553") [__fredjoseph/scoop-bucket__](https://github.com/fredjoseph/scoop-bucket): *bucket for Scoop installer*|[11](#fredjoseph_scoop-bucket)|[0](https://github.com/fredjoseph/scoop-bucket/stargazers)|[0](https://github.com/fredjoseph/scoop-bucket/network)|[18&#x2011;07&#x2011;13](https://github.com/fredjoseph/scoop-bucket/commits)|
+|<a name="back_noquierouser_nqu-scoop" id="back_noquierouser_nqu-scoop"></a>[69.](# "24.854553") [__noquierouser/nqu-scoop__](https://github.com/noquierouser/nqu-scoop): *My own Scoop bucket*|[3](#noquierouser_nqu-scoop)|[0](https://github.com/noquierouser/nqu-scoop/stargazers)|[0](https://github.com/noquierouser/nqu-scoop/network)|[15&#x2011;03&#x2011;23](https://github.com/noquierouser/nqu-scoop/commits)|
+|<a name="back_daniel-scholz_my-bucket" id="back_daniel-scholz_my-bucket"></a>[70.](# "24.854553") [__daniel-scholz/my-bucket__](https://github.com/daniel-scholz/my-bucket): *scoop bucket from me*|[1](#daniel-scholz_my-bucket)|[0](https://github.com/daniel-scholz/my-bucket/stargazers)|[0](https://github.com/daniel-scholz/my-bucket/network)|[18&#x2011;06&#x2011;25](https://github.com/daniel-scholz/my-bucket/commits)|
+|<a name="back_yuanying1199_scoopbucket" id="back_yuanying1199_scoopbucket"></a>[71.](# "24.820526") [__yuanying1199/scoopbucket__](https://github.com/yuanying1199/scoopbucket): *my scoop bucket*|[21](#yuanying1199_scoopbucket)|[1](https://github.com/yuanying1199/scoopbucket/stargazers)|[0](https://github.com/yuanying1199/scoopbucket/network)|[18&#x2011;05&#x2011;21](https://github.com/yuanying1199/scoopbucket/commits)|
+|<a name="back_biehlermi_scoop-apps" id="back_biehlermi_scoop-apps"></a>[72.](# "24.820526") [__biehlermi/scoop-apps__](https://github.com/biehlermi/scoop-apps): *Bucket for Scoop.*|[5](#biehlermi_scoop-apps)|[0](https://github.com/biehlermi/scoop-apps/stargazers)|[0](https://github.com/biehlermi/scoop-apps/network)|[18&#x2011;07&#x2011;17](https://github.com/biehlermi/scoop-apps/commits)|
+|<a name="back_demas_demas-scoop" id="back_demas_demas-scoop"></a>[73.](# "24.820526") [__demas/demas-scoop__](https://github.com/demas/demas-scoop): *My Scoop Bucket*|[5](#demas_demas-scoop)|[0](https://github.com/demas/demas-scoop/stargazers)|[0](https://github.com/demas/demas-scoop/network)|[16&#x2011;09&#x2011;19](https://github.com/demas/demas-scoop/commits)|
+|<a name="back_ponta555_scoop-bucket" id="back_ponta555_scoop-bucket"></a>[74.](# "24.820526") [__ponta555/scoop-bucket__](https://github.com/ponta555/scoop-bucket): *My scoop bucket.*|[4](#ponta555_scoop-bucket)|[0](https://github.com/ponta555/scoop-bucket/stargazers)|[0](https://github.com/ponta555/scoop-bucket/network)|[18&#x2011;07&#x2011;14](https://github.com/ponta555/scoop-bucket/commits)|
+|<a name="back_pastleo_scoop-bucket" id="back_pastleo_scoop-bucket"></a>[75.](# "24.820526") [__pastleo/scoop-bucket__](https://github.com/pastleo/scoop-bucket): *My Scoop Bucket*|[2](#pastleo_scoop-bucket)|[0](https://github.com/pastleo/scoop-bucket/stargazers)|[0](https://github.com/pastleo/scoop-bucket/network)|[16&#x2011;03&#x2011;20](https://github.com/pastleo/scoop-bucket/commits)|
+|<a name="back_iainsgillis_isg-bucket" id="back_iainsgillis_isg-bucket"></a>[76.](# "24.695412") [__iainsgillis/isg-bucket__](https://github.com/iainsgillis/isg-bucket): *Personal bucket for scoop*|[4](#iainsgillis_isg-bucket)|[0](https://github.com/iainsgillis/isg-bucket/stargazers)|[0](https://github.com/iainsgillis/isg-bucket/network)|[18&#x2011;07&#x2011;03](https://github.com/iainsgillis/isg-bucket/commits)|
+|<a name="back_TokunaKimochi_scoop-bucket" id="back_TokunaKimochi_scoop-bucket"></a>[77.](# "24.695412") [__TokunaKimochi/scoop-bucket__](https://github.com/TokunaKimochi/scoop-bucket): *my bucket for Scoop*|[1](#TokunaKimochi_scoop-bucket)|[0](https://github.com/TokunaKimochi/scoop-bucket/stargazers)|[0](https://github.com/TokunaKimochi/scoop-bucket/network)|[18&#x2011;03&#x2011;11](https://github.com/TokunaKimochi/scoop-bucket/commits)|
+|<a name="back_Guard13007_ScoopBucket-ThirdParty" id="back_Guard13007_ScoopBucket-ThirdParty"></a>[78.](# "24.644493") [__Guard13007/ScoopBucket-ThirdParty__](https://github.com/Guard13007/ScoopBucket-ThirdParty): *Bucket for Scoop to install cool stuff I didn&#39;t make. (http://scoop.sh)*|[7](#Guard13007_ScoopBucket-ThirdParty)|[1](https://github.com/Guard13007/ScoopBucket-ThirdParty/stargazers)|[0](https://github.com/Guard13007/ScoopBucket-ThirdParty/network)|[18&#x2011;02&#x2011;01](https://github.com/Guard13007/ScoopBucket-ThirdParty/commits)|
+|<a name="back_se35710_scoop-ibm" id="back_se35710_scoop-ibm"></a>[79.](# "24.480204") [__se35710/scoop-ibm__](https://github.com/se35710/scoop-ibm): *Scoop bucket for IBM Cloud tools and IBM WebSphere Liberty*|[12](#se35710_scoop-ibm)|[2](https://github.com/se35710/scoop-ibm/stargazers)|[0](https://github.com/se35710/scoop-ibm/network)|[18&#x2011;06&#x2011;29](https://github.com/se35710/scoop-ibm/commits)|
+|<a name="back_mdekstrand_ekstrand-bucket" id="back_mdekstrand_ekstrand-bucket"></a>[80.](# "24.428238") [__mdekstrand/ekstrand-bucket__](https://github.com/mdekstrand/ekstrand-bucket): *My personal Scoop packages*|[1](#mdekstrand_ekstrand-bucket)|[0](https://github.com/mdekstrand/ekstrand-bucket/stargazers)|[0](https://github.com/mdekstrand/ekstrand-bucket/network)|[18&#x2011;05&#x2011;17](https://github.com/mdekstrand/ekstrand-bucket/commits)|
+|<a name="back_DamianReeves_scoop-tools" id="back_DamianReeves_scoop-tools"></a>[81.](# "23.81532") [__DamianReeves/scoop-tools__](https://github.com/DamianReeves/scoop-tools): *A scoop bucket for tools*|[1](#DamianReeves_scoop-tools)|[0](https://github.com/DamianReeves/scoop-tools/stargazers)|[0](https://github.com/DamianReeves/scoop-tools/network)|[18&#x2011;06&#x2011;09](https://github.com/DamianReeves/scoop-tools/commits)|
+|<a name="back_michaelxmcbride_scoop-michaelxmcbride" id="back_michaelxmcbride_scoop-michaelxmcbride"></a>[82.](# "23.81532") [__michaelxmcbride/scoop-michaelxmcbride__](https://github.com/michaelxmcbride/scoop-michaelxmcbride): *My personal bucket for Scoop*|[1](#michaelxmcbride_scoop-michaelxmcbride)|[0](https://github.com/michaelxmcbride/scoop-michaelxmcbride/stargazers)|[0](https://github.com/michaelxmcbride/scoop-michaelxmcbride/network)|[17&#x2011;11&#x2011;06](https://github.com/michaelxmcbride/scoop-michaelxmcbride/commits)|
+|<a name="back_zeero_scoop-my-bucket" id="back_zeero_scoop-my-bucket"></a>[83.](# "23.778374") [__zeero/scoop-my-bucket__](https://github.com/zeero/scoop-my-bucket): *My scoop bucket json files.*|[25](#zeero_scoop-my-bucket)|[0](https://github.com/zeero/scoop-my-bucket/stargazers)|[0](https://github.com/zeero/scoop-my-bucket/network)|[16&#x2011;12&#x2011;20](https://github.com/zeero/scoop-my-bucket/commits)|
+|<a name="back_DEEP-IMPACT-AG_scoop-hyperdrive" id="back_DEEP-IMPACT-AG_scoop-hyperdrive"></a>[84.](# "23.693161") [__DEEP-IMPACT-AG/scoop-hyperdrive__](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive): *Scoop bucket for the hyperdrive*|[1](#DEEP-IMPACT-AG_scoop-hyperdrive)|[0](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/stargazers)|[0](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/network)|[18&#x2011;07&#x2011;07](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/commits)|
+|<a name="back_ghchinoy_scoop-ce" id="back_ghchinoy_scoop-ce"></a>[85.](# "23.693161") [__ghchinoy/scoop-ce__](https://github.com/ghchinoy/scoop-ce): *scoop bucket for CE tools*|[1](#ghchinoy_scoop-ce)|[0](https://github.com/ghchinoy/scoop-ce/stargazers)|[0](https://github.com/ghchinoy/scoop-ce/network)|[18&#x2011;05&#x2011;15](https://github.com/ghchinoy/scoop-ce/commits)|
+|<a name="back_masaeedu_scoop-growlnotify" id="back_masaeedu_scoop-growlnotify"></a>[86.](# "23.68483") [__masaeedu/scoop-growlnotify__](https://github.com/masaeedu/scoop-growlnotify): *Bucket for growlnotify app*|[1](#masaeedu_scoop-growlnotify)|[0](https://github.com/masaeedu/scoop-growlnotify/stargazers)|[0](https://github.com/masaeedu/scoop-growlnotify/network)|[15&#x2011;06&#x2011;12](https://github.com/masaeedu/scoop-growlnotify/commits)|
+|<a name="back_masonm12_scoop-personal" id="back_masonm12_scoop-personal"></a>[87.](# "23.671766") [__masonm12/scoop-personal__](https://github.com/masonm12/scoop-personal): *Bucket for personal scoop apps.*|[4](#masonm12_scoop-personal)|[0](https://github.com/masonm12/scoop-personal/stargazers)|[0](https://github.com/masonm12/scoop-personal/network)|[15&#x2011;05&#x2011;26](https://github.com/masonm12/scoop-personal/commits)|
+|<a name="back_divanvisagie_scoop-bucket" id="back_divanvisagie_scoop-bucket"></a>[88.](# "23.671766") [__divanvisagie/scoop-bucket__](https://github.com/divanvisagie/scoop-bucket): *A bucket for my scoops*|[2](#divanvisagie_scoop-bucket)|[0](https://github.com/divanvisagie/scoop-bucket/stargazers)|[0](https://github.com/divanvisagie/scoop-bucket/network)|[17&#x2011;08&#x2011;26](https://github.com/divanvisagie/scoop-bucket/commits)|
+|<a name="back_jm0477_bucket" id="back_jm0477_bucket"></a>[89.](# "23.671766") [__jm0477/bucket__](https://github.com/jm0477/bucket): *public scoop bucket  learning REPO*|[2](#jm0477_bucket)|[0](https://github.com/jm0477/bucket/stargazers)|[0](https://github.com/jm0477/bucket/network)|[17&#x2011;05&#x2011;11](https://github.com/jm0477/bucket/commits)|
+|<a name="back_nrakochy_scoop-solidity" id="back_nrakochy_scoop-solidity"></a>[90.](# "23.653751") [__nrakochy/scoop-solidity__](https://github.com/nrakochy/scoop-solidity): *Bucket manifest for solidity*|[1](#nrakochy_scoop-solidity)|[0](https://github.com/nrakochy/scoop-solidity/stargazers)|[0](https://github.com/nrakochy/scoop-solidity/network)|[17&#x2011;10&#x2011;27](https://github.com/nrakochy/scoop-solidity/commits)|
+|<a name="back_smarthut_scoop-bucket" id="back_smarthut_scoop-bucket"></a>[91.](# "23.6221") [__smarthut/scoop-bucket__](https://github.com/smarthut/scoop-bucket): *Scoop bucket for @smarthut binaries*|[2](#smarthut_scoop-bucket)|[0](https://github.com/smarthut/scoop-bucket/stargazers)|[0](https://github.com/smarthut/scoop-bucket/network)|[18&#x2011;07&#x2011;11](https://github.com/smarthut/scoop-bucket/commits)|
+|<a name="back_icetee_icetee-bucket" id="back_icetee_icetee-bucket"></a>[92.](# "23.618593") [__icetee/icetee-bucket__](https://github.com/icetee/icetee-bucket): *My custom manifests for Scoop*|[3](#icetee_icetee-bucket)|[1](https://github.com/icetee/icetee-bucket/stargazers)|[0](https://github.com/icetee/icetee-bucket/network)|[16&#x2011;11&#x2011;26](https://github.com/icetee/icetee-bucket/commits)|
+|<a name="back_deevus_scoop-games" id="back_deevus_scoop-games"></a>[93.](# "23.595093") [__deevus/scoop-games__](https://github.com/deevus/scoop-games): *A Scoop bucket for Games.*|[2](#deevus_scoop-games)|[0](https://github.com/deevus/scoop-games/stargazers)|[1](https://github.com/deevus/scoop-games/network)|[15&#x2011;03&#x2011;25](https://github.com/deevus/scoop-games/commits)|
+|<a name="back_klaidliadon_scoop-buckets" id="back_klaidliadon_scoop-buckets"></a>[94.](# "23.595093") [__klaidliadon/scoop-buckets__](https://github.com/klaidliadon/scoop-buckets): *A collection of scoop buckets*|[2](#klaidliadon_scoop-buckets)|[0](https://github.com/klaidliadon/scoop-buckets/stargazers)|[0](https://github.com/klaidliadon/scoop-buckets/network)|[16&#x2011;02&#x2011;26](https://github.com/klaidliadon/scoop-buckets/commits)|
+|<a name="back_lillicoder_scoop-openjdk6" id="back_lillicoder_scoop-openjdk6"></a>[95.](# "23.587627") [__lillicoder/scoop-openjdk6__](https://github.com/lillicoder/scoop-openjdk6): *Scoop bucket definition for OpenJDK6*|[1](#lillicoder_scoop-openjdk6)|[0](https://github.com/lillicoder/scoop-openjdk6/stargazers)|[0](https://github.com/lillicoder/scoop-openjdk6/network)|[15&#x2011;04&#x2011;06](https://github.com/lillicoder/scoop-openjdk6/commits)|
+|<a name="back_Deide_deide-bucket" id="back_Deide_deide-bucket"></a>[96.](# "23.53627") [__Deide/deide-bucket__](https://github.com/Deide/deide-bucket): *Personal bucket for Scoop.sh*|[5](#Deide_deide-bucket)|[0](https://github.com/Deide/deide-bucket/stargazers)|[0](https://github.com/Deide/deide-bucket/network)|[18&#x2011;06&#x2011;25](https://github.com/Deide/deide-bucket/commits)|
+|<a name="back_SheldonNico_echoBucket" id="back_SheldonNico_echoBucket"></a>[97.](# "23.53627") [__SheldonNico/echoBucket__](https://github.com/SheldonNico/echoBucket): *self use bucket for scoop*|[5](#SheldonNico_echoBucket)|[0](https://github.com/SheldonNico/echoBucket/stargazers)|[0](https://github.com/SheldonNico/echoBucket/network)|[18&#x2011;07&#x2011;13](https://github.com/SheldonNico/echoBucket/commits)|
+|<a name="back_plombard_scoop-bucket" id="back_plombard_scoop-bucket"></a>[98.](# "23.53627") [__plombard/scoop-bucket__](https://github.com/plombard/scoop-bucket): *Personal bucket for scoop installs*|[1](#plombard_scoop-bucket)|[0](https://github.com/plombard/scoop-bucket/stargazers)|[0](https://github.com/plombard/scoop-bucket/network)|[18&#x2011;03&#x2011;24](https://github.com/plombard/scoop-bucket/commits)|
+|<a name="back_sveco_my-bucket" id="back_sveco_my-bucket"></a>[99.](# "23.473686") [__sveco/my-bucket__](https://github.com/sveco/my-bucket): *Scoop bucket for portable applications.*|[3](#sveco_my-bucket)|[0](https://github.com/sveco/my-bucket/stargazers)|[0](https://github.com/sveco/my-bucket/network)|[17&#x2011;07&#x2011;19](https://github.com/sveco/my-bucket/commits)|
+|<a name="back_tnessy_scoop-bucket" id="back_tnessy_scoop-bucket"></a>[100.](# "23.456741") [__tnessy/scoop-bucket__](https://github.com/tnessy/scoop-bucket): *Custom scoop bucket for random things*|[1](#tnessy_scoop-bucket)|[0](https://github.com/tnessy/scoop-bucket/stargazers)|[0](https://github.com/tnessy/scoop-bucket/network)|[17&#x2011;07&#x2011;20](https://github.com/tnessy/scoop-bucket/commits)|
+|<a name="back_typhoon51280_scoop-bucket" id="back_typhoon51280_scoop-bucket"></a>[101.](# "23.456741") [__typhoon51280/scoop-bucket__](https://github.com/typhoon51280/scoop-bucket)|[1](#typhoon51280_scoop-bucket)|[0](https://github.com/typhoon51280/scoop-bucket/stargazers)|[0](https://github.com/typhoon51280/scoop-bucket/network)|[14&#x2011;09&#x2011;29](https://github.com/typhoon51280/scoop-bucket/commits)|
+|<a name="back_toburger_scoop-buckets" id="back_toburger_scoop-buckets"></a>[102.](# "23.451374") [__toburger/scoop-buckets__](https://github.com/toburger/scoop-buckets)|[2](#toburger_scoop-buckets)|[0](https://github.com/toburger/scoop-buckets/stargazers)|[0](https://github.com/toburger/scoop-buckets/network)|[16&#x2011;03&#x2011;16](https://github.com/toburger/scoop-buckets/commits)|
+|<a name="back_systemexitzero_scoop-bucket" id="back_systemexitzero_scoop-bucket"></a>[103.](# "23.447813") [__systemexitzero/scoop-bucket__](https://github.com/systemexitzero/scoop-bucket): *Personal bucket for scoop. See https://github.com/lukesampson/scoop*|[11](#systemexitzero_scoop-bucket)|[0](https://github.com/systemexitzero/scoop-bucket/stargazers)|[0](https://github.com/systemexitzero/scoop-bucket/network)|[16&#x2011;04&#x2011;29](https://github.com/systemexitzero/scoop-bucket/commits)|
+|<a name="back_c7i_scoop-bucket" id="back_c7i_scoop-bucket"></a>[104.](# "23.447813") [__c7i/scoop-bucket__](https://github.com/c7i/scoop-bucket)|[1](#c7i_scoop-bucket)|[0](https://github.com/c7i/scoop-bucket/stargazers)|[0](https://github.com/c7i/scoop-bucket/network)|[18&#x2011;07&#x2011;07](https://github.com/c7i/scoop-bucket/commits)|
+|<a name="back_nickers_scoop-bucket" id="back_nickers_scoop-bucket"></a>[105.](# "23.447813") [__nickers/scoop-bucket__](https://github.com/nickers/scoop-bucket): *private bucket for http://scoop.sh/*|[1](#nickers_scoop-bucket)|[0](https://github.com/nickers/scoop-bucket/stargazers)|[0](https://github.com/nickers/scoop-bucket/network)|[18&#x2011;03&#x2011;22](https://github.com/nickers/scoop-bucket/commits)|
+|<a name="back_tapanchandra_scoop-personal" id="back_tapanchandra_scoop-personal"></a>[106.](# "23.445353") [__tapanchandra/scoop-personal__](https://github.com/tapanchandra/scoop-personal): *A personal bucket for scoop*|[2](#tapanchandra_scoop-personal)|[0](https://github.com/tapanchandra/scoop-personal/stargazers)|[0](https://github.com/tapanchandra/scoop-personal/network)|[18&#x2011;01&#x2011;21](https://github.com/tapanchandra/scoop-personal/commits)|
+|<a name="back_TorrentKatten_torrentkatten-scoop-bucket" id="back_TorrentKatten_torrentkatten-scoop-bucket"></a>[107.](# "23.430723") [__TorrentKatten/torrentkatten-scoop-bucket__](https://github.com/TorrentKatten/torrentkatten-scoop-bucket): *scoop bucket for titandb tools*|[1](#TorrentKatten_torrentkatten-scoop-bucket)|[0](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/stargazers)|[0](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/network)|[17&#x2011;10&#x2011;02](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/commits)|
+|<a name="back_holehan_scoop-bucket" id="back_holehan_scoop-bucket"></a>[108.](# "23.391727") [__holehan/scoop-bucket__](https://github.com/holehan/scoop-bucket)|[2](#holehan_scoop-bucket)|[0](https://github.com/holehan/scoop-bucket/stargazers)|[0](https://github.com/holehan/scoop-bucket/network)|[16&#x2011;10&#x2011;02](https://github.com/holehan/scoop-bucket/commits)|
+|<a name="back_broovy_scoop-bucket" id="back_broovy_scoop-bucket"></a>[109.](# "23.391727") [__broovy/scoop-bucket__](https://github.com/broovy/scoop-bucket): *A bucket for https://github.com/lukesampson/scoop*|[1](#broovy_scoop-bucket)|[0](https://github.com/broovy/scoop-bucket/stargazers)|[0](https://github.com/broovy/scoop-bucket/network)|[15&#x2011;08&#x2011;18](https://github.com/broovy/scoop-bucket/commits)|
+|<a name="back_qoomon_scoop-bucket" id="back_qoomon_scoop-bucket"></a>[110.](# "23.391727") [__qoomon/scoop-bucket__](https://github.com/qoomon/scoop-bucket)|[1](#qoomon_scoop-bucket)|[0](https://github.com/qoomon/scoop-bucket/stargazers)|[0](https://github.com/qoomon/scoop-bucket/network)|[18&#x2011;02&#x2011;09](https://github.com/qoomon/scoop-bucket/commits)|
+|<a name="back_superudo_scoop-bucket" id="back_superudo_scoop-bucket"></a>[111.](# "23.389336") [__superudo/scoop-bucket__](https://github.com/superudo/scoop-bucket)|[8](#superudo_scoop-bucket)|[0](https://github.com/superudo/scoop-bucket/stargazers)|[0](https://github.com/superudo/scoop-bucket/network)|[18&#x2011;05&#x2011;05](https://github.com/superudo/scoop-bucket/commits)|
+|<a name="back_PiwwowPants_scoop-bucket" id="back_PiwwowPants_scoop-bucket"></a>[112.](# "23.363338") [__PiwwowPants/scoop-bucket__](https://github.com/PiwwowPants/scoop-bucket): *A repo for my scoop bucket*|[5](#PiwwowPants_scoop-bucket)|[0](https://github.com/PiwwowPants/scoop-bucket/stargazers)|[0](https://github.com/PiwwowPants/scoop-bucket/network)|[18&#x2011;05&#x2011;31](https://github.com/PiwwowPants/scoop-bucket/commits)|
+|<a name="back_ErnWong_scoop-bucket" id="back_ErnWong_scoop-bucket"></a>[113.](# "23.363338") [__ErnWong/scoop-bucket__](https://github.com/ErnWong/scoop-bucket): *My personal manifests bucket of scoop goodness*|[3](#ErnWong_scoop-bucket)|[0](https://github.com/ErnWong/scoop-bucket/stargazers)|[0](https://github.com/ErnWong/scoop-bucket/network)|[18&#x2011;03&#x2011;13](https://github.com/ErnWong/scoop-bucket/commits)|
+|<a name="back_tbung_scoop-bucket" id="back_tbung_scoop-bucket"></a>[114.](# "23.363338") [__tbung/scoop-bucket__](https://github.com/tbung/scoop-bucket)|[3](#tbung_scoop-bucket)|[0](https://github.com/tbung/scoop-bucket/stargazers)|[0](https://github.com/tbung/scoop-bucket/network)|[16&#x2011;09&#x2011;21](https://github.com/tbung/scoop-bucket/commits)|
+|<a name="back_lurdan_scoop-bucket" id="back_lurdan_scoop-bucket"></a>[115.](# "23.33202") [__lurdan/scoop-bucket__](https://github.com/lurdan/scoop-bucket)|[20](#lurdan_scoop-bucket)|[0](https://github.com/lurdan/scoop-bucket/stargazers)|[0](https://github.com/lurdan/scoop-bucket/network)|[18&#x2011;07&#x2011;16](https://github.com/lurdan/scoop-bucket/commits)|
+|<a name="back_mmichaelis_scoop-bucket" id="back_mmichaelis_scoop-bucket"></a>[116.](# "23.33202") [__mmichaelis/scoop-bucket__](https://github.com/mmichaelis/scoop-bucket): *My scoop bucket as extension to default and extras bucket. For details see http://scoop.sh/*|[4](#mmichaelis_scoop-bucket)|[0](https://github.com/mmichaelis/scoop-bucket/stargazers)|[0](https://github.com/mmichaelis/scoop-bucket/network)|[18&#x2011;06&#x2011;18](https://github.com/mmichaelis/scoop-bucket/commits)|
+|<a name="back_dimdimych_scoop-bucket" id="back_dimdimych_scoop-bucket"></a>[117.](# "23.33202") [__dimdimych/scoop-bucket__](https://github.com/dimdimych/scoop-bucket)|[3](#dimdimych_scoop-bucket)|[0](https://github.com/dimdimych/scoop-bucket/stargazers)|[0](https://github.com/dimdimych/scoop-bucket/network)|[18&#x2011;03&#x2011;16](https://github.com/dimdimych/scoop-bucket/commits)|
+|<a name="back_eugenesvk_scoop-bucket" id="back_eugenesvk_scoop-bucket"></a>[118.](# "23.33202") [__eugenesvk/scoop-bucket__](https://github.com/eugenesvk/scoop-bucket): *List of additional apps that can be installed by Scoop*|[3](#eugenesvk_scoop-bucket)|[0](https://github.com/eugenesvk/scoop-bucket/stargazers)|[0](https://github.com/eugenesvk/scoop-bucket/network)|[16&#x2011;03&#x2011;10](https://github.com/eugenesvk/scoop-bucket/commits)|
+|<a name="back_SummerSad_scoop-bucket" id="back_SummerSad_scoop-bucket"></a>[119.](# "23.33202") [__SummerSad/scoop-bucket__](https://github.com/SummerSad/scoop-bucket): *More apps for scoop*|[3](#SummerSad_scoop-bucket)|[0](https://github.com/SummerSad/scoop-bucket/stargazers)|[0](https://github.com/SummerSad/scoop-bucket/network)|[18&#x2011;07&#x2011;14](https://github.com/SummerSad/scoop-bucket/commits)|
+|<a name="back_a2moveit_scoop-bucket" id="back_a2moveit_scoop-bucket"></a>[120.](# "23.331059") [__2moveit/scoop-bucket__](https://github.com/2moveit/scoop-bucket): *Repository for apps to install via scoop*|[10](#a2moveit_scoop-bucket)|[0](https://github.com/2moveit/scoop-bucket/stargazers)|[0](https://github.com/2moveit/scoop-bucket/network)|[16&#x2011;11&#x2011;09](https://github.com/2moveit/scoop-bucket/commits)|
+|<a name="back_itzg_scoop-bucket" id="back_itzg_scoop-bucket"></a>[121.](# "23.331059") [__itzg/scoop-bucket__](https://github.com/itzg/scoop-bucket): *My apps published for installation via scoop*|[2](#itzg_scoop-bucket)|[0](https://github.com/itzg/scoop-bucket/stargazers)|[0](https://github.com/itzg/scoop-bucket/network)|[18&#x2011;05&#x2011;19](https://github.com/itzg/scoop-bucket/commits)|
+|<a name="back_twxs_scoop-buckets" id="back_twxs_scoop-buckets"></a>[122.](# "23.295773") [__twxs/scoop-buckets__](https://github.com/twxs/scoop-buckets)|[1](#twxs_scoop-buckets)|[0](https://github.com/twxs/scoop-buckets/stargazers)|[0](https://github.com/twxs/scoop-buckets/network)|[16&#x2011;05&#x2011;08](https://github.com/twxs/scoop-buckets/commits)|
+|<a name="back_ondr3j_scoop-misc" id="back_ondr3j_scoop-misc"></a>[123.](# "23.288784") [__ondr3j/scoop-misc__](https://github.com/ondr3j/scoop-misc): *My &#34;Miscellaneous&#34; bucket for Scoop*|[38](#ondr3j_scoop-misc)|[1](https://github.com/ondr3j/scoop-misc/stargazers)|[1](https://github.com/ondr3j/scoop-misc/network)|[18&#x2011;02&#x2011;24](https://github.com/ondr3j/scoop-misc/commits)|
+|<a name="back_a82p_scoop-yubico-bucket" id="back_a82p_scoop-yubico-bucket"></a>[124.](# "23.288784") [__82p/scoop-yubico-bucket__](https://github.com/82p/scoop-yubico-bucket): *scoop bucket of yubico tools*|[4](#a82p_scoop-yubico-bucket)|[0](https://github.com/82p/scoop-yubico-bucket/stargazers)|[0](https://github.com/82p/scoop-yubico-bucket/network)|[18&#x2011;05&#x2011;09](https://github.com/82p/scoop-yubico-bucket/commits)|
+|<a name="back_philippgille_scoop-bucket" id="back_philippgille_scoop-bucket"></a>[125.](# "23.288784") [__philippgille/scoop-bucket__](https://github.com/philippgille/scoop-bucket): *Scoop bucket for my apps*|[1](#philippgille_scoop-bucket)|[0](https://github.com/philippgille/scoop-bucket/stargazers)|[0](https://github.com/philippgille/scoop-bucket/network)|[18&#x2011;05&#x2011;13](https://github.com/philippgille/scoop-bucket/commits)|
+|<a name="back_pcrama_scoop-buckets" id="back_pcrama_scoop-buckets"></a>[126.](# "23.274734") [__pcrama/scoop-buckets__](https://github.com/pcrama/scoop-buckets): *Bucket of extra software to install using scoop*|[11](#pcrama_scoop-buckets)|[0](https://github.com/pcrama/scoop-buckets/stargazers)|[0](https://github.com/pcrama/scoop-buckets/network)|[18&#x2011;06&#x2011;01](https://github.com/pcrama/scoop-buckets/commits)|
+|<a name="back_masaeedu_scoop-bucket" id="back_masaeedu_scoop-bucket"></a>[127.](# "23.274734") [__masaeedu/scoop-bucket__](https://github.com/masaeedu/scoop-bucket)|[3](#masaeedu_scoop-bucket)|[0](https://github.com/masaeedu/scoop-bucket/stargazers)|[0](https://github.com/masaeedu/scoop-bucket/network)|[17&#x2011;06&#x2011;14](https://github.com/masaeedu/scoop-bucket/commits)|
+|<a name="back_goreleaser_scoop-bucket" id="back_goreleaser_scoop-bucket"></a>[128.](# "23.274734") [__goreleaser/scoop-bucket__](https://github.com/goreleaser/scoop-bucket): *Scoop bucket for @goreleaser binaries, powered by @goreleaser*|[1](#goreleaser_scoop-bucket)|[0](https://github.com/goreleaser/scoop-bucket/stargazers)|[0](https://github.com/goreleaser/scoop-bucket/network)|[18&#x2011;07&#x2011;17](https://github.com/goreleaser/scoop-bucket/commits)|
+|<a name="back_oltolm_scoop-nonportable" id="back_oltolm_scoop-nonportable"></a>[129.](# "23.209667") [__oltolm/scoop-nonportable__](https://github.com/oltolm/scoop-nonportable): *Scoop bucket for nonportable apps (scoop&#39;s built-in bucket &#39;nonportable&#39;)*|[7](#oltolm_scoop-nonportable)|[1](https://github.com/oltolm/scoop-nonportable/stargazers)|[0](https://github.com/oltolm/scoop-nonportable/network)|[18&#x2011;06&#x2011;13](https://github.com/oltolm/scoop-nonportable/commits)|
+|<a name="back_wangfeishine_adds" id="back_wangfeishine_adds"></a>[130.](# "23.209667") [__wangfeishine/adds__](https://github.com/wangfeishine/adds): *My extra bucket for scoop*|[1](#wangfeishine_adds)|[0](https://github.com/wangfeishine/adds/stargazers)|[0](https://github.com/wangfeishine/adds/network)|[17&#x2011;05&#x2011;15](https://github.com/wangfeishine/adds/commits)|
+|<a name="back_Jokler_scoop-bucket" id="back_Jokler_scoop-bucket"></a>[131.](# "23.203194") [__Jokler/scoop-bucket__](https://github.com/Jokler/scoop-bucket): *My bucket for programs not in the official buckets*|[6](#Jokler_scoop-bucket)|[0](https://github.com/Jokler/scoop-bucket/stargazers)|[0](https://github.com/Jokler/scoop-bucket/network)|[18&#x2011;07&#x2011;17](https://github.com/Jokler/scoop-bucket/commits)|
+|<a name="back_hydra1983_scoop-bucket" id="back_hydra1983_scoop-bucket"></a>[132.](# "23.203194") [__hydra1983/scoop-bucket__](https://github.com/hydra1983/scoop-bucket)|[2](#hydra1983_scoop-bucket)|[0](https://github.com/hydra1983/scoop-bucket/stargazers)|[0](https://github.com/hydra1983/scoop-bucket/network)|[15&#x2011;03&#x2011;23](https://github.com/hydra1983/scoop-bucket/commits)|
+|<a name="back_rivy_scoop-bucket" id="back_rivy_scoop-bucket"></a>[133.](# "23.177488") [__rivy/scoop-bucket__](https://github.com/rivy/scoop-bucket)|[122](#rivy_scoop-bucket)|[1](https://github.com/rivy/scoop-bucket/stargazers)|[0](https://github.com/rivy/scoop-bucket/network)|[18&#x2011;07&#x2011;09](https://github.com/rivy/scoop-bucket/commits)|
+|<a name="back_tehbilly_scoop-bucket" id="back_tehbilly_scoop-bucket"></a>[134.](# "23.177488") [__tehbilly/scoop-bucket__](https://github.com/tehbilly/scoop-bucket)|[5](#tehbilly_scoop-bucket)|[1](https://github.com/tehbilly/scoop-bucket/stargazers)|[0](https://github.com/tehbilly/scoop-bucket/network)|[17&#x2011;06&#x2011;01](https://github.com/tehbilly/scoop-bucket/commits)|
+|<a name="back_giantswarm_scoop-bucket" id="back_giantswarm_scoop-bucket"></a>[135.](# "23.177488") [__giantswarm/scoop-bucket__](https://github.com/giantswarm/scoop-bucket): *App manifests for simple Windows installs using scoop*|[1](#giantswarm_scoop-bucket)|[0](https://github.com/giantswarm/scoop-bucket/stargazers)|[1](https://github.com/giantswarm/scoop-bucket/network)|[18&#x2011;06&#x2011;29](https://github.com/giantswarm/scoop-bucket/commits)|
+|<a name="back_leafgarland_scoop-bucket" id="back_leafgarland_scoop-bucket"></a>[136.](# "23.177488") [__leafgarland/scoop-bucket__](https://github.com/leafgarland/scoop-bucket): *Collection of app manifests for the Scoop package installer*|[5](#leafgarland_scoop-bucket)|[0](https://github.com/leafgarland/scoop-bucket/stargazers)|[0](https://github.com/leafgarland/scoop-bucket/network)|[14&#x2011;10&#x2011;09](https://github.com/leafgarland/scoop-bucket/commits)|
+|<a name="back_kimbirkelund_scoop-bucket" id="back_kimbirkelund_scoop-bucket"></a>[137.](# "23.177488") [__kimbirkelund/scoop-bucket__](https://github.com/kimbirkelund/scoop-bucket): *Apps I haven&#39;t found in main and extras scoop buckets.*|[2](#kimbirkelund_scoop-bucket)|[0](https://github.com/kimbirkelund/scoop-bucket/stargazers)|[0](https://github.com/kimbirkelund/scoop-bucket/network)|[18&#x2011;04&#x2011;17](https://github.com/kimbirkelund/scoop-bucket/commits)|
+|<a name="back_ubclaunchpad_scoop-bucket" id="back_ubclaunchpad_scoop-bucket"></a>[138.](# "23.177488") [__ubclaunchpad/scoop-bucket__](https://github.com/ubclaunchpad/scoop-bucket): *🥄 Scoop bucket for UBC Launch Pad projects*|[2](#ubclaunchpad_scoop-bucket)|[0](https://github.com/ubclaunchpad/scoop-bucket/stargazers)|[0](https://github.com/ubclaunchpad/scoop-bucket/network)|[18&#x2011;06&#x2011;30](https://github.com/ubclaunchpad/scoop-bucket/commits)|
+|<a name="back_izm4457_scoop_bucket" id="back_izm4457_scoop_bucket"></a>[139.](# "23.177488") [__izm4457/scoop_bucket__](https://github.com/izm4457/scoop_bucket)|[1](#izm4457_scoop_bucket)|[0](https://github.com/izm4457/scoop_bucket/stargazers)|[0](https://github.com/izm4457/scoop_bucket/network)|[18&#x2011;06&#x2011;19](https://github.com/izm4457/scoop_bucket/commits)|
+|<a name="back_slaxor_scoop-bucket" id="back_slaxor_scoop-bucket"></a>[140.](# "23.177488") [__slaxor/scoop-bucket__](https://github.com/slaxor/scoop-bucket): *My repo for Scoop*|[1](#slaxor_scoop-bucket)|[0](https://github.com/slaxor/scoop-bucket/stargazers)|[0](https://github.com/slaxor/scoop-bucket/network)|[17&#x2011;10&#x2011;04](https://github.com/slaxor/scoop-bucket/commits)|
+|<a name="back_mgarbvs_scoop-bucket" id="back_mgarbvs_scoop-bucket"></a>[141.](# "23.162355") [__mgarbvs/scoop-bucket__](https://github.com/mgarbvs/scoop-bucket)|[6](#mgarbvs_scoop-bucket)|[1](https://github.com/mgarbvs/scoop-bucket/stargazers)|[0](https://github.com/mgarbvs/scoop-bucket/network)|[15&#x2011;12&#x2011;05](https://github.com/mgarbvs/scoop-bucket/commits)|
+|<a name="back_derKrischan_scoop-bucket" id="back_derKrischan_scoop-bucket"></a>[142.](# "23.162355") [__derKrischan/scoop-bucket__](https://github.com/derKrischan/scoop-bucket): *Experiment with scoop.sh manifests*|[1](#derKrischan_scoop-bucket)|[0](https://github.com/derKrischan/scoop-bucket/stargazers)|[0](https://github.com/derKrischan/scoop-bucket/network)|[17&#x2011;12&#x2011;23](https://github.com/derKrischan/scoop-bucket/commits)|
+|<a name="back_gabrielrobert_scoop-bucket" id="back_gabrielrobert_scoop-bucket"></a>[143.](# "23.162355") [__gabrielrobert/scoop-bucket__](https://github.com/gabrielrobert/scoop-bucket)|[1](#gabrielrobert_scoop-bucket)|[0](https://github.com/gabrielrobert/scoop-bucket/stargazers)|[0](https://github.com/gabrielrobert/scoop-bucket/network)|[18&#x2011;04&#x2011;06](https://github.com/gabrielrobert/scoop-bucket/commits)|
+|<a name="back_icalder_scoop-bucket" id="back_icalder_scoop-bucket"></a>[144.](# "23.162355") [__icalder/scoop-bucket__](https://github.com/icalder/scoop-bucket)|[1](#icalder_scoop-bucket)|[0](https://github.com/icalder/scoop-bucket/stargazers)|[0](https://github.com/icalder/scoop-bucket/network)|[18&#x2011;01&#x2011;18](https://github.com/icalder/scoop-bucket/commits)|
+|<a name="back_leonidboykov_scoop-bucket" id="back_leonidboykov_scoop-bucket"></a>[145.](# "23.162355") [__leonidboykov/scoop-bucket__](https://github.com/leonidboykov/scoop-bucket): *Scoop bucket for my projects&#39; binaries*|[1](#leonidboykov_scoop-bucket)|[0](https://github.com/leonidboykov/scoop-bucket/stargazers)|[0](https://github.com/leonidboykov/scoop-bucket/network)|[18&#x2011;05&#x2011;04](https://github.com/leonidboykov/scoop-bucket/commits)|
+|<a name="back_nilkesede_scoop-bucket" id="back_nilkesede_scoop-bucket"></a>[146.](# "23.162355") [__nilkesede/scoop-bucket__](https://github.com/nilkesede/scoop-bucket)|[1](#nilkesede_scoop-bucket)|[0](https://github.com/nilkesede/scoop-bucket/stargazers)|[0](https://github.com/nilkesede/scoop-bucket/network)|[18&#x2011;06&#x2011;01](https://github.com/nilkesede/scoop-bucket/commits)|
+|<a name="back_mathieucarbou_scoop-bucket" id="back_mathieucarbou_scoop-bucket"></a>[147.](# "23.156181") [__mathieucarbou/scoop-bucket__](https://github.com/mathieucarbou/scoop-bucket)|[1](#mathieucarbou_scoop-bucket)|[0](https://github.com/mathieucarbou/scoop-bucket/stargazers)|[0](https://github.com/mathieucarbou/scoop-bucket/network)|[16&#x2011;01&#x2011;13](https://github.com/mathieucarbou/scoop-bucket/commits)|
+|<a name="back_dasbaumwolltier_scoop-bucket" id="back_dasbaumwolltier_scoop-bucket"></a>[148.](# "23.118586") [__dasbaumwolltier/scoop-bucket__](https://github.com/dasbaumwolltier/scoop-bucket)|[5](#dasbaumwolltier_scoop-bucket)|[0](https://github.com/dasbaumwolltier/scoop-bucket/stargazers)|[0](https://github.com/dasbaumwolltier/scoop-bucket/network)|[18&#x2011;04&#x2011;18](https://github.com/dasbaumwolltier/scoop-bucket/commits)|
+|<a name="back_proudzhu_scoop-bucket" id="back_proudzhu_scoop-bucket"></a>[149.](# "23.118586") [__proudzhu/scoop-bucket__](https://github.com/proudzhu/scoop-bucket)|[2](#proudzhu_scoop-bucket)|[0](https://github.com/proudzhu/scoop-bucket/stargazers)|[0](https://github.com/proudzhu/scoop-bucket/network)|[18&#x2011;06&#x2011;13](https://github.com/proudzhu/scoop-bucket/commits)|
+|<a name="back_Calinou_scoop-games" id="back_Calinou_scoop-games"></a>[150.](# "22.79623") [__Calinou/scoop-games__](https://github.com/Calinou/scoop-games): *Scoop bucket for open source/freeware games and game-related tools*|[32](#Calinou_scoop-games)|[3](https://github.com/Calinou/scoop-games/stargazers)|[0](https://github.com/Calinou/scoop-games/network)|[18&#x2011;07&#x2011;08](https://github.com/Calinou/scoop-games/commits)|
+|<a name="back_sankaku-deltalab_sankaku-app-bucket" id="back_sankaku-deltalab_sankaku-app-bucket"></a>[151.](# "22.616255") [__sankaku-deltalab/sankaku-app-bucket__](https://github.com/sankaku-deltalab/sankaku-app-bucket): *sankaku-app-bucket is [Scoop](http://scoop.sh/) bucket mainly contains applications used by Sankaku.*|[9](#sankaku-deltalab_sankaku-app-bucket)|[0](https://github.com/sankaku-deltalab/sankaku-app-bucket/stargazers)|[0](https://github.com/sankaku-deltalab/sankaku-app-bucket/network)|[17&#x2011;10&#x2011;27](https://github.com/sankaku-deltalab/sankaku-app-bucket/commits)|
+|<a name="back_lesstif_scoop-bucket-for-korean" id="back_lesstif_scoop-bucket-for-korean"></a>[152.](# "22.138184") [__lesstif/scoop-bucket-for-korean__](https://github.com/lesstif/scoop-bucket-for-korean): *네이버 나눔 폰트 scoop 버킷.*|[2](#lesstif_scoop-bucket-for-korean)|[1](https://github.com/lesstif/scoop-bucket-for-korean/stargazers)|[0](https://github.com/lesstif/scoop-bucket-for-korean/network)|[18&#x2011;05&#x2011;25](https://github.com/lesstif/scoop-bucket-for-korean/commits)|
+|<a name="back_vidarkongsli_vidars-scoop-bucket" id="back_vidarkongsli_vidars-scoop-bucket"></a>[153.](# "22.138184") [__vidarkongsli/vidars-scoop-bucket__](https://github.com/vidarkongsli/vidars-scoop-bucket)|[20](#vidarkongsli_vidars-scoop-bucket)|[0](https://github.com/vidarkongsli/vidars-scoop-bucket/stargazers)|[0](https://github.com/vidarkongsli/vidars-scoop-bucket/network)|[18&#x2011;06&#x2011;15](https://github.com/vidarkongsli/vidars-scoop-bucket/commits)|
+|<a name="back_devilishcherub_scoop-app-bucket" id="back_devilishcherub_scoop-app-bucket"></a>[154.](# "22.138184") [__devilishcherub/scoop-app-bucket__](https://github.com/devilishcherub/scoop-app-bucket): *Similar to Homebrew Cask on Mac. A bucket for actual apps.*|[1](#devilishcherub_scoop-app-bucket)|[0](https://github.com/devilishcherub/scoop-app-bucket/stargazers)|[0](https://github.com/devilishcherub/scoop-app-bucket/network)|[17&#x2011;07&#x2011;11](https://github.com/devilishcherub/scoop-app-bucket/commits)|
+|<a name="back_monotykamary_toms-scoop-bucket" id="back_monotykamary_toms-scoop-bucket"></a>[155.](# "22.059496") [__monotykamary/toms-scoop-bucket__](https://github.com/monotykamary/toms-scoop-bucket)|[9](#monotykamary_toms-scoop-bucket)|[0](https://github.com/monotykamary/toms-scoop-bucket/stargazers)|[1](https://github.com/monotykamary/toms-scoop-bucket/network)|[18&#x2011;05&#x2011;28](https://github.com/monotykamary/toms-scoop-bucket/commits)|
+|<a name="back_dennislloydjr_scoop-bucket-devbox" id="back_dennislloydjr_scoop-bucket-devbox"></a>[156.](# "22.028702") [__dennislloydjr/scoop-bucket-devbox__](https://github.com/dennislloydjr/scoop-bucket-devbox): *Scoop bucket for installing apps for development box*|[19](#dennislloydjr_scoop-bucket-devbox)|[0](https://github.com/dennislloydjr/scoop-bucket-devbox/stargazers)|[1](https://github.com/dennislloydjr/scoop-bucket-devbox/network)|[14&#x2011;11&#x2011;18](https://github.com/dennislloydjr/scoop-bucket-devbox/commits)|
+|<a name="back_thiagotelesdesigner_scoop-bucket-graphic-tools" id="back_thiagotelesdesigner_scoop-bucket-graphic-tools"></a>[157.](# "21.995712") [__thiagotelesdesigner/scoop-bucket-graphic-tools__](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools): *Bucket do Scoop, com app manifests de ferramentas gráficas*|[1](#thiagotelesdesigner_scoop-bucket-graphic-tools)|[0](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/stargazers)|[0](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/network)|[16&#x2011;04&#x2011;24](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/commits)|
+|<a name="back_hed0n1st_my-scoop-bucket" id="back_hed0n1st_my-scoop-bucket"></a>[158.](# "21.976242") [__hed0n1st/my-scoop-bucket__](https://github.com/hed0n1st/my-scoop-bucket)|[4](#hed0n1st_my-scoop-bucket)|[0](https://github.com/hed0n1st/my-scoop-bucket/stargazers)|[0](https://github.com/hed0n1st/my-scoop-bucket/network)|[18&#x2011;07&#x2011;05](https://github.com/hed0n1st/my-scoop-bucket/commits)|
+|<a name="back_rohitnarayanan_scoop-apps" id="back_rohitnarayanan_scoop-apps"></a>[159.](# "21.943779") [__rohitnarayanan/scoop-apps__](https://github.com/rohitnarayanan/scoop-apps): *private bucket for scoop apps not available in public buckets*|[7](#rohitnarayanan_scoop-apps)|[0](https://github.com/rohitnarayanan/scoop-apps/stargazers)|[0](https://github.com/rohitnarayanan/scoop-apps/network)|[18&#x2011;06&#x2011;27](https://github.com/rohitnarayanan/scoop-apps/commits)|
+|<a name="back_BjoernPetersen_scoop-misc-bucket" id="back_BjoernPetersen_scoop-misc-bucket"></a>[160.](# "21.907879") [__BjoernPetersen/scoop-misc-bucket__](https://github.com/BjoernPetersen/scoop-misc-bucket): *A scoop bucket containing some useful programs not included in the default buckets*|[5](#BjoernPetersen_scoop-misc-bucket)|[1](https://github.com/BjoernPetersen/scoop-misc-bucket/stargazers)|[0](https://github.com/BjoernPetersen/scoop-misc-bucket/network)|[18&#x2011;07&#x2011;16](https://github.com/BjoernPetersen/scoop-misc-bucket/commits)|
+|<a name="back_jsorah_jsorah-scoop-bucket" id="back_jsorah_jsorah-scoop-bucket"></a>[161.](# "21.907879") [__jsorah/jsorah-scoop-bucket__](https://github.com/jsorah/jsorah-scoop-bucket): *My personal scoop bucket, use at your own risk.*|[5](#jsorah_jsorah-scoop-bucket)|[0](https://github.com/jsorah/jsorah-scoop-bucket/stargazers)|[0](https://github.com/jsorah/jsorah-scoop-bucket/network)|[18&#x2011;02&#x2011;03](https://github.com/jsorah/jsorah-scoop-bucket/commits)|
+|<a name="back_aparkerlue_apl-scoop-bucket" id="back_aparkerlue_apl-scoop-bucket"></a>[162.](# "21.907879") [__aparkerlue/apl-scoop-bucket__](https://github.com/aparkerlue/apl-scoop-bucket): *Bucket (i.e., collection of apps) for scoop*|[1](#aparkerlue_apl-scoop-bucket)|[0](https://github.com/aparkerlue/apl-scoop-bucket/stargazers)|[0](https://github.com/aparkerlue/apl-scoop-bucket/network)|[16&#x2011;04&#x2011;08](https://github.com/aparkerlue/apl-scoop-bucket/commits)|
+|<a name="back_barohatoum_my-scoop-bucket" id="back_barohatoum_my-scoop-bucket"></a>[163.](# "21.884598") [__barohatoum/my-scoop-bucket__](https://github.com/barohatoum/my-scoop-bucket)|[1](#barohatoum_my-scoop-bucket)|[0](https://github.com/barohatoum/my-scoop-bucket/stargazers)|[0](https://github.com/barohatoum/my-scoop-bucket/network)|[15&#x2011;08&#x2011;19](https://github.com/barohatoum/my-scoop-bucket/commits)|
+|<a name="back_wrokred_phpdev-scoop-bucket" id="back_wrokred_phpdev-scoop-bucket"></a>[164.](# "21.863354") [__wrokred/phpdev-scoop-bucket__](https://github.com/wrokred/phpdev-scoop-bucket): *Basic Scoop bucket to manage installs needed for modern php framework.*|[5](#wrokred_phpdev-scoop-bucket)|[1](https://github.com/wrokred/phpdev-scoop-bucket/stargazers)|[0](https://github.com/wrokred/phpdev-scoop-bucket/network)|[17&#x2011;05&#x2011;31](https://github.com/wrokred/phpdev-scoop-bucket/commits)|
+|<a name="back_tksoftware_tks-scoop-bucket" id="back_tksoftware_tks-scoop-bucket"></a>[165.](# "21.863354") [__tksoftware/tks-scoop-bucket__](https://github.com/tksoftware/tks-scoop-bucket)|[2](#tksoftware_tks-scoop-bucket)|[0](https://github.com/tksoftware/tks-scoop-bucket/stargazers)|[0](https://github.com/tksoftware/tks-scoop-bucket/network)|[15&#x2011;10&#x2011;23](https://github.com/tksoftware/tks-scoop-bucket/commits)|
+|<a name="back_prezesp_scoop-viewer-bucket" id="back_prezesp_scoop-viewer-bucket"></a>[166.](# "21.863354") [__prezesp/scoop-viewer-bucket__](https://github.com/prezesp/scoop-viewer-bucket)|[1](#prezesp_scoop-viewer-bucket)|[0](https://github.com/prezesp/scoop-viewer-bucket/stargazers)|[0](https://github.com/prezesp/scoop-viewer-bucket/network)|[18&#x2011;05&#x2011;01](https://github.com/prezesp/scoop-viewer-bucket/commits)|
+|<a name="back_tmsdnl_scoop-dev-bucket" id="back_tmsdnl_scoop-dev-bucket"></a>[167.](# "21.825825") [__tmsdnl/scoop-dev-bucket__](https://github.com/tmsdnl/scoop-dev-bucket)|[1](#tmsdnl_scoop-dev-bucket)|[0](https://github.com/tmsdnl/scoop-dev-bucket/stargazers)|[0](https://github.com/tmsdnl/scoop-dev-bucket/network)|[15&#x2011;12&#x2011;02](https://github.com/tmsdnl/scoop-dev-bucket/commits)|
+|<a name="back_jfut_scoop-jfut" id="back_jfut_scoop-jfut"></a>[168.](# "21.660019") [__jfut/scoop-jfut__](https://github.com/jfut/scoop-jfut): *&#34;jfut&#34; bucket for http://scoop.sh*|[37](#jfut_scoop-jfut)|[0](https://github.com/jfut/scoop-jfut/stargazers)|[0](https://github.com/jfut/scoop-jfut/network)|[18&#x2011;07&#x2011;17](https://github.com/jfut/scoop-jfut/commits)|
+|<a name="back_cprecioso_scoop-lektor" id="back_cprecioso_scoop-lektor"></a>[169.](# "21.605593") [__cprecioso/scoop-lektor__](https://github.com/cprecioso/scoop-lektor): *Bucket to install Lektor with Scoop*|[1](#cprecioso_scoop-lektor)|[0](https://github.com/cprecioso/scoop-lektor/stargazers)|[0](https://github.com/cprecioso/scoop-lektor/network)|[17&#x2011;02&#x2011;21](https://github.com/cprecioso/scoop-lektor/commits)|
+|<a name="back_jfut_scoop-pleiades" id="back_jfut_scoop-pleiades"></a>[170.](# "21.554703") [__jfut/scoop-pleiades__](https://github.com/jfut/scoop-pleiades): *Pleiades Bucket for http://scoop.sh*|[120](#jfut_scoop-pleiades)|[0](https://github.com/jfut/scoop-pleiades/stargazers)|[0](https://github.com/jfut/scoop-pleiades/network)|[18&#x2011;07&#x2011;01](https://github.com/jfut/scoop-pleiades/commits)|
+|<a name="back_demesne_dev-extras" id="back_demesne_dev-extras"></a>[171.](# "21.461603") [__demesne/dev-extras__](https://github.com/demesne/dev-extras): *Scoop bucket for commonly used Development Tools*|[1](#demesne_dev-extras)|[0](https://github.com/demesne/dev-extras/stargazers)|[0](https://github.com/demesne/dev-extras/network)|[17&#x2011;06&#x2011;30](https://github.com/demesne/dev-extras/commits)|
+|<a name="back_Krzysztof-Cieslak_scoop-fsharp-extras" id="back_Krzysztof-Cieslak_scoop-fsharp-extras"></a>[172.](# "21.255459") [__Krzysztof-Cieslak/scoop-fsharp-extras__](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras): *Scoop bucket with F# specific utilities*|[1](#Krzysztof-Cieslak_scoop-fsharp-extras)|[0](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/stargazers)|[0](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/network)|[17&#x2011;06&#x2011;04](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/commits)|
+|<a name="back_nrakochy_leiningen_bucket" id="back_nrakochy_leiningen_bucket"></a>[173.](# "19.25229") [__nrakochy/leiningen_bucket__](https://github.com/nrakochy/leiningen_bucket): *JSON package for adding Leiningen to Windows via the Scoop installer*|[1](#nrakochy_leiningen_bucket)|[0](https://github.com/nrakochy/leiningen_bucket/stargazers)|[0](https://github.com/nrakochy/leiningen_bucket/network)|[16&#x2011;11&#x2011;17](https://github.com/nrakochy/leiningen_bucket/commits)|
+|<a name="back_Greydus_weeb-bucket" id="back_Greydus_weeb-bucket"></a>[174.](# "19.006649") [__Greydus/weeb-bucket__](https://github.com/Greydus/weeb-bucket): *A scoop bucket containing various utilities that I use*|[4](#Greydus_weeb-bucket)|[0](https://github.com/Greydus/weeb-bucket/stargazers)|[0](https://github.com/Greydus/weeb-bucket/network)|[18&#x2011;06&#x2011;20](https://github.com/Greydus/weeb-bucket/commits)|
+|<a name="back_Doublemine_scoops" id="back_Doublemine_scoops"></a>[175.](# "18.813168") [__Doublemine/scoops__](https://github.com/Doublemine/scoops): *a buckets to collection some application for scoop*|[1](#Doublemine_scoops)|[1](https://github.com/Doublemine/scoops/stargazers)|[0](https://github.com/Doublemine/scoops/network)|[17&#x2011;12&#x2011;25](https://github.com/Doublemine/scoops/commits)|
+|<a name="back_Praqma_scoop-praqma-tools" id="back_Praqma_scoop-praqma-tools"></a>[176.](# "18.651043") [__Praqma/scoop-praqma-tools__](https://github.com/Praqma/scoop-praqma-tools): *Scoop bucket for command line tools on windows*|[1](#Praqma_scoop-praqma-tools)|[0](https://github.com/Praqma/scoop-praqma-tools/stargazers)|[0](https://github.com/Praqma/scoop-praqma-tools/network)|[17&#x2011;08&#x2011;03](https://github.com/Praqma/scoop-praqma-tools/commits)|
+|<a name="back_ChinLong_scoop-customize" id="back_ChinLong_scoop-customize"></a>[177.](# "18.389704") [__ChinLong/scoop-customize__](https://github.com/ChinLong/scoop-customize): *It is customize for scoop-extras*|[14](#ChinLong_scoop-customize)|[3](https://github.com/ChinLong/scoop-customize/stargazers)|[0](https://github.com/ChinLong/scoop-customize/network)|[18&#x2011;07&#x2011;15](https://github.com/ChinLong/scoop-customize/commits)|
+|<a name="back_juliostanley_scoop-windows-linux-containers" id="back_juliostanley_scoop-windows-linux-containers"></a>[178.](# "17.32208") [__juliostanley/scoop-windows-linux-containers__](https://github.com/juliostanley/scoop-windows-linux-containers): *A setup script to enable containers on windows for local development*|[3](#juliostanley_scoop-windows-linux-containers)|[3](https://github.com/juliostanley/scoop-windows-linux-containers/stargazers)|[0](https://github.com/juliostanley/scoop-windows-linux-containers/network)|[18&#x2011;07&#x2011;06](https://github.com/juliostanley/scoop-windows-linux-containers/commits)|
+|<a name="back_tetradice_scoop-iyokan-jp" id="back_tetradice_scoop-iyokan-jp"></a>[179.](# "15.638418") [__tetradice/scoop-iyokan-jp__](https://github.com/tetradice/scoop-iyokan-jp): *日本語環境に最適化されたscoop bucket*|[18](#tetradice_scoop-iyokan-jp)|[0](https://github.com/tetradice/scoop-iyokan-jp/stargazers)|[1](https://github.com/tetradice/scoop-iyokan-jp/network)|[18&#x2011;07&#x2011;10](https://github.com/tetradice/scoop-iyokan-jp/commits)|
+|<a name="back_mundusnine_audio-bucket" id="back_mundusnine_audio-bucket"></a>[180.](# "15.516974") [__mundusnine/audio-bucket__](https://github.com/mundusnine/audio-bucket): *A bucket-list for scoop.sh that covers multiple audio technologies(apps, code base, tools etc.)*|[11](#mundusnine_audio-bucket)|[0](https://github.com/mundusnine/audio-bucket/stargazers)|[0](https://github.com/mundusnine/audio-bucket/network)|[18&#x2011;05&#x2011;31](https://github.com/mundusnine/audio-bucket/commits)|
+|<a name="back_Callidin_ragnar-scoop" id="back_Callidin_ragnar-scoop"></a>[181.](# "15.475458") [__Callidin/ragnar-scoop__](https://github.com/Callidin/ragnar-scoop): *A small bucket so I can find and install older versions of things from scoop repros.*|[1](#Callidin_ragnar-scoop)|[0](https://github.com/Callidin/ragnar-scoop/stargazers)|[0](https://github.com/Callidin/ragnar-scoop/network)|[16&#x2011;03&#x2011;16](https://github.com/Callidin/ragnar-scoop/commits)|
+|<a name="back_jfut_scoop-dell-xps-8920" id="back_jfut_scoop-dell-xps-8920"></a>[182.](# "15.432883") [__jfut/scoop-dell-xps-8920__](https://github.com/jfut/scoop-dell-xps-8920): *DELL XPS 8920 Hardware Driver and Software Bucket for http://scoop.sh*|[1](#jfut_scoop-dell-xps-8920)|[0](https://github.com/jfut/scoop-dell-xps-8920/stargazers)|[0](https://github.com/jfut/scoop-dell-xps-8920/network)|[17&#x2011;11&#x2011;24](https://github.com/jfut/scoop-dell-xps-8920/commits)|
+|<a name="back_comp500_scoop-comp500" id="back_comp500_scoop-comp500"></a>[183.](# "15.273023") [__comp500/scoop-comp500__](https://github.com/comp500/scoop-comp500): *Scoop bucket for my packages (software not made by me, only the package files)*|[19](#comp500_scoop-comp500)|[1](https://github.com/comp500/scoop-comp500/stargazers)|[0](https://github.com/comp500/scoop-comp500/network)|[18&#x2011;07&#x2011;18](https://github.com/comp500/scoop-comp500/commits)|
+|<a name="back_ArsLabora_scoop-tools" id="back_ArsLabora_scoop-tools"></a>[184.](# "15.21833") [__ArsLabora/scoop-tools__](https://github.com/ArsLabora/scoop-tools): *Scoop Bucket with additional tools and utilities I like to use.*|[4](#ArsLabora_scoop-tools)|[0](https://github.com/ArsLabora/scoop-tools/stargazers)|[0](https://github.com/ArsLabora/scoop-tools/network)|[18&#x2011;07&#x2011;17](https://github.com/ArsLabora/scoop-tools/commits)|
 | **Bucket** | **Apps** | **![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars")** | **![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks")** | **Updated** |
 
 ### <a name="a2moveit_scoop-bucket" id="a2moveit_scoop-bucket"></a>[2moveit/scoop-bucket](https://github.com/2moveit/scoop-bucket) [&#x2934;](#back_a2moveit_scoop-bucket)
@@ -194,16 +194,16 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [7zip](http://www.7-zip.org/) | [16.04](http://www.7-zip.org/) |  | [Link](http://www.7-zip.org/license.txt "http://www.7-zip.org/license.txt") |
+| [7zip](http://www.7-zip.org/) | [16.04](http://www.7-zip.org/) |  | [Link](http://www.7-zip.org/license.txt) |
 | [filezilla](https://filezilla-project.org/) | [3.16.1](https://filezilla-project.org/) |  |  |
 | [gitextensions](http://gitextensions.github.io/) | [*2.48.05*](http://gitextensions.github.io/) |  | GNU GENERAL PUBLIC LICENSE |
 | [keepass](http://keepass.info/) | [2.34](http://keepass.info/) |  |  |
-| [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/) | [*0.67*](http://www.chiark.greenend.org.uk/~sgtatham/putty/) |  | [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html "http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html") |
-| [rabbitmq](https://www.rabbitmq.com/) | [*3.6.2*](https://www.rabbitmq.com/) |  | [Link](https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ "https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ") |
+| [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/) | [*0.67*](http://www.chiark.greenend.org.uk/~sgtatham/putty/) |  | [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html) |
+| [rabbitmq](https://www.rabbitmq.com/) | [*3.6.2*](https://www.rabbitmq.com/) |  | [Link](https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ) |
 | [rabbitmqadmin](https://www.rabbitmq.com/management-cli.html) | [*3.6.2*](https://www.rabbitmq.com/management-cli.html) |  |  |
-| [telegram](https://telegram.org/) | [0.9.18](https://telegram.org/) |  | [Link](https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE "https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE") |
+| [telegram](https://telegram.org/) | [0.9.18](https://telegram.org/) |  | [Link](https://github.com/telegramdesktop/tdesktop/blob/master/LICENSE) |
 | [vlc](http://www.videolan.org/) | [*2.2.4*](http://www.videolan.org/) |  | GPL |
-| [vscode](https://code.visualstudio.com/) | [1.7.1](https://code.visualstudio.com/) |  | [Link](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
+| [vscode](https://code.visualstudio.com/) | [1.7.1](https://code.visualstudio.com/) |  | [Link](https://code.visualstudio.com/License/) |
 ### <a name="a82p_scoop-yubico-bucket" id="a82p_scoop-yubico-bucket"></a>[82p/scoop-yubico-bucket](https://github.com/82p/scoop-yubico-bucket) [&#x2934;](#back_a82p_scoop-yubico-bucket)
 *scoop bucket of yubico tools*
 
@@ -243,7 +243,7 @@
 | [gnumake](https://github.com/anurse/scoop-bucket/blob/master/gnumake.json) | *3.81* |  |  |
 | [ilspy](https://github.com/anurse/scoop-bucket/blob/master/ilspy.json) | *2.4.0* |  |  |
 | [protoc](https://github.com/anurse/scoop-bucket/blob/master/protoc.json) | *3.2.0* |  |  |
-| [python2](http://www.python.org) | [*2.7.12*](http://www.python.org) |  | [Link](https://docs.python.org/2/license.html "https://docs.python.org/2/license.html") |
+| [python2](http://www.python.org) | [*2.7.12*](http://www.python.org) |  | [Link](https://docs.python.org/2/license.html) |
 | [win-openssh](https://github.com/anurse/scoop-bucket/blob/master/win-openssh.json) | *0.0.24.0* |  |  |
 | [win32yank](https://github.com/anurse/scoop-bucket/blob/master/win32yank.json) | *0.0.4* |  |  |
 ### <a name="aparkerlue_apl-scoop-bucket" id="aparkerlue_apl-scoop-bucket"></a>[aparkerlue/apl-scoop-bucket](https://github.com/aparkerlue/apl-scoop-bucket) [&#x2934;](#back_aparkerlue_apl-scoop-bucket)
@@ -251,7 +251,7 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [gpg4win](https://www.gpg4win.org) | [*2.3.1*](https://www.gpg4win.org) |  | [Link](https://www.gpg4win.org/license.html "https://www.gpg4win.org/license.html") |
+| [gpg4win](https://www.gpg4win.org) | [*2.3.1*](https://www.gpg4win.org) |  | [Link](https://www.gpg4win.org/license.html) |
 ### <a name="ArsLabora_scoop-tools" id="ArsLabora_scoop-tools"></a>[ArsLabora/scoop-tools](https://github.com/ArsLabora/scoop-tools) [&#x2934;](#back_ArsLabora_scoop-tools)
 *Scoop Bucket with additional tools and utilities I like to use.*
 
@@ -269,32 +269,32 @@
 | [Aida64](https://www.aida64.com/products/aida64-extreme) | [5.97.4600](https://www.aida64.com/products/aida64-extreme) | Aida. Industry-leading system information tool, loved by PC enthusiasts around the world, which provides extremely detailed information about hardware and offers benchmarks to measure the performance of the computer. |  |
 | [Aida64Bu](https://www.aida64.com/products/aida64-business) | [5.97.4600](https://www.aida64.com/products/aida64-business) | Aida. Essential IT asset management solution for small and medium enterprises. |  |
 | [Aida64En](https://www.aida64.com/products/aida64-engineer) | [5.97.4600](https://www.aida64.com/products/aida64-engineer) | Aida. Industry-leading system information, diagnostic and benchmarking solution for corporate IT technicians and engineers. |  |
-| [AirForSteam](http://airforsteam.com/) | [2018-0406](http://airforsteam.com/) | Air For Steam. An elegant and customizable skin for Steam. | [CC-BY-NC-4.0](https://github.com/Outsetini/Air-for-Steam/blob/master/LICENSE.txt "https://github.com/Outsetini/Air-for-Steam/blob/master/LICENSE.txt") |
+| [AirForSteam](http://airforsteam.com/) | [2018-0406](http://airforsteam.com/) | Air For Steam. An elegant and customizable skin for Steam. | [CC-BY-NC-4.0](https://github.com/Outsetini/Air-for-Steam/blob/master/LICENSE.txt) |
 | [AutoClicker](https://sourceforge.net/projects/orphamielautoclicker/) |  | expected string or bytes-like object |  |
 | [AutoClickers](https://sourceforge.net/projects/orphamielautoclicker/) |  | expected string or bytes-like object |  |
-| [DWT](https://github.com/10se1ucgo/DisableWinTracking) | [3.2.1](https://github.com/10se1ucgo/DisableWinTracking) | Disable Win Tracking. Easily disable tracking / telemetry in Windows 10 with some known methods. | [LGPL-3.0](https://github.com/10se1ucgo/DisableWinTracking/blob/master/COPYING "https://github.com/10se1ucgo/DisableWinTracking/blob/master/COPYING") |
+| [DWT](https://github.com/10se1ucgo/DisableWinTracking) | [3.2.1](https://github.com/10se1ucgo/DisableWinTracking) | Disable Win Tracking. Easily disable tracking / telemetry in Windows 10 with some known methods. | [LGPL-3.0](https://github.com/10se1ucgo/DisableWinTracking/blob/master/COPYING) |
 | [FRD](http://wordrider.net/freerapid/) |  | expected string or bytes-like object |  |
 | [FormatFactory](http://www.pcfreetime.com/formatfactory/index.php?language=en) |  | expected string or bytes-like object |  |
 | [GVD](https://gist.githubusercontent.com/Ash258/e143436e2f9183a650424d635b535e51/raw/Get-VideoDetails.ps1) |  | expected string or bytes-like object |  |
-| [IdleMaster](http://www.steamidlemaster.com/) | [1.2](http://www.steamidlemaster.com/) | Idle Master. Get your Steam Trading Cards the Fast Way (Fast Mode Extension). | [GPL-2.0](https://github.com/JonasNilson/idle_master_extended/blob/master/LICENSE "https://github.com/JonasNilson/idle_master_extended/blob/master/LICENSE") |
+| [IdleMaster](http://www.steamidlemaster.com/) | [1.2](http://www.steamidlemaster.com/) | Idle Master. Get your Steam Trading Cards the Fast Way (Fast Mode Extension). | [GPL-2.0](https://github.com/JonasNilson/idle_master_extended/blob/master/LICENSE) |
 | [KMCleaner](https://download.cnet.com/Keyboard-and-Mouse-Cleaner/3000-20432_4-75883565.html) | [1.0](https://download.cnet.com/Keyboard-and-Mouse-Cleaner/3000-20432_4-75883565.html) | Keyboard And Mouse Cleaner. Simple application which blocks your keyboard and mouse for a while. |  |
 | [KMS]() |  | &#39;charmap&#39; codec can&#39;t decode byte 0x8e in position 673: character maps to &lt;undefined&gt; |  |
 | [NIClicker](https://github.com/Shadowspaz/NIAutoclicker) | [2.1.1](https://github.com/Shadowspaz/NIAutoclicker) | In Window Clicker. Autoclicks in the background, giving you full control of your own mouse to do whatever else you want! |  |
-| [NVidiaInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) | [2.1.3.19](https://github.com/Orbmu2k/nvidiaProfileInspector) | NVidia Inspector. View detailed info about your nVidia graphics card using this comprehensive application that features overclocking options and other nifty settings. | [MIT](https://github.com/Orbmu2k/nvidiaProfileInspector/blob/master/LICENSE.txt "https://github.com/Orbmu2k/nvidiaProfileInspector/blob/master/LICENSE.txt") |
-| [PicoTorrent](https://picotorrent.org/) | [0.15.0](https://picotorrent.org/) | PicoTorrent. A tiny, hackable BitTorrent client. | [MIT](https://github.com/picotorrent/picotorrent/blob/master/LICENSE "https://github.com/picotorrent/picotorrent/blob/master/LICENSE") |
+| [NVidiaInspector](https://github.com/Orbmu2k/nvidiaProfileInspector) | [2.1.3.19](https://github.com/Orbmu2k/nvidiaProfileInspector) | NVidia Inspector. View detailed info about your nVidia graphics card using this comprehensive application that features overclocking options and other nifty settings. | [MIT](https://github.com/Orbmu2k/nvidiaProfileInspector/blob/master/LICENSE.txt) |
+| [PicoTorrent](https://picotorrent.org/) | [0.15.0](https://picotorrent.org/) | PicoTorrent. A tiny, hackable BitTorrent client. | [MIT](https://github.com/picotorrent/picotorrent/blob/master/LICENSE) |
 | [PostInstall](https://gist.github.com/Ash258/e143436e2f9183a650424d635b535e51/raw/PostInstall.ps1) |  | expected string or bytes-like object |  |
 | [PotPlayer](https://potplayer.daum.net/) | [1.7.12845](https://potplayer.daum.net/) | PotPlayer. A multimedia software player developed for the Microsoft Windows operating system. |  |
-| [RPCS3](https://rpcs3.net/) | [0.0.5-7104](https://rpcs3.net/) | RPCS3. PS3 emulator/debugger | [GPL-2.0](https://github.com/RPCS3/rpcs3/blob/master/LICENSE "https://github.com/RPCS3/rpcs3/blob/master/LICENSE") |
+| [RPCS3](https://rpcs3.net/) | [0.0.5-7104](https://rpcs3.net/) | RPCS3. PS3 emulator/debugger | [GPL-2.0](https://github.com/RPCS3/rpcs3/blob/master/LICENSE) |
 | [RamboxPro](https://rambox.pro/100/) | [1.0.1](https://rambox.pro/100/) | Rambox Pro. Free, Open Source and Cross Platform messaging and emailing app that combines common web applications into one. |  |
-| [SAM](https://github.com/gibbed/SteamAchievementManager) | [7.0.16](https://github.com/gibbed/SteamAchievementManager) | Steam Achievement Mangager. A manager for game achievements in Steam. | [Zlib](https://github.com/gibbed/SteamAchievementManager/blob/master/LICENSE.txt "https://github.com/gibbed/SteamAchievementManager/blob/master/LICENSE.txt") |
+| [SAM](https://github.com/gibbed/SteamAchievementManager) | [7.0.16](https://github.com/gibbed/SteamAchievementManager) | Steam Achievement Mangager. A manager for game achievements in Steam. | [Zlib](https://github.com/gibbed/SteamAchievementManager/blob/master/LICENSE.txt) |
 | [Steam](https://store.steampowered.com/) | [*latest*](https://store.steampowered.com/) | Steam. The ultimate entertainment platform. |  |
 | [SwitchUAC](https://gallery.technet.microsoft.com/scriptcenter/How-to-switch-UAC-level-0ac3ea11) | [2017.2.16](https://gallery.technet.microsoft.com/scriptcenter/How-to-switch-UAC-level-0ac3ea11) | Switch UAC. Easily set User Account Control level via powershell |  |
-| [Texlive](https://www.tug.org/texlive/) | [2018.07.17](https://www.tug.org/texlive/) | Tex Live. Easy way to get up and running with the TeX document production system. | [Freeware](https://www.tug.org/texlive/LICENSE.TL "https://www.tug.org/texlive/LICENSE.TL") |
-| [TotalCommander](https://www.ghisler.com/) | [9.20](https://www.ghisler.com/) | Total Commander. File manager for Windows® 95/98/ME/NT/2000/XP/Vista/7/8/8.1/10, and Windows® 3.1. | [ShareWare](https://www.ghisler.com/privacypolicy.htm "https://www.ghisler.com/privacypolicy.htm") |
+| [Texlive](https://www.tug.org/texlive/) | [2018.07.17](https://www.tug.org/texlive/) | Tex Live. Easy way to get up and running with the TeX document production system. | [Freeware](https://www.tug.org/texlive/LICENSE.TL) |
+| [TotalCommander](https://www.ghisler.com/) | [9.20](https://www.ghisler.com/) | Total Commander. File manager for Windows® 95/98/ME/NT/2000/XP/Vista/7/8/8.1/10, and Windows® 3.1. | [ShareWare](https://www.ghisler.com/privacypolicy.htm) |
 | [Winrar-cz](https://rarlab.com/) |  | expected string or bytes-like object |  |
 | [Winrar](https://rarlab.com/) |  | expected string or bytes-like object |  |
 | [X3](https://www.deviantart.com/exsess/art/Metro-X3-Cursors-Update-Two-411020859) |  | expected string or bytes-like object |  |
-| [vscode-insiders](https://code.visualstudio.com/insiders) | [d1272ff8edbaa54c81382f82fa2091f63ed3daea](https://code.visualstudio.com/insiders) | Microsoft Visual Studio Code Insiders. New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. | [MIT](https://code.visualstudio.com/license/insiders "https://code.visualstudio.com/license/insiders") |
+| [vscode-insiders](https://code.visualstudio.com/insiders) | [d1272ff8edbaa54c81382f82fa2091f63ed3daea](https://code.visualstudio.com/insiders) | Microsoft Visual Studio Code Insiders. New type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. | [MIT](https://code.visualstudio.com/license/insiders) |
 ### <a name="atomicwrites_bucket" id="atomicwrites_bucket"></a>[atomicwrites/bucket](https://github.com/atomicwrites/bucket) [&#x2934;](#back_atomicwrites_bucket)
 *Some windows apps I've packaged for scoop.*
 
@@ -333,7 +333,7 @@
 | :--- | :--- | :--- | :--- |
 | [dualmonitortools](http://dualmonitortool.sourceforge.net/) | [2.7](http://dualmonitortool.sourceforge.net/) |  | GPLv3 |
 | [gsmartcontrol](https://gsmartcontrol.sourceforge.io) | [1.1.3](https://gsmartcontrol.sourceforge.io) |  | GPLv3 |
-| [jetty](https://www.eclipse.org/jetty) | [9.4.11.v20180605](https://www.eclipse.org/jetty) |  | [Link](https://www.eclipse.org/jetty/licenses.html "https://www.eclipse.org/jetty/licenses.html") |
+| [jetty](https://www.eclipse.org/jetty) | [9.4.11.v20180605](https://www.eclipse.org/jetty) |  | [Link](https://www.eclipse.org/jetty/licenses.html) |
 | [treesize](https://www.jam-software.de/treesize_free/index.shtml) | [4.2](https://www.jam-software.de/treesize_free/index.shtml) |  |  |
 | [virtual-desktop-enhancer](https://github.com/sdias/win-10-virtual-desktop-enhancer) | [0.11.1](https://github.com/sdias/win-10-virtual-desktop-enhancer) |  | [MIT](https://opensource.org/licenses/MIT) |
 ### <a name="broovy_scoop-bucket" id="broovy_scoop-bucket"></a>[broovy/scoop-bucket](https://github.com/broovy/scoop-bucket) [&#x2934;](#back_broovy_scoop-bucket)
@@ -353,17 +353,17 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [assaultcube](https://assault.cubers.net/) | [1.2.0.2](https://assault.cubers.net/) | Semi-realistic first-person shooter based on the Cube engine | [Link](https://assault.cubers.net/docs/license.html "https://assault.cubers.net/docs/license.html") |
+| [assaultcube](https://assault.cubers.net/) | [1.2.0.2](https://assault.cubers.net/) | Semi-realistic first-person shooter based on the Cube engine | [Link](https://assault.cubers.net/docs/license.html) |
 | [crispy-doom](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) | [*5.2*](https://www.chocolate-doom.org/wiki/index.php/Crispy_Doom) | Faithful enhanced-resolution source port for Doom | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [darkplaces](https://icculus.org/twilight/darkplaces/) | [*nightly*](https://icculus.org/twilight/darkplaces/) | Modern Quake source port with advanced graphics capabilities | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [doomsday](http://dengine.net/) | [*2.0.3*](http://dengine.net/) | Modern source port for Doom, Heretic, Hexen and more | [GPL-3.0+](https://opensource.org/licenses/GPL-3.0-or-later) |
 | [ecwolf](https://maniacsvault.net/ecwolf/) | [*1.3.3*](https://maniacsvault.net/ecwolf/) | Source port for Wolfenstein 3D | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
-| [eduke32](http://www.eduke32.com/) | [*20180702-6937*](http://www.eduke32.com/) | Modern source port for Duke Nukem 3D | [Link](http://www.eduke32.com/buildlic.txt "http://www.eduke32.com/buildlic.txt") |
+| [eduke32](http://www.eduke32.com/) | [*20180702-6937*](http://www.eduke32.com/) | Modern source port for Duke Nukem 3D | [Link](http://www.eduke32.com/buildlic.txt) |
 | [ericw-tools](https://ericwa.github.io/ericw-tools/) | [0.18.1](https://ericwa.github.io/ericw-tools/) | Command-line tools for compiling and analyzing Quake maps | [GPL-3.0+](https://opensource.org/licenses/GPL-3.0-or-later) |
 | [fteqw](http://fte.triptohell.info/) | [*nightly*](http://fte.triptohell.info/) | Modern QuakeWorld source port with advanced graphics capabilities | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [gzdoom](https://zdoom.org/) | [*3.4.1*](https://zdoom.org/) | Modern source port for Doom, Heretic, Hexen and more | [GPL-3.0+](https://opensource.org/licenses/GPL-3.0-or-later) |
 | [ioquake3](https://ioquake3.org/) | [*nightly*](https://ioquake3.org/) | Reference source port for Quake III Arena and Quake III: Team Arena | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [iortcw](https://github.com/iortcw/iortcw) | [1.51b](https://github.com/iortcw/iortcw) | Source port for Return to Castle Wolfenstein | [Link](https://github.com/iortcw/iortcw/blob/master/SP/COPYING.txt "https://github.com/iortcw/iortcw/blob/master/SP/COPYING.txt") |
+| [iortcw](https://github.com/iortcw/iortcw) | [1.51b](https://github.com/iortcw/iortcw) | Source port for Return to Castle Wolfenstein | [Link](https://github.com/iortcw/iortcw/blob/master/SP/COPYING.txt) |
 | [minetest](https://www.minetest.net/) | [0.4.17](https://www.minetest.net/) | Minecraft-like infinite-world multiplayer sandbox game | [LGPL-2.1+](https://opensource.org/licenses/LGPL-2.1-or-later) |
 | [neverball](https://neverball.org/) | [*1.6.0*](https://neverball.org/) | 3D roll-the-ball puzzle game (includes Neverputt) | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [odamex](https://odamex.net/) | [*0.7.0*](https://odamex.net/) | Multiplayer-oriented source port for Doom | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
@@ -374,23 +374,23 @@
 | [quakespasm](http://quakespasm.sourceforge.net/) | [*0.93.1*](http://quakespasm.sourceforge.net/) | Conservative Quake source port for singleplayer gameplay | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [qzdoom](https://zdoom.org/) | [*2.1.0*](https://zdoom.org/) | Experimental source port for Doom, Heretic, Hexen and more | [GPL-3.0+](https://opensource.org/licenses/GPL-3.0-or-later) |
 | [redeclipse](https://redeclipse.net/) | [*1.6.0*](https://redeclipse.net/) | Free arena shooter with parkour elements and a cooperative map editor | [Zlib](https://opensource.org/licenses/Zlib) |
-| [rtcwcoop](https://www.rtcwcoop.com/) | [1.0.2](https://www.rtcwcoop.com/) | Source port for playing Return to Castle Wolfenstein cooperatively | [Link](https://github.com/rtcwcoop/rtcwcoop/blob/master/COPYING.txt "https://github.com/rtcwcoop/rtcwcoop/blob/master/COPYING.txt") |
-| [sauerbraten](http://sauerbraten.org/) | [*collect-edition*](http://sauerbraten.org/) | First-person shooter featuring a real-time cooperative map editor | [Link](http://sauerbraten.org/README.html#license "http://sauerbraten.org/README.html#license") |
+| [rtcwcoop](https://www.rtcwcoop.com/) | [1.0.2](https://www.rtcwcoop.com/) | Source port for playing Return to Castle Wolfenstein cooperatively | [Link](https://github.com/rtcwcoop/rtcwcoop/blob/master/COPYING.txt) |
+| [sauerbraten](http://sauerbraten.org/) | [*collect-edition*](http://sauerbraten.org/) | First-person shooter featuring a real-time cooperative map editor | [Link](http://sauerbraten.org/README.html#license) |
 | [slade](http://slade.mancubus.net/) | [3.1.2_beta5](http://slade.mancubus.net/) | Level and resource editor for Doom engine games | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [spearmint](https://clover.moe/spearmint/) | [*0.6*](https://clover.moe/spearmint/) | Modern source port for Quake III Arena, Quake III: Team Arena and OpenArena | [Link](https://github.com/zturtleman/spearmint/blob/master/COPYING.txt "https://github.com/zturtleman/spearmint/blob/master/COPYING.txt") |
+| [spearmint](https://clover.moe/spearmint/) | [*0.6*](https://clover.moe/spearmint/) | Modern source port for Quake III Arena, Quake III: Team Arena and OpenArena | [Link](https://github.com/zturtleman/spearmint/blob/master/COPYING.txt) |
 | [teeworlds](https://teeworlds.com/) | [*0.6.4*](https://teeworlds.com/) | 2D retro multiplayer shooter | [Zlib](https://opensource.org/licenses/Zlib) |
-| [tesseract-game](http://tesseract.gg/) | [*nightly*](http://tesseract.gg/) | First-person shooter featuring real-time lighting and a cooperative map editor | [Link](https://websvn.tuxfamily.org/filedetails.php?repname=tesseract%2Fmain&path=%2Fsrc%2Freadme_tesseract.txt "https://websvn.tuxfamily.org/filedetails.php?repname=tesseract%2Fmain&path=%2Fsrc%2Freadme_tesseract.txt") |
+| [tesseract-game](http://tesseract.gg/) | [*nightly*](http://tesseract.gg/) | First-person shooter featuring real-time lighting and a cooperative map editor | [Link](https://websvn.tuxfamily.org/filedetails.php?repname=tesseract%2Fmain&path=%2Fsrc%2Freadme_tesseract.txt) |
 | [trenchbroom](http://kristianduske.com/trenchbroom/) | [2.0.2](http://kristianduske.com/trenchbroom/) | Level editor for Quake-based games | [GPL-3.0+](https://opensource.org/licenses/GPL-3.0-or-later) |
-| [urbanterror](https://www.urbanterror.info/home/) | [*4.3.4*](https://www.urbanterror.info/home/) | Multiplayer semi-realistic first-person shooter running on ioquake3 | [Link](https://www.urbanterror.info/support/202-quake-3-sdk/ "https://www.urbanterror.info/support/202-quake-3-sdk/") |
+| [urbanterror](https://www.urbanterror.info/home/) | [*4.3.4*](https://www.urbanterror.info/home/) | Multiplayer semi-realistic first-person shooter running on ioquake3 | [Link](https://www.urbanterror.info/support/202-quake-3-sdk/) |
 | [xmoto](http://xmoto.tuxfamily.org/) | [*0.5.11*](http://xmoto.tuxfamily.org/) | Difficult 2D motocross racing/stunts game | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [yquake2](https://www.yamagi.org/quake2/) | [*7.20*](https://www.yamagi.org/quake2/) | Conservative Quake 2 source port focused on singleplayer gameplay | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [zandronum](https://zandronum.com/) | [*3.0*](https://zandronum.com/) | Modern multiplayer-oriented source port for Doom | [Link](https://zdoom.org/wiki/license "https://zdoom.org/wiki/license") |
+| [zandronum](https://zandronum.com/) | [*3.0*](https://zandronum.com/) | Modern multiplayer-oriented source port for Doom | [Link](https://zdoom.org/wiki/license) |
 ### <a name="Callidin_ragnar-scoop" id="Callidin_ragnar-scoop"></a>[Callidin/ragnar-scoop](https://github.com/Callidin/ragnar-scoop) [&#x2934;](#back_Callidin_ragnar-scoop)
 *A small bucket so I can find and install older versions of things from scoop repros.*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [python27](http://www.python.org) | [2.7.11](http://www.python.org) |  | [Link](http://docs.python.org/2/license.html "http://docs.python.org/2/license.html") |
+| [python27](http://www.python.org) | [2.7.11](http://www.python.org) |  | [Link](http://docs.python.org/2/license.html) |
 ### <a name="ChinLong_scoop-customize" id="ChinLong_scoop-customize"></a>[ChinLong/scoop-customize](https://github.com/ChinLong/scoop-customize) [&#x2934;](#back_ChinLong_scoop-customize)
 *It is customize for scoop-extras*
 
@@ -442,7 +442,7 @@
 | [BaiduPCS](https://github.com/GangZhuo/BaiduPCS) | [*0.2.4-c59187f*](https://github.com/GangZhuo/BaiduPCS) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [Everything](https://www.voidtools.com/) | [*1.3.4.686*](https://www.voidtools.com/) |  |  |
 | [JabRef](http://www.jabref.org/) | [*3.6*](http://www.jabref.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [KindleMate](http://kmate.me/) | [*136*](http://kmate.me/) |  | [Link](http://kmate.me/support/ "http://kmate.me/support/") |
+| [KindleMate](http://kmate.me/) | [*136*](http://kmate.me/) |  | [Link](http://kmate.me/support/) |
 | [OllyDbg](http://ollydbg.de) | [*1.10*](http://ollydbg.de) |  |  |
 | [PuTTYtray](https://puttytray.goeswhere.com/) | [*p0.67-t029*](https://puttytray.goeswhere.com/) |  |  |
 | [Win32-OpenSSH-64bit](https://github.com/PowerShell/Win32-OpenSSH) | [*0.0.3.0*](https://github.com/PowerShell/Win32-OpenSSH) |  | BSD |
@@ -464,7 +464,7 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [vscode-insiders](https://code.visualstudio.com/insiders) | [1.24.0-insider](https://code.visualstudio.com/insiders) |  | [Link](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
+| [vscode-insiders](https://code.visualstudio.com/insiders) | [1.24.0-insider](https://code.visualstudio.com/insiders) |  | [Link](https://code.visualstudio.com/License/) |
 ### <a name="DamianReeves_scoop-tools" id="DamianReeves_scoop-tools"></a>[DamianReeves/scoop-tools](https://github.com/DamianReeves/scoop-tools) [&#x2934;](#back_DamianReeves_scoop-tools)
 *A scoop bucket for tools*
 
@@ -538,21 +538,21 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [artifactory](https://bintray.com/jfrog/artifactory/artifactory/view) | [3.4.1](https://bintray.com/jfrog/artifactory/artifactory/view) |  | [LGPL-3.0](https://opensource.org/licenses/LGPL-3.0) |
-| [atlassian-bamboo](https://www.atlassian.com/software/bamboo/download) | [5.7.0](https://www.atlassian.com/software/bamboo/download) |  | [Link](https://www.atlassian.com/end-user-agreement/ "https://www.atlassian.com/end-user-agreement/") |
-| [atlassian-confluence](https://www.atlassian.com/software/confluence/download) | [5.5.3](https://www.atlassian.com/software/confluence/download) |  | [Link](https://www.atlassian.com/end-user-agreement/ "https://www.atlassian.com/end-user-agreement/") |
-| [atlassian-crowd](https://www.atlassian.com/software/crowd/download) | [2.7.2](https://www.atlassian.com/software/crowd/download) |  | [Link](https://www.atlassian.com/end-user-agreement/ "https://www.atlassian.com/end-user-agreement/") |
-| [atlassian-jira](https://www.atlassian.com/software/jira/download) | [*6.3*](https://www.atlassian.com/software/jira/download) |  | [Link](https://www.atlassian.com/end-user-agreement/ "https://www.atlassian.com/end-user-agreement/") |
-| [atlassian-stash](https://www.atlassian.com/software/stash/download) | [*3.4.1*](https://www.atlassian.com/software/stash/download) |  | [Link](https://www.atlassian.com/end-user-agreement/ "https://www.atlassian.com/end-user-agreement/") |
+| [atlassian-bamboo](https://www.atlassian.com/software/bamboo/download) | [5.7.0](https://www.atlassian.com/software/bamboo/download) |  | [Link](https://www.atlassian.com/end-user-agreement/) |
+| [atlassian-confluence](https://www.atlassian.com/software/confluence/download) | [5.5.3](https://www.atlassian.com/software/confluence/download) |  | [Link](https://www.atlassian.com/end-user-agreement/) |
+| [atlassian-crowd](https://www.atlassian.com/software/crowd/download) | [2.7.2](https://www.atlassian.com/software/crowd/download) |  | [Link](https://www.atlassian.com/end-user-agreement/) |
+| [atlassian-jira](https://www.atlassian.com/software/jira/download) | [*6.3*](https://www.atlassian.com/software/jira/download) |  | [Link](https://www.atlassian.com/end-user-agreement/) |
+| [atlassian-stash](https://www.atlassian.com/software/stash/download) | [*3.4.1*](https://www.atlassian.com/software/stash/download) |  | [Link](https://www.atlassian.com/end-user-agreement/) |
 | [ds9](http://ds9.si.edu/) | [*7.2.1*](http://ds9.si.edu/) |  | GPLv2 |
-| [eclipse-kepler](http://www.eclipse.org/) | [*4.3.2*](http://www.eclipse.org/) |  | [Link](https://www.eclipse.org/org/documents/epl-v10.php "https://www.eclipse.org/org/documents/epl-v10.php") |
-| [eclipse-luna](http://www.eclipse.org/) | [*4.4*](http://www.eclipse.org/) |  | [Link](https://www.eclipse.org/org/documents/epl-v10.php "https://www.eclipse.org/org/documents/epl-v10.php") |
-| [eclipse-mars](http://www.eclipse.org/) | [*4.5*](http://www.eclipse.org/) |  | [Link](https://www.eclipse.org/org/documents/epl-v10.php "https://www.eclipse.org/org/documents/epl-v10.php") |
+| [eclipse-kepler](http://www.eclipse.org/) | [*4.3.2*](http://www.eclipse.org/) |  | [Link](https://www.eclipse.org/org/documents/epl-v10.php) |
+| [eclipse-luna](http://www.eclipse.org/) | [*4.4*](http://www.eclipse.org/) |  | [Link](https://www.eclipse.org/org/documents/epl-v10.php) |
+| [eclipse-mars](http://www.eclipse.org/) | [*4.5*](http://www.eclipse.org/) |  | [Link](https://www.eclipse.org/org/documents/epl-v10.php) |
 | [gradle](http://www.gradle.org/) | [*2.1*](http://www.gradle.org/) |  | Apache 2.0 |
-| [java7](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [*7u55*](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license/index.html "http://www.oracle.com/technetwork/java/javase/terms/license/index.html") |
-| [java8](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [*8u25*](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license/index.html "http://www.oracle.com/technetwork/java/javase/terms/license/index.html") |
+| [java7](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [*7u55*](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license/index.html) |
+| [java8](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [*8u25*](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license/index.html) |
 | [mysql](http://dev.mysql.com/downloads/mysql/) | [*5.6.17*](http://dev.mysql.com/downloads/mysql/) |  | GPLv2 |
 | [sonar](http://www.sonarqube.org/downloads/) | [4.5.1](http://www.sonarqube.org/downloads/) |  | [LGPL-3.0](https://opensource.org/licenses/LGPL-3.0) |
-| [spacesniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) | [*1.2.0.2*](http://www.uderzo.it/main_products/space_sniffer/index.html) |  | [Link](http://www.uderzo.it/main_products/space_sniffer/donate.html "http://www.uderzo.it/main_products/space_sniffer/donate.html") |
+| [spacesniffer](http://www.uderzo.it/main_products/space_sniffer/index.html) | [*1.2.0.2*](http://www.uderzo.it/main_products/space_sniffer/index.html) |  | [Link](http://www.uderzo.it/main_products/space_sniffer/donate.html) |
 | [tomcat7](http://tomcat.apache.org/download-70.cgi) | [*7.0.55*](http://tomcat.apache.org/download-70.cgi) |  | ASLv2 |
 | [tomcat8](http://tomcat.apache.org/download-80.cgi) | [*8.0.14*](http://tomcat.apache.org/download-80.cgi) |  | ASLv2 |
 | [virtualbox](https://www.virtualbox.org/) | [*5.0.0*](https://www.virtualbox.org/) |  | GPLv2 |
@@ -579,9 +579,9 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [php56-apcu](https://xdebug.org/) | [2.5.5-5.6](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php "https://xdebug.org/license.php") |
-| [php56-xdebug](https://xdebug.org/) | [2.5.5-5.6](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php "https://xdebug.org/license.php") |
-| [php56](http://windows.php.net) | [5.6.32](http://windows.php.net) |  | [Link](https://php.net/license/ "https://php.net/license/") |
+| [php56-apcu](https://xdebug.org/) | [2.5.5-5.6](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php) |
+| [php56-xdebug](https://xdebug.org/) | [2.5.5-5.6](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php) |
+| [php56](http://windows.php.net) | [5.6.32](http://windows.php.net) |  | [Link](https://php.net/license/) |
 ### <a name="DimiG_dgBucket" id="DimiG_dgBucket"></a>[DimiG/dgBucket](https://github.com/DimiG/dgBucket) [&#x2934;](#back_DimiG_dgBucket)
 *Scoop personal bucket*
 
@@ -614,9 +614,9 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [clib](https://github.com/clibs/clib/) | [1.4.2](https://github.com/clibs/clib/) |  | [Link](https://github.com/clibs/clib/blob/master/LICENSE "https://github.com/clibs/clib/blob/master/LICENSE") |
+| [clib](https://github.com/clibs/clib/) | [1.4.2](https://github.com/clibs/clib/) |  | [Link](https://github.com/clibs/clib/blob/master/LICENSE) |
 | [llvm]() |  | Expecting &#39;,&#39; delimiter: line 1 column 32 (char 31) |  |
-| [vim-ernwong](https://github.com/ErnWong/scoop-bucket/blob/master/vim-ernwong.md) | [*7.4.417.3*](https://github.com/ErnWong/scoop-bucket/blob/master/vim-ernwong.md) |  | [Link](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license "http://vimdoc.sourceforge.net/htmldoc/uganda.html#license") |
+| [vim-ernwong](https://github.com/ErnWong/scoop-bucket/blob/master/vim-ernwong.md) | [*7.4.417.3*](https://github.com/ErnWong/scoop-bucket/blob/master/vim-ernwong.md) |  | [Link](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license) |
 ### <a name="eugenesvk_scoop-bucket" id="eugenesvk_scoop-bucket"></a>[eugenesvk/scoop-bucket](https://github.com/eugenesvk/scoop-bucket) [&#x2934;](#back_eugenesvk_scoop-bucket)
 *List of additional apps that can be installed by Scoop*
 
@@ -638,7 +638,7 @@
 | [bazel](https://bazel.build/) | [*0.14*](https://bazel.build/) |  | Apache License 2.0 |
 | [bison](https://sourceforge.net/projects/winflexbison/) | [*2.7*](https://sourceforge.net/projects/winflexbison/) |  | GNU |
 | [c99-to-c89](https://github.com/libav/c99-to-c89/) | [*1.0.3*](https://github.com/libav/c99-to-c89/) |  | Apache License 2.0 |
-| [cmake](https://cmake.org/) | [3.11.0-rc2](https://cmake.org/) |  | [Link](https://cmake.org/licensing/ "https://cmake.org/licensing/") |
+| [cmake](https://cmake.org/) | [3.11.0-rc2](https://cmake.org/) |  | [Link](https://cmake.org/licensing/) |
 | [depends](http://www.dependencywalker.com/) | [*2.2*](http://www.dependencywalker.com/) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [dllexp](http://www.nirsoft.net/utils/dll_export_viewer.html) | [*1.6.6*](http://www.nirsoft.net/utils/dll_export_viewer.html) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [dosbox](https://www.dosbox.com/) | [*0.74*](https://www.dosbox.com/) |  | GNU General Public License |
@@ -679,7 +679,7 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [flac](https://github.com/follnoob/follnoob-bucket/blob/master/flac.json) | *1.3.2* |  |  |
-| [python3.6](https://www.python.org/) | [3.6.4](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html "https://docs.python.org/3/license.html") |
+| [python3.6](https://www.python.org/) | [3.6.4](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html) |
 ### <a name="fredjoseph_scoop-bucket" id="fredjoseph_scoop-bucket"></a>[fredjoseph/scoop-bucket](https://github.com/fredjoseph/scoop-bucket) [&#x2934;](#back_fredjoseph_scoop-bucket)
 *bucket for Scoop installer*
 
@@ -701,7 +701,7 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [mosquitto](https://mosquitto.org/) | [*1.4.14*](https://mosquitto.org/) |  | [Link](https://github.com/eclipse/mosquitto/blob/master/LICENSE.txt "https://github.com/eclipse/mosquitto/blob/master/LICENSE.txt") |
+| [mosquitto](https://mosquitto.org/) | [*1.4.14*](https://mosquitto.org/) |  | [Link](https://github.com/eclipse/mosquitto/blob/master/LICENSE.txt) |
 ### <a name="gabrielrobert_scoop-bucket" id="gabrielrobert_scoop-bucket"></a>[gabrielrobert/scoop-bucket](https://github.com/gabrielrobert/scoop-bucket) [&#x2934;](#back_gabrielrobert_scoop-bucket)
 
 
@@ -740,7 +740,7 @@
 | [cmdutils](http://www.maddogsw.com/cmdutils/) | [*1.5*](http://www.maddogsw.com/cmdutils/) |  | GPL |
 | [hostsmgr](https://www.henrypp.org/product/hostsmgr) | [*1.1*](https://www.henrypp.org/product/hostsmgr) |  | GPL3 |
 | [megatools](https://megatools.megous.com) | [*1.9.98*](https://megatools.megous.com) |  | GPL2 |
-| [oppai](https://github.com/Francesco149/oppai-ng) | [1.1.46](https://github.com/Francesco149/oppai-ng) |  | [Link](https://github.com/Francesco149/oppai-ng/blob/master/UNLICENSE "https://github.com/Francesco149/oppai-ng/blob/master/UNLICENSE") |
+| [oppai](https://github.com/Francesco149/oppai-ng) | [1.1.46](https://github.com/Francesco149/oppai-ng) |  | [Link](https://github.com/Francesco149/oppai-ng/blob/master/UNLICENSE) |
 ### <a name="Guard13007_ScoopBucket" id="Guard13007_ScoopBucket"></a>[Guard13007/ScoopBucket](https://github.com/Guard13007/ScoopBucket) [&#x2934;](#back_Guard13007_ScoopBucket)
 *Bucket for Scoop to install my stuff. (http://scoop.sh)*
 
@@ -791,7 +791,7 @@
 | [nexusfont](http://www.xiles.net/) | [2.6.2](http://www.xiles.net/) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [nvm-windows](https://github.com/h404bi/nvm-windows) | [*1.1.6*](https://github.com/h404bi/nvm-windows) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [obs-classic](https://obsproject.com/) | [*0.659b*](https://obsproject.com/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
-| [process-explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | [16.21](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) |  | [Microsoft SysInternals EULA](https://docs.microsoft.com/en-us/sysinternals/license-terms "https://docs.microsoft.com/en-us/sysinternals/license-terms") |
+| [process-explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | [16.21](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) |  | [Microsoft SysInternals EULA](https://docs.microsoft.com/en-us/sysinternals/license-terms) |
 | [pycharm-ce](https://www.jetbrains.com/pycharm/) | [2018.1.4](https://www.jetbrains.com/pycharm/) | Python IDE for Professional Developers |  |
 | [pycharm](https://www.jetbrains.com/pycharm/) | [2018.1.4](https://www.jetbrains.com/pycharm/) | Python IDE for Professional Developers |  |
 | [rustup](https://github.com/rust-lang-nursery/rustup.rs) | [1.13.0](https://github.com/rust-lang-nursery/rustup.rs) |  | [MIT](https://opensource.org/licenses/MIT) |
@@ -799,8 +799,8 @@
 | [tcping](https://elifulkerson.com/projects/tcping.php) | [0.39](https://elifulkerson.com/projects/tcping.php) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [trash](https://github.com/sindresorhus/recycle-bin) | [1.0.1](https://github.com/sindresorhus/recycle-bin) | Move files and folders to the Windows recycle bin | [MIT](https://opensource.org/licenses/MIT) |
 | [virgo](https://github.com/henkman/virgo) | [1.4.2](https://github.com/henkman/virgo) | Virtual Desktop Manager for Windows | [MIT](https://opensource.org/licenses/MIT) |
-| [vscode-insiders](https://code.visualstudio.com/insiders) | [1.26.0-insider](https://code.visualstudio.com/insiders) |  | [Microsoft Software License Terms](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
-| [whois](https://technet.microsoft.com/en-us/sysinternals/whois.aspx) | [1.20](https://technet.microsoft.com/en-us/sysinternals/whois.aspx) |  | [Microsoft SysInternals EULA](https://docs.microsoft.com/en-us/sysinternals/license-terms "https://docs.microsoft.com/en-us/sysinternals/license-terms") |
+| [vscode-insiders](https://code.visualstudio.com/insiders) | [1.26.0-insider](https://code.visualstudio.com/insiders) |  | [Microsoft Software License Terms](https://code.visualstudio.com/License/) |
+| [whois](https://technet.microsoft.com/en-us/sysinternals/whois.aspx) | [1.20](https://technet.microsoft.com/en-us/sysinternals/whois.aspx) |  | [Microsoft SysInternals EULA](https://docs.microsoft.com/en-us/sysinternals/license-terms) |
 | [yarn](https://yarnpkg.com/) | [1.7.0](https://yarnpkg.com/) |  | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
 ### <a name="hed0n1st_my-scoop-bucket" id="hed0n1st_my-scoop-bucket"></a>[hed0n1st/my-scoop-bucket](https://github.com/hed0n1st/my-scoop-bucket) [&#x2934;](#back_hed0n1st_my-scoop-bucket)
 
@@ -822,17 +822,17 @@
 | [dolphin-dev](https://dolphin-emu.org/) | [5.0-8466](https://dolphin-emu.org/) |  | GPLv2 |
 | [dolphin](https://dolphin-emu.org/) | [5.0](https://dolphin-emu.org/) |  | GPLv2 |
 | [fceux](http://www.fceux.com) | [2.2.3](http://www.fceux.com) |  | GPLv2 |
-| [mame](http://mamedev.org/) | [0.199](http://mamedev.org/) |  | [Link](http://docs.mamedev.org/license.html "http://docs.mamedev.org/license.html") |
-| [mgba](https://mgba.io) | [0.6.3](https://mgba.io) |  | [Link](https://raw.githubusercontent.com/mgba-emu/mgba/0.6.3/LICENSE "https://raw.githubusercontent.com/mgba-emu/mgba/0.6.3/LICENSE") |
+| [mame](http://mamedev.org/) | [0.199](http://mamedev.org/) |  | [Link](http://docs.mamedev.org/license.html) |
+| [mgba](https://mgba.io) | [0.6.3](https://mgba.io) |  | [Link](https://raw.githubusercontent.com/mgba-emu/mgba/0.6.3/LICENSE) |
 | [project64](http://www.pj64-emu.com/) | [2.3.2](http://www.pj64-emu.com/) |  | GPLv2 |
-| [snes9x](http://www.snes9x.com/) | [1.56.2](http://www.snes9x.com/) |  | [Link](https://raw.githubusercontent.com/snes9xgit/snes9x/1.56.2/docs/snes9x-license.txt "https://raw.githubusercontent.com/snes9xgit/snes9x/1.56.2/docs/snes9x-license.txt") |
+| [snes9x](http://www.snes9x.com/) | [1.56.2](http://www.snes9x.com/) |  | [Link](https://raw.githubusercontent.com/snes9xgit/snes9x/1.56.2/docs/snes9x-license.txt) |
 ### <a name="holehan_scoop-bucket" id="holehan_scoop-bucket"></a>[holehan/scoop-bucket](https://github.com/holehan/scoop-bucket) [&#x2934;](#back_holehan_scoop-bucket)
 
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [apache](http://www.apachelounge.com) | [2.4.16](http://www.apachelounge.com) |  | Apache 2.0 |
-| [php](http://windows.php.net) | [5.6.12](http://windows.php.net) |  | [Link](http://www.php.net/license/ "http://www.php.net/license/") |
+| [php](http://windows.php.net) | [5.6.12](http://windows.php.net) |  | [Link](http://www.php.net/license/) |
 ### <a name="hulucc_bucket" id="hulucc_bucket"></a>[hulucc/bucket](https://github.com/hulucc/bucket) [&#x2934;](#back_hulucc_bucket)
 *my scoop bucket*
 
@@ -870,13 +870,13 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [oc](https://docs.openshift.org/latest/cli_reference/get_started_cli.html) | [3.7.1](https://docs.openshift.org/latest/cli_reference/get_started_cli.html) |  | [Link](https://github.com/openshift/origin/blob/master/LICENSE "https://github.com/openshift/origin/blob/master/LICENSE") |
+| [oc](https://docs.openshift.org/latest/cli_reference/get_started_cli.html) | [3.7.1](https://docs.openshift.org/latest/cli_reference/get_started_cli.html) |  | [Link](https://github.com/openshift/origin/blob/master/LICENSE) |
 ### <a name="icetee_icetee-bucket" id="icetee_icetee-bucket"></a>[icetee/icetee-bucket](https://github.com/icetee/icetee-bucket) [&#x2934;](#back_icetee_icetee-bucket)
 *My custom manifests for Scoop*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [nmap](https://nmap.org) | [*7.40*](https://nmap.org) |  | [Link](https://svn.nmap.org/nmap/COPYING "https://svn.nmap.org/nmap/COPYING") |
+| [nmap](https://nmap.org) | [*7.40*](https://nmap.org) |  | [Link](https://svn.nmap.org/nmap/COPYING) |
 | [nodist](https://github.com/marcelklehr/nodist) | [*0.8.8*](https://github.com/marcelklehr/nodist) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [wireshark](https://www.wireshark.org) | [*2.2.6*](https://www.wireshark.org) |  | GNUv2 |
 ### <a name="idursun_my-bucket" id="idursun_my-bucket"></a>[idursun/my-bucket](https://github.com/idursun/my-bucket) [&#x2934;](#back_idursun_my-bucket)
@@ -897,7 +897,7 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [powershell](https://github.com/PowerShell/PowerShell/releases/latest) | [6.0.2](https://github.com/PowerShell/PowerShell/releases/latest) |  | [Link](https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt "https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt") |
+| [powershell](https://github.com/PowerShell/PowerShell/releases/latest) | [6.0.2](https://github.com/PowerShell/PowerShell/releases/latest) |  | [Link](https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt) |
 ### <a name="jamesgecko_scoop-packages" id="jamesgecko_scoop-packages"></a>[jamesgecko/scoop-packages](https://github.com/jamesgecko/scoop-packages) [&#x2934;](#back_jamesgecko_scoop-packages)
 *Random manifests*
 
@@ -906,15 +906,15 @@
 | [brogue](https://sites.google.com/site/broguegame/) | [*1.7.4*](https://sites.google.com/site/broguegame/) |  | GPL2 |
 | [dwarf-fortress](http://www.bay12games.com/dwarves/) | [*0.40.04*](http://www.bay12games.com/dwarves/) |  |  |
 | [ffind](http://stevelosh.com/projects/friendly-find/) | [*0.3.2*](http://stevelosh.com/projects/friendly-find/) |  | GPL2 |
-| [md5deep](http://md5deep.sourceforge.net/) | [*4.4*](http://md5deep.sourceforge.net/) |  | [Link](http://www.law.cornell.edu/uscode/text/17/105 "http://www.law.cornell.edu/uscode/text/17/105") |
-| [save-central](https://github.com/jamesgecko/save-central) | [*1.0*](https://github.com/jamesgecko/save-central) |  | [Link](https://github.com/jamesgecko/save-central/blob/master/LICENSE "https://github.com/jamesgecko/save-central/blob/master/LICENSE") |
+| [md5deep](http://md5deep.sourceforge.net/) | [*4.4*](http://md5deep.sourceforge.net/) |  | [Link](http://www.law.cornell.edu/uscode/text/17/105) |
+| [save-central](https://github.com/jamesgecko/save-central) | [*1.0*](https://github.com/jamesgecko/save-central) |  | [Link](https://github.com/jamesgecko/save-central/blob/master/LICENSE) |
 | [syncthing]() |  | Expecting value: line 1 column 551 (char 550) |  |
 ### <a name="javageek_scoop-bucket" id="javageek_scoop-bucket"></a>[javageek/scoop-bucket](https://github.com/javageek/scoop-bucket) [&#x2934;](#back_javageek_scoop-bucket)
 *scoop.sh bucket*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [minishift](https://docs.openshift.org/latest/minishift/index.html) | [1.9.0](https://docs.openshift.org/latest/minishift/index.html) |  | [Link](https://github.com/minishift/minishift/blob/master/LICENSE "https://github.com/minishift/minishift/blob/master/LICENSE") |
+| [minishift](https://docs.openshift.org/latest/minishift/index.html) | [1.9.0](https://docs.openshift.org/latest/minishift/index.html) |  | [Link](https://github.com/minishift/minishift/blob/master/LICENSE) |
 ### <a name="jfut_scoop-dell-xps-8920" id="jfut_scoop-dell-xps-8920"></a>[jfut/scoop-dell-xps-8920](https://github.com/jfut/scoop-dell-xps-8920) [&#x2934;](#back_jfut_scoop-dell-xps-8920)
 *DELL XPS 8920 Hardware Driver and Software Bucket for http://scoop.sh*
 
@@ -929,12 +929,12 @@
 | [autopsy](https://www.sleuthkit.org/autopsy/) | [4.7.0](https://www.sleuthkit.org/autopsy/) |  | Apache 2.0 |
 | [becky.ja](http://www.rimarts.co.jp/becky-j.htm) | [2.74.00](http://www.rimarts.co.jp/becky-j.htm) |  | [Commercial](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
 | [becky](http://www.rimarts.co.jp/becky.htm) | [2.74.00](http://www.rimarts.co.jp/becky.htm) |  | [Commercial](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
-| [clnch](https://sites.google.com/site/craftware/clnch) | [3.33](https://sites.google.com/site/craftware/clnch) | CraftLaunch | [Link](https://github.com/crftwr/clnch/blob/master/license/python_license.txt "https://github.com/crftwr/clnch/blob/master/license/python_license.txt") |
-| [cotton](http://peco.github.io/) | [110614](http://peco.github.io/) |  | [Link](http://cotton.jp.land.to/cotton.htm "http://cotton.jp.land.to/cotton.htm") |
+| [clnch](https://sites.google.com/site/craftware/clnch) | [3.33](https://sites.google.com/site/craftware/clnch) | CraftLaunch | [Link](https://github.com/crftwr/clnch/blob/master/license/python_license.txt) |
+| [cotton](http://peco.github.io/) | [110614](http://peco.github.io/) |  | [Link](http://cotton.jp.land.to/cotton.htm) |
 | [crystaldiskinfo](https://crystalmark.info/download/index-e.html) | [7.6.1](https://crystalmark.info/download/index-e.html) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [crystaldiskmark](https://crystalmark.info/download/index-e.html) | [6.0.1](https://crystalmark.info/download/index-e.html) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [explzh.ja](https://www.ponsoftware.com/) | [7.60](https://www.ponsoftware.com/) |  | [Link](https://www.ponsoftware.com/archiver/regist.htm "https://www.ponsoftware.com/archiver/regist.htm") |
-| [explzh](https://www.ponsoftware.com/en/) | [7.60](https://www.ponsoftware.com/en/) |  | [Link](https://www.ponsoftware.com/en/archiver/regist.htm "https://www.ponsoftware.com/en/archiver/regist.htm") |
+| [explzh.ja](https://www.ponsoftware.com/) | [7.60](https://www.ponsoftware.com/) |  | [Link](https://www.ponsoftware.com/archiver/regist.htm) |
+| [explzh](https://www.ponsoftware.com/en/) | [7.60](https://www.ponsoftware.com/en/) |  | [Link](https://www.ponsoftware.com/en/archiver/regist.htm) |
 | [fastcopy](https://ipmsg.org/tools/fastcopy.html) | [3.51](https://ipmsg.org/tools/fastcopy.html) |  | GPL3 |
 | [ffftp.ja](https://ja.osdn.net/projects/ffftp/) | [2.00](https://ja.osdn.net/projects/ffftp/) |  | BSD 3-clause |
 | [ffftp](https://ja.osdn.net/projects/ffftp/) | [2.00](https://ja.osdn.net/projects/ffftp/) |  | BSD 3-clause |
@@ -942,158 +942,158 @@
 | [fitwin](http://hakomo.github.io/fitwin/) | [1.3](http://hakomo.github.io/fitwin/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [gopass](https://www.justwatch.com/gopass/) | [1.8.2](https://www.justwatch.com/gopass/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [idmanager](http://hakomo.github.io/fitwin/) | [8.1](http://hakomo.github.io/fitwin/) |  | ID Manager is a freeware. No warranty of any kind&hellip; |
-| [imgburn.ja](http://www.imgburn.com/) | [2.5.8.0](http://www.imgburn.com/) |  | [Link](http://www.imgburn.com/ "http://www.imgburn.com/") |
-| [imgburn](http://www.imgburn.com/) | [2.5.8.0](http://www.imgburn.com/) |  | [Link](http://www.imgburn.com/ "http://www.imgburn.com/") |
+| [imgburn.ja](http://www.imgburn.com/) | [2.5.8.0](http://www.imgburn.com/) |  | [Link](http://www.imgburn.com/) |
+| [imgburn](http://www.imgburn.com/) | [2.5.8.0](http://www.imgburn.com/) |  | [Link](http://www.imgburn.com/) |
 | [irfanview.ja](http://www.irfanview.com/) | [4.51](http://www.irfanview.com/) |  | [Commercial](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
 | [jasper](https://jasperapp.io/) | [0.6.0](https://jasperapp.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [lhaz](http://chitora.com/lhaz.html) | [2.5.1](http://chitora.com/lhaz.html) |  | [Link](http://chitora.com/lhaz/lhazhelp.html "http://chitora.com/lhaz/lhazhelp.html") |
+| [lhaz](http://chitora.com/lhaz.html) | [2.5.1](http://chitora.com/lhaz.html) |  | [Link](http://chitora.com/lhaz/lhazhelp.html) |
 | [lyricsmaster](http://www.kenichimaehashi.com/lyricsmaster/) | [2.4.8.3](http://www.kenichimaehashi.com/lyricsmaster/) |  | [Proprietary](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
 | [mattermost](https://about.mattermost.com/) | [4.1.2](https://about.mattermost.com/) |  | Apache 2.0 |
 | [otbedit](http://www.hi-ho.ne.jp/a_ogawa/otbedit/) | [6.3.5.0](http://www.hi-ho.ne.jp/a_ogawa/otbedit/) |  | (1)このソフトウェアはフリーソフトです。利用及び再配布は自由に行ってください。(2)このソフトウェアの著作権は，作者(小川 淳)にあります。(3)このソフトウェアにより生じた被害には，一切責任を負いません。 |
 | [peco](http://peco.github.io/) | [0.5.3](http://peco.github.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [putty-gdi-pfwd](http://ice.hotmint.com/putty/) | [*20120211*](http://ice.hotmint.com/putty/) |  | [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html "http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html") |
-| [putty-gdi](http://ice.hotmint.com/putty/) | [20180413](http://ice.hotmint.com/putty/) |  | [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html "http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html") |
+| [putty-gdi-pfwd](http://ice.hotmint.com/putty/) | [*20120211*](http://ice.hotmint.com/putty/) |  | [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html) |
+| [putty-gdi](http://ice.hotmint.com/putty/) | [20180413](http://ice.hotmint.com/putty/) |  | [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html) |
 | [rdcman](https://www.microsoft.com/en-us/download/details.aspx?id=44989) | [2.7.1406.0](https://www.microsoft.com/en-us/download/details.aspx?id=44989) |  | [Proprietary](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
 | [sizer](http://www.brianapps.net/sizer/) | [3.34](http://www.brianapps.net/sizer/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [skype](https://www.skype.com/) | [7.41.0.101](https://www.skype.com/) |  | [Link](https://www.skype.com/en/legal/tou-connect/ "https://www.skype.com/en/legal/tou-connect/") |
+| [skype](https://www.skype.com/) | [7.41.0.101](https://www.skype.com/) |  | [Link](https://www.skype.com/en/legal/tou-connect/) |
 | [smplayer](https://www.smplayer.info/) | [18.6.0](https://www.smplayer.info/) |  | GPLv2 |
 | [sudo](https://github.com/mattn/sudo) | [0.0.1](https://github.com/mattn/sudo) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [textpad.ja](https://textpad.com/products/textpad/) | [8.1.2](https://textpad.com/products/textpad/) |  | [Commercial](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
 | [textpad](https://textpad.com/products/textpad/) | [8.1.2](https://textpad.com/products/textpad/) |  | [Commercial](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
 | [thunderbird.ja](https://www.mozilla.org/ja/thunderbird/) | [52.9.1](https://www.mozilla.org/ja/thunderbird/) |  |  |
 | [tigervnc-client](http://tigervnc.org) | [1.8.0](http://tigervnc.org) |  | GPLv2 |
-| [tursi](http://ais.informatik.uni-freiburg.de/tursi/) | [1.1](http://ais.informatik.uni-freiburg.de/tursi/) |  | [Link](http://ais.informatik.uni-freiburg.de/tursi/ "http://ais.informatik.uni-freiburg.de/tursi/") |
+| [tursi](http://ais.informatik.uni-freiburg.de/tursi/) | [1.1](http://ais.informatik.uni-freiburg.de/tursi/) |  | [Link](http://ais.informatik.uni-freiburg.de/tursi/) |
 ### <a name="jfut_scoop-pleiades" id="jfut_scoop-pleiades"></a>[jfut/scoop-pleiades](https://github.com/jfut/scoop-pleiades) [&#x2934;](#back_jfut_scoop-pleiades)
 *Pleiades Bucket for http://scoop.sh*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [pleiades4.2-cpp-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-java-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-java-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-php-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-php-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-platform-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-platform-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-python-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-python-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.2-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-cpp-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-java-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-java-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-php-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-php-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-platform-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-platform-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-python-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-python-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.3-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-cpp-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-java-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-java-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-php-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-php-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-platform-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-platform-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-python-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-python-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.4-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-cpp-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-java-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-java-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-php-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-php-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-platform-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-platform-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-python-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-python-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.5-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-cpp-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-cpp-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-cpp-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-java-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-java-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-java-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-java-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-php-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-php-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-php-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-php-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-platform-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-platform-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-platform-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-platform-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-python-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-python-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-python-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-python-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-ultimate-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-ultimate-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.6-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-cpp-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-cpp-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-cpp-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-java-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-java-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-java-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-java-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-php-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-php-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-php-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-php-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-platform-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-platform-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-platform-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-platform-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-python-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-python-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-python-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-python-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-ultimate-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-ultimate-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.7-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-cpp-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-cpp-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-cpp-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-java-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-java-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-java-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-java-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-php-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-php-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-php-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-php-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-platform-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-platform-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-platform-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-platform-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-python-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-python-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-python-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-python-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-ultimate-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-ultimate-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
-| [pleiades4.8-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html "https://www.eclipse.org/legal/epl-v10.html") |
+| [pleiades4.2-cpp-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-java-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-java-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-php-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-php-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-platform-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-platform-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-python-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-python-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.2-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.2.2a.v20130303](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-cpp-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-java-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-java-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-php-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-php-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-platform-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-platform-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-python-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-python-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.3-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.3.2.v20140321](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-cpp-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-java-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-java-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-php-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-php-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-platform-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-platform-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-python-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-python-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.4-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.4.2.v20150310](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-cpp-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-java-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-java-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-php-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-php-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-platform-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-platform-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-python-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-python-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.5-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.5.2.v20160312](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-cpp-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-cpp-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-cpp-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-java-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-java-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-java-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-java-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-php-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-php-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-php-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-php-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-platform-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-platform-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-platform-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-platform-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-python-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-python-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-python-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-python-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-ultimate-mac-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-ultimate-mac-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.6-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.6.3.v20170422](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-cpp-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-cpp-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-cpp-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-java-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-java-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-java-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-java-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-php-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-php-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-php-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-php-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-platform-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-platform-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-platform-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-platform-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-python-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-python-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-python-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-python-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-ultimate-mac-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-ultimate-mac-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.7-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.7.3a.v20180411](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-cpp-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-cpp-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-cpp-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-cpp-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-java-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-java-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-java-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-java-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-php-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-php-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-php-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-php-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-platform-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-platform-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-platform-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-platform-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-python-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-python-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-python-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-python-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-ultimate-mac-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-ultimate-mac-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-ultimate-win-full](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
+| [pleiades4.8-ultimate-win-standard](http://mergedoc.osdn.jp/) | [4.8.0.v20180627](http://mergedoc.osdn.jp/) |  | [Link](https://www.eclipse.org/legal/epl-v10.html) |
 ### <a name="jm0477_bucket" id="jm0477_bucket"></a>[jm0477/bucket](https://github.com/jm0477/bucket) [&#x2934;](#back_jm0477_bucket)
 *public scoop bucket  learning REPO*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [7zip](http://www.7-zip.org/) | [*19.0.0.160*](http://www.7-zip.org/) |  | [Link](http://www.7-zip.org/license.txt "http://www.7-zip.org/license.txt") |
+| [7zip](http://www.7-zip.org/) | [*19.0.0.160*](http://www.7-zip.org/) |  | [Link](http://www.7-zip.org/license.txt) |
 | [adobereader]() |  | Expecting &#39;,&#39; delimiter: line 1 column 186 (char 185) |  |
 ### <a name="jmcarbo_scoopbucket" id="jmcarbo_scoopbucket"></a>[jmcarbo/scoopbucket](https://github.com/jmcarbo/scoopbucket) [&#x2934;](#back_jmcarbo_scoopbucket)
 *Scoop bucket install definitions*
@@ -1169,8 +1169,8 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [glide](https://github.com/Masterminds) | [*0.10.2*](https://github.com/Masterminds) |  | [Link](https://github.com/Masterminds/glide/blob/master/LICENSE "https://github.com/Masterminds/glide/blob/master/LICENSE") |
-| [rethinkdb](https://www.rethinkdb.com/) | [*2.3.2*](https://www.rethinkdb.com/) |  | [Link](http://www.gnu.org/licenses/agpl-3.0.html "http://www.gnu.org/licenses/agpl-3.0.html") |
+| [glide](https://github.com/Masterminds) | [*0.10.2*](https://github.com/Masterminds) |  | [Link](https://github.com/Masterminds/glide/blob/master/LICENSE) |
+| [rethinkdb](https://www.rethinkdb.com/) | [*2.3.2*](https://www.rethinkdb.com/) |  | [Link](http://www.gnu.org/licenses/agpl-3.0.html) |
 ### <a name="klauern_trackello-bucket" id="klauern_trackello-bucket"></a>[klauern/trackello-bucket](https://github.com/klauern/trackello-bucket) [&#x2934;](#back_klauern_trackello-bucket)
 *scoop bucket for trackello*
 
@@ -1211,9 +1211,9 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [elm-platform](http://elm-lang.org) | [*0.13*](http://elm-lang.org) |  | [Link](https://raw.githubusercontent.com/elm-lang/elm-platform/master/LICENSE "https://raw.githubusercontent.com/elm-lang/elm-platform/master/LICENSE") |
-| [gvim-full](https://bitbucket.org/Alexander-Shukaev/vim-for-windows) | [*7.4.417*](https://bitbucket.org/Alexander-Shukaev/vim-for-windows) |  | [Link](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license "http://vimdoc.sourceforge.net/htmldoc/uganda.html#license") |
-| [silversearcher](http://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html) | [0.29.1-1641](http://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html) |  | [Link](https://raw.githubusercontent.com/kjk/the_silver_searcher/master/LICENSE "https://raw.githubusercontent.com/kjk/the_silver_searcher/master/LICENSE") |
+| [elm-platform](http://elm-lang.org) | [*0.13*](http://elm-lang.org) |  | [Link](https://raw.githubusercontent.com/elm-lang/elm-platform/master/LICENSE) |
+| [gvim-full](https://bitbucket.org/Alexander-Shukaev/vim-for-windows) | [*7.4.417*](https://bitbucket.org/Alexander-Shukaev/vim-for-windows) |  | [Link](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license) |
+| [silversearcher](http://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html) | [0.29.1-1641](http://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html) |  | [Link](https://raw.githubusercontent.com/kjk/the_silver_searcher/master/LICENSE) |
 | [vim-leafgarland](https://github.com/leafgarland/vimfiles) | [*master*](https://github.com/leafgarland/vimfiles) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [vim-youcompleteme](https://bitbucket.org/Haroogan/vim-youcompleteme-for-windows) | [current](https://bitbucket.org/Haroogan/vim-youcompleteme-for-windows) |  |  |
 ### <a name="leonidboykov_scoop-bucket" id="leonidboykov_scoop-bucket"></a>[leonidboykov/scoop-bucket](https://github.com/leonidboykov/scoop-bucket) [&#x2934;](#back_leonidboykov_scoop-bucket)
@@ -1227,8 +1227,8 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [nanum-barun-gothic](http://hangeul.naver.com/2017/nanum) | [1.0.1](http://hangeul.naver.com/2017/nanum) |  | [Link](https://help.naver.com/support/contents/contents.nhn?serviceNo=1074&categoryNo=3497 "https://help.naver.com/support/contents/contents.nhn?serviceNo=1074&categoryNo=3497") |
-| [nanum-coding](http://hangeul.naver.com/2017/nanum) | [2.5](http://hangeul.naver.com/2017/nanum) |  | [Link](https://help.naver.com/support/contents/contents.nhn?serviceNo=1074&categoryNo=3497 "https://help.naver.com/support/contents/contents.nhn?serviceNo=1074&categoryNo=3497") |
+| [nanum-barun-gothic](http://hangeul.naver.com/2017/nanum) | [1.0.1](http://hangeul.naver.com/2017/nanum) |  | [Link](https://help.naver.com/support/contents/contents.nhn?serviceNo=1074&categoryNo=3497) |
+| [nanum-coding](http://hangeul.naver.com/2017/nanum) | [2.5](http://hangeul.naver.com/2017/nanum) |  | [Link](https://help.naver.com/support/contents/contents.nhn?serviceNo=1074&categoryNo=3497) |
 ### <a name="liaoya_scoop-bucket" id="liaoya_scoop-bucket"></a>[liaoya/scoop-bucket](https://github.com/liaoya/scoop-bucket) [&#x2934;](#back_liaoya_scoop-bucket)
 *Tom's scoop bucket which contain the software does not exist in main and extras scoop bucket*
 
@@ -1277,7 +1277,7 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [7zip](http://www.7-zip.org/) | [18.05](http://www.7-zip.org/) | A multi-format file archiver with high compression ratios | [LGPL-2.0,BSD-3](https://www.7-zip.org/license.txt "https://www.7-zip.org/license.txt") |
+| [7zip](http://www.7-zip.org/) | [18.05](http://www.7-zip.org/) | A multi-format file archiver with high compression ratios | [LGPL-2.0,BSD-3](https://www.7-zip.org/license.txt) |
 | [ack](https://beyondgrep.com/) | [2.24](https://beyondgrep.com/) | A tool like grep, optimized for programmers | [Artistic-2.0](https://opensource.org/licenses/Artistic-2.0) |
 | [acmesharp](https://github.com/ebekker/ACMESharp) | [*0.8.1.0*](https://github.com/ebekker/ACMESharp) |  |  |
 | [adb](https://developer.android.com/studio/releases/platform-tools.html) | [28.0.0](https://developer.android.com/studio/releases/platform-tools.html) |  |  |
@@ -1293,7 +1293,7 @@
 | [artifact](https://github.com/vitiral/artifact) | [1.0.1](https://github.com/vitiral/artifact) | The open source design documentation tool | [MIT](https://opensource.org/licenses/MIT)&hellip; |
 | [astyle](http://astyle.sourceforge.net/) | [3.1](http://astyle.sourceforge.net/) | A Free, Fast, and Small Automatic Formatter for C, C++, C++/CLI, Objectiveâ€‘C, C#, and Java Source Code | [MIT](https://opensource.org/licenses/MIT) |
 | [atomicparsley](http://atomicparsley.sourceforge.net/) | [*0.9.0*](http://atomicparsley.sourceforge.net/) | Lightweight command line program for reading, parsing and setting metadata into MPEG-4 files | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
-| [autoit](https://www.autoitscript.com/site/autoit/) | [3.3.14.5](https://www.autoitscript.com/site/autoit/) | Scripting language designed for automating the Windows GUI and general scripting | [Freeware](https://www.autoitscript.com/autoit3/docs/license.htm "https://www.autoitscript.com/autoit3/docs/license.htm") |
+| [autoit](https://www.autoitscript.com/site/autoit/) | [3.3.14.5](https://www.autoitscript.com/site/autoit/) | Scripting language designed for automating the Windows GUI and general scripting | [Freeware](https://www.autoitscript.com/autoit3/docs/license.htm) |
 | [axel](https://github.com/ghuntley/cygwin-axel/) | [*2.4*](https://github.com/ghuntley/cygwin-axel/) |  |  |
 | [bazel](https://bazel.build) | [0.15.2](https://bazel.build) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [bfg](https://rtyley.github.io/bfg-repo-cleaner/) | [1.13.0](https://rtyley.github.io/bfg-repo-cleaner/) |  | [GPL-3.0+](https://opensource.org/licenses/GPL-3.0-or-later) |
@@ -1307,13 +1307,13 @@
 | [caddy](https://caddyserver.com) | [0.11.0](https://caddyserver.com) | HTTP/2 web server with automatic HTTPS | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [cake](https://cakebuild.net/) | [0.29.0](https://cakebuild.net/) | Cake (C# Make) is a cross-platform build automation system with a C# DSL | [MIT](https://opensource.org/licenses/MIT) |
 | [casperjs](http://casperjs.org/) | [1.1.4-1](http://casperjs.org/) | Navigation scripting &amp; testing for PhantomJS and SlimerJS | [MIT](https://opensource.org/licenses/MIT) |
-| [cdrtools](https://sourceforge.net/projects/tumagcc/) | [*3.01*](https://sourceforge.net/projects/tumagcc/) | Burn and read CDs, DVDs, and Blu-ray discs | [CDDL-1.0,GPL-2.0,LGPL-2.1](https://github.com/jobermayr/cdrtools/blob/master/COPYING "https://github.com/jobermayr/cdrtools/blob/master/COPYING") |
+| [cdrtools](https://sourceforge.net/projects/tumagcc/) | [*3.01*](https://sourceforge.net/projects/tumagcc/) | Burn and read CDs, DVDs, and Blu-ray discs | [CDDL-1.0,GPL-2.0,LGPL-2.1](https://github.com/jobermayr/cdrtools/blob/master/COPYING) |
 | [chromedriver](https://sites.google.com/a/chromium.org/chromedriver/) | [2.40](https://sites.google.com/a/chromium.org/chromedriver/) | An open source tool for automated testing of webapps across many browsers | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
 | [clink](https://mridgers.github.io/clink/) | [0.4.9](https://mridgers.github.io/clink/) | Powerful Bash-style command line editing for cmd.exe |  |
 | [cloc](https://github.com/AlDanial/cloc) | [1.76](https://github.com/AlDanial/cloc) | Counts blank lines, comment lines, and physical lines of source code in many programming languages | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [cmake](https://cmake.org/) | [3.12.0](https://cmake.org/) | Open-source, cross-platform family of tools designed to build, test and package software | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
 | [cmder](http://cmder.net) | [1.3.6](http://cmder.net) | Portable console emulator for Windows | [MIT](https://opensource.org/licenses/MIT) |
-| [cockroachdb](https://www.cockroachlabs.com/) | [2.0.4](https://www.cockroachlabs.com/) | The SQL database for global cloud services | [Apache-2.0,BSD-3,MIT,Freeware](https://github.com/cockroachdb/cockroach/blob/master/LICENSE "https://github.com/cockroachdb/cockroach/blob/master/LICENSE") |
+| [cockroachdb](https://www.cockroachlabs.com/) | [2.0.4](https://www.cockroachlabs.com/) | The SQL database for global cloud services | [Apache-2.0,BSD-3,MIT,Freeware](https://github.com/cockroachdb/cockroach/blob/master/LICENSE) |
 | [colortool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) | [1708.14008](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) | Utility for helping to set the color palette of the Windows Console | [MIT](https://opensource.org/licenses/MIT) |
 | [composer](https://getcomposer.org/) | [1.6.5](https://getcomposer.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [concfg](https://github.com/lukesampson/concfg) | [*0.2018.5.27*](https://github.com/lukesampson/concfg) | Import / export Windows console settings |  |
@@ -1353,7 +1353,7 @@
 | [elm](http://elm-lang.org) | [0.18](http://elm-lang.org) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
 | [erlang](https://www.erlang.org) | [21.0](https://www.erlang.org) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [eventstore](https://eventstore.org/) | [4.1.1-hotfix1](https://eventstore.org/) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
-| [exiftool](https://sno.phy.queensu.ca/~phil/exiftool/index.html) | [11.06](https://sno.phy.queensu.ca/~phil/exiftool/index.html) |  | [Artistic-1.0-Perl|GPL-1.0](https://dev.perl.org/licenses/ "https://dev.perl.org/licenses/") |
+| [exiftool](https://sno.phy.queensu.ca/~phil/exiftool/index.html) | [11.06](https://sno.phy.queensu.ca/~phil/exiftool/index.html) |  | [Artistic-1.0-Perl|GPL-1.0](https://dev.perl.org/licenses/) |
 | [faas-cli](https://www.openfaas.com/) | [0.6.14](https://www.openfaas.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [far](https://farmanager.com/) | [30b5225](https://farmanager.com/) |  |  |
 | [fd](https://github.com/sharkdp/fd) | [7.0.0](https://github.com/sharkdp/fd) |  | [MIT](https://opensource.org/licenses/MIT) |
@@ -1425,7 +1425,7 @@
 | [influxdb](https://www.influxdata.com/) | [1.6.0](https://www.influxdata.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [innounp](http://innounp.sourceforge.net) | [0.47](http://innounp.sourceforge.net) |  |  |
 | [invoke-build](https://github.com/nightroman/Invoke-Build) | [5.4.1](https://github.com/nightroman/Invoke-Build) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
-| [jetbrains-toolbox](https://jetbrains.com/) | [1.9.3935](https://jetbrains.com/) |  | [Freeware](https://www.jetbrains.com/store/license.html "https://www.jetbrains.com/store/license.html") |
+| [jetbrains-toolbox](https://jetbrains.com/) | [1.9.3935](https://jetbrains.com/) |  | [Freeware](https://www.jetbrains.com/store/license.html) |
 | [jfrog](https://jfrog.com/getcli/) | [1.17.1](https://jfrog.com/getcli/) | Command Line Interface for Artifactory and Bintray | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [jhead](http://www.sentex.net/~mwandel/jhead/) | [*3.00*](http://www.sentex.net/~mwandel/jhead/) | JPEG Exif header manipulation tool | [Public Domain](https://wiki.creativecommons.org/wiki/Public_domain) |
 | [jira](https://github.com/Netflix-Skunkworks/go-jira) | [1.0.17](https://github.com/Netflix-Skunkworks/go-jira) | simple command line client for Atlassian&#39;s Jira service written in Go | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
@@ -1437,7 +1437,7 @@
 | [kotlin](https://kotlinlang.org/) | [1.2.51](https://kotlinlang.org/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [kubectl](https://kubernetes.io/docs/user-guide/kubectl-overview/) | [1.11.1](https://kubernetes.io/docs/user-guide/kubectl-overview/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [kvm](https://github.com/aspnet/Home) | [*latest*](https://github.com/aspnet/Home) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
-| [latex](https://miktex.org) | [2.9.6753](https://miktex.org) |  | [Freeware](https://miktex.org/copying "https://miktex.org/copying") |
+| [latex](https://miktex.org) | [2.9.6753](https://miktex.org) |  | [Freeware](https://miktex.org/copying) |
 | [lcow](https://github.com/linuxkit/lcow) | [4.14.29-0aea33bc](https://github.com/linuxkit/lcow) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [leiningen](https://github.com/technomancy/leiningen) | [2.8.1](https://github.com/technomancy/leiningen) |  | [EPL-1.0](https://opensource.org/licenses/EPL-1.0) |
 | [less](http://www.greenwoodsoftware.com/less/) | [530](http://www.greenwoodsoftware.com/less/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only)&hellip; |
@@ -1465,7 +1465,7 @@
 | [modd](https://corte.si/posts/modd/announce/index.html) | [0.5](https://corte.si/posts/modd/announce/index.html) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [mongodb](https://www.mongodb.org) | [4.0.0](https://www.mongodb.org) |  | [AGPL-3.0](https://opensource.org/licenses/AGPL-3.0) |
 | [mono](http://www.mono-project.com/) | [5.12.0.226](http://www.mono-project.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [mozjpeg](https://github.com/mozilla/mozjpeg) | [3.1](https://github.com/mozilla/mozjpeg) | Improved JPEG encoder | [BSD-3,IJG,Zlib](https://raw.githubusercontent.com/mozilla/mozjpeg/master/LICENSE.md "https://raw.githubusercontent.com/mozilla/mozjpeg/master/LICENSE.md") |
+| [mozjpeg](https://github.com/mozilla/mozjpeg) | [3.1](https://github.com/mozilla/mozjpeg) | Improved JPEG encoder | [BSD-3,IJG,Zlib](https://raw.githubusercontent.com/mozilla/mozjpeg/master/LICENSE.md) |
 | [msmpi](https://www.microsoft.com/en-us/download/details.aspx?id=56727) | [*9.0.1*](https://www.microsoft.com/en-us/download/details.aspx?id=56727) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [msys](https://github.com/lukesampson/scoop/blob/master/bucket/msys.json) | *rev13* |  |  |
 | [msys2](http://msys2.github.io) | [20180531](http://msys2.github.io) |  |  |
@@ -1474,7 +1474,7 @@
 | [nano](https://www.nano-editor.org/) | [2.5.3](https://www.nano-editor.org/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [nasm](http://www.nasm.us) | [2.13.03](http://www.nasm.us) |  | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
 | [neko](https://nekovm.org/) | [2.2.0](https://nekovm.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [neovim](https://neovim.io/) | [0.3.0](https://neovim.io/) |  | [Apache-2.0,MIT,Vim,Freeware(Node.js)](https://github.com/neovim/neovim/blob/master/LICENSE "https://github.com/neovim/neovim/blob/master/LICENSE") |
+| [neovim](https://neovim.io/) | [0.3.0](https://neovim.io/) |  | [Apache-2.0,MIT,Vim,Freeware(Node.js)](https://github.com/neovim/neovim/blob/master/LICENSE) |
 | [netcat](https://eternallybored.org/misc/netcat/) | [*1.12*](https://eternallybored.org/misc/netcat/) | Read and write from/to network connections | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [nginx](https://nginx.org) | [1.15.1](https://nginx.org) |  | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
 | [ngrok](https://ngrok.com/) | [4VmDzA7iaHb](https://ngrok.com/) |  |  |
@@ -1482,7 +1482,7 @@
 | [nim](https://nim-lang.org/) | [0.18.0](https://nim-lang.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [ninja](https://ninja-build.org/) | [1.8.2](https://ninja-build.org/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [nircmd](https://www.nirsoft.net/utils/nircmd.html) | [2.81](https://www.nirsoft.net/utils/nircmd.html) |  |  |
-| [nmap](https://nmap.org) | [7.70](https://nmap.org) |  | [Link](https://svn.nmap.org/nmap/COPYING "https://svn.nmap.org/nmap/COPYING") |
+| [nmap](https://nmap.org) | [7.70](https://nmap.org) |  | [Link](https://svn.nmap.org/nmap/COPYING) |
 | [node-chakracore](https://github.com/nodejs/node-chakracore) | [10.1.0](https://github.com/nodejs/node-chakracore) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [nodejs-lts](https://nodejs.org) | [8.11.3](https://nodejs.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [nodejs](https://nodejs.org) | [10.6.0](https://nodejs.org) |  | [MIT](https://opensource.org/licenses/MIT) |
@@ -1532,7 +1532,7 @@
 | [rclone](https://rclone.org) | [1.42](https://rclone.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [red](http://www.red-lang.org) | [0.6.3](http://www.red-lang.org) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause)&hellip; |
 | [redis](https://redis.io) | [3.2.100](https://redis.io) |  |  |
-| [resharper-clt](https://www.jetbrains.com/resharper/download/index.html#section=resharper-clt) | [2018.1.3](https://www.jetbrains.com/resharper/download/index.html#section=resharper-clt) |  | [Freeware](https://www.jetbrains.com/resharper/buy/command_line_license.html "https://www.jetbrains.com/resharper/buy/command_line_license.html") |
+| [resharper-clt](https://www.jetbrains.com/resharper/download/index.html#section=resharper-clt) | [2018.1.3](https://www.jetbrains.com/resharper/download/index.html#section=resharper-clt) |  | [Freeware](https://www.jetbrains.com/resharper/buy/command_line_license.html) |
 | [restic](https://restic.github.io/) | [0.9.1](https://restic.github.io/) |  | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
 | [rethinkdb](https://www.rethinkdb.com/) | [2.3.6](https://www.rethinkdb.com/) |  | [AGPL-3.0](https://opensource.org/licenses/AGPL-3.0) |
 | [ripgrep](https://github.com/BurntSushi/ripgrep) | [0.8.1](https://github.com/BurntSushi/ripgrep) |  | [MIT](https://opensource.org/licenses/MIT) |
@@ -1546,7 +1546,7 @@
 | [rustup](https://github.com/rust-lang-nursery/rustup.rs) | [1.13.0](https://github.com/rust-lang-nursery/rustup.rs) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [s3deploy](https://github.com/bep/s3deploy) | [2.0.2](https://github.com/bep/s3deploy) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [say](https://github.com/lukesampson/psutils) | [*0.2013.09.08*](https://github.com/lukesampson/psutils) |  |  |
-| [sbcl](http://www.sbcl.org/) | [1.4.2](http://www.sbcl.org/) |  | [Link](http://www.sbcl.org/history.html "http://www.sbcl.org/history.html") |
+| [sbcl](http://www.sbcl.org/) | [1.4.2](http://www.sbcl.org/) |  | [Link](http://www.sbcl.org/history.html) |
 | [sbt](https://www.scala-sbt.org/) | [1.1.6](https://www.scala-sbt.org/) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
 | [scala](https://www.scala-lang.org/) | [2.12.6](https://www.scala-lang.org/) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
 | [scholdoc](http://scholdoc.scholarlymarkdown.com/) | [0.1.3-alpha](http://scholdoc.scholarlymarkdown.com/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
@@ -1596,7 +1596,7 @@
 | [wget](https://eternallybored.org/misc/wget/) | [1.19.4](https://eternallybored.org/misc/wget/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
 | [which](http://gnuwin32.sourceforge.net/packages/which.htm) | [*2.20*](http://gnuwin32.sourceforge.net/packages/which.htm) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [win-acme](https://github.com/PKISharp/win-acme) | [1.9.11.2](https://github.com/PKISharp/win-acme) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
-| [win32-openssh](https://github.com/PowerShell/Win32-OpenSSH) | [7.7.0.0p1-Beta](https://github.com/PowerShell/Win32-OpenSSH) |  | [BSD-3](https://github.com/PowerShell/openssh-portable/blob/latestw_all/LICENCE "https://github.com/PowerShell/openssh-portable/blob/latestw_all/LICENCE") |
+| [win32-openssh](https://github.com/PowerShell/Win32-OpenSSH) | [7.7.0.0p1-Beta](https://github.com/PowerShell/Win32-OpenSSH) |  | [BSD-3](https://github.com/PowerShell/openssh-portable/blob/latestw_all/LICENCE) |
 | [winpython](https://winpython.github.io/) | [3.6.5.0](https://winpython.github.io/) | Free, open-source and portable Python distribution for Windows | [MIT](https://opensource.org/licenses/MIT) |
 | [wixtoolset](http://wixtoolset.org/) | [3.11.1](http://wixtoolset.org/) |  | [MS-RL](https://opensource.org/licenses/MS-RL) |
 | [wkhtmltopdf](https://wkhtmltopdf.org/) | [0.12.5-1](https://wkhtmltopdf.org/) | Render HTML into PDF | [LGPL-3.0](https://opensource.org/licenses/LGPL-3.0) |
@@ -1607,7 +1607,7 @@
 | [xming](http://www.straightrunning.com/XmingNotes/) | [*6.9.0.31*](http://www.straightrunning.com/XmingNotes/) | Run X GUI applications on bash subsystem or linux VM, and have them rendered on Windows Desktop. http://www.pcworld.com/article/3055403/windows/windows-10s-bash-shell-can-run-graphical-linux-applications-with-this-trick.html |  |
 | [xmlstarlet](http://xmlstar.sourceforge.net/) | [1.6.1](http://xmlstar.sourceforge.net/) | Transform, query, validate, and edit XML files | [MIT](https://opensource.org/licenses/MIT) |
 | [xsv](https://github.com/BurntSushi/xsv) | [0.13.0](https://github.com/BurntSushi/xsv) | A fast CSV command line toolkit written in Rust | [Unlicense](https://opensource.org/licenses/Unlicense) |
-| [xz](https://tukaani.org/xz/) | [5.2.4](https://tukaani.org/xz/) | XZ Utils is free general-purpose data compression software with a high compression ratio. | [LGPL-2.1,GPL-2.0,GPL-3.0-only,Public Domain](https://git.tukaani.org/?p=xz.git;a=blob;f=COPYING "https://git.tukaani.org/?p=xz.git;a=blob;f=COPYING") |
+| [xz](https://tukaani.org/xz/) | [5.2.4](https://tukaani.org/xz/) | XZ Utils is free general-purpose data compression software with a high compression ratio. | [LGPL-2.1,GPL-2.0,GPL-3.0-only,Public Domain](https://git.tukaani.org/?p=xz.git;a=blob;f=COPYING) |
 | [yara](https://virustotal.github.io/yara/) | [3.7.1](https://virustotal.github.io/yara/) | The pattern matching swiss knife for malware researchers (and everyone else) | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
 | [yarn](https://yarnpkg.com/) | [1.7.0](https://yarnpkg.com/) | Dependency manager | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
 | [yasm](http://yasm.tortall.net/) | [1.3.0](http://yasm.tortall.net/) | Modular assembler based on NASM | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
@@ -1619,25 +1619,25 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [advancedrenamer](https://www.advancedrenamer.com) | [3.82](https://www.advancedrenamer.com) |  | [Freeware(non-commercial)](https://www.advancedrenamer.com/user_guide/license "https://www.advancedrenamer.com/user_guide/license") |
+| [advancedrenamer](https://www.advancedrenamer.com) | [3.82](https://www.advancedrenamer.com) |  | [Freeware(non-commercial)](https://www.advancedrenamer.com/user_guide/license) |
 | [anaconda3](https://www.anaconda.com/) | [5.2.0](https://www.anaconda.com/) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
-| [android-sdk](https://developer.android.com/studio/) | [4333796](https://developer.android.com/studio/) |  | [Freeware](https://developer.android.com/studio/terms.html "https://developer.android.com/studio/terms.html") |
-| [android-studio](https://developer.android.com/studio/) | [3.1.3.0](https://developer.android.com/studio/) |  | [Freeware](https://developer.android.com/studio/terms.html "https://developer.android.com/studio/terms.html") |
+| [android-sdk](https://developer.android.com/studio/) | [4333796](https://developer.android.com/studio/) |  | [Freeware](https://developer.android.com/studio/terms.html) |
+| [android-studio](https://developer.android.com/studio/) | [3.1.3.0](https://developer.android.com/studio/) |  | [Freeware](https://developer.android.com/studio/terms.html) |
 | [antimicro](https://github.com/AntiMicro/antimicro) | [2.23](https://github.com/AntiMicro/antimicro) | Graphical program used to map keyboard buttons and mouse controls to a gamepad. | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [apache-directory-studio](http://directory.apache.org/studio/) | [*2.0.0-M13*](http://directory.apache.org/studio/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [apache-ivy](https://ant.apache.org/ivy/index.html) | [2.4.0](https://ant.apache.org/ivy/index.html) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [appengine-go](https://developers.google.com/appengine/) | [1.9.67](https://developers.google.com/appengine/) |  |  |
 | [arduino](https://www.arduino.cc/) | [1.8.5](https://www.arduino.cc/) |  |  |
-| [assume-role](https://github.com/remind101/assume-role) | [0.3.2](https://github.com/remind101/assume-role) |  | [Freeware](https://github.com/remind101/assume-role "https://github.com/remind101/assume-role") |
+| [assume-role](https://github.com/remind101/assume-role) | [0.3.2](https://github.com/remind101/assume-role) |  | [Freeware](https://github.com/remind101/assume-role) |
 | [atom](https://atom.io/) | [1.28.2](https://atom.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [audacity](https://www.audacityteam.org/) | [2.2.2](https://www.audacityteam.org/) |  |  |
 | [autohotkey-installer](https://www.autohotkey.com/) | [1.1.29.01](https://www.autohotkey.com/) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [autohotkey](https://www.autohotkey.com/) | [1.1.29.01](https://www.autohotkey.com/) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [axis](https://axis.apache.org/) | [*1.4*](https://axis.apache.org/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [azure-cli](https://aka.ms/cli) | [2.0.40](https://aka.ms/cli) | Microsoft Azure CLI 2.0 | [MIT](https://opensource.org/licenses/MIT) |
-| [azure-ps](https://aka.ms/azpsdocs) | [6.4.0](https://aka.ms/azpsdocs) | Microsoft Azure PowerShell | [Freeware](https://raw.githubusercontent.com/Azure/azure-powershell/master/LICENSE.txt "https://raw.githubusercontent.com/Azure/azure-powershell/master/LICENSE.txt") |
+| [azure-ps](https://aka.ms/azpsdocs) | [6.4.0](https://aka.ms/azpsdocs) | Microsoft Azure PowerShell | [Freeware](https://raw.githubusercontent.com/Azure/azure-powershell/master/LICENSE.txt) |
 | [baka-mplayer](http://bakamplayer.u8sand.net/) | [2.0.4](http://bakamplayer.u8sand.net/) | FOSS libmpv based multimedia player. | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
-| [baretail](https://www.baremetalsoft.com/baretail/) | [*3.50a*](https://www.baremetalsoft.com/baretail/) |  | [Freeware](https://www.baremetalsoft.com/baretail/licence.php "https://www.baremetalsoft.com/baretail/licence.php") |
+| [baretail](https://www.baremetalsoft.com/baretail/) | [*3.50a*](https://www.baremetalsoft.com/baretail/) |  | [Freeware](https://www.baremetalsoft.com/baretail/licence.php) |
 | [bitmessage](https://bitmessage.org/) | [0.6.3.2](https://bitmessage.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [bitwarden](https://bitwarden.com/) | [1.3.0](https://bitwarden.com/) |  | [GPL-3.0+](https://opensource.org/licenses/GPL-3.0-or-later) |
 | [bleachbit](https://www.bleachbit.org/) | [2.0](https://www.bleachbit.org/) | Clean your system, and free disk space | [GPL-3.0+](https://opensource.org/licenses/GPL-3.0-or-later) |
@@ -1652,7 +1652,7 @@
 | [calibre](https://calibre-ebook.com/) | [3.27.1](https://calibre-ebook.com/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
 | [camunda-modeler](https://camunda.org/download/modeler/) | [1.16.2](https://camunda.org/download/modeler/) |  |  |
 | [ccleaner](https://www.piriform.com/ccleaner) | [5.44.6575](https://www.piriform.com/ccleaner) |  |  |
-| [cdburnerxp](https://cdburnerxp.se/) | [4.5.8.6795](https://cdburnerxp.se/) |  | [Freeware](https://cdburnerxp.se/help/Intro/license "https://cdburnerxp.se/help/Intro/license") |
+| [cdburnerxp](https://cdburnerxp.se/) | [4.5.8.6795](https://cdburnerxp.se/) |  | [Freeware](https://cdburnerxp.se/help/Intro/license) |
 | [championify](https://github.com/dustinblackman/Championify) | [2.1.5](https://github.com/dustinblackman/Championify) | A little program that downloads all the recent item sets and imports them in to your League of Legends to use within game. | [MIT](https://opensource.org/licenses/MIT) |
 | [chrlauncher](https://www.henrypp.org/product/chrlauncher) | [2.4.3](https://www.henrypp.org/product/chrlauncher) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [chromium-dev-nosync](https://www.chromium.org) | [68.0.3424.0-r556419](https://www.chromium.org) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
@@ -1687,14 +1687,14 @@
 | [dhcp-server](http://www.dhcpserver.de) | [2.5.2](http://www.dhcpserver.de) |  |  |
 | [diff-pdf](http://vslavik.github.io/diff-pdf/) | [*2012-02-28*](http://vslavik.github.io/diff-pdf/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [diffpdf](http://soft.rubypdf.com/software/diffpdf) | [*2.1.3*](http://soft.rubypdf.com/software/diffpdf) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
-| [discord](https://discordapp.com/) | [0.0.301](https://discordapp.com/) | Free Voice and Text Chat | [Freeware](https://discordapp.com/terms "https://discordapp.com/terms") |
+| [discord](https://discordapp.com/) | [0.0.301](https://discordapp.com/) | Free Voice and Text Chat | [Freeware](https://discordapp.com/terms) |
 | [ditto](http://ditto-cp.sourceforge.net/) | [3.21.223.0](http://ditto-cp.sourceforge.net/) |  |  |
-| [dnsjumper](https://www.sordum.org/dns-jumper/) | [2.1](https://www.sordum.org/dns-jumper/) |  | [Freeware](https://www.sordum.org/eula/ "https://www.sordum.org/eula/") |
+| [dnsjumper](https://www.sordum.org/dns-jumper/) | [2.1](https://www.sordum.org/dns-jumper/) |  | [Freeware](https://www.sordum.org/eula/) |
 | [dnspy](https://github.com/0xd4d/dnSpy) | [5.0.0](https://github.com/0xd4d/dnSpy) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
-| [dont-sleep](https://www.softwareok.com/?Download=DontSleep) | [4.54](https://www.softwareok.com/?Download=DontSleep) |  | [Freeware](https://www.softwareok.com/?seite=Microsoft/DontSleep/Eula "https://www.softwareok.com/?seite=Microsoft/DontSleep/Eula") |
+| [dont-sleep](https://www.softwareok.com/?Download=DontSleep) | [4.54](https://www.softwareok.com/?Download=DontSleep) |  | [Freeware](https://www.softwareok.com/?seite=Microsoft/DontSleep/Eula) |
 | [dopamine](https://www.digimezzo.com/software/dopamine/) | [1.5.14](https://www.digimezzo.com/software/dopamine/) | Audio player which tries to make organizing and listening to music as simple and pretty as possible. | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [doublecmd](https://doublecmd.sourceforge.io/) | [0.8.3](https://doublecmd.sourceforge.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
-| [ec2-api-tools](https://aws.amazon.com/developertools/351) | [*1.7.3.0*](https://aws.amazon.com/developertools/351) |  | [Freeware](https://aws.amazon.com/asl/ "https://aws.amazon.com/asl/") |
+| [ec2-api-tools](https://aws.amazon.com/developertools/351) | [*1.7.3.0*](https://aws.amazon.com/developertools/351) |  | [Freeware](https://aws.amazon.com/asl/) |
 | [echoargs](https://pscx.codeplex.com/) | [*3.2*](https://pscx.codeplex.com/) |  | [MS-PL](https://opensource.org/licenses/MS-PL) |
 | [eclipse-android](https://www.eclipse.org) | [4.6.3](https://www.eclipse.org) |  | [EPL-1.0](https://opensource.org/licenses/EPL-1.0) |
 | [eclipse-automotive](https://www.eclipse.org) | [4.5.2](https://www.eclipse.org) |  | [EPL-1.0](https://opensource.org/licenses/EPL-1.0) |
@@ -1721,7 +1721,7 @@
 | [etcher](https://etcher.io/) | [1.4.4](https://etcher.io/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [everything](https://www.voidtools.com/) | [1.4.1.895](https://www.voidtools.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [executor](http://executor.dk/) | [*0.99.12b*](http://executor.dk/) | A multi purpose launcher and more advanced and customizable freeware windows run replacement and more... |  |
-| [exercism-cli](http://exercism.io/) | [3.0.4](http://exercism.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
+| [exercism-cli](http://exercism.io/) | [3.0.5](http://exercism.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [falcon-sql-client](https://plot.ly/free-sql-client-download) | [2.3.2](https://plot.ly/free-sql-client-download) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [fastglacier](https://fastglacier.com) | [3.9.1](https://fastglacier.com) |  |  |
 | [fciv](https://support.microsoft.com/en-us/kb/841290) | [*2.05*](https://support.microsoft.com/en-us/kb/841290) |  |  |
@@ -1732,16 +1732,16 @@
 | [firefox-esr](https://www.mozilla.org/en-US/firefox/organizations/) | [52.7.4](https://www.mozilla.org/en-US/firefox/organizations/) |  |  |
 | [firefox-nightly](https://www.mozilla.org/en-US/firefox/nightly/) | [*nightly*](https://www.mozilla.org/en-US/firefox/nightly/) |  |  |
 | [firefox](https://www.mozilla.org/en-US/firefox/new/) | [61.0.1](https://www.mozilla.org/en-US/firefox/new/) |  |  |
-| [flutter](https://flutter.io/) | [0.5.1](https://flutter.io/) | Flutter is Googleâ€™s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. This is the beta version, since Flutter wasn&#39;t officially &#39;released&#39; yet. | [Link](https://github.com/flutter/flutter/blob/master/LICENSE "https://github.com/flutter/flutter/blob/master/LICENSE") |
+| [flutter](https://flutter.io/) | [0.5.1](https://flutter.io/) | Flutter is Googleâ€™s mobile app SDK for crafting high-quality native interfaces on iOS and Android in record time. This is the beta version, since Flutter wasn&#39;t officially &#39;released&#39; yet. | [Link](https://github.com/flutter/flutter/blob/master/LICENSE) |
 | [flux](https://justgetflux.com/) | [4.76](https://justgetflux.com/) | Makes the color of your computer&#39;s display adapt to the time of day, warm at night and like sunlight during the day |  |
-| [foobar2000-encoders](https://www.foobar2000.org/encoderpack) | [2018-05-22](https://www.foobar2000.org/encoderpack) |  | [Freeware](https://www.foobar2000.org/license "https://www.foobar2000.org/license") |
-| [foobar2000](https://www.foobar2000.org/) | [1.3.19](https://www.foobar2000.org/) |  | [Freeware](https://www.foobar2000.org/license "https://www.foobar2000.org/license") |
+| [foobar2000-encoders](https://www.foobar2000.org/encoderpack) | [2018-05-22](https://www.foobar2000.org/encoderpack) |  | [Freeware](https://www.foobar2000.org/license) |
+| [foobar2000](https://www.foobar2000.org/) | [1.3.19](https://www.foobar2000.org/) |  | [Freeware](https://www.foobar2000.org/license) |
 | [foxe](http://www.firstobject.com/dn_editor.htm) | [2.4.2](http://www.firstobject.com/dn_editor.htm) | Firstobject&#39;s free XML editor for Window |  |
 | [foxit-reader](https://www.foxitsoftware.com/) | [9.1.0.5096](https://www.foxitsoftware.com/) |  |  |
 | [freac](https://www.freac.org) | [1.0.32](https://www.freac.org) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [gcloud](https://cloud.google.com/sdk/) | [208.0.2](https://cloud.google.com/sdk/) |  |  |
 | [freeclipboardviewer](http://www.freeclipboardviewer.com/) | [3.0](http://www.freeclipboardviewer.com/) |  |  |
-| [freecommander](https://freecommander.com) | [2018](https://freecommander.com) | FreeCommander is an easy-to-use alternative to the standard windows file manager | [Link](https://freecommander.com/en/license/ "https://freecommander.com/en/license/") |
+| [freecommander](https://freecommander.com) | [2018](https://freecommander.com) | FreeCommander is an easy-to-use alternative to the standard windows file manager | [Link](https://freecommander.com/en/license/) |
 | [fscapture](http://www.faststone.org/FSCaptureDetail.htm) | [*5.3*](http://www.faststone.org/FSCaptureDetail.htm) |  |  |
 | [fsviewer](http://www.faststone.org/FSViewerDetail.htm) | [6.5](http://www.faststone.org/FSViewerDetail.htm) |  |  |
 | [gcc-arm-none-eabi](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm) | [7-2018-q2-update](https://developer.arm.com/open-source/gnu-toolchain/gnu-rm) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
@@ -1752,7 +1752,7 @@
 | [gitea](https://gitea.io/) | [1.4.3](https://gitea.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [gitextensions](https://gitextensions.github.io/) | [2.51.04](https://gitextensions.github.io/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [github](https://desktop.github.com/) | [1.2.6](https://desktop.github.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [gitkraken](https://www.gitkraken.com/) | [3.6.6](https://www.gitkraken.com/) |  | [Freeware](https://www.gitkraken.com/eula "https://www.gitkraken.com/eula") |
+| [gitkraken](https://www.gitkraken.com/) | [3.6.6](https://www.gitkraken.com/) |  | [Freeware](https://www.gitkraken.com/eula) |
 | [go-ipfs](https://ipfs.io/) | [0.4.16](https://ipfs.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [godot-mono](https://godotengine.org/) | [3.0.5](https://godotengine.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [godot](https://godotengine.org/) | [3.0.5](https://godotengine.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
@@ -1774,7 +1774,7 @@
 | [httrack](https://www.httrack.com/) | [3.49.2](https://www.httrack.com/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [hwinfo](https://www.hwinfo.com/) | [5.86-3480](https://www.hwinfo.com/) |  |  |
 | [hwmonitor](https://www.cpuid.com/softwares/hwmonitor.html) | [1.35](https://www.cpuid.com/softwares/hwmonitor.html) |  |  |
-| [hxd](https://mh-nexus.de/en/hxd/) | [2.0.0rc](https://mh-nexus.de/en/hxd/) |  | [Freeware](https://mh-nexus.de/en/hxd/license.php "https://mh-nexus.de/en/hxd/license.php") |
+| [hxd](https://mh-nexus.de/en/hxd/) | [2.0.0rc](https://mh-nexus.de/en/hxd/) |  | [Freeware](https://mh-nexus.de/en/hxd/license.php) |
 | [hyper](https://hyper.is) | [2.0.0](https://hyper.is) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [idea-eap](https://www.jetbrains.com/idea/) | [182.3684.40](https://www.jetbrains.com/idea/) |  |  |
 | [idea-ultimate-eap](https://www.jetbrains.com/idea/) | [182.3684.40](https://www.jetbrains.com/idea/) |  |  |
@@ -1790,7 +1790,7 @@
 | [iographica](http://www.iographica.com/) | [1.0.1](http://www.iographica.com/) |  |  |
 | [ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) | [1.8](https://github.com/google/ios-webkit-debug-proxy) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
 | [ipscan](http://angryip.org/) | [3.5.2](http://angryip.org/) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [irfanview](http://www.irfanview.com/) | [4.51](http://www.irfanview.com/) |  | [Freeware](https://www.irfanview.com/eula.htm "https://www.irfanview.com/eula.htm") |
+| [irfanview](http://www.irfanview.com/) | [4.51](http://www.irfanview.com/) |  | [Freeware](https://www.irfanview.com/eula.htm) |
 | [jameica](https://www.willuhn.de/products/jameica/) | [2.8.1](https://www.willuhn.de/products/jameica/) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [jd-cmd](https://github.com/kwart/jd-cmd) | [0.9.2](https://github.com/kwart/jd-cmd) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [jd-gui](http://jd.benow.ca/) | [*1.4.0*](http://jd.benow.ca/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
@@ -1818,7 +1818,7 @@
 | [licecap](https://www.cockos.com/licecap/) | [*1.26*](https://www.cockos.com/licecap/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [lighttable](http://www.lighttable.com/) | [0.8.1](http://www.lighttable.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [lili](https://www.linuxliveusb.com) | [2.9.4](https://www.linuxliveusb.com) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
-| [linqpad](https://www.linqpad.net) | [*nightly*](https://www.linqpad.net) |  | [Freeware](https://www.linqpad.net/eula.txt "https://www.linqpad.net/eula.txt") |
+| [linqpad](https://www.linqpad.net) | [*nightly*](https://www.linqpad.net) |  | [Freeware](https://www.linqpad.net/eula.txt) |
 | [linqpadless](https://github.com/linqpadless/LinqPadless) | [1.1.0](https://github.com/linqpadless/LinqPadless) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [logexpert](https://github.com/zarunbal/LogExpert) | [1.6.13](https://github.com/zarunbal/LogExpert) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [logstash](https://www.elastic.co/products/logstash) | [5.6.1](https://www.elastic.co/products/logstash) |  |  |
@@ -1828,7 +1828,7 @@
 | [makemkv](https://www.makemkv.com/) | [1.12.2](https://www.makemkv.com/) |  | [Shareware](https://en.wikipedia.org/wiki/Shareware) |
 | [mancy](http://mancy-re.pl/) | [3.2.0](http://mancy-re.pl/) | A cross platform NodeJS REPL application based on Electron and React frameworks | [MIT](https://opensource.org/licenses/MIT) |
 | [mc](https://midnight-commander.org/) | [4.8.19](https://midnight-commander.org/) |  |  |
-| [megasync](https://mega.nz/) | [3.6.6.0](https://mega.nz/) | Easy automated synchronisation between your computer and your MEGA account | [Freeware](https://mega.nz/terms "https://mega.nz/terms") |
+| [megasync](https://mega.nz/) | [3.6.6.0](https://mega.nz/) | Easy automated synchronisation between your computer and your MEGA account | [Freeware](https://mega.nz/terms) |
 | [meld](http://meldmerge.org/) | [3.18.2](http://meldmerge.org/) |  |  |
 | [miniconda3](https://conda.io/miniconda.html) | [4.5.4](https://conda.io/miniconda.html) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
 | [mitmproxy](https://mitmproxy.org/) | [4.0.3](https://mitmproxy.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
@@ -1836,7 +1836,7 @@
 | [mobaxterm](https://mobaxterm.mobatek.net/) | [10.7](https://mobaxterm.mobatek.net/) |  |  |
 | [moonscript](https://moonscript.org/) | [*0.5.0*](https://moonscript.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [mousejiggler](https://github.com/cerebrate/mousejiggler) | [1.7.4](https://github.com/cerebrate/mousejiggler) |  | [MS-PL](https://opensource.org/licenses/MS-PL) |
-| [mp3tag](https://www.mp3tag.de/) | [2.89a](https://www.mp3tag.de/) |  | [Freeware](http://help.mp3tag.de/misc_license.html "http://help.mp3tag.de/misc_license.html") |
+| [mp3tag](https://www.mp3tag.de/) | [2.89a](https://www.mp3tag.de/) |  | [Freeware](http://help.mp3tag.de/misc_license.html) |
 | [mpc-be](https://sourceforge.net/projects/mpcbe/) | [1.5.1](https://sourceforge.net/projects/mpcbe/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [mpc-hc-fork](https://github.com/clsid2/mpc-hc) | [1.7.17](https://github.com/clsid2/mpc-hc) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
 | [mpc-hc](https://mpc-hc.org/) | [1.7.13](https://mpc-hc.org/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
@@ -1877,21 +1877,21 @@
 | [opentrack](https://github.com/opentrack/opentrack) | [2.3.10](https://github.com/opentrack/opentrack) |  | [ISC](https://opensource.org/licenses/ISC) |
 | [openvpn](https://openvpn.net/) | [2.4.6-I602](https://openvpn.net/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [orca](https://msdn.microsoft.com/en-us/library/windows/desktop/aa370557(v=vs.85).aspx) | [*3.1.4000.1830*](https://msdn.microsoft.com/en-us/library/windows/desktop/aa370557(v=vs.85).aspx) |  | Freeware(MS-EULA) |
-| [p4merge](https://www.perforce.com/) | [*152.131.2139*](https://www.perforce.com/) |  | [Freeware](https://www.perforce.com/perforce/doc.current/manuals/p4merge/copyright.html "https://www.perforce.com/perforce/doc.current/manuals/p4merge/copyright.html") |
-| [paint.net](https://www.getpaint.net/) | [4.0.21](https://www.getpaint.net/) |  | [Freeware](https://www.getpaint.net/license.html "https://www.getpaint.net/license.html") |
+| [p4merge](https://www.perforce.com/) | [*152.131.2139*](https://www.perforce.com/) |  | [Freeware](https://www.perforce.com/perforce/doc.current/manuals/p4merge/copyright.html) |
+| [paint.net](https://www.getpaint.net/) | [4.0.21](https://www.getpaint.net/) |  | [Freeware](https://www.getpaint.net/license.html) |
 | [pandoc-crossref](https://hackage.haskell.org/package/pandoc-crossref) | [0.3.2.1](https://hackage.haskell.org/package/pandoc-crossref) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [pandoc](https://pandoc.org/) | [2.2.2](https://pandoc.org/) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [patheditor](https://patheditor2.codeplex.com/) | [1.0](https://patheditor2.codeplex.com/) | A convenient GUI for editing the PATH environment variable | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
 | [pathod](https://mitmproxy.org/) | [4.0.3](https://mitmproxy.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [pdf2djvu](https://jwilk.net/software/pdf2djvu) | [0.9.8](https://jwilk.net/software/pdf2djvu) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
-| [php-nts-xdebug](https://xdebug.org/) | [2.6.0-7.2](https://xdebug.org/) |  | [PHP-3.0](https://xdebug.org/license.php "https://xdebug.org/license.php") |
-| [php-xdebug](https://xdebug.org/) | [2.6.0-7.2](https://xdebug.org/) |  | [PHP-3.0](https://xdebug.org/license.php "https://xdebug.org/license.php") |
+| [php-nts-xdebug](https://xdebug.org/) | [2.6.0-7.2](https://xdebug.org/) |  | [PHP-3.0](https://xdebug.org/license.php) |
+| [php-xdebug](https://xdebug.org/) | [2.6.0-7.2](https://xdebug.org/) |  | [PHP-3.0](https://xdebug.org/license.php) |
 | [picard](https://picard.musicbrainz.org/) | [1.4.2](https://picard.musicbrainz.org/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [picotorrent](https://picotorrent.org) | [0.15.0](https://picotorrent.org) | A tiny BitTorrent client with low memory usage, high performance and a native user interface. | [MIT](https://opensource.org/licenses/MIT) |
 | [pixie](http://www.nattyware.com/pixie.php) | [4.1](http://www.nattyware.com/pixie.php) | It is a color picker with few extra goodies |  |
 | [plantuml](http://plantuml.com/) | [1.2018.8](http://plantuml.com/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [posh-git](http://dahlbyk.github.io/posh-git/) | [*0.7.1*](http://dahlbyk.github.io/posh-git/) | A PowerShell module which provides Git/PowerShell integration. |  |
-| [postman](https://www.getpostman.com/) | [6.1.4](https://www.getpostman.com/) |  | [Freeware](https://www.getpostman.com/licenses/postman_eula "https://www.getpostman.com/licenses/postman_eula") |
+| [postman](https://www.getpostman.com/) | [6.1.4](https://www.getpostman.com/) |  | [Freeware](https://www.getpostman.com/licenses/postman_eula) |
 | [ppsspp](https://www.ppsspp.org) | [1.6.3](https://www.ppsspp.org) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [processhacker](http://processhacker.sourceforge.net/) | [2.39](http://processhacker.sourceforge.net/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [protobuf](https://github.com/google/protobuf) | [3.6.0](https://github.com/google/protobuf) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
@@ -1908,7 +1908,7 @@
 | [ragel](https://github.com/eloraiby/ragel-windows) | [*6.9*](https://github.com/eloraiby/ragel-windows) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [rainmeter](https://rainmeter.net/) | [4.2.0.3111](https://rainmeter.net/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [rambox](http://rambox.pro/) | [0.5.17](http://rambox.pro/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
-| [rapidee](https://www.rapidee.com/en/about) | [937](https://www.rapidee.com/en/about) |  | [Freeware](https://www.rapidee.com/en/license "https://www.rapidee.com/en/license") |
+| [rapidee](https://www.rapidee.com/en/about) | [937](https://www.rapidee.com/en/about) |  | [Freeware](https://www.rapidee.com/en/license) |
 | [reaper](https://www.reaper.fm) | [5.93](https://www.reaper.fm) |  |  |
 | [recuva](https://www.ccleaner.com/recuva) | [1.53.1087](https://www.ccleaner.com/recuva) |  |  |
 | [renderdoc](https://renderdoc.org) | [1.0](https://renderdoc.org) |  | [MIT](https://opensource.org/licenses/MIT) |
@@ -1935,7 +1935,7 @@
 | [signal](https://signal.org/) | [1.14.1](https://signal.org/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [skaffold](https://github.com/GoogleCloudPlatform/skaffold) | [0.10.0](https://github.com/GoogleCloudPlatform/skaffold) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [slack](https://slack.com/downloads/windows) | [3.2.0](https://slack.com/downloads/windows) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
-| [smartty](http://smartty.sysprogs.org/) | [3.1](http://smartty.sysprogs.org/) | SmarTTY is a free multi-tabbed SSH client that supports X11, copying files and directories with SCP on-the-fly and editing files in-place. | [Freeware](http://smartty.sysprogs.com/download/ "http://smartty.sysprogs.com/download/") |
+| [smartty](http://smartty.sysprogs.org/) | [3.1](http://smartty.sysprogs.org/) | SmarTTY is a free multi-tabbed SSH client that supports X11, copying files and directories with SCP on-the-fly and editing files in-place. | [Freeware](http://smartty.sysprogs.com/download/) |
 | [snaketail](http://snakenest.com/snaketail/) | [1.9.4](http://snakenest.com/snaketail/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [snipaste](https://www.snipaste.com/) | [1.16.2](https://www.snipaste.com/) |  |  |
 | [solidity](https://solidity.readthedocs.io) | [0.4.24](https://solidity.readthedocs.io) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
@@ -1961,11 +1961,11 @@
 | [sunsetscreen](http://www.skytopia.com/software/sunsetscreen/) | [1.28](http://www.skytopia.com/software/sunsetscreen/) | Take the glare off your screen in the evening |  |
 | [sweethome3d](http://www.sweethome3d.com/) | [5.7](http://www.sweethome3d.com/) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 | [synctrayzor](https://github.com/canton7/SyncTrayzor) | [1.1.21](https://github.com/canton7/SyncTrayzor) | Windows tray utility / filesystem watcher / launcher for Syncthing | [MIT](https://opensource.org/licenses/MIT) |
-| [sysinternals](https://docs.microsoft.com/en-us/sysinternals/) | [July.5.2018](https://docs.microsoft.com/en-us/sysinternals/) |  | [Freeware](https://docs.microsoft.com/en-us/sysinternals/license-terms "https://docs.microsoft.com/en-us/sysinternals/license-terms") |
+| [sysinternals](https://docs.microsoft.com/en-us/sysinternals/) | [July.5.2018](https://docs.microsoft.com/en-us/sysinternals/) |  | [Freeware](https://docs.microsoft.com/en-us/sysinternals/license-terms) |
 | [taiga](http://taiga.moe/) | [*1.3.5-beta*](http://taiga.moe/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 | [tcpipmanager](http://tcpipmanager.sourceforge.net) | [*4.1.1*](http://tcpipmanager.sourceforge.net) |  |  |
 | [telegram](https://telegram.org/) | [1.3.10](https://telegram.org/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
-| [terminals](https://github.com/Terminals-Origin/Terminals) | [4.0.1](https://github.com/Terminals-Origin/Terminals) |  | [Freeware](https://github.com/Terminals-Origin/Terminals/blob/master/LICENSE.md "https://github.com/Terminals-Origin/Terminals/blob/master/LICENSE.md") |
+| [terminals](https://github.com/Terminals-Origin/Terminals) | [4.0.1](https://github.com/Terminals-Origin/Terminals) |  | [Freeware](https://github.com/Terminals-Origin/Terminals/blob/master/LICENSE.md) |
 | [terminus](https://eugeny.github.io/terminus/) | [1.0.0-alpha.48](https://eugeny.github.io/terminus/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [texmaker](http://www.xm1math.net/texmaker/) | [5.0.2](http://www.xm1math.net/texmaker/) |  |  |
 | [textadept](https://foicica.com/textadept/) | [9.6](https://foicica.com/textadept/) | A fast, minimalist, and remarkably extensible cross-platform text editor | [MIT](https://opensource.org/licenses/MIT) |
@@ -1990,16 +1990,16 @@
 | [visual-arm-emulator](https://salmanarif.bitbucket.io/visual/index.html) | [1.27](https://salmanarif.bitbucket.io/visual/index.html) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [visualc](https://www.visualstudio.com) | [*16.00.30319.01*](https://www.visualstudio.com) |  |  |
 | [vlc](https://www.videolan.org/) | [3.0.3](https://www.videolan.org/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
-| [vscode-insiders-portable](https://code.visualstudio.com/) | [*nightly*](https://code.visualstudio.com/) |  | [Freeware](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
-| [vscode-insiders](https://code.visualstudio.com/) | [*nightly*](https://code.visualstudio.com/) |  | [Freeware](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
-| [vscode-portable](https://code.visualstudio.com/) | [1.25.1](https://code.visualstudio.com/) |  | [Freeware](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
-| [vscode](https://code.visualstudio.com/) | [1.25.1](https://code.visualstudio.com/) |  | [Freeware](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
+| [vscode-insiders-portable](https://code.visualstudio.com/) | [*nightly*](https://code.visualstudio.com/) |  | [Freeware](https://code.visualstudio.com/License/) |
+| [vscode-insiders](https://code.visualstudio.com/) | [*nightly*](https://code.visualstudio.com/) |  | [Freeware](https://code.visualstudio.com/License/) |
+| [vscode-portable](https://code.visualstudio.com/) | [1.25.1](https://code.visualstudio.com/) |  | [Freeware](https://code.visualstudio.com/License/) |
+| [vscode](https://code.visualstudio.com/) | [1.25.1](https://code.visualstudio.com/) |  | [Freeware](https://code.visualstudio.com/License/) |
 | [vswhere](https://github.com/Microsoft/vswhere) | [2.5.2](https://github.com/Microsoft/vswhere) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [wavebox](https://wavebox.io/) | [3.14.6](https://wavebox.io/) | Bring all your web communication tools together for faster, smarter working. | [MPL-2.0](https://opensource.org/licenses/MPL-2.0) |
-| [webpicmd](https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-v4-command-line-webpicmdexe-rtw-release) | [*4.5*](https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-v4-command-line-webpicmdexe-rtw-release) |  | [Freeware](https://www.microsoft.com/web/webpi/eula/WebPI_45_EN.htm "https://www.microsoft.com/web/webpi/eula/WebPI_45_EN.htm") |
+| [webpicmd](https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-v4-command-line-webpicmdexe-rtw-release) | [*4.5*](https://docs.microsoft.com/en-us/iis/install/web-platform-installer/web-platform-installer-v4-command-line-webpicmdexe-rtw-release) |  | [Freeware](https://www.microsoft.com/web/webpi/eula/WebPI_45_EN.htm) |
 | [webstorm](https://www.jetbrains.com/webstorm/) | [2018.1.5](https://www.jetbrains.com/webstorm/) |  |  |
 | [webtorrent](https://webtorrent.io/desktop/) | [0.20.0](https://webtorrent.io/desktop/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [whatsapp](https://www.whatsapp.com) | [0.3.33](https://www.whatsapp.com) |  | [Freeware](https://www.whatsapp.com/legal/ "https://www.whatsapp.com/legal/") |
+| [whatsapp](https://www.whatsapp.com) | [0.3.33](https://www.whatsapp.com) |  | [Freeware](https://www.whatsapp.com/legal/) |
 | [wifi-manager](https://github.com/shanselman/Windows-Wifi-Manager) | [0.2](https://github.com/shanselman/Windows-Wifi-Manager) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [win32-disk-imager](https://sourceforge.net/projects/win32diskimager/) | [1.0.0](https://sourceforge.net/projects/win32diskimager/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0-only) |
 | [winbox](https://mikrotik.com/) | [3.16](https://mikrotik.com/) |  |  |
@@ -2054,7 +2054,7 @@
 | [vcpvcr71](http://www.vector.co.jp/soft/win95/util/se435079.html) | [*1.00*](http://www.vector.co.jp/soft/win95/util/se435079.html) |  |  |
 | [vdesk](https://github.com/eksime/VDesk/) | [*1.1.2*](https://github.com/eksime/VDesk/) |  |  |
 | [vivaldi](https://vivaldi.com) | [*1.4*](https://vivaldi.com) |  |  |
-| [vscode-insiders](https://code.visualstudio.com/) | [*1.6.0-insider*](https://code.visualstudio.com/) |  | [Link](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
+| [vscode-insiders](https://code.visualstudio.com/) | [*1.6.0-insider*](https://code.visualstudio.com/) |  | [Link](https://code.visualstudio.com/License/) |
 | [wceskkserv](http://www.megadriver.info/~fumi/wceskkserv/) | [*0.2.0.0*](http://www.megadriver.info/~fumi/wceskkserv/) |  |  |
 ### <a name="lzimd_lzimd-scoop-bucket" id="lzimd_lzimd-scoop-bucket"></a>[lzimd/lzimd-scoop-bucket](https://github.com/lzimd/lzimd-scoop-bucket) [&#x2934;](#back_lzimd_lzimd-scoop-bucket)
 *lzimd's scoop bucket*
@@ -2071,13 +2071,13 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [android-platform-tools](https://developer.android.com/sdk) | [*23.0.1*](https://developer.android.com/sdk) |  | [Link](http://developer.android.com/sdk/terms.html "http://developer.android.com/sdk/terms.html") |
-| [android-sdk](https://developer.android.com/sdk) | [*24.4.1*](https://developer.android.com/sdk) |  | [Link](http://developer.android.com/sdk/terms.html "http://developer.android.com/sdk/terms.html") |
+| [android-platform-tools](https://developer.android.com/sdk) | [*23.0.1*](https://developer.android.com/sdk) |  | [Link](http://developer.android.com/sdk/terms.html) |
+| [android-sdk](https://developer.android.com/sdk) | [*24.4.1*](https://developer.android.com/sdk) |  | [Link](http://developer.android.com/sdk/terms.html) |
 | [heroku-toolbelt](https://toolbelt.heroku.com/) | [*3.42.25*](https://toolbelt.heroku.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [otto](https://www.ottoproject.io/) | [0.1.2](https://www.ottoproject.io/) |  | [Link](https://www.mozilla.org/en-US/MPL/2.0/ "https://www.mozilla.org/en-US/MPL/2.0/") |
+| [otto](https://www.ottoproject.io/) | [0.1.2](https://www.ottoproject.io/) |  | [Link](https://www.mozilla.org/en-US/MPL/2.0/) |
 | [phantomjs19](http://phantomjs.org/) | [*1.9.8*](http://phantomjs.org/) |  | BSD |
 | [screenfetch](https://github.com/maman/ps-fetch) | [*2015-12-23*](https://github.com/maman/ps-fetch) |  |  |
-| [vim-nox](http://www.vim.org/download.php) | [7.4.977](http://www.vim.org/download.php) |  | [Link](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license "http://vimdoc.sourceforge.net/htmldoc/uganda.html#license") |
+| [vim-nox](http://www.vim.org/download.php) | [7.4.977](http://www.vim.org/download.php) |  | [Link](http://vimdoc.sourceforge.net/htmldoc/uganda.html#license) |
 ### <a name="masaeedu_scoop-bucket" id="masaeedu_scoop-bucket"></a>[masaeedu/scoop-bucket](https://github.com/masaeedu/scoop-bucket) [&#x2934;](#back_masaeedu_scoop-bucket)
 
 
@@ -2099,7 +2099,7 @@
 | :--- | :--- | :--- | :--- |
 | [consolez](http://github.com/cbucher/console) | [1.15.0.15253](http://github.com/cbucher/console) |  | GPLv2 |
 | [poshvs](https://github.com/masonm12/PoshVS) | [1.1.1](https://github.com/masonm12/PoshVS) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [rapidee](http://www.rapidee.com) | [929](http://www.rapidee.com) |  | [Link](http://www.rapidee.com/en/license "http://www.rapidee.com/en/license") |
+| [rapidee](http://www.rapidee.com) | [929](http://www.rapidee.com) |  | [Link](http://www.rapidee.com/en/license) |
 | [savepics](https://github.com/masonm12/SavePics) | [2.1.0](https://github.com/masonm12/SavePics) |  | [MIT](https://opensource.org/licenses/MIT) |
 ### <a name="mathieucarbou_scoop-bucket" id="mathieucarbou_scoop-bucket"></a>[mathieucarbou/scoop-bucket](https://github.com/mathieucarbou/scoop-bucket) [&#x2934;](#back_mathieucarbou_scoop-bucket)
 
@@ -2188,7 +2188,7 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [freeclipviewer](http://www.freeclipboardviewer.com/) | [3.0](http://www.freeclipboardviewer.com/) | Free Clipboard Viewer - A free, full-featured and portable clipboard viewer |  |
-| [ridnacs](https://www.splashsoft.de/download/) | [2.0.3](https://www.splashsoft.de/download/) |  | [Link](http://www.splashsoft.de/ridnacs-freeware-license/ "http://www.splashsoft.de/ridnacs-freeware-license/") |
+| [ridnacs](https://www.splashsoft.de/download/) | [2.0.3](https://www.splashsoft.de/download/) |  | [Link](http://www.splashsoft.de/ridnacs-freeware-license/) |
 | [sw-exporter](https://github.com/Xzandro/sw-exporter) | [0.0.23](https://github.com/Xzandro/sw-exporter) |  | Apache 2.0 |
 | [typora](https://typora.io/) | [0.9.44](https://typora.io/) | Typora â€” a minimal markdown editor, markdown reader. |  |
 ### <a name="monotykamary_toms-scoop-bucket" id="monotykamary_toms-scoop-bucket"></a>[monotykamary/toms-scoop-bucket](https://github.com/monotykamary/toms-scoop-bucket) [&#x2934;](#back_monotykamary_toms-scoop-bucket)
@@ -2218,7 +2218,7 @@
 | [godotengine](https://godotengine.org/) | [2.1.4](https://godotengine.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [lmms-beta](https://lmms.io/) | [*1.20.0-RC.3*](https://lmms.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [lmms](https://lmms.io/) | [*1.1.3*](https://lmms.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [reaper](http://www.reaper.fm/index.php) | [*5.40*](http://www.reaper.fm/index.php) |  | [Link](http://www.reaper.fm/dist-agreement.php "http://www.reaper.fm/dist-agreement.php") |
+| [reaper](http://www.reaper.fm/index.php) | [*5.40*](http://www.reaper.fm/index.php) |  | [Link](http://www.reaper.fm/dist-agreement.php) |
 | [scons](https://scons.org) | [*3.0.0*](https://scons.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [scons25](https://scons.org) | [*2.5.1*](https://scons.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 ### <a name="MunsterPlop_munsterbucket" id="MunsterPlop_munsterbucket"></a>[MunsterPlop/munsterbucket](https://github.com/MunsterPlop/munsterbucket) [&#x2934;](#back_MunsterPlop_munsterbucket)
@@ -2261,8 +2261,8 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [php55](http://windows.php.net) | [5.5.23](http://windows.php.net) |  | [Link](http://www.php.net/license/ "http://www.php.net/license/") |
-| [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/) | [*0.63.10104.0*](http://www.chiark.greenend.org.uk/~sgtatham/putty/) |  | [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html "http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html") |
+| [php55](http://windows.php.net) | [5.5.23](http://windows.php.net) |  | [Link](http://www.php.net/license/) |
+| [putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/) | [*0.63.10104.0*](http://www.chiark.greenend.org.uk/~sgtatham/putty/) |  | [Link](http://www.chiark.greenend.org.uk/~sgtatham/putty/licence.html) |
 | [trid](http://mark0.net/soft-trid-e.html) | [*2.10*](http://mark0.net/soft-trid-e.html) |  |  |
 ### <a name="nrakochy_leiningen_bucket" id="nrakochy_leiningen_bucket"></a>[nrakochy/leiningen_bucket](https://github.com/nrakochy/leiningen_bucket) [&#x2934;](#back_nrakochy_leiningen_bucket)
 *JSON package for adding Leiningen to Windows via the Scoop installer*
@@ -2281,60 +2281,60 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [php71-amqp](https://pecl.php.net/package/amqp) | [1.9.0](https://pecl.php.net/package/amqp) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-apcu](https://pecl.php.net/package/apcu) | [5.1.8](https://pecl.php.net/package/apcu) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-apcu_bc](https://pecl.php.net/package/apcu_bc) | [1.0.3](https://pecl.php.net/package/apcu_bc) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-bitset](https://pecl.php.net/package/bitset) | [3.0.0](https://pecl.php.net/package/bitset) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-couchbase](https://pecl.php.net/package/couchbase) | [2.4.0](https://pecl.php.net/package/couchbase) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-crypto](https://pecl.php.net/package/crypto) | [0.3.1](https://pecl.php.net/package/crypto) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-dio](https://pecl.php.net/package/dio) | [0.1.0](https://pecl.php.net/package/dio) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-doublemetaphone](https://pecl.php.net/package/doublemetaphone) | [1.0.1](https://pecl.php.net/package/doublemetaphone) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-ds](https://pecl.php.net/package/ds) | [1.2.3](https://pecl.php.net/package/ds) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-event](https://pecl.php.net/package/event) | [2.3.0](https://pecl.php.net/package/event) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-fann](https://pecl.php.net/package/fann) | [1.1.1](https://pecl.php.net/package/fann) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-gender](https://pecl.php.net/package/gender) | [1.1.0](https://pecl.php.net/package/gender) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-geoip](https://pecl.php.net/package/geoip) | [1.1.1](https://pecl.php.net/package/geoip) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-hprose](https://pecl.php.net/package/hprose) | [1.6.6](https://pecl.php.net/package/hprose) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-igbinary](https://pecl.php.net/package/igbinary) | [2.0.1](https://pecl.php.net/package/igbinary) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-imagick](https://pecl.php.net/package/imagick) | [3.4.3](https://pecl.php.net/package/imagick) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-libsodium](https://pecl.php.net/package/libsodium) | [2.0.4](https://pecl.php.net/package/libsodium) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-lua](https://pecl.php.net/package/lua) | [2.0.4](https://pecl.php.net/package/lua) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-lzf](https://pecl.php.net/package/lzf) | [1.6.6](https://pecl.php.net/package/lzf) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-mailparse](https://pecl.php.net/package/mailparse) | [3.0.2](https://pecl.php.net/package/mailparse) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-mongodb](https://pecl.php.net/package/mongodb) | [1.2.10](https://pecl.php.net/package/mongodb) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-msgpack](https://pecl.php.net/package/msgpack) | [2.0.2](https://pecl.php.net/package/msgpack) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-oauth](https://pecl.php.net/package/oauth) | [2.0.2](https://pecl.php.net/package/oauth) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-oci8](https://pecl.php.net/package/oci8) | [2.1.7](https://pecl.php.net/package/oci8) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-pcs](https://pecl.php.net/package/pcs) | [1.3.3](https://pecl.php.net/package/pcs) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-pdo_sqlsrv](https://pecl.php.net/package/pdo_sqlsrv) | [4.3.0](https://pecl.php.net/package/pdo_sqlsrv) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-phalcon](https://github.com/phalcon/cphalcon/) | [3.2.2](https://github.com/phalcon/cphalcon/) |  | [Link](https://github.com/phalcon/cphalcon/blob/master/docs/LICENSE.txt "https://github.com/phalcon/cphalcon/blob/master/docs/LICENSE.txt") |
-| [php71-propro](https://pecl.php.net/package/propro) | [2.0.1](https://pecl.php.net/package/propro) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-rdkafka](https://pecl.php.net/package/rdkafka) | [2.0.1](https://pecl.php.net/package/rdkafka) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-redis](https://pecl.php.net/package/redis) | [3.1.3](https://pecl.php.net/package/redis) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-rrd](https://pecl.php.net/package/rrd) | [2.0.1](https://pecl.php.net/package/rrd) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-scrypt](https://pecl.php.net/package/scrypt) | [1.4.2](https://pecl.php.net/package/scrypt) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-seaslog](https://pecl.php.net/package/seaslog) | [1.7.5](https://pecl.php.net/package/seaslog) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-solr](https://pecl.php.net/package/solr) | [2.4.0](https://pecl.php.net/package/solr) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-sqlsrv](https://pecl.php.net/package/sqlsrv) | [4.3.0](https://pecl.php.net/package/sqlsrv) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-ssh2](https://pecl.php.net/package/ssh2) | [1.1.2](https://pecl.php.net/package/ssh2) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-stem](https://pecl.php.net/package/stem) | [1.5.1](https://pecl.php.net/package/stem) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-stomp](https://pecl.php.net/package/stomp) | [2.0.1](https://pecl.php.net/package/stomp) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-taint](https://pecl.php.net/package/taint) | [2.0.4](https://pecl.php.net/package/taint) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-timezonedb](https://pecl.php.net/package/timezonedb) | [2017.2](https://pecl.php.net/package/timezonedb) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-trader](https://pecl.php.net/package/trader) | [0.4.0](https://pecl.php.net/package/trader) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-translit](https://pecl.php.net/package/translit) | [0.6.2](https://pecl.php.net/package/translit) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-ui](https://pecl.php.net/package/ui) | [2.0.0](https://pecl.php.net/package/ui) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-varnish](https://pecl.php.net/package/varnish) | [1.2.2](https://pecl.php.net/package/varnish) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-vld](https://pecl.php.net/package/vld) | [0.14.0](https://pecl.php.net/package/vld) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-weakref](https://pecl.php.net/package/weakref) | [0.3.3](https://pecl.php.net/package/weakref) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-win32service](https://pecl.php.net/package/win32service) | [0.2.1](https://pecl.php.net/package/win32service) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-xdiff](https://pecl.php.net/package/xdiff) | [2.0.1](https://pecl.php.net/package/xdiff) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-xmldiff](https://pecl.php.net/package/xmldiff) | [1.1.2](https://pecl.php.net/package/xmldiff) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-xxtea](https://pecl.php.net/package/xxtea) | [1.0.11](https://pecl.php.net/package/xxtea) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-yac](https://pecl.php.net/package/yac) | [2.0.2](https://pecl.php.net/package/yac) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-yar](https://pecl.php.net/package/yar) | [2.0.2](https://pecl.php.net/package/yar) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-zip](https://pecl.php.net/package/zip) | [1.13.5](https://pecl.php.net/package/zip) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php71-zmq](https://pecl.php.net/package/zmq) | [1.1.3](https://pecl.php.net/package/zmq) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
+| [php71-amqp](https://pecl.php.net/package/amqp) | [1.9.0](https://pecl.php.net/package/amqp) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-apcu](https://pecl.php.net/package/apcu) | [5.1.8](https://pecl.php.net/package/apcu) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-apcu_bc](https://pecl.php.net/package/apcu_bc) | [1.0.3](https://pecl.php.net/package/apcu_bc) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-bitset](https://pecl.php.net/package/bitset) | [3.0.0](https://pecl.php.net/package/bitset) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-couchbase](https://pecl.php.net/package/couchbase) | [2.4.0](https://pecl.php.net/package/couchbase) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-crypto](https://pecl.php.net/package/crypto) | [0.3.1](https://pecl.php.net/package/crypto) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-dio](https://pecl.php.net/package/dio) | [0.1.0](https://pecl.php.net/package/dio) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-doublemetaphone](https://pecl.php.net/package/doublemetaphone) | [1.0.1](https://pecl.php.net/package/doublemetaphone) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-ds](https://pecl.php.net/package/ds) | [1.2.3](https://pecl.php.net/package/ds) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-event](https://pecl.php.net/package/event) | [2.3.0](https://pecl.php.net/package/event) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-fann](https://pecl.php.net/package/fann) | [1.1.1](https://pecl.php.net/package/fann) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-gender](https://pecl.php.net/package/gender) | [1.1.0](https://pecl.php.net/package/gender) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-geoip](https://pecl.php.net/package/geoip) | [1.1.1](https://pecl.php.net/package/geoip) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-hprose](https://pecl.php.net/package/hprose) | [1.6.6](https://pecl.php.net/package/hprose) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-igbinary](https://pecl.php.net/package/igbinary) | [2.0.1](https://pecl.php.net/package/igbinary) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-imagick](https://pecl.php.net/package/imagick) | [3.4.3](https://pecl.php.net/package/imagick) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-libsodium](https://pecl.php.net/package/libsodium) | [2.0.4](https://pecl.php.net/package/libsodium) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-lua](https://pecl.php.net/package/lua) | [2.0.4](https://pecl.php.net/package/lua) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-lzf](https://pecl.php.net/package/lzf) | [1.6.6](https://pecl.php.net/package/lzf) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-mailparse](https://pecl.php.net/package/mailparse) | [3.0.2](https://pecl.php.net/package/mailparse) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-mongodb](https://pecl.php.net/package/mongodb) | [1.2.10](https://pecl.php.net/package/mongodb) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-msgpack](https://pecl.php.net/package/msgpack) | [2.0.2](https://pecl.php.net/package/msgpack) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-oauth](https://pecl.php.net/package/oauth) | [2.0.2](https://pecl.php.net/package/oauth) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-oci8](https://pecl.php.net/package/oci8) | [2.1.7](https://pecl.php.net/package/oci8) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-pcs](https://pecl.php.net/package/pcs) | [1.3.3](https://pecl.php.net/package/pcs) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-pdo_sqlsrv](https://pecl.php.net/package/pdo_sqlsrv) | [4.3.0](https://pecl.php.net/package/pdo_sqlsrv) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-phalcon](https://github.com/phalcon/cphalcon/) | [3.2.2](https://github.com/phalcon/cphalcon/) |  | [Link](https://github.com/phalcon/cphalcon/blob/master/docs/LICENSE.txt) |
+| [php71-propro](https://pecl.php.net/package/propro) | [2.0.1](https://pecl.php.net/package/propro) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-rdkafka](https://pecl.php.net/package/rdkafka) | [2.0.1](https://pecl.php.net/package/rdkafka) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-redis](https://pecl.php.net/package/redis) | [3.1.3](https://pecl.php.net/package/redis) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-rrd](https://pecl.php.net/package/rrd) | [2.0.1](https://pecl.php.net/package/rrd) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-scrypt](https://pecl.php.net/package/scrypt) | [1.4.2](https://pecl.php.net/package/scrypt) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-seaslog](https://pecl.php.net/package/seaslog) | [1.7.5](https://pecl.php.net/package/seaslog) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-solr](https://pecl.php.net/package/solr) | [2.4.0](https://pecl.php.net/package/solr) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-sqlsrv](https://pecl.php.net/package/sqlsrv) | [4.3.0](https://pecl.php.net/package/sqlsrv) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-ssh2](https://pecl.php.net/package/ssh2) | [1.1.2](https://pecl.php.net/package/ssh2) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-stem](https://pecl.php.net/package/stem) | [1.5.1](https://pecl.php.net/package/stem) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-stomp](https://pecl.php.net/package/stomp) | [2.0.1](https://pecl.php.net/package/stomp) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-taint](https://pecl.php.net/package/taint) | [2.0.4](https://pecl.php.net/package/taint) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-timezonedb](https://pecl.php.net/package/timezonedb) | [2017.2](https://pecl.php.net/package/timezonedb) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-trader](https://pecl.php.net/package/trader) | [0.4.0](https://pecl.php.net/package/trader) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-translit](https://pecl.php.net/package/translit) | [0.6.2](https://pecl.php.net/package/translit) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-ui](https://pecl.php.net/package/ui) | [2.0.0](https://pecl.php.net/package/ui) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-varnish](https://pecl.php.net/package/varnish) | [1.2.2](https://pecl.php.net/package/varnish) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-vld](https://pecl.php.net/package/vld) | [0.14.0](https://pecl.php.net/package/vld) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-weakref](https://pecl.php.net/package/weakref) | [0.3.3](https://pecl.php.net/package/weakref) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-win32service](https://pecl.php.net/package/win32service) | [0.2.1](https://pecl.php.net/package/win32service) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-xdiff](https://pecl.php.net/package/xdiff) | [2.0.1](https://pecl.php.net/package/xdiff) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-xmldiff](https://pecl.php.net/package/xmldiff) | [1.1.2](https://pecl.php.net/package/xmldiff) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-xxtea](https://pecl.php.net/package/xxtea) | [1.0.11](https://pecl.php.net/package/xxtea) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-yac](https://pecl.php.net/package/yac) | [2.0.2](https://pecl.php.net/package/yac) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-yar](https://pecl.php.net/package/yar) | [2.0.2](https://pecl.php.net/package/yar) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-zip](https://pecl.php.net/package/zip) | [1.13.5](https://pecl.php.net/package/zip) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php71-zmq](https://pecl.php.net/package/zmq) | [1.1.3](https://pecl.php.net/package/zmq) |  | [Link](http://www.php.net/license/3_01.txt) |
 ### <a name="nueko_scoop-php" id="nueko_scoop-php"></a>[nueko/scoop-php](https://github.com/nueko/scoop-php) [&#x2934;](#back_nueko_scoop-php)
 *PHP Bucket for http://scoop.sh (scoop's built-in bucket 'php')*
 
@@ -2346,438 +2346,438 @@
 | [php3.0.15](http://windows.php.net) | [*3.0.15*](http://windows.php.net) |  | GPL |
 | [php3.0.16](http://windows.php.net) | [*3.0.16*](http://windows.php.net) |  | GPL |
 | [php3.0.17](http://windows.php.net) | [*3.0.17*](http://windows.php.net) |  | GPL |
-| [php4.0.0](http://windows.php.net) | [*4.0.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.0.1](http://windows.php.net) | [*4.0.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.0.2](http://windows.php.net) | [*4.0.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.0.3](http://windows.php.net) | [*4.0.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.0.4](http://windows.php.net) | [*4.0.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.0.5](http://windows.php.net) | [*4.0.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.0.6](http://windows.php.net) | [*4.0.6*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.1.0](http://windows.php.net) | [*4.1.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.1.1](http://windows.php.net) | [*4.1.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.1.2](http://windows.php.net) | [*4.1.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.2.0](http://windows.php.net) | [*4.2.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.2.1](http://windows.php.net) | [*4.2.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.2.2](http://windows.php.net) | [*4.2.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.2.3](http://windows.php.net) | [*4.2.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.0](http://windows.php.net) | [*4.3.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.1](http://windows.php.net) | [*4.3.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.10](http://windows.php.net) | [*4.3.10*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.11](http://windows.php.net) | [*4.3.11*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.2](http://windows.php.net) | [*4.3.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.3](http://windows.php.net) | [*4.3.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.4](http://windows.php.net) | [*4.3.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.5](http://windows.php.net) | [*4.3.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.6](http://windows.php.net) | [*4.3.6*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.7](http://windows.php.net) | [*4.3.7*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.8](http://windows.php.net) | [*4.3.8*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.3.9](http://windows.php.net) | [*4.3.9*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.4.0](http://windows.php.net) | [*4.4.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.4.1](http://windows.php.net) | [*4.4.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.4.2](http://windows.php.net) | [*4.4.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.4.3](http://windows.php.net) | [*4.4.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.4.4](http://windows.php.net) | [*4.4.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.4.5](http://windows.php.net) | [*4.4.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php4.4.6](http://windows.php.net) | [*4.4.6*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.0.0](http://windows.php.net) | [*5.0.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.0.1](http://windows.php.net) | [*5.0.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.0.2](http://windows.php.net) | [*5.0.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.0.3](http://windows.php.net) | [*5.0.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.0.4](http://windows.php.net) | [*5.0.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.0.5](http://windows.php.net) | [*5.0.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.1.0](http://windows.php.net) | [*5.1.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.1.1](http://windows.php.net) | [*5.1.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.1.2](http://windows.php.net) | [*5.1.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.1.3](http://windows.php.net) | [*5.1.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.1.4](http://windows.php.net) | [*5.1.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.1.6](http://windows.php.net) | [*5.1.6*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.0](http://windows.php.net) | [*5.2.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.1-nts](http://windows.php.net) | [*5.2.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.1](http://windows.php.net) | [*5.2.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.10](http://windows.php.net/downloads/releases/archives) | [*5.2.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.11](http://windows.php.net/downloads/releases/archives) | [*5.2.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.12](http://windows.php.net/downloads/releases/archives) | [*5.2.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.13](http://windows.php.net/downloads/releases/archives) | [*5.2.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.14](http://windows.php.net/downloads/releases/archives) | [*5.2.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.15](http://windows.php.net/downloads/releases/archives) | [*5.2.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.16](http://windows.php.net/downloads/releases/archives) | [*5.2.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.17](http://windows.php.net/downloads/releases/archives) | [*5.2.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.2-nts](http://windows.php.net) | [*5.2.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.2](http://windows.php.net) | [*5.2.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.3-nts](http://windows.php.net) | [*5.2.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.3](http://windows.php.net) | [*5.2.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.4-nts](http://windows.php.net) | [*5.2.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.4](http://windows.php.net) | [*5.2.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.5-nts](http://windows.php.net) | [*5.2.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.5](http://windows.php.net) | [*5.2.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.6](http://windows.php.net/downloads/releases/archives) | [*5.2.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.7](http://windows.php.net/downloads/releases/archives) | [*5.2.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.8](http://windows.php.net/downloads/releases/archives) | [*5.2.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2.9](http://windows.php.net/downloads/releases/archives) | [*5.2.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.2](http://windows.php.net/downloads/releases/archives) | [*5.2.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.0-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.0](http://windows.php.net/downloads/releases/archives) | [*5.3.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.1-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.1](http://windows.php.net/downloads/releases/archives) | [*5.3.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.10](http://windows.php.net/downloads/releases/archives) | [*5.3.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.11](http://windows.php.net/downloads/releases/archives) | [*5.3.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.12](http://windows.php.net/downloads/releases/archives) | [*5.3.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.13](http://windows.php.net/downloads/releases/archives) | [*5.3.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.14](http://windows.php.net/downloads/releases/archives) | [*5.3.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.15](http://windows.php.net/downloads/releases/archives) | [*5.3.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.16](http://windows.php.net/downloads/releases/archives) | [*5.3.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.17](http://windows.php.net/downloads/releases/archives) | [*5.3.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.18-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.18](http://windows.php.net/downloads/releases/archives) | [*5.3.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.19-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.19](http://windows.php.net/downloads/releases/archives) | [*5.3.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.2](http://windows.php.net/downloads/releases/archives) | [*5.3.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.20-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.20](http://windows.php.net/downloads/releases/archives) | [*5.3.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.21-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.21](http://windows.php.net/downloads/releases/archives) | [*5.3.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.22-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.22](http://windows.php.net/downloads/releases/archives) | [*5.3.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.23-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.23](http://windows.php.net/downloads/releases/archives) | [*5.3.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.24-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.24](http://windows.php.net/downloads/releases/archives) | [*5.3.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.25-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.25](http://windows.php.net/downloads/releases/archives) | [*5.3.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.26-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.26](http://windows.php.net/downloads/releases/archives) | [*5.3.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.27-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.27](http://windows.php.net/downloads/releases/archives) | [*5.3.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.28-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.28](http://windows.php.net/downloads/releases/archives) | [*5.3.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.29-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.29](http://windows.php.net/downloads/releases/archives) | [*5.3.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.3](http://windows.php.net/downloads/releases/archives) | [*5.3.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.4](http://windows.php.net/downloads/releases/archives) | [*5.3.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.5-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.5](http://windows.php.net/downloads/releases/archives) | [*5.3.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.6](http://windows.php.net/downloads/releases/archives) | [*5.3.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.7](http://windows.php.net/downloads/releases/archives) | [*5.3.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.8](http://windows.php.net/downloads/releases/archives) | [*5.3.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3.9](http://windows.php.net/downloads/releases/archives) | [*5.3.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.3](http://windows.php.net/downloads/releases/archives) | [*5.3.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.45*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.0-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.0](http://windows.php.net/downloads/releases/archives) | [*5.4.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.1-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.1](http://windows.php.net/downloads/releases/archives) | [*5.4.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.10](http://windows.php.net/downloads/releases/archives) | [*5.4.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.11](http://windows.php.net/downloads/releases/archives) | [*5.4.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.12](http://windows.php.net/downloads/releases/archives) | [*5.4.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.13](http://windows.php.net/downloads/releases/archives) | [*5.4.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.14](http://windows.php.net/downloads/releases/archives) | [*5.4.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.15](http://windows.php.net/downloads/releases/archives) | [*5.4.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.16](http://windows.php.net/downloads/releases/archives) | [*5.4.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.17](http://windows.php.net/downloads/releases/archives) | [*5.4.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.18-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.18](http://windows.php.net/downloads/releases/archives) | [*5.4.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.19-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.19](http://windows.php.net/downloads/releases/archives) | [*5.4.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.2](http://windows.php.net/downloads/releases/archives) | [*5.4.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.20-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.20](http://windows.php.net/downloads/releases/archives) | [*5.4.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.21-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.21](http://windows.php.net/downloads/releases/archives) | [*5.4.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.22-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.22](http://windows.php.net/downloads/releases/archives) | [*5.4.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.23-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.23](http://windows.php.net/downloads/releases/archives) | [*5.4.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.24-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.24](http://windows.php.net/downloads/releases/archives) | [*5.4.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.25-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.25](http://windows.php.net/downloads/releases/archives) | [*5.4.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.26-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.26](http://windows.php.net/downloads/releases/archives) | [*5.4.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.27-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.27](http://windows.php.net/downloads/releases/archives) | [*5.4.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.28-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.28](http://windows.php.net/downloads/releases/archives) | [*5.4.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.29-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.29](http://windows.php.net/downloads/releases/archives) | [*5.4.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.3](http://windows.php.net/downloads/releases/archives) | [*5.4.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.30-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.30*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.30](http://windows.php.net/downloads/releases/archives) | [*5.4.30*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.31-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.31*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.31](http://windows.php.net/downloads/releases/archives) | [*5.4.31*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.32-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.32*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.32](http://windows.php.net/downloads/releases/archives) | [*5.4.32*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.33-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.33*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.33](http://windows.php.net/downloads/releases/archives) | [*5.4.33*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.34-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.34*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.34](http://windows.php.net/downloads/releases/archives) | [*5.4.34*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.35-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.35*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.35](http://windows.php.net/downloads/releases/archives) | [*5.4.35*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.36-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.36*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.36](http://windows.php.net/downloads/releases/archives) | [*5.4.36*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.37-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.37*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.37](http://windows.php.net/downloads/releases/archives) | [*5.4.37*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.38-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.38*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.38](http://windows.php.net/downloads/releases/archives) | [*5.4.38*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.39-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.39*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.39](http://windows.php.net/downloads/releases/archives) | [*5.4.39*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.4](http://windows.php.net/downloads/releases/archives) | [*5.4.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.40-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.40*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.40](http://windows.php.net/downloads/releases/archives) | [*5.4.40*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.41-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.41*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.41](http://windows.php.net/downloads/releases/archives) | [*5.4.41*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.42-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.42*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.42](http://windows.php.net/downloads/releases/archives) | [*5.4.42*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.43-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.43*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.43](http://windows.php.net/downloads/releases/archives) | [*5.4.43*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.44-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.44*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.44](http://windows.php.net/downloads/releases/archives) | [*5.4.44*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.45-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.45*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.45](http://windows.php.net/downloads/releases/archives) | [*5.4.45*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.5-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.5](http://windows.php.net/downloads/releases/archives) | [*5.4.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.6](http://windows.php.net/downloads/releases/archives) | [*5.4.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.7](http://windows.php.net/downloads/releases/archives) | [*5.4.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.8](http://windows.php.net/downloads/releases/archives) | [*5.4.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4.9](http://windows.php.net/downloads/releases/archives) | [*5.4.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.4](http://windows.php.net/downloads/releases/archives) | [*5.4.45*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5-nts](http://windows.php.net/downloads/releases/) | [5.5.38](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.0-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.0](http://windows.php.net/downloads/releases/archives) | [*5.5.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.1-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.1](http://windows.php.net/downloads/releases/archives) | [*5.5.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.10](http://windows.php.net/downloads/releases/archives) | [*5.5.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.11](http://windows.php.net/downloads/releases/archives) | [*5.5.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.12](http://windows.php.net/downloads/releases/archives) | [*5.5.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.13](http://windows.php.net/downloads/releases/archives) | [*5.5.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.14](http://windows.php.net/downloads/releases/archives) | [*5.5.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.15](http://windows.php.net/downloads/releases/archives) | [*5.5.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.16](http://windows.php.net/downloads/releases/archives) | [*5.5.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.17](http://windows.php.net/downloads/releases/archives) | [*5.5.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.18-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.18](http://windows.php.net/downloads/releases/archives) | [*5.5.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.19-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.19](http://windows.php.net/downloads/releases/archives) | [*5.5.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.2](http://windows.php.net/downloads/releases/archives) | [*5.5.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.20-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.20](http://windows.php.net/downloads/releases/archives) | [*5.5.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.21-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.21](http://windows.php.net/downloads/releases/archives) | [*5.5.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.22-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.22](http://windows.php.net/downloads/releases/archives) | [*5.5.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.23-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.23](http://windows.php.net/downloads/releases/archives) | [*5.5.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.24-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.24](http://windows.php.net/downloads/releases/archives) | [*5.5.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.25-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.25](http://windows.php.net/downloads/releases/archives) | [*5.5.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.26-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.26](http://windows.php.net/downloads/releases/archives) | [*5.5.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.27-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.27](http://windows.php.net/downloads/releases/archives) | [*5.5.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.28-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.28](http://windows.php.net/downloads/releases/archives) | [*5.5.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.29-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.29](http://windows.php.net/downloads/releases/archives) | [*5.5.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.3](http://windows.php.net/downloads/releases/archives) | [*5.5.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.30-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.30*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.30](http://windows.php.net/downloads/releases/archives) | [*5.5.30*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.31-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.31*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.31](http://windows.php.net/downloads/releases/archives) | [*5.5.31*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.32-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.32*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.32](http://windows.php.net/downloads/releases/archives) | [*5.5.32*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.33-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.33*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.33](http://windows.php.net/downloads/releases/archives) | [*5.5.33*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.34-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.34*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.34](http://windows.php.net/downloads/releases/archives) | [*5.5.34*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.35-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.35*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.35](http://windows.php.net/downloads/releases/archives) | [*5.5.35*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.36-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.36*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.36](http://windows.php.net/downloads/releases/archives) | [*5.5.36*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.37-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.37*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.37](http://windows.php.net/downloads/releases/archives) | [*5.5.37*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.4](http://windows.php.net/downloads/releases/archives) | [*5.5.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.5-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.5](http://windows.php.net/downloads/releases/archives) | [*5.5.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.6](http://windows.php.net/downloads/releases/archives) | [*5.5.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.7](http://windows.php.net/downloads/releases/archives) | [*5.5.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.8](http://windows.php.net/downloads/releases/archives) | [*5.5.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5.9](http://windows.php.net/downloads/releases/archives) | [*5.5.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.5](http://windows.php.net/downloads/releases/) | [5.5.38](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6-nts](http://windows.php.net/downloads/releases/) | [5.6.34](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.0-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.0](http://windows.php.net/downloads/releases/archives) | [*5.6.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.1-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.1](http://windows.php.net/downloads/releases/archives) | [*5.6.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.10](http://windows.php.net/downloads/releases/archives) | [*5.6.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.11](http://windows.php.net/downloads/releases/archives) | [*5.6.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.12](http://windows.php.net/downloads/releases/archives) | [*5.6.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.13](http://windows.php.net/downloads/releases/archives) | [*5.6.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.14](http://windows.php.net/downloads/releases/archives) | [*5.6.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.15](http://windows.php.net/downloads/releases/archives) | [*5.6.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.16](http://windows.php.net/downloads/releases/archives) | [*5.6.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.17](http://windows.php.net/downloads/releases/archives) | [*5.6.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.18-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.18](http://windows.php.net/downloads/releases/archives) | [*5.6.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.19-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.19](http://windows.php.net/downloads/releases/archives) | [*5.6.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.2](http://windows.php.net/downloads/releases/archives) | [*5.6.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.20-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.20](http://windows.php.net/downloads/releases/archives) | [*5.6.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.21-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.21](http://windows.php.net/downloads/releases/archives) | [*5.6.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.22-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.22](http://windows.php.net/downloads/releases/archives) | [*5.6.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.23-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.23](http://windows.php.net/downloads/releases/archives) | [*5.6.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.24-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.24](http://windows.php.net/downloads/releases/archives) | [*5.6.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.25-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.25](http://windows.php.net/downloads/releases/archives) | [*5.6.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.26-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.26](http://windows.php.net/downloads/releases/archives) | [*5.6.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.27-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.27](http://windows.php.net/downloads/releases/archives) | [*5.6.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.28-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.28](http://windows.php.net/downloads/releases/archives) | [*5.6.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.29-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.29](http://windows.php.net/downloads/releases/archives) | [*5.6.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.3](http://windows.php.net/downloads/releases/archives) | [*5.6.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.4](http://windows.php.net/downloads/releases/archives) | [*5.6.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.5-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.5](http://windows.php.net/downloads/releases/archives) | [*5.6.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.6](http://windows.php.net/downloads/releases/archives) | [*5.6.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.7](http://windows.php.net/downloads/releases/archives) | [*5.6.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.8](http://windows.php.net/downloads/releases/archives) | [*5.6.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6.9](http://windows.php.net/downloads/releases/archives) | [*5.6.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php5.6](http://windows.php.net/downloads/releases/) | [5.6.34](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0-nts](http://windows.php.net/downloads/releases/) | [7.0.28](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.0-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.0](http://windows.php.net/downloads/releases/archives) | [*7.0.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.1-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.1](http://windows.php.net/downloads/releases/archives) | [*7.0.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.10-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.10](http://windows.php.net/downloads/releases/archives) | [*7.0.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.11-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.11](http://windows.php.net/downloads/releases/archives) | [*7.0.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.12-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.12](http://windows.php.net/downloads/releases/archives) | [*7.0.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.13-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.13](http://windows.php.net/downloads/releases/archives) | [*7.0.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.14-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.14](http://windows.php.net/downloads/releases/archives) | [*7.0.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.15-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.15](http://windows.php.net/downloads/releases/archives) | [*7.0.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.16-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.16](http://windows.php.net/downloads/releases/archives) | [*7.0.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.17-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.17](http://windows.php.net/downloads/releases/archives) | [*7.0.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.18-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.18](http://windows.php.net/downloads/releases/archives) | [*7.0.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.2-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.2](http://windows.php.net/downloads/releases/archives) | [*7.0.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.3-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.3](http://windows.php.net/downloads/releases/archives) | [*7.0.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.4-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.4](http://windows.php.net/downloads/releases/archives) | [*7.0.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.5-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.5](http://windows.php.net/downloads/releases/archives) | [*7.0.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.6-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.6](http://windows.php.net/downloads/releases/archives) | [*7.0.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.7-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.7](http://windows.php.net/downloads/releases/archives) | [*7.0.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.8-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.8](http://windows.php.net/downloads/releases/archives) | [*7.0.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.9-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0.9](http://windows.php.net/downloads/releases/archives) | [*7.0.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.0](http://windows.php.net/downloads/releases/) | [7.0.28](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1-nts](http://windows.php.net/downloads/releases/) | [7.1.15](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.0-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.0](http://windows.php.net/downloads/releases/archives) | [*7.1.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.1-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.1](http://windows.php.net/downloads/releases/archives) | [*7.1.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.2-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.2](http://windows.php.net/downloads/releases/archives) | [*7.1.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.3-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.3](http://windows.php.net/downloads/releases/archives) | [*7.1.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.4-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1.4](http://windows.php.net/downloads/releases/archives) | [*7.1.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.1](http://windows.php.net/downloads/releases/) | [7.1.15](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.2-nts](http://windows.php.net/downloads/releases/) | [7.2.0](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
-| [php7.2](http://windows.php.net/downloads/releases/) | [7.2.3](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt "http://www.php.net/license/3_01.txt") |
+| [php4.0.0](http://windows.php.net) | [*4.0.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.0.1](http://windows.php.net) | [*4.0.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.0.2](http://windows.php.net) | [*4.0.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.0.3](http://windows.php.net) | [*4.0.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.0.4](http://windows.php.net) | [*4.0.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.0.5](http://windows.php.net) | [*4.0.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.0.6](http://windows.php.net) | [*4.0.6*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.1.0](http://windows.php.net) | [*4.1.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.1.1](http://windows.php.net) | [*4.1.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.1.2](http://windows.php.net) | [*4.1.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.2.0](http://windows.php.net) | [*4.2.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.2.1](http://windows.php.net) | [*4.2.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.2.2](http://windows.php.net) | [*4.2.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.2.3](http://windows.php.net) | [*4.2.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.0](http://windows.php.net) | [*4.3.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.1](http://windows.php.net) | [*4.3.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.10](http://windows.php.net) | [*4.3.10*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.11](http://windows.php.net) | [*4.3.11*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.2](http://windows.php.net) | [*4.3.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.3](http://windows.php.net) | [*4.3.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.4](http://windows.php.net) | [*4.3.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.5](http://windows.php.net) | [*4.3.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.6](http://windows.php.net) | [*4.3.6*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.7](http://windows.php.net) | [*4.3.7*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.8](http://windows.php.net) | [*4.3.8*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.3.9](http://windows.php.net) | [*4.3.9*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.4.0](http://windows.php.net) | [*4.4.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.4.1](http://windows.php.net) | [*4.4.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.4.2](http://windows.php.net) | [*4.4.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.4.3](http://windows.php.net) | [*4.4.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.4.4](http://windows.php.net) | [*4.4.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.4.5](http://windows.php.net) | [*4.4.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php4.4.6](http://windows.php.net) | [*4.4.6*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.0.0](http://windows.php.net) | [*5.0.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.0.1](http://windows.php.net) | [*5.0.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.0.2](http://windows.php.net) | [*5.0.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.0.3](http://windows.php.net) | [*5.0.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.0.4](http://windows.php.net) | [*5.0.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.0.5](http://windows.php.net) | [*5.0.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.1.0](http://windows.php.net) | [*5.1.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.1.1](http://windows.php.net) | [*5.1.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.1.2](http://windows.php.net) | [*5.1.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.1.3](http://windows.php.net) | [*5.1.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.1.4](http://windows.php.net) | [*5.1.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.1.6](http://windows.php.net) | [*5.1.6*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.0](http://windows.php.net) | [*5.2.0*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.1-nts](http://windows.php.net) | [*5.2.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.1](http://windows.php.net) | [*5.2.1*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.10](http://windows.php.net/downloads/releases/archives) | [*5.2.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.11](http://windows.php.net/downloads/releases/archives) | [*5.2.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.12](http://windows.php.net/downloads/releases/archives) | [*5.2.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.13](http://windows.php.net/downloads/releases/archives) | [*5.2.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.14](http://windows.php.net/downloads/releases/archives) | [*5.2.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.15](http://windows.php.net/downloads/releases/archives) | [*5.2.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.16](http://windows.php.net/downloads/releases/archives) | [*5.2.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.17](http://windows.php.net/downloads/releases/archives) | [*5.2.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.2-nts](http://windows.php.net) | [*5.2.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.2](http://windows.php.net) | [*5.2.2*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.3-nts](http://windows.php.net) | [*5.2.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.3](http://windows.php.net) | [*5.2.3*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.4-nts](http://windows.php.net) | [*5.2.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.4](http://windows.php.net) | [*5.2.4*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.5-nts](http://windows.php.net) | [*5.2.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.5](http://windows.php.net) | [*5.2.5*](http://windows.php.net) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.6](http://windows.php.net/downloads/releases/archives) | [*5.2.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.7](http://windows.php.net/downloads/releases/archives) | [*5.2.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.8](http://windows.php.net/downloads/releases/archives) | [*5.2.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.2.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2.9](http://windows.php.net/downloads/releases/archives) | [*5.2.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.2](http://windows.php.net/downloads/releases/archives) | [*5.2.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.0-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.0](http://windows.php.net/downloads/releases/archives) | [*5.3.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.1-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.1](http://windows.php.net/downloads/releases/archives) | [*5.3.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.10](http://windows.php.net/downloads/releases/archives) | [*5.3.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.11](http://windows.php.net/downloads/releases/archives) | [*5.3.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.12](http://windows.php.net/downloads/releases/archives) | [*5.3.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.13](http://windows.php.net/downloads/releases/archives) | [*5.3.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.14](http://windows.php.net/downloads/releases/archives) | [*5.3.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.15](http://windows.php.net/downloads/releases/archives) | [*5.3.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.16](http://windows.php.net/downloads/releases/archives) | [*5.3.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.17](http://windows.php.net/downloads/releases/archives) | [*5.3.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.18-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.18](http://windows.php.net/downloads/releases/archives) | [*5.3.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.19-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.19](http://windows.php.net/downloads/releases/archives) | [*5.3.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.2](http://windows.php.net/downloads/releases/archives) | [*5.3.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.20-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.20](http://windows.php.net/downloads/releases/archives) | [*5.3.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.21-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.21](http://windows.php.net/downloads/releases/archives) | [*5.3.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.22-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.22](http://windows.php.net/downloads/releases/archives) | [*5.3.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.23-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.23](http://windows.php.net/downloads/releases/archives) | [*5.3.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.24-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.24](http://windows.php.net/downloads/releases/archives) | [*5.3.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.25-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.25](http://windows.php.net/downloads/releases/archives) | [*5.3.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.26-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.26](http://windows.php.net/downloads/releases/archives) | [*5.3.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.27-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.27](http://windows.php.net/downloads/releases/archives) | [*5.3.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.28-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.28](http://windows.php.net/downloads/releases/archives) | [*5.3.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.29-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.29](http://windows.php.net/downloads/releases/archives) | [*5.3.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.3](http://windows.php.net/downloads/releases/archives) | [*5.3.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.4](http://windows.php.net/downloads/releases/archives) | [*5.3.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.5-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.5](http://windows.php.net/downloads/releases/archives) | [*5.3.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.6](http://windows.php.net/downloads/releases/archives) | [*5.3.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.7](http://windows.php.net/downloads/releases/archives) | [*5.3.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.8](http://windows.php.net/downloads/releases/archives) | [*5.3.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.3.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3.9](http://windows.php.net/downloads/releases/archives) | [*5.3.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.3](http://windows.php.net/downloads/releases/archives) | [*5.3.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.45*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.0-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.0](http://windows.php.net/downloads/releases/archives) | [*5.4.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.1-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.1](http://windows.php.net/downloads/releases/archives) | [*5.4.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.10](http://windows.php.net/downloads/releases/archives) | [*5.4.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.11](http://windows.php.net/downloads/releases/archives) | [*5.4.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.12](http://windows.php.net/downloads/releases/archives) | [*5.4.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.13](http://windows.php.net/downloads/releases/archives) | [*5.4.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.14](http://windows.php.net/downloads/releases/archives) | [*5.4.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.15](http://windows.php.net/downloads/releases/archives) | [*5.4.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.16](http://windows.php.net/downloads/releases/archives) | [*5.4.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.17](http://windows.php.net/downloads/releases/archives) | [*5.4.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.18-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.18](http://windows.php.net/downloads/releases/archives) | [*5.4.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.19-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.19](http://windows.php.net/downloads/releases/archives) | [*5.4.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.2](http://windows.php.net/downloads/releases/archives) | [*5.4.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.20-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.20](http://windows.php.net/downloads/releases/archives) | [*5.4.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.21-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.21](http://windows.php.net/downloads/releases/archives) | [*5.4.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.22-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.22](http://windows.php.net/downloads/releases/archives) | [*5.4.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.23-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.23](http://windows.php.net/downloads/releases/archives) | [*5.4.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.24-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.24](http://windows.php.net/downloads/releases/archives) | [*5.4.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.25-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.25](http://windows.php.net/downloads/releases/archives) | [*5.4.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.26-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.26](http://windows.php.net/downloads/releases/archives) | [*5.4.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.27-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.27](http://windows.php.net/downloads/releases/archives) | [*5.4.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.28-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.28](http://windows.php.net/downloads/releases/archives) | [*5.4.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.29-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.29](http://windows.php.net/downloads/releases/archives) | [*5.4.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.3](http://windows.php.net/downloads/releases/archives) | [*5.4.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.30-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.30*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.30](http://windows.php.net/downloads/releases/archives) | [*5.4.30*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.31-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.31*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.31](http://windows.php.net/downloads/releases/archives) | [*5.4.31*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.32-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.32*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.32](http://windows.php.net/downloads/releases/archives) | [*5.4.32*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.33-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.33*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.33](http://windows.php.net/downloads/releases/archives) | [*5.4.33*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.34-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.34*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.34](http://windows.php.net/downloads/releases/archives) | [*5.4.34*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.35-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.35*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.35](http://windows.php.net/downloads/releases/archives) | [*5.4.35*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.36-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.36*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.36](http://windows.php.net/downloads/releases/archives) | [*5.4.36*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.37-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.37*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.37](http://windows.php.net/downloads/releases/archives) | [*5.4.37*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.38-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.38*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.38](http://windows.php.net/downloads/releases/archives) | [*5.4.38*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.39-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.39*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.39](http://windows.php.net/downloads/releases/archives) | [*5.4.39*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.4](http://windows.php.net/downloads/releases/archives) | [*5.4.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.40-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.40*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.40](http://windows.php.net/downloads/releases/archives) | [*5.4.40*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.41-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.41*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.41](http://windows.php.net/downloads/releases/archives) | [*5.4.41*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.42-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.42*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.42](http://windows.php.net/downloads/releases/archives) | [*5.4.42*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.43-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.43*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.43](http://windows.php.net/downloads/releases/archives) | [*5.4.43*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.44-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.44*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.44](http://windows.php.net/downloads/releases/archives) | [*5.4.44*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.45-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.45*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.45](http://windows.php.net/downloads/releases/archives) | [*5.4.45*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.5-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.5](http://windows.php.net/downloads/releases/archives) | [*5.4.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.6](http://windows.php.net/downloads/releases/archives) | [*5.4.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.7](http://windows.php.net/downloads/releases/archives) | [*5.4.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.8](http://windows.php.net/downloads/releases/archives) | [*5.4.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.4.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4.9](http://windows.php.net/downloads/releases/archives) | [*5.4.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.4](http://windows.php.net/downloads/releases/archives) | [*5.4.45*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5-nts](http://windows.php.net/downloads/releases/) | [5.5.38](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.0-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.0](http://windows.php.net/downloads/releases/archives) | [*5.5.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.1-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.1](http://windows.php.net/downloads/releases/archives) | [*5.5.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.10](http://windows.php.net/downloads/releases/archives) | [*5.5.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.11](http://windows.php.net/downloads/releases/archives) | [*5.5.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.12](http://windows.php.net/downloads/releases/archives) | [*5.5.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.13](http://windows.php.net/downloads/releases/archives) | [*5.5.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.14](http://windows.php.net/downloads/releases/archives) | [*5.5.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.15](http://windows.php.net/downloads/releases/archives) | [*5.5.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.16](http://windows.php.net/downloads/releases/archives) | [*5.5.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.17](http://windows.php.net/downloads/releases/archives) | [*5.5.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.18-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.18](http://windows.php.net/downloads/releases/archives) | [*5.5.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.19-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.19](http://windows.php.net/downloads/releases/archives) | [*5.5.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.2](http://windows.php.net/downloads/releases/archives) | [*5.5.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.20-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.20](http://windows.php.net/downloads/releases/archives) | [*5.5.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.21-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.21](http://windows.php.net/downloads/releases/archives) | [*5.5.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.22-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.22](http://windows.php.net/downloads/releases/archives) | [*5.5.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.23-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.23](http://windows.php.net/downloads/releases/archives) | [*5.5.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.24-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.24](http://windows.php.net/downloads/releases/archives) | [*5.5.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.25-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.25](http://windows.php.net/downloads/releases/archives) | [*5.5.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.26-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.26](http://windows.php.net/downloads/releases/archives) | [*5.5.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.27-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.27](http://windows.php.net/downloads/releases/archives) | [*5.5.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.28-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.28](http://windows.php.net/downloads/releases/archives) | [*5.5.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.29-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.29](http://windows.php.net/downloads/releases/archives) | [*5.5.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.3](http://windows.php.net/downloads/releases/archives) | [*5.5.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.30-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.30*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.30](http://windows.php.net/downloads/releases/archives) | [*5.5.30*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.31-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.31*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.31](http://windows.php.net/downloads/releases/archives) | [*5.5.31*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.32-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.32*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.32](http://windows.php.net/downloads/releases/archives) | [*5.5.32*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.33-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.33*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.33](http://windows.php.net/downloads/releases/archives) | [*5.5.33*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.34-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.34*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.34](http://windows.php.net/downloads/releases/archives) | [*5.5.34*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.35-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.35*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.35](http://windows.php.net/downloads/releases/archives) | [*5.5.35*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.36-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.36*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.36](http://windows.php.net/downloads/releases/archives) | [*5.5.36*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.37-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.37*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.37](http://windows.php.net/downloads/releases/archives) | [*5.5.37*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.4](http://windows.php.net/downloads/releases/archives) | [*5.5.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.5-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.5](http://windows.php.net/downloads/releases/archives) | [*5.5.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.6](http://windows.php.net/downloads/releases/archives) | [*5.5.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.7](http://windows.php.net/downloads/releases/archives) | [*5.5.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.8](http://windows.php.net/downloads/releases/archives) | [*5.5.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.5.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5.9](http://windows.php.net/downloads/releases/archives) | [*5.5.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.5](http://windows.php.net/downloads/releases/) | [5.5.38](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6-nts](http://windows.php.net/downloads/releases/) | [5.6.34](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.0-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.0](http://windows.php.net/downloads/releases/archives) | [*5.6.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.1-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.1](http://windows.php.net/downloads/releases/archives) | [*5.6.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.10-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.10](http://windows.php.net/downloads/releases/archives) | [*5.6.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.11-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.11](http://windows.php.net/downloads/releases/archives) | [*5.6.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.12-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.12](http://windows.php.net/downloads/releases/archives) | [*5.6.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.13-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.13](http://windows.php.net/downloads/releases/archives) | [*5.6.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.14-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.14](http://windows.php.net/downloads/releases/archives) | [*5.6.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.15-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.15](http://windows.php.net/downloads/releases/archives) | [*5.6.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.16-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.16](http://windows.php.net/downloads/releases/archives) | [*5.6.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.17-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.17](http://windows.php.net/downloads/releases/archives) | [*5.6.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.18-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.18](http://windows.php.net/downloads/releases/archives) | [*5.6.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.19-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.19](http://windows.php.net/downloads/releases/archives) | [*5.6.19*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.2-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.2](http://windows.php.net/downloads/releases/archives) | [*5.6.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.20-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.20](http://windows.php.net/downloads/releases/archives) | [*5.6.20*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.21-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.21](http://windows.php.net/downloads/releases/archives) | [*5.6.21*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.22-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.22](http://windows.php.net/downloads/releases/archives) | [*5.6.22*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.23-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.23](http://windows.php.net/downloads/releases/archives) | [*5.6.23*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.24-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.24](http://windows.php.net/downloads/releases/archives) | [*5.6.24*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.25-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.25](http://windows.php.net/downloads/releases/archives) | [*5.6.25*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.26-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.26](http://windows.php.net/downloads/releases/archives) | [*5.6.26*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.27-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.27](http://windows.php.net/downloads/releases/archives) | [*5.6.27*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.28-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.28](http://windows.php.net/downloads/releases/archives) | [*5.6.28*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.29-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.29](http://windows.php.net/downloads/releases/archives) | [*5.6.29*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.3-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.3](http://windows.php.net/downloads/releases/archives) | [*5.6.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.4-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.4](http://windows.php.net/downloads/releases/archives) | [*5.6.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.5-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.5](http://windows.php.net/downloads/releases/archives) | [*5.6.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.6-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.6](http://windows.php.net/downloads/releases/archives) | [*5.6.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.7-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.7](http://windows.php.net/downloads/releases/archives) | [*5.6.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.8-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.8](http://windows.php.net/downloads/releases/archives) | [*5.6.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.9-nts](http://windows.php.net/downloads/releases/archives) | [*5.6.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6.9](http://windows.php.net/downloads/releases/archives) | [*5.6.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php5.6](http://windows.php.net/downloads/releases/) | [5.6.34](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0-nts](http://windows.php.net/downloads/releases/) | [7.0.28](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.0-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.0](http://windows.php.net/downloads/releases/archives) | [*7.0.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.1-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.1](http://windows.php.net/downloads/releases/archives) | [*7.0.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.10-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.10](http://windows.php.net/downloads/releases/archives) | [*7.0.10*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.11-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.11](http://windows.php.net/downloads/releases/archives) | [*7.0.11*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.12-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.12](http://windows.php.net/downloads/releases/archives) | [*7.0.12*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.13-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.13](http://windows.php.net/downloads/releases/archives) | [*7.0.13*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.14-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.14](http://windows.php.net/downloads/releases/archives) | [*7.0.14*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.15-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.15](http://windows.php.net/downloads/releases/archives) | [*7.0.15*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.16-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.16](http://windows.php.net/downloads/releases/archives) | [*7.0.16*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.17-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.17](http://windows.php.net/downloads/releases/archives) | [*7.0.17*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.18-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.18](http://windows.php.net/downloads/releases/archives) | [*7.0.18*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.2-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.2](http://windows.php.net/downloads/releases/archives) | [*7.0.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.3-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.3](http://windows.php.net/downloads/releases/archives) | [*7.0.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.4-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.4](http://windows.php.net/downloads/releases/archives) | [*7.0.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.5-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.5](http://windows.php.net/downloads/releases/archives) | [*7.0.5*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.6-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.6](http://windows.php.net/downloads/releases/archives) | [*7.0.6*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.7-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.7](http://windows.php.net/downloads/releases/archives) | [*7.0.7*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.8-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.8](http://windows.php.net/downloads/releases/archives) | [*7.0.8*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.9-nts](http://windows.php.net/downloads/releases/archives) | [*7.0.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0.9](http://windows.php.net/downloads/releases/archives) | [*7.0.9*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.0](http://windows.php.net/downloads/releases/) | [7.0.28](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1-nts](http://windows.php.net/downloads/releases/) | [7.1.15](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.0-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.0](http://windows.php.net/downloads/releases/archives) | [*7.1.0*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.1-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.1](http://windows.php.net/downloads/releases/archives) | [*7.1.1*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.2-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.2](http://windows.php.net/downloads/releases/archives) | [*7.1.2*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.3-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.3](http://windows.php.net/downloads/releases/archives) | [*7.1.3*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.4-nts](http://windows.php.net/downloads/releases/archives) | [*7.1.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1.4](http://windows.php.net/downloads/releases/archives) | [*7.1.4*](http://windows.php.net/downloads/releases/archives) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.1](http://windows.php.net/downloads/releases/) | [7.1.15](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.2-nts](http://windows.php.net/downloads/releases/) | [7.2.0](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
+| [php7.2](http://windows.php.net/downloads/releases/) | [7.2.3](http://windows.php.net/downloads/releases/) |  | [Link](http://www.php.net/license/3_01.txt) |
 ### <a name="Nunnery_ScoopBucket" id="Nunnery_ScoopBucket"></a>[Nunnery/ScoopBucket](https://github.com/Nunnery/ScoopBucket) [&#x2934;](#back_Nunnery_ScoopBucket)
 
 
@@ -2791,55 +2791,55 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [ditto-np](http://ditto-cp.sourceforge.net/) | [3.21.223.0](http://ditto-cp.sourceforge.net/) |  |  |
-| [everything-np](https://www.voidtools.com/) | [1.4.1.895](https://www.voidtools.com/) |  | [Link](https://www.voidtools.com/License.txt "https://www.voidtools.com/License.txt") |
+| [everything-np](https://www.voidtools.com/) | [1.4.1.895](https://www.voidtools.com/) |  | [Link](https://www.voidtools.com/License.txt) |
 | [innosetup-np](http://www.jrsoftware.org/isinfo.php) | [5.6.0](http://www.jrsoftware.org/isinfo.php) |  | Inno Setup License |
 | [nodejs-lts-np](https://nodejs.org) | [8.11.3](https://nodejs.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [nodejs-np](https://nodejs.org) | [10.4.1](https://nodejs.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [notepadplusplus-np](https://notepad-plus-plus.org/) | [7.5.6](https://notepad-plus-plus.org/) |  | GPL |
-| [nsis-np](http://nsis.sourceforge.net/) | [3.03](http://nsis.sourceforge.net/) |  | [Link](http://nsis.sourceforge.net/License "http://nsis.sourceforge.net/License") |
+| [nsis-np](http://nsis.sourceforge.net/) | [3.03](http://nsis.sourceforge.net/) |  | [Link](http://nsis.sourceforge.net/License) |
 ### <a name="ondr3j_scoop-misc" id="ondr3j_scoop-misc"></a>[ondr3j/scoop-misc](https://github.com/ondr3j/scoop-misc) [&#x2934;](#back_ondr3j_scoop-misc)
 *My "Miscellaneous" bucket for Scoop*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [acpica](https://acpica.org/) | [*20170224*](https://acpica.org/) |  | [Link](https://acpica.org/Licensing "https://acpica.org/Licensing") |
+| [acpica](https://acpica.org/) | [*20170224*](https://acpica.org/) |  | [Link](https://acpica.org/Licensing) |
 | [bison](https://www.gnu.org/software/bison/) | [*3.0.4*](https://www.gnu.org/software/bison/) |  | GPL |
-| [c-client](https://www.washington.edu/imap/) | [*2007f*](https://www.washington.edu/imap/) |  | [Link](http://www.apache.org/licenses/LICENSE-2.0 "http://www.apache.org/licenses/LICENSE-2.0") |
+| [c-client](https://www.washington.edu/imap/) | [*2007f*](https://www.washington.edu/imap/) |  | [Link](http://www.apache.org/licenses/LICENSE-2.0) |
 | [coffimplib](http://www.digitalmars.com/ctg/coffimplib.html) | [*0.01*](http://www.digitalmars.com/ctg/coffimplib.html) |  |  |
 | [curl](https://curl.haxx.se/) |  | string indices must be integers |  |
 | [dirent](http://www.two-sdg.demon.co.uk/curbralan/code/dirent/dirent.html) | [*20080629*](http://www.two-sdg.demon.co.uk/curbralan/code/dirent/dirent.html) |  |  |
 | [dmd](http://dlang.org/) | [2.071.2](http://dlang.org/) |  | Boost |
-| [dub](http://code.dlang.org/) | [1.0.0](http://code.dlang.org/) |  | [Link](https://raw.githubusercontent.com/rejectedsoftware/dub/master/LICENSE.txt "https://raw.githubusercontent.com/rejectedsoftware/dub/master/LICENSE.txt") |
+| [dub](http://code.dlang.org/) | [1.0.0](http://code.dlang.org/) |  | [Link](https://raw.githubusercontent.com/rejectedsoftware/dub/master/LICENSE.txt) |
 | [elevate](http://code.kliu.org/misc/elevate/) | [*1.3.0*](http://code.kliu.org/misc/elevate/) |  |  |
 | [fciv](https://support.microsoft.com/en-us/kb/841290) | [*2004-05-17*](https://support.microsoft.com/en-us/kb/841290) |  | Microsoft EULA |
 | [file](http://www.darwinsys.com/file/) | [*5.29*](http://www.darwinsys.com/file/) |  |  |
 | [flex](https://www.gnu.org/software/flex/) | [*2.6.3*](https://www.gnu.org/software/flex/) |  | BSD |
-| [freetype](https://www.freetype.org/) | [*2.7.0*](https://www.freetype.org/) |  | [Link](https://www.freetype.org/license.html "https://www.freetype.org/license.html") |
+| [freetype](https://www.freetype.org/) | [*2.7.0*](https://www.freetype.org/) |  | [Link](https://www.freetype.org/license.html) |
 | [glib](https://wiki.gnome.org/Projects/GLib) | [*2.49.4*](https://wiki.gnome.org/Projects/GLib) |  | LGPL |
-| [icu](http://site.icu-project.org/) | [*57.1*](http://site.icu-project.org/) |  | [Link](http://www.unicode.org/copyright.html#License "http://www.unicode.org/copyright.html#License") |
-| [ldc](https://wiki.dlang.org/LDC) | [*1.1.0-beta6*](https://wiki.dlang.org/LDC) |  | [Link](https://raw.githubusercontent.com/ldc-developers/ldc/master/LICENSE "https://raw.githubusercontent.com/ldc-developers/ldc/master/LICENSE") |
-| [libargon2](https://github.com/P-H-C/phc-winner-argon2) | [*20160821*](https://github.com/P-H-C/phc-winner-argon2) |  | [Link](https://raw.githubusercontent.com/P-H-C/phc-winner-argon2/master/LICENSE "https://raw.githubusercontent.com/P-H-C/phc-winner-argon2/master/LICENSE") |
-| [libbzip2](http://www.bzip.org/) | [*1.0.6*](http://www.bzip.org/) |  | [Link](https://raw.githubusercontent.com/winlibs/libbzip2/master/LICENSE "https://raw.githubusercontent.com/winlibs/libbzip2/master/LICENSE") |
-| [libffi](https://sourceware.org/libffi/) | [*3.2.1*](https://sourceware.org/libffi/) |  | [Link](https://raw.githubusercontent.com/libffi/libffi/master/LICENSE "https://raw.githubusercontent.com/libffi/libffi/master/LICENSE") |
+| [icu](http://site.icu-project.org/) | [*57.1*](http://site.icu-project.org/) |  | [Link](http://www.unicode.org/copyright.html#License) |
+| [ldc](https://wiki.dlang.org/LDC) | [*1.1.0-beta6*](https://wiki.dlang.org/LDC) |  | [Link](https://raw.githubusercontent.com/ldc-developers/ldc/master/LICENSE) |
+| [libargon2](https://github.com/P-H-C/phc-winner-argon2) | [*20160821*](https://github.com/P-H-C/phc-winner-argon2) |  | [Link](https://raw.githubusercontent.com/P-H-C/phc-winner-argon2/master/LICENSE) |
+| [libbzip2](http://www.bzip.org/) | [*1.0.6*](http://www.bzip.org/) |  | [Link](https://raw.githubusercontent.com/winlibs/libbzip2/master/LICENSE) |
+| [libffi](https://sourceware.org/libffi/) | [*3.2.1*](https://sourceware.org/libffi/) |  | [Link](https://raw.githubusercontent.com/libffi/libffi/master/LICENSE) |
 | [libiconv](https://www.gnu.org/software/libiconv/) | [*1.14*](https://www.gnu.org/software/libiconv/) |  | LGPL |
 | [libintl](https://www.gnu.org/software/gettext/) | [*0.18.3*](https://www.gnu.org/software/gettext/) |  | LGPL |
-| [libjpeg](http://libjpeg.sourceforge.net/) | [*9b*](http://libjpeg.sourceforge.net/) |  | [Link](https://raw.githubusercontent.com/winlibs/libjpeg/master/README "https://raw.githubusercontent.com/winlibs/libjpeg/master/README") |
+| [libjpeg](http://libjpeg.sourceforge.net/) | [*9b*](http://libjpeg.sourceforge.net/) |  | [Link](https://raw.githubusercontent.com/winlibs/libjpeg/master/README) |
 | [libmcrypt](http://mcrypt.sourceforge.net/) | [*2.5.8*](http://mcrypt.sourceforge.net/) |  | GPL |
-| [libpng](http://www.libpng.org/pub/png/libpng.html) | [*1.6.21*](http://www.libpng.org/pub/png/libpng.html) |  | [Link](http://www.libpng.org/pub/png/src/libpng-LICENSE.txt "http://www.libpng.org/pub/png/src/libpng-LICENSE.txt") |
-| [libsasl](http://cyrusimap.web.cmu.edu/) | [*2.1.25*](http://cyrusimap.web.cmu.edu/) |  | [Link](https://cyrusimap.org/imap/installation.html#licensing "https://cyrusimap.org/imap/installation.html#licensing") |
-| [libssh2](https://www.libssh2.org/) | [*1.8.0*](https://www.libssh2.org/) |  | [Link](https://www.libssh2.org/license.html "https://www.libssh2.org/license.html") |
-| [libxml2](http://xmlsoft.org/) | [*2.9.4-1*](http://xmlsoft.org/) |  | [Link](https://raw.githubusercontent.com/GNOME/libxml2/master/Copyright "https://raw.githubusercontent.com/GNOME/libxml2/master/Copyright") |
-| [libxpm](https://www.x.org/wiki/) | [*3.5.11*](https://www.x.org/wiki/) |  | [Link](https://raw.githubusercontent.com/winlibs/libxpm/master/COPYRIGHT "https://raw.githubusercontent.com/winlibs/libxpm/master/COPYRIGHT") |
-| [libxslt](http://xmlsoft.org/libxslt/) | [*1.1.29*](http://xmlsoft.org/libxslt/) |  | [Link](https://raw.githubusercontent.com/GNOME/libxslt/master/Copyright "https://raw.githubusercontent.com/GNOME/libxslt/master/Copyright") |
+| [libpng](http://www.libpng.org/pub/png/libpng.html) | [*1.6.21*](http://www.libpng.org/pub/png/libpng.html) |  | [Link](http://www.libpng.org/pub/png/src/libpng-LICENSE.txt) |
+| [libsasl](http://cyrusimap.web.cmu.edu/) | [*2.1.25*](http://cyrusimap.web.cmu.edu/) |  | [Link](https://cyrusimap.org/imap/installation.html#licensing) |
+| [libssh2](https://www.libssh2.org/) | [*1.8.0*](https://www.libssh2.org/) |  | [Link](https://www.libssh2.org/license.html) |
+| [libxml2](http://xmlsoft.org/) | [*2.9.4-1*](http://xmlsoft.org/) |  | [Link](https://raw.githubusercontent.com/GNOME/libxml2/master/Copyright) |
+| [libxpm](https://www.x.org/wiki/) | [*3.5.11*](https://www.x.org/wiki/) |  | [Link](https://raw.githubusercontent.com/winlibs/libxpm/master/COPYRIGHT) |
+| [libxslt](http://xmlsoft.org/libxslt/) | [*1.1.29*](http://xmlsoft.org/libxslt/) |  | [Link](https://raw.githubusercontent.com/GNOME/libxslt/master/Copyright) |
 | [lzo](http://www.oberhumer.com/opensource/lzo/) | [*2.09*](http://www.oberhumer.com/opensource/lzo/) |  | GPL2 |
 | [lzop](https://www.lzop.org/) | [*1.03*](https://www.lzop.org/) |  | GPL |
-| [openssl](https://www.openssl.org/) | [*1.0.2k*](https://www.openssl.org/) |  | [Link](https://www.openssl.org/source/license.txt "https://www.openssl.org/source/license.txt") |
-| [re2c](https://www.gnu.org/software/bison/) | [*0.14.3*](https://www.gnu.org/software/bison/) |  | [Link](http://re2c.org/about/about.html "http://re2c.org/about/about.html") |
+| [openssl](https://www.openssl.org/) | [*1.0.2k*](https://www.openssl.org/) |  | [Link](https://www.openssl.org/source/license.txt) |
+| [re2c](https://www.gnu.org/software/bison/) | [*0.14.3*](https://www.gnu.org/software/bison/) |  | [Link](http://re2c.org/about/about.html) |
 | [rsvg-convert](https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html) | [*2.40.16*](https://opensourcepack.blogspot.com/2012/06/rsvg-convert-svg-image-conversion-tool.html) |  | GPL2 |
-| [wineditline](http://mingweditline.sourceforge.net/) | [*2.2*](http://mingweditline.sourceforge.net/) |  | [Link](http://mingweditline.sourceforge.net/?License "http://mingweditline.sourceforge.net/?License") |
-| [xz](http://tukaani.org/xz/) | [*5.2.2*](http://tukaani.org/xz/) |  | [Link](http://tukaani.org/xz/#licensing "http://tukaani.org/xz/#licensing") |
-| [zip](http://www.info-zip.org) | [*3.0*](http://www.info-zip.org) |  | [Link](http://www.info-zip.org/doc/LICENSE "http://www.info-zip.org/doc/LICENSE") |
-| [zlib](http://www.zlib.net/) | [*1.2.8*](http://www.zlib.net/) |  | [Link](http://www.zlib.net/zlib_license.html "http://www.zlib.net/zlib_license.html") |
+| [wineditline](http://mingweditline.sourceforge.net/) | [*2.2*](http://mingweditline.sourceforge.net/) |  | [Link](http://mingweditline.sourceforge.net/?License) |
+| [xz](http://tukaani.org/xz/) | [*5.2.2*](http://tukaani.org/xz/) |  | [Link](http://tukaani.org/xz/#licensing) |
+| [zip](http://www.info-zip.org) | [*3.0*](http://www.info-zip.org) |  | [Link](http://www.info-zip.org/doc/LICENSE) |
+| [zlib](http://www.zlib.net/) | [*1.2.8*](http://www.zlib.net/) |  | [Link](http://www.zlib.net/zlib_license.html) |
 ### <a name="pastleo_scoop-bucket" id="pastleo_scoop-bucket"></a>[pastleo/scoop-bucket](https://github.com/pastleo/scoop-bucket) [&#x2934;](#back_pastleo_scoop-bucket)
 *My Scoop Bucket*
 
@@ -2874,17 +2874,17 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [bitwarden](https://bitwarden.com/) | [*1.2.0*](https://bitwarden.com/) | The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data. | [Link](https://github.com/bitwarden/desktop/blob/master/LICENSE.txt "https://github.com/bitwarden/desktop/blob/master/LICENSE.txt") |
+| [bitwarden](https://bitwarden.com/) | [*1.2.0*](https://bitwarden.com/) | The easiest and safest way for individuals, teams, and business organizations to store, share, and sync sensitive data. | [Link](https://github.com/bitwarden/desktop/blob/master/LICENSE.txt) |
 | [deezer]() |  | Expecting &#39;,&#39; delimiter: line 1 column 296 (char 295) |  |
-| [norman](https://normanlayout.info/) | [*2.0.0*](https://normanlayout.info/) | Norman is a fully optimized alternative keyboard layout to QWERTY for touch typing in English. | [Link](https://github.com/deekayen/norman/blob/master/LICENSE "https://github.com/deekayen/norman/blob/master/LICENSE") |
+| [norman](https://normanlayout.info/) | [*2.0.0*](https://normanlayout.info/) | Norman is a fully optimized alternative keyboard layout to QWERTY for touch typing in English. | [Link](https://github.com/deekayen/norman/blob/master/LICENSE) |
 | [steam](https://store.steampowered.com/) | [*v018.1526499729*](https://store.steampowered.com/) |  |  |
-| [visual-studio-code](https://code.visualstudio.com) | [*1.23.1*](https://code.visualstudio.com) | Code editing. Redefined. | [Link](https://github.com/Microsoft/vscode/blob/master/LICENSE.txt "https://github.com/Microsoft/vscode/blob/master/LICENSE.txt") |
+| [visual-studio-code](https://code.visualstudio.com) | [*1.23.1*](https://code.visualstudio.com) | Code editing. Redefined. | [Link](https://github.com/Microsoft/vscode/blob/master/LICENSE.txt) |
 ### <a name="plombard_scoop-bucket" id="plombard_scoop-bucket"></a>[plombard/scoop-bucket](https://github.com/plombard/scoop-bucket) [&#x2934;](#back_plombard_scoop-bucket)
 *Personal bucket for scoop installs*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [zulujdk](https://www.azul.com/products/zulu-and-zulu-enterprise/) | [*10.1.11*](https://www.azul.com/products/zulu-and-zulu-enterprise/) |  | [Link](https://www.azul.com/products/zulu-and-zulu-enterprise/zulu-terms-of-use/ "https://www.azul.com/products/zulu-and-zulu-enterprise/zulu-terms-of-use/") |
+| [zulujdk](https://www.azul.com/products/zulu-and-zulu-enterprise/) | [*10.1.11*](https://www.azul.com/products/zulu-and-zulu-enterprise/) |  | [Link](https://www.azul.com/products/zulu-and-zulu-enterprise/zulu-terms-of-use/) |
 ### <a name="ponta555_scoop-bucket" id="ponta555_scoop-bucket"></a>[ponta555/scoop-bucket](https://github.com/ponta555/scoop-bucket) [&#x2934;](#back_ponta555_scoop-bucket)
 *My scoop bucket.*
 
@@ -2892,7 +2892,7 @@
 | :--- | :--- | :--- | :--- |
 | [aida64](https://aida64.com/products/aida64-extreme) | [*5.97.4600*](https://aida64.com/products/aida64-extreme) |  | [Proprietary](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses)&hellip; |
 | [clibor](https://amunsnet.com/soft.html) | [2.0.5](https://amunsnet.com/soft.html) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware)&hellip; |
-| [fsviewer.ja](['http://www.faststone.org/FSViewerDetail.htm', 'http://tiltstr.seesaa.net/article/125999663.html']) | [6.5](['http://www.faststone.org/FSViewerDetail.htm', 'http://tiltstr.seesaa.net/article/125999663.html']) |  | [Link](http://faststone.org/order.htm "http://faststone.org/order.htm") |
+| [fsviewer.ja](['http://www.faststone.org/FSViewerDetail.htm', 'http://tiltstr.seesaa.net/article/125999663.html']) | [6.5](['http://www.faststone.org/FSViewerDetail.htm', 'http://tiltstr.seesaa.net/article/125999663.html']) |  | [Link](http://faststone.org/order.htm) |
 | [strokeplus](https://strokesplus.com) | [2.8.6.4](https://strokesplus.com) |  |  |
 ### <a name="Praqma_scoop-praqma-tools" id="Praqma_scoop-praqma-tools"></a>[Praqma/scoop-praqma-tools](https://github.com/Praqma/scoop-praqma-tools) [&#x2934;](#back_Praqma_scoop-praqma-tools)
 *Scoop bucket for command line tools on windows*
@@ -2928,7 +2928,7 @@
 | [api-monitor](http://www.rohitab.com/apimonitor) | [2r13](http://www.rohitab.com/apimonitor) | Monitor API calls | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [attr](https://github.com/rasa/attr) | [1.6](https://github.com/rasa/attr) | Display and set attributes on files and directories | [MIT](https://opensource.org/licenses/MIT) |
 | [audacity-ffmpeg-plugin](http://lame.buanzo.org/) | [2.2.2](http://lame.buanzo.org/) | FFMPEG plugin for Audacity | [LGPL-2.1](https://opensource.org/licenses/LGPL-2.1) |
-| [audacity-lame-plugin](http://lame.buanzo.org/) | [3.100](http://lame.buanzo.org/) | LAME plugin for Audacity | [Link](http://lame.sourceforge.net/license.txt "http://lame.sourceforge.net/license.txt") |
+| [audacity-lame-plugin](http://lame.buanzo.org/) | [3.100](http://lame.buanzo.org/) | LAME plugin for Audacity | [Link](http://lame.sourceforge.net/license.txt) |
 | [babelmap](http://www.babelstone.co.uk/Software/BabelMap.html) | [11.0.0.1](http://www.babelstone.co.uk/Software/BabelMap.html) | Display Unicode character maps | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [babelpad](http://www.babelstone.co.uk/Software/BabelPad.html) | [10.0.0.6](http://www.babelstone.co.uk/Software/BabelPad.html) | Unicode text editor | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [cherrytree](https://www.giuspen.com/cherrytree) | [0.38.5](https://www.giuspen.com/cherrytree) | Hierarchical note taking application | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
@@ -2967,7 +2967,7 @@
 | [noto-sans-font](https://www.google.com/get/noto/) | [*2017.10.25*](https://www.google.com/get/noto/) | Noto sans serif display font | [OFL-1.1](https://opensource.org/licenses/OFL-1.1) |
 | [noto-serif-font](https://www.google.com/get/noto/) | [*2017.10.25*](https://www.google.com/get/noto/) | Noto serif font | [OFL-1.1](https://opensource.org/licenses/OFL-1.1) |
 | [ntttcp](https://gallery.technet.microsoft.com/NTttcp-Version-528-Now-f8b12769) | [*5.33*](https://gallery.technet.microsoft.com/NTttcp-Version-528-Now-f8b12769) | Profile and Measure Windows Networking Performance | Custom |
-| [outwit](https://www.spinellis.gr/sw/outwit/) | [1.25](https://www.spinellis.gr/sw/outwit/) | Diomidis Spinellis&#39;s outwit suite | [Link](https://raw.githubusercontent.com/dspinellis/outwit/master/LICENSE "https://raw.githubusercontent.com/dspinellis/outwit/master/LICENSE") |
+| [outwit](https://www.spinellis.gr/sw/outwit/) | [1.25](https://www.spinellis.gr/sw/outwit/) | Diomidis Spinellis&#39;s outwit suite | [Link](https://raw.githubusercontent.com/dspinellis/outwit/master/LICENSE) |
 | [path-set](https://github.com/rasa/path_set) | [1.6](https://github.com/rasa/path_set) | Modify system and user environment variables | [MIT](https://opensource.org/licenses/MIT) |
 | [poweroff](http://users.telenet.be/jbosman/poweroff/poweroff.htm) | [3.0.1.3](http://users.telenet.be/jbosman/poweroff/poweroff.htm) | Poweroff system utility | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [py](https://bitbucket.org/vinay.sajip/pylauncher/downloads/) | [1.0.1.6](https://bitbucket.org/vinay.sajip/pylauncher/downloads/) | Find and launch Python | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
@@ -2997,7 +2997,7 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [miktex](http://miktex.org) | [*2.9.5857*](http://miktex.org) |  | [Link](http://miktex.org/copying "http://miktex.org/copying") |
+| [miktex](http://miktex.org) | [*2.9.5857*](http://miktex.org) |  | [Link](http://miktex.org/copying) |
 | [pandoc](http://johnmacfarlane.net/pandoc/) | [*1.16.0.2*](http://johnmacfarlane.net/pandoc/) |  | GPL |
 | [red-latest](http://www.red-lang.org) | [*latest*](http://www.red-lang.org) |  |  |
 | [red](http://www.red-lang.org) | [*0.6.1*](http://www.red-lang.org) |  |  |
@@ -3013,17 +3013,17 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [7zip@16.04](http://www.7-zip.org/) | [16.04](http://www.7-zip.org/) |  | [Link](http://www.7-zip.org/license.txt "http://www.7-zip.org/license.txt") |
-| [7zip@9.38](http://www.7-zip.org/) | [9.38](http://www.7-zip.org/) |  | [Link](http://www.7-zip.org/license.txt "http://www.7-zip.org/license.txt") |
+| [7zip@16.04](http://www.7-zip.org/) | [16.04](http://www.7-zip.org/) |  | [Link](http://www.7-zip.org/license.txt) |
+| [7zip@9.38](http://www.7-zip.org/) | [9.38](http://www.7-zip.org/) |  | [Link](http://www.7-zip.org/license.txt) |
 | [ant](http://ant.apache.org/) | [*1.9.6*](http://ant.apache.org/) |  | Apache 2.0 |
 | [ant@1.9.6](http://ant.apache.org/) | [*1.9.6*](http://ant.apache.org/) |  | Apache 2.0 |
 | [ant@1.9.7](http://ant.apache.org/) | [*1.9.7*](http://ant.apache.org/) |  | Apache 2.0 |
 | [bvssh](https://www.bitvise.com/ssh-client) | [*6.43*](https://www.bitvise.com/ssh-client) |  | Free use |
-| [cmake@+gui](http://www.cmake.org/) | [3.2.2+gui](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/ "http://www.cmake.org/licensing/") |
-| [cmake@-gui](http://www.cmake.org/) | [3.2.2-gui](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/ "http://www.cmake.org/licensing/") |
-| [cmake@3.2.2+gui](http://www.cmake.org/) | [3.2.2+gui](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/ "http://www.cmake.org/licensing/") |
-| [cmake@3.2.2-gui](http://www.cmake.org/) | [3.2.2-gui](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/ "http://www.cmake.org/licensing/") |
-| [cmake@3.2.2](http://www.cmake.org/) | [3.2.2](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/ "http://www.cmake.org/licensing/") |
+| [cmake@+gui](http://www.cmake.org/) | [3.2.2+gui](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/) |
+| [cmake@-gui](http://www.cmake.org/) | [3.2.2-gui](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/) |
+| [cmake@3.2.2+gui](http://www.cmake.org/) | [3.2.2+gui](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/) |
+| [cmake@3.2.2-gui](http://www.cmake.org/) | [3.2.2-gui](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/) |
+| [cmake@3.2.2](http://www.cmake.org/) | [3.2.2](http://www.cmake.org/) |  | [Link](http://www.cmake.org/licensing/) |
 | [colortool](https://github.com/Microsoft/console/tree/master/tools/ColorTool) | [*1.0.6564.32947*](https://github.com/Microsoft/console/tree/master/tools/ColorTool) |  |  |
 | [colortool@1.0.6564.32947](https://github.com/Microsoft/console/tree/master/tools/ColorTool) | [*1.0.6564.32947*](https://github.com/Microsoft/console/tree/master/tools/ColorTool) |  |  |
 | [curl](http://curl.haxx.se/) | [7.49.1](http://curl.haxx.se/) |  |  |
@@ -3039,9 +3039,9 @@
 | [git](https://git-for-windows.github.io/) | [2.17.1.windows.2](https://git-for-windows.github.io/) |  | GPL2 |
 | [git@2.10.0](https://git-for-windows.github.io/) | [*2.10.0.windows.1*](https://git-for-windows.github.io/) |  | GPL2 |
 | [git@2.17.1.2](https://git-for-windows.github.io/) | [2.17.1.windows.2](https://git-for-windows.github.io/) |  | GPL2 |
-| [go](https://golang.org) | [1.10](https://golang.org) |  | [Link](https://golang.org/LICENSE "https://golang.org/LICENSE") |
-| [go@1.10](https://golang.org) | [1.10](https://golang.org) |  | [Link](https://golang.org/LICENSE "https://golang.org/LICENSE") |
-| [go@1.7.3](https://golang.org) | [1.7.3](https://golang.org) |  | [Link](https://golang.org/LICENSE "https://golang.org/LICENSE") |
+| [go](https://golang.org) | [1.10](https://golang.org) |  | [Link](https://golang.org/LICENSE) |
+| [go@1.10](https://golang.org) | [1.10](https://golang.org) |  | [Link](https://golang.org/LICENSE) |
+| [go@1.7.3](https://golang.org) | [1.7.3](https://golang.org) |  | [Link](https://golang.org/LICENSE) |
 | [gow@0.8.0-min](https://github.com/bmatzelle/gow) | [0.8.0-min](https://github.com/bmatzelle/gow) |  |  |
 | [gow@0.8.0](https://github.com/bmatzelle/gow) | [0.8.0](https://github.com/bmatzelle/gow) |  |  |
 | [gpg](https://gnupg.org) | [2.0.30](https://gnupg.org) |  | GPLv3 |
@@ -3078,14 +3078,14 @@
 | [openjdk](https://github.com/ojdkbuild/ojdkbuild) | [1.8.0.121-1](https://github.com/ojdkbuild/ojdkbuild) |  | GPL2 |
 | [openjdk@1.8.0.121](https://github.com/ojdkbuild/ojdkbuild) | [1.8.0.121-1](https://github.com/ojdkbuild/ojdkbuild) |  | GPL2 |
 | [openssh](https://git-for-windows.github.io/) | [*7.7p1*](https://git-for-windows.github.io/) |  | GPL2 |
-| [openssh@5.4p1-1](https://github.com/rivy/scoop-bucket/blob/master/openssh@5.4p1-1.json) | *5.4p1-1* |  | [Link](http://www.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh/LICENCE?rev=HEAD "http://www.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh/LICENCE?rev=HEAD") |
-| [openssh@7.1p1](https://github.com/rivy/scoop-bucket/blob/master/openssh@7.1p1.json) | *7.1p1* |  | [Link](https://github.com/PowerShell/Win32-OpenSSH/blob/L1/LICENCE "https://github.com/PowerShell/Win32-OpenSSH/blob/L1/LICENCE") |
+| [openssh@5.4p1-1](https://github.com/rivy/scoop-bucket/blob/master/openssh@5.4p1-1.json) | *5.4p1-1* |  | [Link](http://www.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh/LICENCE?rev=HEAD) |
+| [openssh@7.1p1](https://github.com/rivy/scoop-bucket/blob/master/openssh@7.1p1.json) | *7.1p1* |  | [Link](https://github.com/PowerShell/Win32-OpenSSH/blob/L1/LICENCE) |
 | [openssh@7.1p2](https://git-for-windows.github.io/) | [*7.1p2*](https://git-for-windows.github.io/) |  | GPL2 |
 | [openssh@7.5p1](https://git-for-windows.github.io/) | [*7.5p1*](https://git-for-windows.github.io/) |  | GPL2 |
 | [openssh@7.6p1](https://git-for-windows.github.io/) | [*7.6p1*](https://git-for-windows.github.io/) |  | GPL2 |
 | [openssh@7.7p1](https://git-for-windows.github.io/) | [*7.7p1*](https://git-for-windows.github.io/) |  | GPL2 |
 | [openssh@latest](https://git-for-windows.github.io/) | [*7.7p1*](https://git-for-windows.github.io/) |  | GPL2 |
-| [openssl@1.0.2d](http://slproweb.com/products/Win32OpenSSL.html) | [1.0.2d](http://slproweb.com/products/Win32OpenSSL.html) |  | [Link](https://www.openssl.org/source/license.html "https://www.openssl.org/source/license.html") |
+| [openssl@1.0.2d](http://slproweb.com/products/Win32OpenSSL.html) | [1.0.2d](http://slproweb.com/products/Win32OpenSSL.html) |  | [Link](https://www.openssl.org/source/license.html) |
 | [pcregrep](http://pcre.org) | [*10.20*](http://pcre.org) |  | BSD |
 | [perl](http://strawberryperl.com) | [5.20.1.1](http://strawberryperl.com) |  | GPL |
 | [perl@5.10.1.1]() |  | Expecting property name enclosed in double quotes: line 1 column 81 (char 80) |  |
@@ -3113,14 +3113,14 @@
 | [perl@5.26](http://strawberryperl.com) | [*5.26.1.1*](http://strawberryperl.com) |  | GPL |
 | [perl@5.8.8.4](http://strawberryperl.com) | [*5.8.8.4*](http://strawberryperl.com) |  | GPL |
 | [perl@5.8.9.5](http://strawberryperl.com) | [*5.8.9.5*](http://strawberryperl.com) |  | GPL |
-| [pester@3.3.11](https://github.com/pester/Pester) | [*3.3.11*](https://github.com/pester/Pester) |  | [Link](https://raw.githubusercontent.com/pester/Pester/master/LICENSE "https://raw.githubusercontent.com/pester/Pester/master/LICENSE") |
-| [pester@3.3.14](https://github.com/pester/Pester) | [*3.3.14*](https://github.com/pester/Pester) |  | [Link](https://raw.githubusercontent.com/pester/Pester/master/LICENSE "https://raw.githubusercontent.com/pester/Pester/master/LICENSE") |
+| [pester@3.3.11](https://github.com/pester/Pester) | [*3.3.11*](https://github.com/pester/Pester) |  | [Link](https://raw.githubusercontent.com/pester/Pester/master/LICENSE) |
+| [pester@3.3.14](https://github.com/pester/Pester) | [*3.3.14*](https://github.com/pester/Pester) |  | [Link](https://raw.githubusercontent.com/pester/Pester/master/LICENSE) |
 | [pester@4.3.1](https://github.com/pester/Pester) | [4.3.1](https://github.com/pester/Pester) | Pester is a test and mock framework for PowerShell. | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [premake5@5.0.0-alpha8](http://premake.github.io/) | [5.0.0-alpha8](http://premake.github.io/) |  | BSD 3-Clause |
-| [python@2.7](http://www.python.org) | [2.7.10](http://www.python.org) |  | [Link](http://docs.python.org/2/license.html "http://docs.python.org/2/license.html") |
-| [python@3.5.1](http://www.python.org) | [3.5.1](http://www.python.org) |  | [Link](https://docs.python.org/3/license.html "https://docs.python.org/3/license.html") |
-| [python@3.5.2](https://www.python.org/) | [3.5.2](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html "https://docs.python.org/3/license.html") |
-| [python@3](https://www.python.org/) | [3.5.2](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html "https://docs.python.org/3/license.html") |
+| [python@2.7](http://www.python.org) | [2.7.10](http://www.python.org) |  | [Link](http://docs.python.org/2/license.html) |
+| [python@3.5.1](http://www.python.org) | [3.5.1](http://www.python.org) |  | [Link](https://docs.python.org/3/license.html) |
+| [python@3.5.2](https://www.python.org/) | [3.5.2](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html) |
+| [python@3](https://www.python.org/) | [3.5.2](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html) |
 | [restic](https://restic.github.io) | [*0.8.2*](https://restic.github.io) |  | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
 | [restic@0.5.0](https://restic.github.io) | [*0.5.0*](https://restic.github.io) |  | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
 | [restic@0.8.2](https://restic.github.io) | [*0.8.2*](https://restic.github.io) |  | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
@@ -3140,12 +3140,12 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [dbvis](https://www.dbvis.com) | [10.0.12](https://www.dbvis.com) |  | [Link](http://www.dbvis.com/eula/ "http://www.dbvis.com/eula/") |
+| [dbvis](https://www.dbvis.com) | [10.0.12](https://www.dbvis.com) |  | [Link](http://www.dbvis.com/eula/) |
 | [kse](http://keystore-explorer.org/) | [*5.3.2*](http://keystore-explorer.org/) |  |  |
 | [mpmanager](https://sourceforge.net/projects/multiputtymanager/) | [*1.2*](https://sourceforge.net/projects/multiputtymanager/) |  |  |
-| [soapui](https://www.soapui.org/open-source.html) | [*5.4.0*](https://www.soapui.org/open-source.html) |  | [Link](https://www.soapui.org/open-source/soapui-license.html "https://www.soapui.org/open-source/soapui-license.html") |
-| [sql-developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/index.html) | [18.1.0.095.1630](http://www.oracle.com/technetwork/developer-tools/sql-developer/index.html) |  | [Link](http://www.oracle.com/technetwork/licenses/sqldev-license-152021.html "http://www.oracle.com/technetwork/licenses/sqldev-license-152021.html") |
-| [visualvm](https://visualvm.github.io/) | [1.4.1](https://visualvm.github.io/) |  | [Link](https://visualvm.github.io/gplv2+ce.html "https://visualvm.github.io/gplv2+ce.html") |
+| [soapui](https://www.soapui.org/open-source.html) | [*5.4.0*](https://www.soapui.org/open-source.html) |  | [Link](https://www.soapui.org/open-source/soapui-license.html) |
+| [sql-developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/index.html) | [18.1.0.095.1630](http://www.oracle.com/technetwork/developer-tools/sql-developer/index.html) |  | [Link](http://www.oracle.com/technetwork/licenses/sqldev-license-152021.html) |
+| [visualvm](https://visualvm.github.io/) | [1.4.1](https://visualvm.github.io/) |  | [Link](https://visualvm.github.io/gplv2+ce.html) |
 | [zipdiff](http://zipdiff.sourceforge.net/) | [*0.4*](http://zipdiff.sourceforge.net/) |  |  |
 ### <a name="Sandex_scoop-supernova" id="Sandex_scoop-supernova"></a>[Sandex/scoop-supernova](https://github.com/Sandex/scoop-supernova) [&#x2934;](#back_Sandex_scoop-supernova)
 *Scoop bucket*
@@ -3155,9 +3155,9 @@
 | [apache-mod-fcgi](http://www.apachelounge.com) | [*2.3.9*](http://www.apachelounge.com) |  |  |
 | [apache-vc14](http://www.apachelounge.com) | [*2.4.17*](http://www.apachelounge.com) |  | Apache 2.0 |
 | [ms-vc14](https://www.microsoft.com) | [*14*](https://www.microsoft.com) |  |  |
-| [php7](http://windows.php.net/qa/) | [7.0.0](http://windows.php.net/qa/) |  | [Link](http://www.php.net/license/ "http://www.php.net/license/") |
-| [phpstorm](https://www.jetbrains.com/phpstorm/) | [*9.0.2*](https://www.jetbrains.com/phpstorm/) |  | [Link](https://www.jetbrains.com/phpstorm/buy/ "https://www.jetbrains.com/phpstorm/buy/") |
-| [winscp](http://winscp.net) | [*5.7.5*](http://winscp.net) |  | [Link](http://winscp.net/eng/docs/license "http://winscp.net/eng/docs/license") |
+| [php7](http://windows.php.net/qa/) | [7.0.0](http://windows.php.net/qa/) |  | [Link](http://www.php.net/license/) |
+| [phpstorm](https://www.jetbrains.com/phpstorm/) | [*9.0.2*](https://www.jetbrains.com/phpstorm/) |  | [Link](https://www.jetbrains.com/phpstorm/buy/) |
+| [winscp](http://winscp.net) | [*5.7.5*](http://winscp.net) |  | [Link](http://winscp.net/eng/docs/license) |
 ### <a name="sankaku-deltalab_sankaku-app-bucket" id="sankaku-deltalab_sankaku-app-bucket"></a>[sankaku-deltalab/sankaku-app-bucket](https://github.com/sankaku-deltalab/sankaku-app-bucket) [&#x2934;](#back_sankaku-deltalab_sankaku-app-bucket)
 *sankaku-app-bucket is [Scoop](http://scoop.sh/) bucket mainly contains applications used by Sankaku.*
 
@@ -3225,23 +3225,23 @@
 | [nodejs8](https://nodejs.org) | [8.11.3](https://nodejs.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [nodejs9](https://nodejs.org) | [9.11.2](https://nodejs.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [nuget3](https://www.nuget.org/) | [3.5.0](https://www.nuget.org/) |  | Apache 2.0 |
-| [openssl10x](https://slproweb.com/products/Win32OpenSSL.html) | [1.0.2o](https://slproweb.com/products/Win32OpenSSL.html) | TLS/SSL toolkit (1.0.x branch) | [Link](https://www.openssl.org/source/license.html "https://www.openssl.org/source/license.html") |
+| [openssl10x](https://slproweb.com/products/Win32OpenSSL.html) | [1.0.2o](https://slproweb.com/products/Win32OpenSSL.html) | TLS/SSL toolkit (1.0.x branch) | [Link](https://www.openssl.org/source/license.html) |
 | [phantomjs19](http://phantomjs.org/) | [*1.9.8*](http://phantomjs.org/) |  | BSD |
-| [php54](http://windows.php.net) | [*5.4.45*](http://windows.php.net) |  | [Link](https://php.net/license/ "https://php.net/license/") |
-| [php55-xdebug](https://xdebug.org/) | [2.5.5-5.5](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php "https://xdebug.org/license.php") |
-| [php55](http://windows.php.net/downloads/releases) | [*5.5.38*](http://windows.php.net/downloads/releases) |  | [Link](https://php.net/license/ "https://php.net/license/") |
-| [php56-xdebug](https://xdebug.org/) | [2.5.5-5.6](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php "https://xdebug.org/license.php") |
-| [php56](http://windows.php.net) | [5.6.36](http://windows.php.net) |  | [Link](https://php.net/license/ "https://php.net/license/") |
-| [php70-xdebug](https://xdebug.org/) | [2.6.0-7.0](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php "https://xdebug.org/license.php") |
-| [php70](http://windows.php.net/) | [7.0.30](http://windows.php.net/) |  | [Link](https://php.net/license/ "https://php.net/license/") |
-| [php71-xdebug](https://xdebug.org/) | [2.6.0-7.1](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php "https://xdebug.org/license.php") |
-| [php71](http://windows.php.net) | [7.1.19](http://windows.php.net) |  | [Link](https://php.net/license/ "https://php.net/license/") |
+| [php54](http://windows.php.net) | [*5.4.45*](http://windows.php.net) |  | [Link](https://php.net/license/) |
+| [php55-xdebug](https://xdebug.org/) | [2.5.5-5.5](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php) |
+| [php55](http://windows.php.net/downloads/releases) | [*5.5.38*](http://windows.php.net/downloads/releases) |  | [Link](https://php.net/license/) |
+| [php56-xdebug](https://xdebug.org/) | [2.5.5-5.6](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php) |
+| [php56](http://windows.php.net) | [5.6.36](http://windows.php.net) |  | [Link](https://php.net/license/) |
+| [php70-xdebug](https://xdebug.org/) | [2.6.0-7.0](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php) |
+| [php70](http://windows.php.net/) | [7.0.30](http://windows.php.net/) |  | [Link](https://php.net/license/) |
+| [php71-xdebug](https://xdebug.org/) | [2.6.0-7.1](https://xdebug.org/) |  | [Link](https://xdebug.org/license.php) |
+| [php71](http://windows.php.net) | [7.1.19](http://windows.php.net) |  | [Link](https://php.net/license/) |
 | [premake4](https://premake.github.io/download.html) | [*4.4-b5*](https://premake.github.io/download.html) |  | BSD 3-Clause |
 | [premake5](https://premake.github.io/) | [5.0.0-alpha12](https://premake.github.io/) |  | BSD 3-Clause |
-| [python-beta](https://www.python.org/) | [3.7.0](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html "https://docs.python.org/3/license.html") |
-| [python27](https://www.python.org/) | [2.7.15](https://www.python.org/) |  | [Link](https://docs.python.org/2/license.html "https://docs.python.org/2/license.html") |
-| [python35](https://www.python.org/) | [3.5.4](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html "https://docs.python.org/3/license.html") |
-| [python36](https://www.python.org/) | [3.6.6](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html "https://docs.python.org/3/license.html") |
+| [python-beta](https://www.python.org/) | [3.7.0](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html) |
+| [python27](https://www.python.org/) | [2.7.15](https://www.python.org/) |  | [Link](https://docs.python.org/2/license.html) |
+| [python35](https://www.python.org/) | [3.5.4](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html) |
+| [python36](https://www.python.org/) | [3.6.6](https://www.python.org/) |  | [Link](https://docs.python.org/3/license.html) |
 | [ruby19](https://rubyinstaller.org) | [1.9.3-p551](https://rubyinstaller.org) |  |  |
 | [sbt0.13](http://www.scala-sbt.org/) | [0.13.16](http://www.scala-sbt.org/) |  | BSD |
 | [springboot15](https://projects.spring.io/spring-boot/) | [1.5.13](https://projects.spring.io/spring-boot/) |  | Apache 2.0 |
@@ -3250,65 +3250,65 @@
 | [tomcat7](https://tomcat.apache.org/) | [7.0.90](https://tomcat.apache.org/) |  |  |
 | [tomcat80](https://tomcat.apache.org/) | [8.0.53](https://tomcat.apache.org/) |  |  |
 | [tomcat85](https://tomcat.apache.org/) | [8.5.32](https://tomcat.apache.org/) |  |  |
-| [zip-beta](http://www.info-zip.org/) | [*3.1d26*](http://www.info-zip.org/) | Zip compression utilities | [Link](http://www.info-zip.org/pub/infozip/license.html "http://www.info-zip.org/pub/infozip/license.html") |
+| [zip-beta](http://www.info-zip.org/) | [*3.1d26*](http://www.info-zip.org/) | Zip compression utilities | [Link](http://www.info-zip.org/pub/infozip/license.html) |
 ### <a name="se35710_scoop-ibm" id="se35710_scoop-ibm"></a>[se35710/scoop-ibm](https://github.com/se35710/scoop-ibm) [&#x2934;](#back_se35710_scoop-ibm)
 *Scoop bucket for IBM Cloud tools and IBM WebSphere Liberty*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [eclipse-wdt](https://developer.ibm.com/wasdev/downloads/liberty-profile-using-eclipse/) | [18.0.0.2.v20180627_2035](https://developer.ibm.com/wasdev/downloads/liberty-profile-using-eclipse/) | Eclipse IDE with IBM WebSphere Developer Tools | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wdt/oxygen/lafiles/en.html "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wdt/oxygen/lafiles/en.html") |
-| [ibmcloud-cli](https://clis.ng.bluemix.net/ui/home.html) | [0.7.1](https://clis.ng.bluemix.net/ui/home.html) |  | [Link](https://console.ng.bluemix.net/docs/navigation/notices.html "https://console.ng.bluemix.net/docs/navigation/notices.html") |
+| [eclipse-wdt](https://developer.ibm.com/wasdev/downloads/liberty-profile-using-eclipse/) | [18.0.0.2.v20180627_2035](https://developer.ibm.com/wasdev/downloads/liberty-profile-using-eclipse/) | Eclipse IDE with IBM WebSphere Developer Tools | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wdt/oxygen/lafiles/en.html) |
+| [ibmcloud-cli](https://clis.ng.bluemix.net/ui/home.html) | [0.7.1](https://clis.ng.bluemix.net/ui/home.html) |  | [Link](https://console.ng.bluemix.net/docs/navigation/notices.html) |
 | [nodejs-ibm](https://developer.ibm.com/node/sdk) | [8.9.4.0](https://developer.ibm.com/node/sdk) |  |  |
 | [nodejs4-ibm](https://developer.ibm.com/node/sdk/v4) | [4.8.7.0](https://developer.ibm.com/node/sdk/v4) |  |  |
 | [nodejs6-ibm](https://developer.ibm.com/node/sdk/v6) | [6.13.0.0](https://developer.ibm.com/node/sdk/v6) |  |  |
 | [nodejs8-ibm](https://developer.ibm.com/node/sdk/v8) | [8.9.4.0](https://developer.ibm.com/node/sdk/v8) |  |  |
-| [wlp-javaee](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with Java EE 7 Full Platform | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html") |
-| [wlp-javaeeclient](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with Java EE 7 Application Client | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html") |
-| [wlp-kernel](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty Kernel | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html") |
-| [wlp-micro](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with Micro Profile for Enterprise Java | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html") |
-| [wlp-osgi](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with OSGi Applications | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html") |
-| [wlp](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with Java EE 7 Web Profile | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html "https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html") |
+| [wlp-javaee](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with Java EE 7 Full Platform | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html) |
+| [wlp-javaeeclient](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with Java EE 7 Application Client | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html) |
+| [wlp-kernel](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty Kernel | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html) |
+| [wlp-micro](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with Micro Profile for Enterprise Java | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html) |
+| [wlp-osgi](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with OSGi Applications | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html) |
+| [wlp](https://developer.ibm.com/wasdev/websphere-liberty/) | [18.0.0.2](https://developer.ibm.com/wasdev/websphere-liberty/) | IBM WAS Liberty with Java EE 7 Web Profile | [Link](https://public.dhe.ibm.com/ibmdl/export/pub/software/websphere/wasdev/downloads/wlp/18.0.0.2/lafiles/runtime/en.html) |
 ### <a name="se35710_scoop-java" id="se35710_scoop-java"></a>[se35710/scoop-java](https://github.com/se35710/scoop-java) [&#x2934;](#back_se35710_scoop-java)
 *A bucket for Scoop, for Oracle Java, OpenJDK, Zulu, ojdkbuild and AdoptOpenJDK. (scoop's built-in bucket 'java')*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [adopt10-hotspot](https://adoptopenjdk.net) | [10-23-201807171552](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [adopt10-openj9](https://adoptopenjdk.net) | [10.0.1-10-201807091639](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [adopt8-hotspot](https://adoptopenjdk.net) | [8u172-b00-201807171800](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [adopt8-openj9](https://adoptopenjdk.net) | [8u172-b11-201817070700](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [adopt9-hotspot](https://adoptopenjdk.net) | [9-181-201807171426](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [adopt9-openj9](https://adoptopenjdk.net) | [9.0.4-12-201807171247](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [ojdkbuild](https://github.com/ojdkbuild/ojdkbuild) | [10.0.1-1](https://github.com/ojdkbuild/ojdkbuild) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [ojdkbuild10](https://github.com/ojdkbuild/ojdkbuild) | [10.0.1-1](https://github.com/ojdkbuild/ojdkbuild) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [ojdkbuild8](https://github.com/ojdkbuild/ojdkbuild) | [1.8.0.171-1](https://github.com/ojdkbuild/ojdkbuild) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [ojdkbuild9](https://github.com/ojdkbuild/ojdkbuild) | [9.0.4-1](https://github.com/ojdkbuild/ojdkbuild) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [openjdk](http://jdk.java.net/10) | [10.0.1](http://jdk.java.net/10) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [openjdk10](http://jdk.java.net/10) | [10.0.1](http://jdk.java.net/10) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [openjdk11](http://jdk.java.net/11) | [11-22](http://jdk.java.net/11) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [openjdk9](http://jdk.java.net/9/) | [*9.0.4*](http://jdk.java.net/9/) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html "http://openjdk.java.net/legal/gplv2+ce.html") |
-| [oraclejdk-lts](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejdk](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejdk10](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejdk11](http://jdk.java.net/11) | [11-22](http://jdk.java.net/11) |  | [Link](http://www.oracle.com/technetwork/licenses/ea-license-noexhibits-1938914.html "http://www.oracle.com/technetwork/licenses/ea-license-noexhibits-1938914.html") |
-| [oraclejdk8](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejdk8u](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre-lts](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre-server-lts](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre-server](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre10-server](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre10](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre8-server](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre8](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre8u-server](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [oraclejre8u](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license "http://www.oracle.com/technetwork/java/javase/terms/license") |
-| [zulu](https://www.azul.com/downloads/zulu/zulu-windows/) | [10.2-3](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html "https://www.azulsystems.com/license/zulu_third_party_licenses.html") |
-| [zulu10](https://www.azul.com/downloads/zulu/zulu-windows/) | [10.2-3](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html "https://www.azulsystems.com/license/zulu_third_party_licenses.html") |
-| [zulu6](https://www.azul.com/downloads/zulu/zulu-windows/) | [6.20.0.1](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html "https://www.azulsystems.com/license/zulu_third_party_licenses.html") |
-| [zulu7](https://www.azul.com/downloads/zulu/zulu-windows/) | [7.23.0.1](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html "https://www.azulsystems.com/license/zulu_third_party_licenses.html") |
-| [zulu8](https://www.azul.com/downloads/zulu/zulu-windows/) | [8.30.0.1](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html "https://www.azulsystems.com/license/zulu_third_party_licenses.html") |
-| [zulu9](https://www.azul.com/downloads/zulu/zulu-windows/) | [9.0.7.1](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html "https://www.azulsystems.com/license/zulu_third_party_licenses.html") |
+| [adopt10-hotspot](https://adoptopenjdk.net) | [10-23-201807171552](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [adopt10-openj9](https://adoptopenjdk.net) | [10.0.1-10-201807091639](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [adopt8-hotspot](https://adoptopenjdk.net) | [8u172-b00-201807171800](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [adopt8-openj9](https://adoptopenjdk.net) | [8u172-b11-201817070700](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [adopt9-hotspot](https://adoptopenjdk.net) | [9-181-201807171426](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [adopt9-openj9](https://adoptopenjdk.net) | [9.0.4-12-201807171247](https://adoptopenjdk.net) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [ojdkbuild](https://github.com/ojdkbuild/ojdkbuild) | [10.0.1-1](https://github.com/ojdkbuild/ojdkbuild) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [ojdkbuild10](https://github.com/ojdkbuild/ojdkbuild) | [10.0.1-1](https://github.com/ojdkbuild/ojdkbuild) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [ojdkbuild8](https://github.com/ojdkbuild/ojdkbuild) | [1.8.0.171-1](https://github.com/ojdkbuild/ojdkbuild) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [ojdkbuild9](https://github.com/ojdkbuild/ojdkbuild) | [9.0.4-1](https://github.com/ojdkbuild/ojdkbuild) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [openjdk](http://jdk.java.net/10) | [10.0.1](http://jdk.java.net/10) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [openjdk10](http://jdk.java.net/10) | [10.0.1](http://jdk.java.net/10) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [openjdk11](http://jdk.java.net/11) | [11-22](http://jdk.java.net/11) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [openjdk9](http://jdk.java.net/9/) | [*9.0.4*](http://jdk.java.net/9/) |  | [Link](http://openjdk.java.net/legal/gplv2+ce.html) |
+| [oraclejdk-lts](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejdk](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejdk10](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejdk11](http://jdk.java.net/11) | [11-22](http://jdk.java.net/11) |  | [Link](http://www.oracle.com/technetwork/licenses/ea-license-noexhibits-1938914.html) |
+| [oraclejdk8](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejdk8u](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre-lts](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre-server-lts](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre-server](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre10-server](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre10](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [10.0.2-13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre8-server](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre8](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre8u-server](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [oraclejre8u](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [8u181-b13](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  | [Link](http://www.oracle.com/technetwork/java/javase/terms/license) |
+| [zulu](https://www.azul.com/downloads/zulu/zulu-windows/) | [10.2-3](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html) |
+| [zulu10](https://www.azul.com/downloads/zulu/zulu-windows/) | [10.2-3](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html) |
+| [zulu6](https://www.azul.com/downloads/zulu/zulu-windows/) | [6.20.0.1](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html) |
+| [zulu7](https://www.azul.com/downloads/zulu/zulu-windows/) | [7.23.0.1](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html) |
+| [zulu8](https://www.azul.com/downloads/zulu/zulu-windows/) | [8.30.0.1](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html) |
+| [zulu9](https://www.azul.com/downloads/zulu/zulu-windows/) | [9.0.7.1](https://www.azul.com/downloads/zulu/zulu-windows/) |  | [Link](https://www.azulsystems.com/license/zulu_third_party_licenses.html) |
 ### <a name="sh4869221b_scoop-bucket" id="sh4869221b_scoop-bucket"></a>[sh4869221b/scoop-bucket](https://github.com/sh4869221b/scoop-bucket) [&#x2934;](#back_sh4869221b_scoop-bucket)
 *scoop bucket*
 
@@ -3335,7 +3335,7 @@
 | [atom](https://atom.io/) | [1.27.1](https://atom.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [hello]() |  | Expecting property name enclosed in double quotes: line 1 column 3 (char 2) |  |
 | [stack](https://www.haskellstack.org) | [1.7.1](https://www.haskellstack.org) |  | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
-| [vscode](https://code.visualstudio.com/) | [1.24.0](https://code.visualstudio.com/) |  | [Link](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
+| [vscode](https://code.visualstudio.com/) | [1.24.0](https://code.visualstudio.com/) |  | [Link](https://code.visualstudio.com/License/) |
 ### <a name="shyun3_my-bucket" id="shyun3_my-bucket"></a>[shyun3/my-bucket](https://github.com/shyun3/my-bucket) [&#x2934;](#back_shyun3_my-bucket)
 *My Scoop bucket*
 
@@ -3420,20 +3420,20 @@
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [tortoisegit](https://tortoisegit.org/) | [2.5.0](https://tortoisegit.org/) |  | [Link](https://www.gnu.org/licenses/gpl-2.0 "https://www.gnu.org/licenses/gpl-2.0") |
+| [tortoisegit](https://tortoisegit.org/) | [2.5.0](https://tortoisegit.org/) |  | [Link](https://www.gnu.org/licenses/gpl-2.0) |
 ### <a name="systemexitzero_scoop-bucket" id="systemexitzero_scoop-bucket"></a>[systemexitzero/scoop-bucket](https://github.com/systemexitzero/scoop-bucket) [&#x2934;](#back_systemexitzero_scoop-bucket)
 *Personal bucket for scoop. See https://github.com/lukesampson/scoop*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
-| [chefdk](https://chef.io) | [0.14.25](https://chef.io) |  | [Link](https://downloads.chef.io/chef-dk/0.14.25/windows/7-8-8.1-10-Server-2008-R2-2012-2012-R2/license.html "https://downloads.chef.io/chef-dk/0.14.25/windows/7-8-8.1-10-Server-2008-R2-2012-2012-R2/license.html") |
-| [cloudfoundry-cli](https://github.com/cloudfoundry/cli) | [*6.12.2*](https://github.com/cloudfoundry/cli) |  | [Link](https://raw.githubusercontent.com/cloudfoundry/cli/master/LICENSE "https://raw.githubusercontent.com/cloudfoundry/cli/master/LICENSE") |
-| [dontsleep](http://www.softwareok.com/?seite=Microsoft/DontSleep) | [3.84](http://www.softwareok.com/?seite=Microsoft/DontSleep) |  | [Link](http://www.softwareok.com/?seite=Microsoft/DontSleep/Eula "http://www.softwareok.com/?seite=Microsoft/DontSleep/Eula") |
-| [gifsicle](http://www.lcdf.org/gifsicle/) | [*1.87*](http://www.lcdf.org/gifsicle/) |  | [Link](https://github.com/kohler/gifsicle/blob/master/README.md#copyrightlicense "https://github.com/kohler/gifsicle/blob/master/README.md#copyrightlicense") |
-| [html-tidy](http://www.html-tidy.org/) | [*5.2.0*](http://www.html-tidy.org/) |  | [Link](https://raw.githubusercontent.com/htacg/tidy-html5/master/README/LICENSE.txt "https://raw.githubusercontent.com/htacg/tidy-html5/master/README/LICENSE.txt") |
+| [chefdk](https://chef.io) | [0.14.25](https://chef.io) |  | [Link](https://downloads.chef.io/chef-dk/0.14.25/windows/7-8-8.1-10-Server-2008-R2-2012-2012-R2/license.html) |
+| [cloudfoundry-cli](https://github.com/cloudfoundry/cli) | [*6.12.2*](https://github.com/cloudfoundry/cli) |  | [Link](https://raw.githubusercontent.com/cloudfoundry/cli/master/LICENSE) |
+| [dontsleep](http://www.softwareok.com/?seite=Microsoft/DontSleep) | [3.84](http://www.softwareok.com/?seite=Microsoft/DontSleep) |  | [Link](http://www.softwareok.com/?seite=Microsoft/DontSleep/Eula) |
+| [gifsicle](http://www.lcdf.org/gifsicle/) | [*1.87*](http://www.lcdf.org/gifsicle/) |  | [Link](https://github.com/kohler/gifsicle/blob/master/README.md#copyrightlicense) |
+| [html-tidy](http://www.html-tidy.org/) | [*5.2.0*](http://www.html-tidy.org/) |  | [Link](https://raw.githubusercontent.com/htacg/tidy-html5/master/README/LICENSE.txt) |
 | [nodejs4](http://nodejs.org) | [4.4.3](http://nodejs.org) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [pngout](http://advsys.net/ken/utils.htm#pngout) | [*2015.13.02*](http://advsys.net/ken/utils.htm#pngout) |  | [Link](http://advsys.net/ken/utils.htm#pngoutkziplicense "http://advsys.net/ken/utils.htm#pngoutkziplicense") |
-| [rapidee](http://www.rapidee.com/) | [930](http://www.rapidee.com/) |  | [Link](http://www.rapidee.com/en/license "http://www.rapidee.com/en/license") |
+| [pngout](http://advsys.net/ken/utils.htm#pngout) | [*2015.13.02*](http://advsys.net/ken/utils.htm#pngout) |  | [Link](http://advsys.net/ken/utils.htm#pngoutkziplicense) |
+| [rapidee](http://www.rapidee.com/) | [930](http://www.rapidee.com/) |  | [Link](http://www.rapidee.com/en/license) |
 | [sox](http://sox.sourceforge.net/) | [*14.4.2*](http://sox.sourceforge.net/) |  | GPL2 |
 | [unison](https://www.cis.upenn.edu/~bcpierce/unison/) | [*2.48.3*](https://www.cis.upenn.edu/~bcpierce/unison/) |  | GPL |
 | [wolcmd](http://www.depicus.com/wake-on-lan/welcome.aspx) | [*2005.04.01*](http://www.depicus.com/wake-on-lan/welcome.aspx) |  |  |
@@ -3483,7 +3483,7 @@
 | [crystaldiskinfo](https://crystalmark.info/ja/software/crystaldiskinfo/) | [7.6.0](https://crystalmark.info/ja/software/crystaldiskinfo/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [crystaldiskmark-shizuku](https://crystalmark.info/ja/software/crystaldiskmark/) | [6.0.0](https://crystalmark.info/ja/software/crystaldiskmark/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [crystaldiskmark](https://crystalmark.info/ja/software/crystaldiskmark/) | [6.0.0](https://crystalmark.info/ja/software/crystaldiskmark/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [massigra](http://www.massigra.net/) | [0.45](http://www.massigra.net/) |  | [Link](http://www.massigra.net/massigrahelp/currentver/license.htm "http://www.massigra.net/massigrahelp/currentver/license.htm") |
+| [massigra](http://www.massigra.net/) | [0.45](http://www.massigra.net/) |  | [Link](http://www.massigra.net/massigrahelp/currentver/license.htm) |
 | [mery](https://www.haijin-boys.com/wiki/) | [2.6.7](https://www.haijin-boys.com/wiki/) |  |  |
 | [nyagos](https://github.com/zetamatta/nyagos/blob/master/readme_ja.md) | [4.2.5_0](https://github.com/zetamatta/nyagos/blob/master/readme_ja.md) |  | BSD 3-Clause |
 | [nyaos3](https://github.com/zetamatta/nyagos/blob/master/readme_ja.md) | [3.3.9_0](https://github.com/zetamatta/nyagos/blob/master/readme_ja.md) |  | GPL |
@@ -3598,7 +3598,7 @@
 | [elasticsearch542](https://www.elastic.co/products/elasticsearch) | [*5.4.2*](https://www.elastic.co/products/elasticsearch) |  |  |
 | [elasticsearch551](https://www.elastic.co/products/elasticsearch) | [*5.5.1*](https://www.elastic.co/products/elasticsearch) |  |  |
 | [elasticsearch621](https://www.elastic.co/products/elasticsearch) | [*6.2.1*](https://www.elastic.co/products/elasticsearch) |  |  |
-| [erlang1830](http://www.erlang.org) | [*18.3.0*](http://www.erlang.org) |  | [Link](http://www.apache.org/licenses/LICENSE-2.0 "http://www.apache.org/licenses/LICENSE-2.0") |
+| [erlang1830](http://www.erlang.org) | [*18.3.0*](http://www.erlang.org) |  | [Link](http://www.apache.org/licenses/LICENSE-2.0) |
 | [kibana442](http://www.elasticsearch.org/overview/kibana/) | [*4.4.2*](http://www.elasticsearch.org/overview/kibana/) |  |  |
 | [kibana450](http://www.elasticsearch.org/overview/kibana/) | [*4.5.0*](http://www.elasticsearch.org/overview/kibana/) |  |  |
 | [kibana511](http://www.elasticsearch.org/overview/kibana/) | [*5.1.1*](http://www.elasticsearch.org/overview/kibana/) |  |  |
@@ -3614,9 +3614,9 @@
 | [nssm224](http://nssm.cc/) | [*2.24*](http://nssm.cc/) |  |  |
 | [openjdk170u80](https://github.com/alexkasko/openjdk-unofficial-builds) | [*1.7.0-u80*](https://github.com/alexkasko/openjdk-unofficial-builds) |  | GPL2 |
 | [openjdk180_102_2](https://github.com/ojdkbuild/ojdkbuild) | [1.8.0_102-2](https://github.com/ojdkbuild/ojdkbuild) |  | GPL2 |
-| [python2711](http://www.python.org) | [2.7.11](http://www.python.org) |  | [Link](http://docs.python.org/2/license.html "http://docs.python.org/2/license.html") |
-| [rabbitmq361](https://www.rabbitmq.com/) | [*3.6.1*](https://www.rabbitmq.com/) |  | [Link](https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ "https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ") |
-| [rabbitmq362](https://www.rabbitmq.com/) | [*3.6.2*](https://www.rabbitmq.com/) |  | [Link](https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ "https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ") |
+| [python2711](http://www.python.org) | [2.7.11](http://www.python.org) |  | [Link](http://docs.python.org/2/license.html) |
+| [rabbitmq361](https://www.rabbitmq.com/) | [*3.6.1*](https://www.rabbitmq.com/) |  | [Link](https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ) |
+| [rabbitmq362](https://www.rabbitmq.com/) | [*3.6.2*](https://www.rabbitmq.com/) |  | [Link](https://github.com/rabbitmq/rabbitmq-server/blob/master/LICENSE-MPL-RabbitMQ) |
 | [rabbitmqadmin361](https://www.rabbitmq.com/management-cli.html) | [*3.6.1*](https://www.rabbitmq.com/management-cli.html) |  |  |
 | [rabbitmqadmin362](https://www.rabbitmq.com/management-cli.html) | [*3.6.2*](https://www.rabbitmq.com/management-cli.html) |  |  |
 | [telegraf120](https://www.influxdata.com/time-series-platform/telegraf/) | [*1.2.0*](https://www.influxdata.com/time-series-platform/telegraf/) |  |  |
@@ -3639,7 +3639,7 @@
 | [octotentacle](http://octopusdeploy.com/) | [*2.6.3.886*](http://octopusdeploy.com/) |  |  |
 | [pas2_tools](https://github.com/Utdanningsdirektoratet/PAS2-hoved) | [*0.2014.01.28*](https://github.com/Utdanningsdirektoratet/PAS2-hoved) |  |  |
 | [perfview](http://www.microsoft.com/en-us/download/details.aspx?id=28567) | [*1.7.0*](http://www.microsoft.com/en-us/download/details.aspx?id=28567) |  |  |
-| [scoopmanifest](https://github.com/vidarkongsli/vidars-scoop-bucket/blob/master/scoopmanifest.json) | *2016.11.17* |  | [Link](https://raw.githubusercontent.com/vidarkongsli/vidars-scoop-bucket/5f44677c5cbe56e8bef82ebfce931055643da0c5/scoopmanifest/LICENSE.md "https://raw.githubusercontent.com/vidarkongsli/vidars-scoop-bucket/5f44677c5cbe56e8bef82ebfce931055643da0c5/scoopmanifest/LICENSE.md") |
+| [scoopmanifest](https://github.com/vidarkongsli/vidars-scoop-bucket/blob/master/scoopmanifest.json) | *2016.11.17* |  | [Link](https://raw.githubusercontent.com/vidarkongsli/vidars-scoop-bucket/5f44677c5cbe56e8bef82ebfce931055643da0c5/scoopmanifest/LICENSE.md) |
 | [ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) | [*1.4.0*](https://github.com/ssllabs/ssllabs-scan) |  | Apache License 2.0 |
 | [stupidgit](https://github.com/vidarkongsli/vidars-scoop-bucket/tree/master/stupidgit) | [*2018.06.15*](https://github.com/vidarkongsli/vidars-scoop-bucket/tree/master/stupidgit) |  |  |
 | [sublime-snippets](http://) | [*2017.05.16.1*](http://) |  | [MIT](https://opensource.org/licenses/MIT) |
@@ -3662,7 +3662,7 @@
 | [DotTraceSDK](https://github.com/wangzq/scoop-bucket/blob/master/DotTraceSDK.json) | *2017.3.2* |  |  |
 | [GreenShot](https://github.com/wangzq/scoop-bucket/blob/master/GreenShot.json) | *1.2.9.129* |  |  |
 | [MsbuildLog](https://github.com/wangzq/scoop-bucket/blob/master/MsbuildLog.json) | *1.1.168* |  |  |
-| [MySysInternals](http://technet.microsoft.com/en-us/sysinternals/bb842062) | [*0.2016.01.04*](http://technet.microsoft.com/en-us/sysinternals/bb842062) |  | [Link](http://technet.microsoft.com/sysinternals/bb469936 "http://technet.microsoft.com/sysinternals/bb469936") |
+| [MySysInternals](http://technet.microsoft.com/en-us/sysinternals/bb842062) | [*0.2016.01.04*](http://technet.microsoft.com/en-us/sysinternals/bb842062) |  | [Link](http://technet.microsoft.com/sysinternals/bb469936) |
 | [NugetPackageExplorer](https://github.com/wangzq/scoop-bucket/blob/master/NugetPackageExplorer.json) | *4.1.38* |  |  |
 | [OwinHost](https://github.com/wangzq/scoop-bucket/blob/master/OwinHost.json) | *3.0.1* |  |  |
 | [Rufus](https://github.com/wangzq/scoop-bucket/blob/master/Rufus.json) | *2.18* |  |  |
@@ -3693,12 +3693,12 @@
 | [iedriver](https://github.com/wangzq/scoop-bucket/blob/master/iedriver.json) | *3.2* |  |  |
 | [java](https://github.com/wangzq/scoop-bucket/blob/master/java.json) | *8u65* |  |  |
 | [linkd](https://github.com/wangzq/scoop-bucket/blob/master/linkd.json) | *20180301* |  |  |
-| [linqpad-anycpu](https://www.linqpad.net) | [*nightly*](https://www.linqpad.net) |  | [Link](https://www.linqpad.net/eula.txt "https://www.linqpad.net/eula.txt") |
+| [linqpad-anycpu](https://www.linqpad.net) | [*nightly*](https://www.linqpad.net) |  | [Link](https://www.linqpad.net/eula.txt) |
 | [lua53](https://github.com/wangzq/scoop-bucket/blob/master/lua53.json) | *5.3.4* |  |  |
 | [mingw-w64](https://github.com/wangzq/scoop-bucket/blob/master/mingw-w64.json) | *4.8.0* |  |  |
 | [minisqlquery](https://github.com/wangzq/scoop-bucket/blob/master/minisqlquery.json) | *1.16.07.02* |  |  |
 | [myfirefox](https://www.mozilla.org/en-US/firefox/new/) | [*52.0b9*](https://www.mozilla.org/en-US/firefox/new/) |  |  |
-| [myprocesshacker](http://processhacker.sourceforge.net/) | [2.39](http://processhacker.sourceforge.net/) |  | [Link](https://github.com/processhacker2/processhacker2/blob/master/LICENSE.txt "https://github.com/processhacker2/processhacker2/blob/master/LICENSE.txt") |
+| [myprocesshacker](http://processhacker.sourceforge.net/) | [2.39](http://processhacker.sourceforge.net/) |  | [Link](https://github.com/processhacker2/processhacker2/blob/master/LICENSE.txt) |
 | [nurefs](https://github.com/wangzq/scoop-bucket/blob/master/nurefs.json) | *20180416* |  |  |
 | [perfview](https://github.com/wangzq/scoop-bucket/blob/master/perfview.json) | *2.0.15* |  |  |
 | [pfm](https://github.com/wangzq/scoop-bucket/blob/master/pfm.json) | *1.90* |  |  |
@@ -3777,15 +3777,15 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [bandi-zip](https://www.bandisoft.com/jp/bandizip/) | [6.12](https://www.bandisoft.com/jp/bandizip/) |  |  |
-| [cmder](http://cmder.net/) | [1.3.5](http://cmder.net/) |  | [Link](https://github.com/cmderdev/cmder/blob/master/LICENSE "https://github.com/cmderdev/cmder/blob/master/LICENSE") |
+| [cmder](http://cmder.net/) | [1.3.5](http://cmder.net/) |  | [Link](https://github.com/cmderdev/cmder/blob/master/LICENSE) |
 | [fenrir-fs](https://www.fenrir-inc.com/jp/fenrirfs/) | [2.6.1](https://www.fenrir-inc.com/jp/fenrirfs/) |  |  |
 | [git-ftp](https://git-ftp.github.io/) | [1.4.0](https://git-ftp.github.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [guetzli](https://github.com/google/guetzli) | [1.0.1](https://github.com/google/guetzli) |  | [Link](https://github.com/google/guetzli/blob/master/LICENSE "https://github.com/google/guetzli/blob/master/LICENSE") |
+| [guetzli](https://github.com/google/guetzli) | [1.0.1](https://github.com/google/guetzli) |  | [Link](https://github.com/google/guetzli/blob/master/LICENSE) |
 | [nexusfont](http://www.xiles.net/) | [2.6.2](http://www.xiles.net/) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
-| [nyagos](https://github.com/zetamatta/nyagos) | [4.2.5_0](https://github.com/zetamatta/nyagos) |  | [Link](https://github.com/zetamatta/nyagos/blob/master/LICENSE "https://github.com/zetamatta/nyagos/blob/master/LICENSE") |
-| [pngquant](https://pngquant.org/) | [2.11.7](https://pngquant.org/) |  | [Link](https://github.com/pornel/pngquant#license "https://github.com/pornel/pngquant#license") |
+| [nyagos](https://github.com/zetamatta/nyagos) | [4.2.5_0](https://github.com/zetamatta/nyagos) |  | [Link](https://github.com/zetamatta/nyagos/blob/master/LICENSE) |
+| [pngquant](https://pngquant.org/) | [2.11.7](https://pngquant.org/) |  | [Link](https://github.com/pornel/pngquant#license) |
 | [poedit](https://poedit.net/) | [2.0.6](https://poedit.net/) |  |  |
-| [vscode-insiders](https://code.visualstudio.com/insiders) | [1.20.0-insider](https://code.visualstudio.com/insiders) |  | [Link](https://code.visualstudio.com/License/ "https://code.visualstudio.com/License/") |
+| [vscode-insiders](https://code.visualstudio.com/insiders) | [1.20.0-insider](https://code.visualstudio.com/insiders) |  | [Link](https://code.visualstudio.com/License/) |
 ### <a name="zeero_scoop-my-bucket" id="zeero_scoop-my-bucket"></a>[zeero/scoop-my-bucket](https://github.com/zeero/scoop-my-bucket) [&#x2934;](#back_zeero_scoop-my-bucket)
 *My scoop bucket json files.*
 
