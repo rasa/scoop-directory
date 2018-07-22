@@ -565,6 +565,8 @@ def do_repo(repo, i, num_repos, do_score=True):
                 h = chardet.detect(s)
             with io.open(file_path, 'r', encoding=h['encoding']) as fp:
                 s = fp.read()
+                # Strip out single line comments
+                s = re.sub('^\s*//.*$', '', s)
                 j = parser.loads(s)
 
             if not get_link(j):
