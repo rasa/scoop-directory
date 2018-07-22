@@ -282,7 +282,7 @@ def do_license(v):
         identifier = ''
     if 'url' in v:
         url = v['url']
-    if re.search('^(http|ftp)', url):
+    if re.search(r'^(http|ftp)', url):
         if not identifier:
             identifier = 'Link'
         v = '[%s](%s)' % (identifier, url)
@@ -291,7 +291,7 @@ def do_license(v):
     if not identifier:
         identifier = url
 
-    parts = re.split('[,|]+', identifier)
+    parts = re.split(r'[,|]+', identifier)
     v = ''
     for part in parts:
         if v > '':
@@ -459,8 +459,8 @@ def do_repo(repo, i, num_repos, do_score=True):
     last_updated = datetime.strptime(repo['updated_at'], '%Y-%m-%dT%H:%M:%SZ')
 
     id_ = full_name.replace('/', '_')
-    id_ = re.sub('[^0-9a-zA-Z_:.-]+', '-', id_)
-    if not re.match('^[a-zA-Z]', id_[0]):
+    id_ = re.sub(r'[^0-9a-zA-Z_:.-]+', '-', id_)
+    if not re.match(r'^[a-zA-Z]', id_[0]):
         id_ = 'a' + id_
 
     if repofoldername not in cache:
@@ -566,7 +566,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             with io.open(file_path, 'r', encoding=h['encoding']) as fp:
                 s = fp.read()
                 # Strip out single line comments
-                s = re.sub('^\s*//.*$', '', s)
+                s = re.sub(r'^\s*//.*$', '', s)
                 j = parser.loads(s)
 
             if not get_link(j):
