@@ -613,6 +613,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 nl = False
             print('    %s: %s (%s)' % (f, e, h['encoding']))
             row['description'] = str(e)
+            print(s)
 
         cache[repofoldername]['entries'].append(row)
 
