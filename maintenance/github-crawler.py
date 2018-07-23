@@ -462,33 +462,44 @@ def initialize_cache():
 def do_parse(file_path):
     """ @todo """
     try:
-        s = ''
-        parser = jsoncomment.JsonComment(json)
         with io.open(file_path, 'rb') as fp:
             s = fp.read()
-            h = chardet.detect(s)
-        with io.open(file_path, 'r', encoding=h['encoding']) as fp:
-            s = fp.read()
-            j = parser.loads(s)
+    except Exception as e:
+        return (str(e), None)
+
+    try:
+        h = chardet.detect(s)
+        try:
+            with io.open(file_path, 'r', encoding=h['encoding']) as fp:
+                s = fp.read()
+        except Exception as e:
+            return (str(e), None)
+    except Exception as e:
+        try:
+            with io.open(file_path, 'r') as fp:
+                s = fp.read()
+        except Exception as e:
+            return (str(e), None)
+
+    parser = jsoncomment.JsonComment(json)
+
+    try:
+        j = parser.loads(s)
+        return ('', j)
     except Exception as e:
         # Strip out single line comments
         lines = s.splitlines()
         s = ''
         for line in lines:
             line = re.sub(r'^\s*//.*$', '', line)
-            line = line.strip()
-            if len(line) > 0:
-                s += line + "\n"
+            s += line + "\n"
         try:
             j = parser.loads(s)
         except Exception as e2:
             j = None
-            pass
 
         rv = '%s (%s)' % (str(e), h['encoding'])
         return (rv, j)
-
-    return ('', j)
 
 
 def do_repo(repo, i, num_repos, do_score=True):
