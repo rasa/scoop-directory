@@ -11,20 +11,19 @@ import os
 import pickle
 import pprint
 import re
-# import shutil
-# import stat
+import shutil
+import stat
 import sys
+import tempfile
 import time
 
-# from builtins import dict
 from datetime import datetime
 
 import chardet
+import git
+import jinja2
 import jsoncomment
 import requests
-
-from git import Repo
-from jinja2 import Environment, FileSystemLoader
 
 OSI = [
     '0BSD', 'AAL', 'Abstyles', 'Adobe-2006', 'Adobe-Glyph', 'ADSL', 'AFL-1.1',
@@ -130,6 +129,7 @@ lmap = {
     'shareware':
         'https://en.wikipedia.org/wiki/Shareware', }
 
+# skip these buckets as they are forks of other buckets
 done = [
     'nueko/scoop-php-ext',
     'pavanbijja/scoop-bucket',
@@ -254,16 +254,6 @@ searches.append({
         'yuanying1199/scoopbucket',
         'yutahaga/scoop-bucket', ]})
 
-bucket_list = {
-    "extras": "https://github.com/lukesampson/scoop-extras.git",
-    "versions": "https://github.com/scoopinstaller/versions",
-    "nightlies": "https://github.com/scoopinstaller/nightlies",
-    "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
-    "php": "https://github.com/nueko/scoop-php.git",
-    "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts.git",
-    "nonportable": "https://github.com/oltolm/scoop-nonportable",
-    "java": "https://github.com/se35710/scoop-java"}
-
 
 def fix_license(s):
     """ @todo """
@@ -275,13 +265,16 @@ def fix_license(s):
 
 def do_license(v):
     """ @todo """
-    url = v
-    if 'identifier' in v:
-        identifier = fix_license(v['identifier'])
-    else:
-        identifier = ''
-    if 'url' in v:
-        url = v['url']
+    url = ''
+    identifier = ''
+    if type(v).__name__ in ['unicode', 'str']:
+        url = v
+    if isinstance(v, dict):
+        if 'identifier' in v:
+            identifier = fix_license(v['identifier'])
+            url = ''
+        if 'url' in v:
+            url = v['url']
     if re.search(r'^(http|ftp)', url):
         if not identifier:
             identifier = 'Link'
@@ -347,7 +340,7 @@ def do_version(js):
     version = js['version']
     url = get_url(js)
     if 'checkver' not in js:
-        version = '*%s*' % version.strip()
+        version = '*%s*' % str(version).strip()
     if url == '':
         return version
     return '[%s](%s)' % (version, url)
@@ -355,23 +348,47 @@ def do_version(js):
 
 def fetchjson(urlstr):
     """ @todo """
-    response = requests.get(url=urlstr)
-    if 'X-RateLimit-Remaining' not in response.headers:
+    try_ = 0
+    while try_ < MAX_TRIES:
+        try_ += 1
+        secs = 0
+        response = requests.get(url=urlstr)
+        if 'X-RateLimit-Remaining' in response.headers:
+            if int(response.headers['X-RateLimit-Remaining']) < 1:
+                reset = int(response.headers['X-RateLimit-Reset'])
+                secs = float(reset) - time.time()
+                if secs > -MAX_CLOCK_SKEW_SECONDS:
+                    time.sleep(secs + MAX_CLOCK_SKEW_SECONDS)
+
+        if response.status_code < 300:
+            return response.json()
+
+        if secs == 0:
+            print('Sleeping %d seconds to avoid 403 errors' % SLEEP_SECONDS)
+            time.sleep(SLEEP_SECONDS)
+
+        # print("Try %d of %d:" % (try_, MAX_TRIES))
         pprint.pprint(dict(response.headers), width=1)
-    elif int(response.headers['X-RateLimit-Remaining']) < 1:
-        reset = float(response.headers['X-RateLimit-Reset'])
-        secs = reset - time.time()
-        if secs > 0:
-            print('Sleeping %d seconds due to rate limiting' % secs)
-            time.sleep(secs)
-    if response.status_code > 299:
-        pprint.pprint(dict(response.headers), width=1)
-        return {}
-    return response.json()
+        if try_ + 1 < MAX_TRIES:
+            print("Attempting try %d of %d" % (try_ + 1, MAX_TRIES))
+
+    return {}
 
 
 def get_builtins():
     """ @todo """
+    # @todo load from
+    # https://raw.githubusercontent.com/lukesampson/scoop/master/buckets.json
+    bucket_list = {
+        "extras": "https://github.com/lukesampson/scoop-extras.git",
+        "versions": "https://github.com/scoopinstaller/versions",
+        "nightlies": "https://github.com/scoopinstaller/nightlies",
+        "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
+        "php": "https://github.com/nueko/scoop-php.git",
+        "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts.git",
+        "nonportable": "https://github.com/oltolm/scoop-nonportable",
+        "java": "https://github.com/se35710/scoop-java"}
+
     for key in bucket_list:
         url = bucket_list[key]
         m = re.search(r'github\.com/(.*)$', url, re.I)
@@ -384,13 +401,11 @@ def get_builtins():
     return 0
 
 
-def initialize_cache():
+def rmdir(dir):
     """ @todo """
-    global cache
-    global last_run
 
     # https://stackoverflow.com/a/4829285/1432614
-    """
+
     def on_rm_error(func, path, exc_info):
         # logging.error('path=%s', path)
         # path contains the path of the file that couldn't be removed
@@ -398,20 +413,40 @@ def initialize_cache():
         try:
             os.chmod(path, stat.S_IWRITE)
         except Exception as e:
-            print(e)
+            pass
+
         try:
-            return os.unlink(path)
+            if os.path.isdir(path):
+                return os.rmdir(path)
+            if os.path.isfile(path):
+                return os.unlink(path)
+            return 0
         except Exception as e:
-            print(e)
             return 1
-    """
 
-    if os.path.isdir(cache_dir):
-        print('deleting %s' % cache_dir)
-        # shutil.rmtree(cache_dir, onerror=on_rm_error)
+    if not os.path.isdir(cache_dir):
+        return True
 
-        os.system('cmd /c rmdir /s /q "%s"' % cache_dir)
+    print('Deleting "%s"' % cache_dir)
 
+    shutil.rmtree(cache_dir, onerror=on_rm_error)
+
+    if not os.path.isdir(cache_dir):
+        return True
+
+    if os.name == 'nt':
+        print('rmdir /s /q "%s"' % cache_dir)
+        os.system('cmd.exe /c rmdir /s /q "%s"' % cache_dir)
+
+    return not os.path.isdir(cache_dir)
+
+
+def initialize_cache():
+    """ @todo """
+    global cache
+    global last_run
+
+    rmdir(cache_dir)
     os.makedirs(cache_dir)
 
     try:
@@ -424,9 +459,48 @@ def initialize_cache():
     return 0
 
 
+def do_parse(file_path):
+    """ @todo """
+    try:
+        s = ''
+        parser = jsoncomment.JsonComment(json)
+        with io.open(file_path, 'rb') as fp:
+            s = fp.read()
+            h = chardet.detect(s)
+        with io.open(file_path, 'r', encoding=h['encoding']) as fp:
+            s = fp.read()
+            j = parser.loads(s)
+    except Exception as e:
+        # Strip out single line comments
+        lines = s.splitlines()
+        s = ''
+        for line in lines:
+            line = re.sub(r'^\s*//.*$', '', line)
+            line = line.strip()
+            if len(line) > 0:
+                s += line + "\n"
+        try:
+            j = parser.loads(s)
+        except Exception as e2:
+            j = None
+            pass
+
+        rv = '%s (%s)' % (str(e), h['encoding'])
+        return (rv, j)
+
+    return ('', j)
+
+
 def do_repo(repo, i, num_repos, do_score=True):
     """ @todo """
     global last_run
+
+    keys = [
+        # 'checkver',
+        'description',
+        # 'homepage',
+        'license',
+        'version', ]
 
     if 'name' not in repo:
         pprint.pprint(dict(repo), width=1)
@@ -465,7 +539,7 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     if repofoldername not in cache:
         try:
-            Repo.clone_from(
+            git.Repo.clone_from(
                 git_clone_url, os.path.join(cache_dir, repofoldername))
         except Exception as e:
             if nl:
@@ -522,7 +596,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             'url': html_url, }
 
     elif repofoldername in cache and (last_updated > last_run):
-        repo = Repo(os.path.join(cache_dir, repofoldername))
+        repo = git.Repo(os.path.join(cache_dir, repofoldername))
         o = repo.remotes.origin
         try:
             o.pull()
@@ -558,62 +632,64 @@ def do_repo(repo, i, num_repos, do_score=True):
         for key in keys:
             row[key] = ''
         row['json'] = os.path.splitext(f)[0]
-        try:
-            parser = jsoncomment.JsonComment(json)
-            with io.open(file_path, 'rb') as fp:
-                s = fp.read()
-                h = chardet.detect(s)
-            with io.open(file_path, 'r', encoding=h['encoding']) as fp:
-                s = fp.read()
-                # Strip out single line comments
-                s = re.sub(r'^\s*//.*$', '', s)
-                j = parser.loads(s)
+
+        while True:
+            (parse_error, j) = do_parse(file_path)
+
+            if len(parse_error) > 0:
+                if nl:
+                    print('')
+                    nl = False
+                print('    %s: %s' % (f, parse_error))
+                if not j:
+                    break
 
             if not get_link(j):
                 if nl:
                     print('')
                     nl = False
                 print('    %s: no url' % f)
-                continue
+                break
+
             if 'version' not in j:
                 if nl:
                     print('')
                     nl = False
                 print('    %s: no version' % f)
-                continue
+                break
 
             row['url'] = get_url(j)
+            # @todo Use github API to determine the default branch
+            default_branch = 'master'
             if not row['url']:
-                row['url'] = html_url + '/blob/master' + bucket + '/' + f
+                row['url'] = '%s/blob/%s%s/%s' % (
+                    html_url, default_branch, bucket, f)
             for key in keys:
-                if key in j:
-                    v = j[key]
-                    is_string = type(v).__name__ == 'unicode' or type(
-                        v).__name__ == 'str'
-                    if is_string:
-                        v = v.strip()
-                        v = re.sub(r'[\r\n]+', ' ', v)
-                    if key == 'license':
-                        v = do_license(v)
-                    if key == 'version':
-                        v = do_version(j)
+                if key not in j:
+                    continue
 
-                    row[key] = v
+                v = j[key]
+                is_string = type(v).__name__ == 'unicode' or type(
+                    v).__name__ == 'str'
+                if is_string:
+                    v = v.strip()
+                    v = re.sub(r'[\r\n]+', ' ', v)
+                if key == 'license':
+                    v = do_license(v)
+                if key == 'version':
+                    v = do_version(j)
+
+                row[key] = v.strip()
                 # @TODO add bits/exes,shortcuts
                 # https://png.icons8.com/android/48/000000/ok.png
                 # https://png.icons8.com/android/48/000000/32bit.png
                 # https://png.icons8.com/android/48/000000/64bit.png
                 # exes
                 # shortcuts
+            if len(parse_error) > 0:
+                row['description'] += " (**%s**)" % parse_error
             good_jsons += 1
-
-        except Exception as e:
-            if nl:
-                print('')
-                nl = False
-            print('    %s: %s (%s)' % (f, e, h['encoding']))
-            row['description'] = str(e)
-            print(s)
+            break
 
         cache[repofoldername]['entries'].append(row)
 
@@ -703,10 +779,10 @@ def sort_repos(first_sort_key):
     repos_by_score = sorted(
         repos_by_score,
         key=lambda repo: (
-            -cache[repo][first_sort_key], -cache[repo]['score'], -cache[repo]['stars'],
-            -cache[repo]['forks'], -cache[repo]['packages'], 
-            cache[repo]['full_name'].lower()))
-    
+            -cache[repo][first_sort_key], -cache[repo]['score'], -cache[repo]
+            ['stars'], -cache[repo]['forks'], -cache[repo]['packages'], cache[
+                repo]['full_name'].lower()))
+
     repos_by_name = copy.deepcopy(repos_by_score)
     repos_by_name = sorted(
         repos_by_name, key=lambda repo: cache[repo]['full_name'].lower())
@@ -716,9 +792,9 @@ def sort_repos(first_sort_key):
 def do_render(filename, sort_order_description):
     """ @todo """
     print("Generating %s" % filename)
-    TEMPLATE_ENVIRONMENT = Environment(
+    TEMPLATE_ENVIRONMENT = jinja2.Environment(
         autoescape=False,
-        loader=FileSystemLoader(os.path.join(dir_path, 'template')),
+        loader=jinja2.FileSystemLoader(os.path.join(dir_path, 'template')),
         trim_blocks=False)
     context = {
         'repos_by_score': repos_by_score,
@@ -738,7 +814,7 @@ def do_readme(sort_field, output_file, sort_order_description):
     filename = os.path.realpath(os.path.join(dir_path, '..', output_file))
     if not os.path.isfile(filename):
         print("File not found: %s" % filename)
-        return False    
+        return False
     sort_repos(sort_field)
     do_render(filename, sort_order_description)
     return True
@@ -755,33 +831,32 @@ def main():
     return 0
 
 
+MAX_CLOCK_SKEW_SECONDS = 10
+MAX_TRIES = 3
+SLEEP_SECONDS = 75
+
 OSImap = {}
 for k_ in OSI:
     OSImap[k_.lower()] = 'https://opensource.org/licenses/%s' % k_
 
-keys = [
-    'checkver',
-    'description',
-    'homepage',
-    'license',
-    'version', ]
-
-dir_path = os.path.dirname(os.path.realpath(__file__))
-cache_dir = os.path.join(dir_path, 'cache')
-
-if 'COMPUTERNAME' in os.environ:
-    if os.environ['COMPUTERNAME'] == 'KITSUNE':
-        cache_dir = 'd:/c'
-
-last_run = None
-
-cache = {}
 builtins = {}
+cache = {}
+dir_path = os.path.dirname(os.path.realpath(__file__))
+last_run = None
+per_page = 100
 repos_by_score = []
 repos_by_name = []
 
-per_page = 100
+# cache_dir = os.path.join(dir_path, 'cache')
+if 'CACHE_ROOT' in os.environ:
+    cache_root = os.environ['CACHE_ROOT']
+else:
+    cache_root = dir_path
 
+if not re.search(r'cache$', cache_root):
+    cache_dir = os.path.join(cache_root, 'cache')
+
+# @todo change to startup option
 if False:
     per_page = 1
     max_pages = 1

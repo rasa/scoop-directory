@@ -17,8 +17,8 @@
 | **Bucket** | **Apps** | **![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars")** {#
 #}| **![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks")** | **Updated** |
 
-{% for repo in repos_by_name %}{#
-#}### <a name="{{cache[repo]['id']}}" id="{{cache[repo]['id']}}"></a>[{{cache[repo]['full_name']}}]({{cache[repo]['url']}}) [&#x2934;](#back_{{cache[repo]['id']}})
+{% for repo in repos_by_name %}
+### <a name="{{cache[repo]['id']}}" id="{{cache[repo]['id']}}"></a>[{{cache[repo]['full_name']}}]({{cache[repo]['url']}}) [&#x2934;](#back_{{cache[repo]['id']}})
 {{cache[repo]['idescription']}}
 
 | Name | Version | Description | License |
@@ -28,7 +28,6 @@
 #}| {{entry['version']}} {#
 #}| {{entry['description']|e}} {#
 #}| {{entry['license']}} |
-{% endfor -%}
-{% endfor -%}
+{% endfor -%}{% endfor -%}
 
 *<a href="https://icons8.com/">Icon pack by Icons8</a>*
