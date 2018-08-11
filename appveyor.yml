@@ -1,0 +1,21 @@
+build: false
+
+environment:
+  matrix:
+    - PYTHON: "C:\\Python27"
+      PYTHON_VERSION: "2.7.15"
+      PYTHON_ARCH: "32"
+
+    - PYTHON: "C:\\Python36"
+      PYTHON_VERSION: "3.6.6"
+      PYTHON_ARCH: "32"
+
+init:
+  - "ECHO %PYTHON% %PYTHON_VERSION% %PYTHON_ARCH%"
+
+install:
+  - "%PYTHON%/Scripts/pip.exe install -r maintenance/requirements.txt"
+
+test_script:
+  - "%PYTHON%/bin/python.exe maintenance/github-crawler.py"
+  
