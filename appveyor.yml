@@ -10,9 +10,10 @@ build: false
 environment:
   matrix:
     - PYTHON: "C:\\Python27"
-    - PYTHON: "C:\\Python27-x64"
-    - PYTHON: "C:\\Python36"
-    - PYTHON: "C:\\Python36-x64"
+    # Let's ease the hits on GitHub's API:
+    # - PYTHON: "C:\\Python27-x64"
+    - PYTHON: "C:\\Python37"
+    # - PYTHON: "C:\\Python37-x64"
 
 matrix:
   fast_finish: false
