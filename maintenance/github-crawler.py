@@ -812,7 +812,7 @@ def do_render(filename, sort_order_description):
         'repos_by_name': repos_by_name,
         'cache': cache,
         'sort_order_description': sort_order_description}
-    tpl = 'ReadmeTemplate.tpl'
+    tpl = 'ReadmeTemplate.md'
     markdown_content = TEMPLATE_ENVIRONMENT.get_template(tpl).render(context)
     with io.open(filename, 'w', encoding='utf-8', newline="\n") as f:
         written = f.write(markdown_content)
