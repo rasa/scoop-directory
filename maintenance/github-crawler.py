@@ -162,7 +162,7 @@ searches.append({
         '82p/scoop-yubico-bucket',
         'Aaike/scoop',
         'Alxandr/scoop-bucket',
-        'BjoernPetersen/scoop-bucket',
+        'BjoernPetersen/scoop-misc-bucket',
         'Callidin/ragnar-scoop',
         'Congee/barrel',
         'DimiG/dgBucket',
