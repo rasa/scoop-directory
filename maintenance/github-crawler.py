@@ -629,6 +629,8 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     bucket_path = os.path.join(cache_dir, repofoldername) + bucket
 
+    rows = {}
+    
     jsons = 0
     good_jsons = 0
     for f in os.listdir(bucket_path):
@@ -702,7 +704,10 @@ def do_repo(repo, i, num_repos, do_score=True):
             good_jsons += 1
             break
 
-        cache[repofoldername]['entries'].append(row)
+        rows[row['json']] = row
+    
+    for k in sorted(rows.keys(), key=lambda s: s.lower()):
+        cache[repofoldername]['entries'].append(rows[k])
 
     if good_jsons == 0:
         cache[repofoldername]['entries'] = []
