@@ -842,7 +842,7 @@ def main():
     initialize_cache()
     do_searches()
     save_cache()
-    do_readme('score', 'README.md', 'Github score')
+    do_readme('score', 'by-score.md', 'Github score')
     do_readme('epoch', 'by-date-updated.md', 'update date')
     return 0
 
