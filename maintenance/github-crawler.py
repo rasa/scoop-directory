@@ -387,7 +387,8 @@ def get_builtins():
         "php": "https://github.com/nueko/scoop-php.git",
         "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts.git",
         "nonportable": "https://github.com/oltolm/scoop-nonportable",
-        "java": "https://github.com/se35710/scoop-java"}
+        "java": "https://github.com/se35710/scoop-java",
+        "games": "https://github.com/Calinou/scoop-games"}
 
     for key in bucket_list:
         url = bucket_list[key]
