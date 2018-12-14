@@ -133,7 +133,9 @@ lmap = {
 done = [
     'nueko/scoop-php-ext',
     'pavanbijja/scoop-bucket',
-    'rivy/scoop.bucket.scoop-main', ]
+    'rivy/scoop.bucket.scoop-main',
+    'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
+]
 
 max_pages = 10
 
@@ -631,7 +633,7 @@ def do_repo(repo, i, num_repos, do_score=True):
     bucket_path = os.path.join(cache_dir, repofoldername) + bucket
 
     rows = {}
-    
+
     jsons = 0
     good_jsons = 0
     for f in os.listdir(bucket_path):
@@ -693,7 +695,13 @@ def do_repo(repo, i, num_repos, do_score=True):
                 if key == 'version':
                     v = do_version(j)
 
-                row[key] = v.strip()
+                try:
+                    row[key] = v.strip()
+                except Exception as e:
+                    if nl:
+                        print('')
+                        nl = False
+                    parse_error = str(e)
                 # @TODO add bits/exes,shortcuts
                 # https://png.icons8.com/android/48/000000/ok.png
                 # https://png.icons8.com/android/48/000000/32bit.png
@@ -702,11 +710,12 @@ def do_repo(repo, i, num_repos, do_score=True):
                 # shortcuts
             if len(parse_error) > 0:
                 row['description'] += " (**%s**)" % parse_error
+                break
             good_jsons += 1
             break
 
         rows[row['json']] = row
-    
+
     for k in sorted(rows.keys(), key=lambda s: s.lower()):
         cache[repofoldername]['entries'].append(rows[k])
 
@@ -864,7 +873,7 @@ per_page = 100
 repos_by_score = []
 repos_by_name = []
 
-# cache_dir = os.path.join(dir_path, 'cache')
+cache_dir = os.path.join(dir_path, 'cache')
 if 'CACHE_ROOT' in os.environ:
     cache_root = os.environ['CACHE_ROOT']
 else:
