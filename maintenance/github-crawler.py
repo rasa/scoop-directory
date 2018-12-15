@@ -573,7 +573,7 @@ def do_repo(repo, i, num_repos, do_score=True):
         if full_name in 'lukesampson/scoop':
             builtin_text = "scoop's main/default bucket"
         if builtin_text:
-            description += "(%s)" % builtin_text
+            description += " (%s)" % builtin_text
 
         if description:
             idescription = ' *%s*' % description
