@@ -131,6 +131,7 @@ lmap = {
 
 # skip these buckets as they are forks of other buckets
 done = [
+    'Ranjizamadhu/scoop-bear',
     'nueko/scoop-php-ext',
     'pavanbijja/scoop-bucket',
     'rivy/scoop.bucket.scoop-main',
@@ -164,6 +165,7 @@ searches.append({
         '82p/scoop-yubico-bucket',
         'Aaike/scoop',
         'Alxandr/scoop-bucket',
+        'AStupidBear/scoop-bear',
         'BjoernPetersen/scoop-misc-bucket',
         'Callidin/ragnar-scoop',
         'Congee/barrel',
