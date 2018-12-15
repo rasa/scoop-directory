@@ -137,7 +137,7 @@ done = [
     'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
 ]
 
-max_pages = 3
+max_pages = 2
 
 searches = []
 
