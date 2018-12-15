@@ -3,240 +3,204 @@
 
 | Bucket | Apps | ![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars") | ![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks") | Updated |
 | :--- | ---: | ---: | ---: | ---: |
-|<a name="back_lukesampson_scoop-extras" id="back_lukesampson_scoop-extras"></a>[1.](# "230.29079") [__lukesampson/scoop-extras__](https://github.com/lukesampson/scoop-extras):  *&#34;Extras&#34; bucket for Scoop(scoop&#39;s built-in bucket &#39;extras&#39;)*|[580](#lukesampson_scoop-extras)|[336](https://github.com/lukesampson/scoop-extras/stargazers)|[274](https://github.com/lukesampson/scoop-extras/network)|[18&#x2011;12&#x2011;15](https://github.com/lukesampson/scoop-extras/commits)|
-|<a name="back_scoopinstaller_versions" id="back_scoopinstaller_versions"></a>[2.](# "97.17258") [__scoopinstaller/versions__](https://github.com/scoopinstaller/versions):  *A Scoop bucket for alternative versions of apps.(scoop&#39;s built-in bucket &#39;versions&#39;)*|[67](#scoopinstaller_versions)|[11](https://github.com/scoopinstaller/versions/stargazers)|[23](https://github.com/scoopinstaller/versions/network)|[18&#x2011;12&#x2011;12](https://github.com/scoopinstaller/versions/commits)|
-|<a name="back_lukesampson_scoop" id="back_lukesampson_scoop"></a>[3.](# "96.24836") [__lukesampson/scoop__](https://github.com/lukesampson/scoop):  *A command-line installer for Windows.(scoop&#39;s main/default bucket)*|[407](#lukesampson_scoop)|[5606](https://github.com/lukesampson/scoop/stargazers)|[600](https://github.com/lukesampson/scoop/network)|[18&#x2011;12&#x2011;15](https://github.com/lukesampson/scoop/commits)|
-|<a name="back_kodybrown_scoop-nirsoft" id="back_kodybrown_scoop-nirsoft"></a>[4.](# "77.394196") [__kodybrown/scoop-nirsoft__](https://github.com/kodybrown/scoop-nirsoft):  *A Scoop bucket of useful NirSoft utilities(scoop&#39;s built-in bucket &#39;nirsoft&#39;)*|[18](#kodybrown_scoop-nirsoft)|[15](https://github.com/kodybrown/scoop-nirsoft/stargazers)|[5](https://github.com/kodybrown/scoop-nirsoft/network)|[18&#x2011;11&#x2011;19](https://github.com/kodybrown/scoop-nirsoft/commits)|
-|<a name="back_nueko_scoop-php" id="back_nueko_scoop-php"></a>[5.](# "67.577324") [__nueko/scoop-php__](https://github.com/nueko/scoop-php):  *PHP Bucket for http://scoop.sh(scoop&#39;s built-in bucket &#39;php&#39;)*|[438](#nueko_scoop-php)|[6](https://github.com/nueko/scoop-php/stargazers)|[5](https://github.com/nueko/scoop-php/network)|[18&#x2011;12&#x2011;08](https://github.com/nueko/scoop-php/commits)|
-|<a name="back_matthewjberger_scoop-nerd-fonts" id="back_matthewjberger_scoop-nerd-fonts"></a>[6.](# "64.73933") [__matthewjberger/scoop-nerd-fonts__](https://github.com/matthewjberger/scoop-nerd-fonts):  *A scoop bucket for installing nerd fonts.(scoop&#39;s built-in bucket &#39;nerd-fonts&#39;)*|[35](#matthewjberger_scoop-nerd-fonts)|[19](https://github.com/matthewjberger/scoop-nerd-fonts/stargazers)|[2](https://github.com/matthewjberger/scoop-nerd-fonts/network)|[18&#x2011;12&#x2011;01](https://github.com/matthewjberger/scoop-nerd-fonts/commits)|
-|<a name="back_nueko_php-ext-bucket" id="back_nueko_php-ext-bucket"></a>[7.](# "61.07496") [__nueko/php-ext-bucket__](https://github.com/nueko/php-ext-bucket):  *Scoop Bucket for PHP Extensions*|[54](#nueko_php-ext-bucket)|[3](https://github.com/nueko/php-ext-bucket/stargazers)|[3](https://github.com/nueko/php-ext-bucket/network)|[18&#x2011;06&#x2011;14](https://github.com/nueko/php-ext-bucket/commits)|
-|<a name="back_se35710_scoop-java" id="back_se35710_scoop-java"></a>[8.](# "57.047283") [__se35710/scoop-java__](https://github.com/se35710/scoop-java):  *A bucket for Scoop, for Oracle Java, OpenJDK, Zulu, ojdkbuild, AdoptOpenJDK and Amazon Corretto.(scoop&#39;s built-in bucket &#39;java&#39;)*|[56](#se35710_scoop-java)|[19](https://github.com/se35710/scoop-java/stargazers)|[4](https://github.com/se35710/scoop-java/network)|[18&#x2011;12&#x2011;15](https://github.com/se35710/scoop-java/commits)|
-|<a name="back_Calinou_scoop-games" id="back_Calinou_scoop-games"></a>[9.](# "54.966553") [__Calinou/scoop-games__](https://github.com/Calinou/scoop-games):  *Scoop bucket for open source/freeware games and game-related tools(scoop&#39;s built-in bucket &#39;games&#39;)*|[41](#Calinou_scoop-games)|[9](https://github.com/Calinou/scoop-games/stargazers)|[5](https://github.com/Calinou/scoop-games/network)|[18&#x2011;12&#x2011;13](https://github.com/Calinou/scoop-games/commits)|
-|<a name="back_TheCjw_scoop-retools" id="back_TheCjw_scoop-retools"></a>[10.](# "54.69436") [__TheCjw/scoop-retools__](https://github.com/TheCjw/scoop-retools):  *Scoop bucket for reverse engineering tools*|[22](#TheCjw_scoop-retools)|[7](https://github.com/TheCjw/scoop-retools/stargazers)|[2](https://github.com/TheCjw/scoop-retools/network)|[18&#x2011;11&#x2011;30](https://github.com/TheCjw/scoop-retools/commits)|
-|<a name="back_oltolm_scoop-nonportable" id="back_oltolm_scoop-nonportable"></a>[11.](# "50.57566") [__oltolm/scoop-nonportable__](https://github.com/oltolm/scoop-nonportable):  *Scoop bucket for nonportable apps(scoop&#39;s built-in bucket &#39;nonportable&#39;)*|[17](#oltolm_scoop-nonportable)|[3](https://github.com/oltolm/scoop-nonportable/stargazers)|[2](https://github.com/oltolm/scoop-nonportable/network)|[18&#x2011;12&#x2011;12](https://github.com/oltolm/scoop-nonportable/commits)|
-|<a name="back_rasa_scoops" id="back_rasa_scoops"></a>[12.](# "50.053913") [__rasa/scoops__](https://github.com/rasa/scoops):  *:fries: A bucket of tasty scoop flavored apps.*|[81](#rasa_scoops)|[9](https://github.com/rasa/scoops/stargazers)|[2](https://github.com/rasa/scoops/network)|[18&#x2011;12&#x2011;15](https://github.com/rasa/scoops/commits)|
-|<a name="back_maman_scoop-bucket" id="back_maman_scoop-bucket"></a>[13.](# "46.387276") [__maman/scoop-bucket__](https://github.com/maman/scoop-bucket):  *Additional buckets for scoop - homebrew for windows*|[7](#maman_scoop-bucket)|[2](https://github.com/maman/scoop-bucket/stargazers)|[2](https://github.com/maman/scoop-bucket/network)|[17&#x2011;05&#x2011;26](https://github.com/maman/scoop-bucket/commits)|
-|<a name="back_jmcarbo_scoopbucket" id="back_jmcarbo_scoopbucket"></a>[14.](# "41.846302") [__jmcarbo/scoopbucket__](https://github.com/jmcarbo/scoopbucket):  *Scoop bucket install definitions*|[6](#jmcarbo_scoopbucket)|[1](https://github.com/jmcarbo/scoopbucket/stargazers)|[2](https://github.com/jmcarbo/scoopbucket/network)|[16&#x2011;09&#x2011;08](https://github.com/jmcarbo/scoopbucket/commits)|
-|<a name="back_red_scoop-bucket" id="back_red_scoop-bucket"></a>[15.](# "39.805172") [__red/scoop-bucket__](https://github.com/red/scoop-bucket)|[2](#red_scoop-bucket)|[1](https://github.com/red/scoop-bucket/stargazers)|[2](https://github.com/red/scoop-bucket/network)|[17&#x2011;05&#x2011;16](https://github.com/red/scoop-bucket/commits)|
-|<a name="back_onlyice_scoop-bucket" id="back_onlyice_scoop-bucket"></a>[16.](# "37.425545") [__onlyice/scoop-bucket__](https://github.com/onlyice/scoop-bucket):  *Scoop bucket containing useful tools*|[2](#onlyice_scoop-bucket)|[4](https://github.com/onlyice/scoop-bucket/stargazers)|[1](https://github.com/onlyice/scoop-bucket/network)|[18&#x2011;11&#x2011;14](https://github.com/onlyice/scoop-bucket/commits)|
-|<a name="back_h404bi_dorado" id="back_h404bi_dorado"></a>[17.](# "36.587875") [__h404bi/dorado__](https://github.com/h404bi/dorado):  *🐟 A bucket of Scoop, for h404bi*|[44](#h404bi_dorado)|[5](https://github.com/h404bi/dorado/stargazers)|[1](https://github.com/h404bi/dorado/network)|[18&#x2011;12&#x2011;12](https://github.com/h404bi/dorado/commits)|
-|<a name="back_liaoya_scoop-bucket" id="back_liaoya_scoop-bucket"></a>[18.](# "34.348244") [__liaoya/scoop-bucket__](https://github.com/liaoya/scoop-bucket):  *Tom&#39;s scoop bucket which contain the software does not exist in main and extras scoop bucket*|[18](#liaoya_scoop-bucket)|[3](https://github.com/liaoya/scoop-bucket/stargazers)|[0](https://github.com/liaoya/scoop-bucket/network)|[18&#x2011;12&#x2011;07](https://github.com/liaoya/scoop-bucket/commits)|
-|<a name="back_wangzq_scoop-bucket" id="back_wangzq_scoop-bucket"></a>[19.](# "34.205677") [__wangzq/scoop-bucket__](https://github.com/wangzq/scoop-bucket):  *A bucket for http://scoop.sh*|[85](#wangzq_scoop-bucket)|[3](https://github.com/wangzq/scoop-bucket/stargazers)|[1](https://github.com/wangzq/scoop-bucket/network)|[18&#x2011;12&#x2011;02](https://github.com/wangzq/scoop-bucket/commits)|
-|<a name="back_hermanjustnu_scoop-emulators" id="back_hermanjustnu_scoop-emulators"></a>[20.](# "32.441235") [__hermanjustnu/scoop-emulators__](https://github.com/hermanjustnu/scoop-emulators):  *Scoop bucket for emulators*|[11](#hermanjustnu_scoop-emulators)|[2](https://github.com/hermanjustnu/scoop-emulators/stargazers)|[1](https://github.com/hermanjustnu/scoop-emulators/network)|[18&#x2011;12&#x2011;15](https://github.com/hermanjustnu/scoop-emulators/commits)|
-|<a name="back_scoopinstaller_nightlies" id="back_scoopinstaller_nightlies"></a>[21.](# "30.7952") [__scoopinstaller/nightlies__](https://github.com/scoopinstaller/nightlies):  *(scoop&#39;s built-in bucket &#39;nightlies&#39;)*|[1](#scoopinstaller_nightlies)|[0](https://github.com/scoopinstaller/nightlies/stargazers)|[0](https://github.com/scoopinstaller/nightlies/network)|[16&#x2011;01&#x2011;24](https://github.com/scoopinstaller/nightlies/commits)|
-|<a name="back_siddarthasagar_scoopbucket" id="back_siddarthasagar_scoopbucket"></a>[22.](# "30.284367") [__siddarthasagar/scoopbucket__](https://github.com/siddarthasagar/scoopbucket):  *customBucket to support scoop installations*|[10](#siddarthasagar_scoopbucket)|[0](https://github.com/siddarthasagar/scoopbucket/stargazers)|[0](https://github.com/siddarthasagar/scoopbucket/network)|[18&#x2011;11&#x2011;16](https://github.com/siddarthasagar/scoopbucket/commits)|
-|<a name="back_se35710_scoop-ibm" id="back_se35710_scoop-ibm"></a>[23.](# "30.231445") [__se35710/scoop-ibm__](https://github.com/se35710/scoop-ibm):  *Scoop bucket for IBM Cloud tools and IBM WebSphere Liberty*|[13](#se35710_scoop-ibm)|[4](https://github.com/se35710/scoop-ibm/stargazers)|[0](https://github.com/se35710/scoop-ibm/network)|[18&#x2011;12&#x2011;14](https://github.com/se35710/scoop-ibm/commits)|
-|<a name="back_jfut_scoop-jfut" id="back_jfut_scoop-jfut"></a>[24.](# "28.221304") [__jfut/scoop-jfut__](https://github.com/jfut/scoop-jfut):  *&#34;jfut&#34; bucket for http://scoop.sh*|[39](#jfut_scoop-jfut)|[2](https://github.com/jfut/scoop-jfut/stargazers)|[1](https://github.com/jfut/scoop-jfut/network)|[18&#x2011;12&#x2011;14](https://github.com/jfut/scoop-jfut/commits)|
-|<a name="back_jamesgecko_scoop-packages" id="back_jamesgecko_scoop-packages"></a>[25.](# "28.078957") [__jamesgecko/scoop-packages__](https://github.com/jamesgecko/scoop-packages):  *Random manifests*|[6](#jamesgecko_scoop-packages)|[0](https://github.com/jamesgecko/scoop-packages/stargazers)|[0](https://github.com/jamesgecko/scoop-packages/network)|[15&#x2011;04&#x2011;25](https://github.com/jamesgecko/scoop-packages/commits)|
-|<a name="back_rkbk60_scoop-for-jp" id="back_rkbk60_scoop-for-jp"></a>[26.](# "27.969797") [__rkbk60/scoop-for-jp__](https://github.com/rkbk60/scoop-for-jp):  *Scoop bucket for ALL Japanese users.*|[9](#rkbk60_scoop-for-jp)|[2](https://github.com/rkbk60/scoop-for-jp/stargazers)|[0](https://github.com/rkbk60/scoop-for-jp/network)|[18&#x2011;12&#x2011;14](https://github.com/rkbk60/scoop-for-jp/commits)|
-|<a name="back_furyfire_my-bucket" id="back_furyfire_my-bucket"></a>[27.](# "27.294762") [__furyfire/my-bucket__](https://github.com/furyfire/my-bucket):  *scoop bucket*|[1](#furyfire_my-bucket)|[0](https://github.com/furyfire/my-bucket/stargazers)|[0](https://github.com/furyfire/my-bucket/network)|[17&#x2011;10&#x2011;10](https://github.com/furyfire/my-bucket/commits)|
-|<a name="back_svkoh_scoop-bucket" id="back_svkoh_scoop-bucket"></a>[28.](# "27.250822") [__svkoh/scoop-bucket__](https://github.com/svkoh/scoop-bucket):  *scoop-bucket*|[1](#svkoh_scoop-bucket)|[0](https://github.com/svkoh/scoop-bucket/stargazers)|[1](https://github.com/svkoh/scoop-bucket/network)|[18&#x2011;11&#x2011;22](https://github.com/svkoh/scoop-bucket/commits)|
-|<a name="back_Aaike_scoop" id="back_Aaike_scoop"></a>[29.](# "27.20966") [__Aaike/scoop__](https://github.com/Aaike/scoop):  *Scoop bucket*|[1](#Aaike_scoop)|[0](https://github.com/Aaike/scoop/stargazers)|[0](https://github.com/Aaike/scoop/network)|[15&#x2011;06&#x2011;11](https://github.com/Aaike/scoop/commits)|
-|<a name="back_cryptogrampus_cuztum-bucket" id="back_cryptogrampus_cuztum-bucket"></a>[30.](# "27.203423") [__cryptogrampus/cuztum-bucket__](https://github.com/cryptogrampus/cuztum-bucket):  *scoop bucket*|[1](#cryptogrampus_cuztum-bucket)|[0](https://github.com/cryptogrampus/cuztum-bucket/stargazers)|[0](https://github.com/cryptogrampus/cuztum-bucket/network)|[18&#x2011;05&#x2011;29](https://github.com/cryptogrampus/cuztum-bucket/commits)|
-|<a name="back_gexclaude_scoop-bucket" id="back_gexclaude_scoop-bucket"></a>[31.](# "27.165901") [__gexclaude/scoop-bucket__](https://github.com/gexclaude/scoop-bucket):  *Scoop Bucket*|[1](#gexclaude_scoop-bucket)|[0](https://github.com/gexclaude/scoop-bucket/stargazers)|[0](https://github.com/gexclaude/scoop-bucket/network)|[18&#x2011;06&#x2011;12](https://github.com/gexclaude/scoop-bucket/commits)|
-|<a name="back_Sandex_scoop-supernova" id="back_Sandex_scoop-supernova"></a>[32.](# "27.111025") [__Sandex/scoop-supernova__](https://github.com/Sandex/scoop-supernova):  *Scoop bucket*|[6](#Sandex_scoop-supernova)|[1](https://github.com/Sandex/scoop-supernova/stargazers)|[1](https://github.com/Sandex/scoop-supernova/network)|[18&#x2011;05&#x2011;04](https://github.com/Sandex/scoop-supernova/commits)|
-|<a name="back_simonwjackson_my-bucket" id="back_simonwjackson_my-bucket"></a>[33.](# "27.094288") [__simonwjackson/my-bucket__](https://github.com/simonwjackson/my-bucket):  *Scoop bucket*|[1](#simonwjackson_my-bucket)|[0](https://github.com/simonwjackson/my-bucket/stargazers)|[0](https://github.com/simonwjackson/my-bucket/network)|[17&#x2011;04&#x2011;30](https://github.com/simonwjackson/my-bucket/commits)|
-|<a name="back_idursun_my-bucket" id="back_idursun_my-bucket"></a>[34.](# "26.99376") [__idursun/my-bucket__](https://github.com/idursun/my-bucket):  *Scoop bucket*|[1](#idursun_my-bucket)|[0](https://github.com/idursun/my-bucket/stargazers)|[0](https://github.com/idursun/my-bucket/network)|[17&#x2011;05&#x2011;25](https://github.com/idursun/my-bucket/commits)|
-|<a name="back_kingchang_scoop-buckets" id="back_kingchang_scoop-buckets"></a>[35.](# "26.98127") [__kingchang/scoop-buckets__](https://github.com/kingchang/scoop-buckets):  *Scoop Buckets*|[2](#kingchang_scoop-buckets)|[0](https://github.com/kingchang/scoop-buckets/stargazers)|[0](https://github.com/kingchang/scoop-buckets/network)|[18&#x2011;03&#x2011;29](https://github.com/kingchang/scoop-buckets/commits)|
-|<a name="back_sh4869221b_scoop-bucket" id="back_sh4869221b_scoop-bucket"></a>[36.](# "26.703371") [__sh4869221b/scoop-bucket__](https://github.com/sh4869221b/scoop-bucket):  *scoop bucket*|[16](#sh4869221b_scoop-bucket)|[0](https://github.com/sh4869221b/scoop-bucket/stargazers)|[0](https://github.com/sh4869221b/scoop-bucket/network)|[18&#x2011;12&#x2011;15](https://github.com/sh4869221b/scoop-bucket/commits)|
-|<a name="back_excitoon_scoop-user" id="back_excitoon_scoop-user"></a>[37.](# "26.299004") [__excitoon/scoop-user__](https://github.com/excitoon/scoop-user):  *My custom Scoop repository*|[50](#excitoon_scoop-user)|[0](https://github.com/excitoon/scoop-user/stargazers)|[1](https://github.com/excitoon/scoop-user/network)|[18&#x2011;12&#x2011;06](https://github.com/excitoon/scoop-user/commits)|
-|<a name="back_Nunnery_ScoopBucket" id="back_Nunnery_ScoopBucket"></a>[38.](# "25.606098") [__Nunnery/ScoopBucket__](https://github.com/Nunnery/ScoopBucket)|[2](#Nunnery_ScoopBucket)|[0](https://github.com/Nunnery/ScoopBucket/stargazers)|[0](https://github.com/Nunnery/ScoopBucket/network)|[15&#x2011;09&#x2011;06](https://github.com/Nunnery/ScoopBucket/commits)|
-|<a name="back_Lomeli12_ScoopBucket" id="back_Lomeli12_ScoopBucket"></a>[39.](# "25.520458") [__Lomeli12/ScoopBucket__](https://github.com/Lomeli12/ScoopBucket):  *A bucket to install my programs using Scoop (http://scoop.sh/)*|[4](#Lomeli12_ScoopBucket)|[0](https://github.com/Lomeli12/ScoopBucket/stargazers)|[0](https://github.com/Lomeli12/ScoopBucket/network)|[17&#x2011;04&#x2011;24](https://github.com/Lomeli12/ScoopBucket/commits)|
-|<a name="back_Guard13007_ScoopBucket" id="back_Guard13007_ScoopBucket"></a>[40.](# "25.520458") [__Guard13007/ScoopBucket__](https://github.com/Guard13007/ScoopBucket):  *Bucket for Scoop to install my stuff. (http://scoop.sh)*|[2](#Guard13007_ScoopBucket)|[0](https://github.com/Guard13007/ScoopBucket/stargazers)|[0](https://github.com/Guard13007/ScoopBucket/network)|[17&#x2011;05&#x2011;08](https://github.com/Guard13007/ScoopBucket/commits)|
-|<a name="back_Southclaws_scoops" id="back_Southclaws_scoops"></a>[41.](# "25.49318") [__Southclaws/scoops__](https://github.com/Southclaws/scoops):  *Southclaws&#39; scoop.sh bucket - https://scoop.sh*|[1](#Southclaws_scoops)|[0](https://github.com/Southclaws/scoops/stargazers)|[1](https://github.com/Southclaws/scoops/network)|[18&#x2011;10&#x2011;28](https://github.com/Southclaws/scoops/commits)|
-|<a name="back_TnmkFan_my-bucket" id="back_TnmkFan_my-bucket"></a>[42.](# "25.49318") [__TnmkFan/my-bucket__](https://github.com/TnmkFan/my-bucket):  *bucket for scoop (extra apps for scoop)*|[1](#TnmkFan_my-bucket)|[0](https://github.com/TnmkFan/my-bucket/stargazers)|[0](https://github.com/TnmkFan/my-bucket/network)|[16&#x2011;09&#x2011;22](https://github.com/TnmkFan/my-bucket/commits)|
-|<a name="back_anurse_scoop-bucket" id="back_anurse_scoop-bucket"></a>[43.](# "25.311737") [__anurse/scoop-bucket__](https://github.com/anurse/scoop-bucket):  *My Scoop (http://scoop.sh) bucket*|[7](#anurse_scoop-bucket)|[0](https://github.com/anurse/scoop-bucket/stargazers)|[0](https://github.com/anurse/scoop-bucket/network)|[18&#x2011;04&#x2011;25](https://github.com/anurse/scoop-bucket/commits)|
-|<a name="back_scoopinstaller_php" id="back_scoopinstaller_php"></a>[44.](# "25.22323") [__scoopinstaller/php__](https://github.com/scoopinstaller/php):  *PHP Bucket for Scoop*|[377](#scoopinstaller_php)|[0](https://github.com/scoopinstaller/php/stargazers)|[0](https://github.com/scoopinstaller/php/network)|[18&#x2011;12&#x2011;07](https://github.com/scoopinstaller/php/commits)|
-|<a name="back_ericzong_ericzone" id="back_ericzong_ericzone"></a>[45.](# "25.22323") [__ericzong/ericzone__](https://github.com/ericzong/ericzone):  *My bucket for Scoop*|[4](#ericzong_ericzone)|[0](https://github.com/ericzong/ericzone/stargazers)|[0](https://github.com/ericzong/ericzone/network)|[18&#x2011;11&#x2011;28](https://github.com/ericzong/ericzone/commits)|
-|<a name="back_wio_wio-bucket" id="back_wio_wio-bucket"></a>[46.](# "25.22323") [__wio/wio-bucket__](https://github.com/wio/wio-bucket):  *Scoop Bucket for Wio*|[1](#wio_wio-bucket)|[0](https://github.com/wio/wio-bucket/stargazers)|[0](https://github.com/wio/wio-bucket/network)|[18&#x2011;10&#x2011;31](https://github.com/wio/wio-bucket/commits)|
-|<a name="back_yt3r_test-bucket" id="back_yt3r_test-bucket"></a>[47.](# "25.22323") [__yt3r/test-bucket__](https://github.com/yt3r/test-bucket):  *test bucket for scoop*|[1](#yt3r_test-bucket)|[0](https://github.com/yt3r/test-bucket/stargazers)|[0](https://github.com/yt3r/test-bucket/network)|[18&#x2011;01&#x2011;22](https://github.com/yt3r/test-bucket/commits)|
-|<a name="back_atomicwrites_bucket" id="back_atomicwrites_bucket"></a>[48.](# "25.222801") [__atomicwrites/bucket__](https://github.com/atomicwrites/bucket):  *Some windows apps I&#39;ve packaged for scoop.*|[4](#atomicwrites_bucket)|[0](https://github.com/atomicwrites/bucket/stargazers)|[0](https://github.com/atomicwrites/bucket/network)|[18&#x2011;05&#x2011;20](https://github.com/atomicwrites/bucket/commits)|
-|<a name="back_ippsio_scoop_bucket" id="back_ippsio_scoop_bucket"></a>[49.](# "25.20822") [__ippsio/scoop_bucket__](https://github.com/ippsio/scoop_bucket):  *a bucket of scoop*|[4](#ippsio_scoop_bucket)|[0](https://github.com/ippsio/scoop_bucket/stargazers)|[0](https://github.com/ippsio/scoop_bucket/network)|[18&#x2011;11&#x2011;14](https://github.com/ippsio/scoop_bucket/commits)|
-|<a name="back_rcqls_scoop-extras" id="back_rcqls_scoop-extras"></a>[50.](# "25.20822") [__rcqls/scoop-extras__](https://github.com/rcqls/scoop-extras):  *scoop bucket for rcqls*|[4](#rcqls_scoop-extras)|[0](https://github.com/rcqls/scoop-extras/stargazers)|[0](https://github.com/rcqls/scoop-extras/network)|[16&#x2011;11&#x2011;26](https://github.com/rcqls/scoop-extras/commits)|
-|<a name="back_mko-x_bucket" id="back_mko-x_bucket"></a>[51.](# "25.20822") [__mko-x/bucket__](https://github.com/mko-x/bucket):  *scoop bucket customized*|[1](#mko-x_bucket)|[0](https://github.com/mko-x/bucket/stargazers)|[0](https://github.com/mko-x/bucket/network)|[15&#x2011;07&#x2011;09](https://github.com/mko-x/bucket/commits)|
-|<a name="back_narnaud_scoop-bucket" id="back_narnaud_scoop-bucket"></a>[52.](# "25.207481") [__narnaud/scoop-bucket__](https://github.com/narnaud/scoop-bucket):  *Extra bucket for scoop*|[6](#narnaud_scoop-bucket)|[0](https://github.com/narnaud/scoop-bucket/stargazers)|[0](https://github.com/narnaud/scoop-bucket/network)|[18&#x2011;09&#x2011;03](https://github.com/narnaud/scoop-bucket/commits)|
-|<a name="back_follnoob_follnoob-bucket" id="back_follnoob_follnoob-bucket"></a>[53.](# "25.207481") [__follnoob/follnoob-bucket__](https://github.com/follnoob/follnoob-bucket):  *own scoop bucket*|[2](#follnoob_follnoob-bucket)|[0](https://github.com/follnoob/follnoob-bucket/stargazers)|[0](https://github.com/follnoob/follnoob-bucket/network)|[18&#x2011;01&#x2011;04](https://github.com/follnoob/follnoob-bucket/commits)|
-|<a name="back_iquiw_scoop-bucket" id="back_iquiw_scoop-bucket"></a>[54.](# "25.207481") [__iquiw/scoop-bucket__](https://github.com/iquiw/scoop-bucket):  *My personal scoop bucket*|[2](#iquiw_scoop-bucket)|[0](https://github.com/iquiw/scoop-bucket/stargazers)|[0](https://github.com/iquiw/scoop-bucket/network)|[18&#x2011;12&#x2011;08](https://github.com/iquiw/scoop-bucket/commits)|
-|<a name="back_MCOfficer_scoop-bucket" id="back_MCOfficer_scoop-bucket"></a>[55.](# "25.200071") [__MCOfficer/scoop-bucket__](https://github.com/MCOfficer/scoop-bucket):  *My personal scoop bucket.*|[6](#MCOfficer_scoop-bucket)|[1](https://github.com/MCOfficer/scoop-bucket/stargazers)|[0](https://github.com/MCOfficer/scoop-bucket/network)|[18&#x2011;12&#x2011;15](https://github.com/MCOfficer/scoop-bucket/commits)|
-|<a name="back_Sathish-n_appbucket" id="back_Sathish-n_appbucket"></a>[56.](# "25.200071") [__Sathish-n/appbucket__](https://github.com/Sathish-n/appbucket):  *Bucket for Scoop*|[4](#Sathish-n_appbucket)|[1](https://github.com/Sathish-n/appbucket/stargazers)|[0](https://github.com/Sathish-n/appbucket/network)|[18&#x2011;05&#x2011;19](https://github.com/Sathish-n/appbucket/commits)|
-|<a name="back_Alxandr_scoop-bucket" id="back_Alxandr_scoop-bucket"></a>[57.](# "25.200071") [__Alxandr/scoop-bucket__](https://github.com/Alxandr/scoop-bucket):  *My scoop bucket*|[3](#Alxandr_scoop-bucket)|[0](https://github.com/Alxandr/scoop-bucket/stargazers)|[0](https://github.com/Alxandr/scoop-bucket/network)|[18&#x2011;08&#x2011;26](https://github.com/Alxandr/scoop-bucket/commits)|
-|<a name="back_bitrvmpd_scoop-wuff" id="back_bitrvmpd_scoop-wuff"></a>[58.](# "25.200071") [__bitrvmpd/scoop-wuff__](https://github.com/bitrvmpd/scoop-wuff):  *Another Scoop Bucket*|[1](#bitrvmpd_scoop-wuff)|[0](https://github.com/bitrvmpd/scoop-wuff/stargazers)|[0](https://github.com/bitrvmpd/scoop-wuff/network)|[15&#x2011;09&#x2011;03](https://github.com/bitrvmpd/scoop-wuff/commits)|
-|<a name="back_DanteTheEgregore_smithy" id="back_DanteTheEgregore_smithy"></a>[59.](# "25.200071") [__DanteTheEgregore/smithy__](https://github.com/DanteTheEgregore/smithy):  *A Scoop Bucket*|[1](#DanteTheEgregore_smithy)|[0](https://github.com/DanteTheEgregore/smithy/stargazers)|[0](https://github.com/DanteTheEgregore/smithy/network)|[18&#x2011;09&#x2011;06](https://github.com/DanteTheEgregore/smithy/commits)|
-|<a name="back_lzimd_lzimd-scoop-bucket" id="back_lzimd_lzimd-scoop-bucket"></a>[60.](# "25.113901") [__lzimd/lzimd-scoop-bucket__](https://github.com/lzimd/lzimd-scoop-bucket):  *lzimd&#39;s scoop bucket*|[7](#lzimd_lzimd-scoop-bucket)|[0](https://github.com/lzimd/lzimd-scoop-bucket/stargazers)|[0](https://github.com/lzimd/lzimd-scoop-bucket/network)|[18&#x2011;12&#x2011;04](https://github.com/lzimd/lzimd-scoop-bucket/commits)|
-|<a name="back_glucas_scoop-bucket" id="back_glucas_scoop-bucket"></a>[61.](# "25.113901") [__glucas/scoop-bucket__](https://github.com/glucas/scoop-bucket):  *My scoop bucket.*|[5](#glucas_scoop-bucket)|[0](https://github.com/glucas/scoop-bucket/stargazers)|[0](https://github.com/glucas/scoop-bucket/network)|[18&#x2011;08&#x2011;28](https://github.com/glucas/scoop-bucket/commits)|
-|<a name="back_waderchan_valor-bucket" id="back_waderchan_valor-bucket"></a>[62.](# "25.113901") [__waderchan/valor-bucket__](https://github.com/waderchan/valor-bucket):  *My personal scoop bucket.*|[2](#waderchan_valor-bucket)|[0](https://github.com/waderchan/valor-bucket/stargazers)|[0](https://github.com/waderchan/valor-bucket/network)|[18&#x2011;09&#x2011;08](https://github.com/waderchan/valor-bucket/commits)|
-|<a name="back_DeezCashews_tilt-bucket" id="back_DeezCashews_tilt-bucket"></a>[63.](# "25.113901") [__DeezCashews/tilt-bucket__](https://github.com/DeezCashews/tilt-bucket):  *Bucket for scoop installs*|[1](#DeezCashews_tilt-bucket)|[0](https://github.com/DeezCashews/tilt-bucket/stargazers)|[0](https://github.com/DeezCashews/tilt-bucket/network)|[18&#x2011;05&#x2011;17](https://github.com/DeezCashews/tilt-bucket/commits)|
-|<a name="back_rgroszewski_scoop-bucket" id="back_rgroszewski_scoop-bucket"></a>[64.](# "25.113901") [__rgroszewski/scoop-bucket__](https://github.com/rgroszewski/scoop-bucket):  *Bucket for Scoop*|[1](#rgroszewski_scoop-bucket)|[0](https://github.com/rgroszewski/scoop-bucket/stargazers)|[0](https://github.com/rgroszewski/scoop-bucket/network)|[18&#x2011;10&#x2011;06](https://github.com/rgroszewski/scoop-bucket/commits)|
-|<a name="back_yutahaga_scoop-bucket" id="back_yutahaga_scoop-bucket"></a>[65.](# "25.072784") [__yutahaga/scoop-bucket__](https://github.com/yutahaga/scoop-bucket):  *my scoop bucket*|[10](#yutahaga_scoop-bucket)|[1](https://github.com/yutahaga/scoop-bucket/stargazers)|[0](https://github.com/yutahaga/scoop-bucket/network)|[18&#x2011;11&#x2011;23](https://github.com/yutahaga/scoop-bucket/commits)|
-|<a name="back_mattkang_scoop-bucket" id="back_mattkang_scoop-bucket"></a>[66.](# "25.072784") [__mattkang/scoop-bucket__](https://github.com/mattkang/scoop-bucket):  *Bucket for scoop.sh*|[2](#mattkang_scoop-bucket)|[0](https://github.com/mattkang/scoop-bucket/stargazers)|[0](https://github.com/mattkang/scoop-bucket/network)|[17&#x2011;04&#x2011;20](https://github.com/mattkang/scoop-bucket/commits)|
-|<a name="back_andreysaksonov_scoop-bucket" id="back_andreysaksonov_scoop-bucket"></a>[67.](# "25.059963") [__andreysaksonov/scoop-bucket__](https://github.com/andreysaksonov/scoop-bucket):  *Bucket for Scoop (http://scoop.sh/)*|[2](#andreysaksonov_scoop-bucket)|[0](https://github.com/andreysaksonov/scoop-bucket/stargazers)|[0](https://github.com/andreysaksonov/scoop-bucket/network)|[18&#x2011;04&#x2011;26](https://github.com/andreysaksonov/scoop-bucket/commits)|
-|<a name="back_javageek_scoop-bucket" id="back_javageek_scoop-bucket"></a>[68.](# "25.006348") [__javageek/scoop-bucket__](https://github.com/javageek/scoop-bucket):  *scoop.sh bucket*|[1](#javageek_scoop-bucket)|[0](https://github.com/javageek/scoop-bucket/stargazers)|[0](https://github.com/javageek/scoop-bucket/network)|[17&#x2011;12&#x2011;07](https://github.com/javageek/scoop-bucket/commits)|
-|<a name="back_kentork_scoop-leaky-bucket" id="back_kentork_scoop-leaky-bucket"></a>[69.](# "24.968975") [__kentork/scoop-leaky-bucket__](https://github.com/kentork/scoop-leaky-bucket):  *my scoop bucket*|[3](#kentork_scoop-leaky-bucket)|[0](https://github.com/kentork/scoop-leaky-bucket/stargazers)|[0](https://github.com/kentork/scoop-leaky-bucket/network)|[17&#x2011;11&#x2011;23](https://github.com/kentork/scoop-leaky-bucket/commits)|
-|<a name="back_MunsterPlop_munsterbucket" id="back_MunsterPlop_munsterbucket"></a>[70.](# "24.968975") [__MunsterPlop/munsterbucket__](https://github.com/MunsterPlop/munsterbucket):  *My personal Scoop bucket*|[1](#MunsterPlop_munsterbucket)|[0](https://github.com/MunsterPlop/munsterbucket/stargazers)|[0](https://github.com/MunsterPlop/munsterbucket/network)|[18&#x2011;05&#x2011;16](https://github.com/MunsterPlop/munsterbucket/commits)|
-|<a name="back_nikolasd_scoop-bucket" id="back_nikolasd_scoop-bucket"></a>[71.](# "24.968975") [__nikolasd/scoop-bucket__](https://github.com/nikolasd/scoop-bucket):  *My Scoop bucket*|[1](#nikolasd_scoop-bucket)|[0](https://github.com/nikolasd/scoop-bucket/stargazers)|[0](https://github.com/nikolasd/scoop-bucket/network)|[13&#x2011;11&#x2011;06](https://github.com/nikolasd/scoop-bucket/commits)|
-|<a name="back_shyun3_my-bucket" id="back_shyun3_my-bucket"></a>[72.](# "24.93504") [__shyun3/my-bucket__](https://github.com/shyun3/my-bucket):  *My Scoop bucket*|[4](#shyun3_my-bucket)|[0](https://github.com/shyun3/my-bucket/stargazers)|[0](https://github.com/shyun3/my-bucket/network)|[18&#x2011;12&#x2011;03](https://github.com/shyun3/my-bucket/commits)|
-|<a name="back_hannesdorn_scoop-dorn" id="back_hannesdorn_scoop-dorn"></a>[73.](# "24.93504") [__hannesdorn/scoop-dorn__](https://github.com/hannesdorn/scoop-dorn):  *My scoop bucket*|[1](#hannesdorn_scoop-dorn)|[0](https://github.com/hannesdorn/scoop-dorn/stargazers)|[0](https://github.com/hannesdorn/scoop-dorn/network)|[18&#x2011;11&#x2011;18](https://github.com/hannesdorn/scoop-dorn/commits)|
-|<a name="back_hyrious_scoop-hyrious" id="back_hyrious_scoop-hyrious"></a>[74.](# "24.844236") [__hyrious/scoop-hyrious__](https://github.com/hyrious/scoop-hyrious):  *Personal Scoop buckets.*|[6](#hyrious_scoop-hyrious)|[0](https://github.com/hyrious/scoop-hyrious/stargazers)|[0](https://github.com/hyrious/scoop-hyrious/network)|[18&#x2011;10&#x2011;31](https://github.com/hyrious/scoop-hyrious/commits)|
-|<a name="back_hulucc_bucket" id="back_hulucc_bucket"></a>[75.](# "24.844236") [__hulucc/bucket__](https://github.com/hulucc/bucket):  *my scoop bucket*|[3](#hulucc_bucket)|[0](https://github.com/hulucc/bucket/stargazers)|[0](https://github.com/hulucc/bucket/network)|[18&#x2011;11&#x2011;04](https://github.com/hulucc/bucket/commits)|
-|<a name="back_klauern_trackello-bucket" id="back_klauern_trackello-bucket"></a>[76.](# "24.844236") [__klauern/trackello-bucket__](https://github.com/klauern/trackello-bucket):  *scoop bucket for trackello*|[1](#klauern_trackello-bucket)|[0](https://github.com/klauern/trackello-bucket/stargazers)|[0](https://github.com/klauern/trackello-bucket/network)|[18&#x2011;02&#x2011;16](https://github.com/klauern/trackello-bucket/commits)|
-|<a name="back_eamatt_scoop" id="back_eamatt_scoop"></a>[77.](# "24.773056") [__eamatt/scoop__](https://github.com/eamatt/scoop):  *my scoop bucket (Japanese)*|[20](#eamatt_scoop)|[0](https://github.com/eamatt/scoop/stargazers)|[0](https://github.com/eamatt/scoop/network)|[18&#x2011;11&#x2011;26](https://github.com/eamatt/scoop/commits)|
-|<a name="back_iainsgillis_isg-bucket" id="back_iainsgillis_isg-bucket"></a>[78.](# "24.773056") [__iainsgillis/isg-bucket__](https://github.com/iainsgillis/isg-bucket):  *Personal bucket for scoop*|[4](#iainsgillis_isg-bucket)|[0](https://github.com/iainsgillis/isg-bucket/stargazers)|[0](https://github.com/iainsgillis/isg-bucket/network)|[18&#x2011;07&#x2011;24](https://github.com/iainsgillis/isg-bucket/commits)|
-|<a name="back_TokunaKimochi_scoop-bucket" id="back_TokunaKimochi_scoop-bucket"></a>[79.](# "24.773056") [__TokunaKimochi/scoop-bucket__](https://github.com/TokunaKimochi/scoop-bucket):  *my bucket for Scoop*|[2](#TokunaKimochi_scoop-bucket)|[0](https://github.com/TokunaKimochi/scoop-bucket/stargazers)|[0](https://github.com/TokunaKimochi/scoop-bucket/network)|[18&#x2011;09&#x2011;23](https://github.com/TokunaKimochi/scoop-bucket/commits)|
-|<a name="back_myomi_scoop-bucket" id="back_myomi_scoop-bucket"></a>[80.](# "24.773056") [__myomi/scoop-bucket__](https://github.com/myomi/scoop-bucket):  *my scoop bucket*|[1](#myomi_scoop-bucket)|[0](https://github.com/myomi/scoop-bucket/stargazers)|[0](https://github.com/myomi/scoop-bucket/network)|[18&#x2011;11&#x2011;01](https://github.com/myomi/scoop-bucket/commits)|
-|<a name="back_yuanying1199_scoopbucket" id="back_yuanying1199_scoopbucket"></a>[81.](# "24.772747") [__yuanying1199/scoopbucket__](https://github.com/yuanying1199/scoopbucket):  *my scoop bucket*|[21](#yuanying1199_scoopbucket)|[1](https://github.com/yuanying1199/scoopbucket/stargazers)|[0](https://github.com/yuanying1199/scoopbucket/network)|[18&#x2011;12&#x2011;09](https://github.com/yuanying1199/scoopbucket/commits)|
-|<a name="back_biehlermi_scoop-apps" id="back_biehlermi_scoop-apps"></a>[82.](# "24.772747") [__biehlermi/scoop-apps__](https://github.com/biehlermi/scoop-apps):  *Bucket for Scoop.*|[8](#biehlermi_scoop-apps)|[0](https://github.com/biehlermi/scoop-apps/stargazers)|[0](https://github.com/biehlermi/scoop-apps/network)|[18&#x2011;11&#x2011;09](https://github.com/biehlermi/scoop-apps/commits)|
-|<a name="back_Spiraster_scoop-bucket" id="back_Spiraster_scoop-bucket"></a>[83.](# "24.772747") [__Spiraster/scoop-bucket__](https://github.com/Spiraster/scoop-bucket):  *A personal Scoop bucket*|[7](#Spiraster_scoop-bucket)|[0](https://github.com/Spiraster/scoop-bucket/stargazers)|[0](https://github.com/Spiraster/scoop-bucket/network)|[18&#x2011;12&#x2011;06](https://github.com/Spiraster/scoop-bucket/commits)|
-|<a name="back_demas_demas-scoop" id="back_demas_demas-scoop"></a>[84.](# "24.772747") [__demas/demas-scoop__](https://github.com/demas/demas-scoop):  *My Scoop Bucket*|[5](#demas_demas-scoop)|[0](https://github.com/demas/demas-scoop/stargazers)|[0](https://github.com/demas/demas-scoop/network)|[16&#x2011;09&#x2011;19](https://github.com/demas/demas-scoop/commits)|
-|<a name="back_ponta555_scoop-bucket" id="back_ponta555_scoop-bucket"></a>[85.](# "24.772747") [__ponta555/scoop-bucket__](https://github.com/ponta555/scoop-bucket):  *My scoop bucket.*|[5](#ponta555_scoop-bucket)|[0](https://github.com/ponta555/scoop-bucket/stargazers)|[0](https://github.com/ponta555/scoop-bucket/network)|[18&#x2011;07&#x2011;28](https://github.com/ponta555/scoop-bucket/commits)|
-|<a name="back_pastleo_scoop-bucket" id="back_pastleo_scoop-bucket"></a>[86.](# "24.772747") [__pastleo/scoop-bucket__](https://github.com/pastleo/scoop-bucket):  *My Scoop Bucket*|[2](#pastleo_scoop-bucket)|[0](https://github.com/pastleo/scoop-bucket/stargazers)|[0](https://github.com/pastleo/scoop-bucket/network)|[16&#x2011;03&#x2011;20](https://github.com/pastleo/scoop-bucket/commits)|
-|<a name="back_jayonthenet_scoop" id="back_jayonthenet_scoop"></a>[87.](# "24.772747") [__jayonthenet/scoop__](https://github.com/jayonthenet/scoop):  *My own scoop bucket*|[1](#jayonthenet_scoop)|[0](https://github.com/jayonthenet/scoop/stargazers)|[0](https://github.com/jayonthenet/scoop/network)|[18&#x2011;08&#x2011;06](https://github.com/jayonthenet/scoop/commits)|
-|<a name="back_DimiG_dgBucket" id="back_DimiG_dgBucket"></a>[88.](# "24.7151") [__DimiG/dgBucket__](https://github.com/DimiG/dgBucket):  *Scoop personal bucket*|[9](#DimiG_dgBucket)|[1](https://github.com/DimiG/dgBucket/stargazers)|[0](https://github.com/DimiG/dgBucket/network)|[18&#x2011;12&#x2011;13](https://github.com/DimiG/dgBucket/commits)|
-|<a name="back_fredjoseph_scoop-bucket" id="back_fredjoseph_scoop-bucket"></a>[89.](# "24.7151") [__fredjoseph/scoop-bucket__](https://github.com/fredjoseph/scoop-bucket):  *bucket for Scoop installer*|[13](#fredjoseph_scoop-bucket)|[0](https://github.com/fredjoseph/scoop-bucket/stargazers)|[0](https://github.com/fredjoseph/scoop-bucket/network)|[18&#x2011;11&#x2011;07](https://github.com/fredjoseph/scoop-bucket/commits)|
-|<a name="back_noquierouser_nqu-scoop" id="back_noquierouser_nqu-scoop"></a>[90.](# "24.7151") [__noquierouser/nqu-scoop__](https://github.com/noquierouser/nqu-scoop):  *My own Scoop bucket*|[6](#noquierouser_nqu-scoop)|[0](https://github.com/noquierouser/nqu-scoop/stargazers)|[0](https://github.com/noquierouser/nqu-scoop/network)|[18&#x2011;11&#x2011;28](https://github.com/noquierouser/nqu-scoop/commits)|
-|<a name="back_daniel-scholz_my-bucket" id="back_daniel-scholz_my-bucket"></a>[91.](# "24.7151") [__daniel-scholz/my-bucket__](https://github.com/daniel-scholz/my-bucket):  *scoop bucket from me*|[1](#daniel-scholz_my-bucket)|[0](https://github.com/daniel-scholz/my-bucket/stargazers)|[0](https://github.com/daniel-scholz/my-bucket/network)|[18&#x2011;06&#x2011;25](https://github.com/daniel-scholz/my-bucket/commits)|
-|<a name="back_mdekstrand_ekstrand-bucket" id="back_mdekstrand_ekstrand-bucket"></a>[92.](# "24.544958") [__mdekstrand/ekstrand-bucket__](https://github.com/mdekstrand/ekstrand-bucket):  *My personal Scoop packages*|[1](#mdekstrand_ekstrand-bucket)|[0](https://github.com/mdekstrand/ekstrand-bucket/stargazers)|[0](https://github.com/mdekstrand/ekstrand-bucket/network)|[18&#x2011;05&#x2011;17](https://github.com/mdekstrand/ekstrand-bucket/commits)|
-|<a name="back_Guard13007_ScoopBucket-ThirdParty" id="back_Guard13007_ScoopBucket-ThirdParty"></a>[93.](# "24.531456") [__Guard13007/ScoopBucket-ThirdParty__](https://github.com/Guard13007/ScoopBucket-ThirdParty):  *Bucket for Scoop to install cool stuff I didn&#39;t make. (http://scoop.sh)*|[7](#Guard13007_ScoopBucket-ThirdParty)|[1](https://github.com/Guard13007/ScoopBucket-ThirdParty/stargazers)|[0](https://github.com/Guard13007/ScoopBucket-ThirdParty/network)|[18&#x2011;02&#x2011;01](https://github.com/Guard13007/ScoopBucket-ThirdParty/commits)|
-|<a name="back_dzxs_scoop-dzxs" id="back_dzxs_scoop-dzxs"></a>[94.](# "24.498672") [__dzxs/scoop-dzxs__](https://github.com/dzxs/scoop-dzxs)|[5](#dzxs_scoop-dzxs)|[2](https://github.com/dzxs/scoop-dzxs/stargazers)|[2](https://github.com/dzxs/scoop-dzxs/network)|[18&#x2011;11&#x2011;27](https://github.com/dzxs/scoop-dzxs/commits)|
-|<a name="back_dbarbuzzi_scoop-bucket" id="back_dbarbuzzi_scoop-bucket"></a>[95.](# "23.77524") [__dbarbuzzi/scoop-bucket__](https://github.com/dbarbuzzi/scoop-bucket):  *Scoop bucket for my tools*|[2](#dbarbuzzi_scoop-bucket)|[0](https://github.com/dbarbuzzi/scoop-bucket/stargazers)|[0](https://github.com/dbarbuzzi/scoop-bucket/network)|[18&#x2011;11&#x2011;27](https://github.com/dbarbuzzi/scoop-bucket/commits)|
-|<a name="back_smarthut_scoop-bucket" id="back_smarthut_scoop-bucket"></a>[96.](# "23.77524") [__smarthut/scoop-bucket__](https://github.com/smarthut/scoop-bucket):  *Scoop bucket for @smarthut binaries*|[2](#smarthut_scoop-bucket)|[0](https://github.com/smarthut/scoop-bucket/stargazers)|[0](https://github.com/smarthut/scoop-bucket/network)|[18&#x2011;09&#x2011;17](https://github.com/smarthut/scoop-bucket/commits)|
-|<a name="back_icetee_icetee-bucket" id="back_icetee_icetee-bucket"></a>[97.](# "23.73742") [__icetee/icetee-bucket__](https://github.com/icetee/icetee-bucket):  *My custom manifests for Scoop*|[3](#icetee_icetee-bucket)|[1](https://github.com/icetee/icetee-bucket/stargazers)|[0](https://github.com/icetee/icetee-bucket/network)|[16&#x2011;11&#x2011;26](https://github.com/icetee/icetee-bucket/commits)|
-|<a name="back_yukihane_scoop-bucket-yukihane" id="back_yukihane_scoop-bucket-yukihane"></a>[98.](# "23.7159") [__yukihane/scoop-bucket-yukihane__](https://github.com/yukihane/scoop-bucket-yukihane):  *自家製scoop bucket*|[2](#yukihane_scoop-bucket-yukihane)|[0](https://github.com/yukihane/scoop-bucket-yukihane/stargazers)|[0](https://github.com/yukihane/scoop-bucket-yukihane/network)|[18&#x2011;11&#x2011;27](https://github.com/yukihane/scoop-bucket-yukihane/commits)|
-|<a name="back_DamianReeves_scoop-tools" id="back_DamianReeves_scoop-tools"></a>[99.](# "23.7159") [__DamianReeves/scoop-tools__](https://github.com/DamianReeves/scoop-tools):  *A scoop bucket for tools*|[1](#DamianReeves_scoop-tools)|[0](https://github.com/DamianReeves/scoop-tools/stargazers)|[0](https://github.com/DamianReeves/scoop-tools/network)|[18&#x2011;06&#x2011;09](https://github.com/DamianReeves/scoop-tools/commits)|
-|<a name="back_michaelxmcbride_scoop-michaelxmcbride" id="back_michaelxmcbride_scoop-michaelxmcbride"></a>[100.](# "23.7159") [__michaelxmcbride/scoop-michaelxmcbride__](https://github.com/michaelxmcbride/scoop-michaelxmcbride):  *My personal bucket for Scoop*|[1](#michaelxmcbride_scoop-michaelxmcbride)|[0](https://github.com/michaelxmcbride/scoop-michaelxmcbride/stargazers)|[0](https://github.com/michaelxmcbride/scoop-michaelxmcbride/network)|[18&#x2011;08&#x2011;03](https://github.com/michaelxmcbride/scoop-michaelxmcbride/commits)|
-|<a name="back_huleiak47_scoop-apps" id="back_huleiak47_scoop-apps"></a>[101.](# "23.707561") [__huleiak47/scoop-apps__](https://github.com/huleiak47/scoop-apps):  *My apps bucket for scoop*|[6](#huleiak47_scoop-apps)|[0](https://github.com/huleiak47/scoop-apps/stargazers)|[0](https://github.com/huleiak47/scoop-apps/network)|[18&#x2011;11&#x2011;13](https://github.com/huleiak47/scoop-apps/commits)|
-|<a name="back_lillicoder_scoop-openjdk6" id="back_lillicoder_scoop-openjdk6"></a>[102.](# "23.700676") [__lillicoder/scoop-openjdk6__](https://github.com/lillicoder/scoop-openjdk6):  *Scoop bucket definition for OpenJDK6*|[1](#lillicoder_scoop-openjdk6)|[0](https://github.com/lillicoder/scoop-openjdk6/stargazers)|[0](https://github.com/lillicoder/scoop-openjdk6/network)|[15&#x2011;04&#x2011;06](https://github.com/lillicoder/scoop-openjdk6/commits)|
-|<a name="back_zeero_scoop-my-bucket" id="back_zeero_scoop-my-bucket"></a>[103.](# "23.681522") [__zeero/scoop-my-bucket__](https://github.com/zeero/scoop-my-bucket):  *My scoop bucket json files.*|[25](#zeero_scoop-my-bucket)|[0](https://github.com/zeero/scoop-my-bucket/stargazers)|[0](https://github.com/zeero/scoop-my-bucket/network)|[16&#x2011;12&#x2011;20](https://github.com/zeero/scoop-my-bucket/commits)|
-|<a name="back_masaeedu_scoop-growlnotify" id="back_masaeedu_scoop-growlnotify"></a>[104.](# "23.660763") [__masaeedu/scoop-growlnotify__](https://github.com/masaeedu/scoop-growlnotify):  *Bucket for growlnotify app*|[1](#masaeedu_scoop-growlnotify)|[0](https://github.com/masaeedu/scoop-growlnotify/stargazers)|[0](https://github.com/masaeedu/scoop-growlnotify/network)|[15&#x2011;06&#x2011;12](https://github.com/masaeedu/scoop-growlnotify/commits)|
-|<a name="back_nrakochy_scoop-solidity" id="back_nrakochy_scoop-solidity"></a>[105.](# "23.626743") [__nrakochy/scoop-solidity__](https://github.com/nrakochy/scoop-solidity):  *Bucket manifest for solidity*|[1](#nrakochy_scoop-solidity)|[0](https://github.com/nrakochy/scoop-solidity/stargazers)|[0](https://github.com/nrakochy/scoop-solidity/network)|[17&#x2011;10&#x2011;27](https://github.com/nrakochy/scoop-solidity/commits)|
-|<a name="back_masonm12_scoop-personal" id="back_masonm12_scoop-personal"></a>[106.](# "23.613731") [__masonm12/scoop-personal__](https://github.com/masonm12/scoop-personal):  *Bucket for personal scoop apps.*|[4](#masonm12_scoop-personal)|[0](https://github.com/masonm12/scoop-personal/stargazers)|[0](https://github.com/masonm12/scoop-personal/network)|[15&#x2011;05&#x2011;26](https://github.com/masonm12/scoop-personal/commits)|
-|<a name="back_divanvisagie_scoop-bucket" id="back_divanvisagie_scoop-bucket"></a>[107.](# "23.613731") [__divanvisagie/scoop-bucket__](https://github.com/divanvisagie/scoop-bucket):  *A bucket for my scoops*|[2](#divanvisagie_scoop-bucket)|[0](https://github.com/divanvisagie/scoop-bucket/stargazers)|[0](https://github.com/divanvisagie/scoop-bucket/network)|[17&#x2011;08&#x2011;26](https://github.com/divanvisagie/scoop-bucket/commits)|
-|<a name="back_jm0477_bucket" id="back_jm0477_bucket"></a>[108.](# "23.613731") [__jm0477/bucket__](https://github.com/jm0477/bucket):  *public scoop bucket  learning REPO*|[2](#jm0477_bucket)|[0](https://github.com/jm0477/bucket/stargazers)|[0](https://github.com/jm0477/bucket/network)|[17&#x2011;05&#x2011;11](https://github.com/jm0477/bucket/commits)|
-|<a name="back_aenthill_scoop-bucket" id="back_aenthill_scoop-bucket"></a>[109.](# "23.613731") [__aenthill/scoop-bucket__](https://github.com/aenthill/scoop-bucket):  *Scoop bucket for @aenthill binaries*|[1](#aenthill_scoop-bucket)|[0](https://github.com/aenthill/scoop-bucket/stargazers)|[0](https://github.com/aenthill/scoop-bucket/network)|[18&#x2011;11&#x2011;22](https://github.com/aenthill/scoop-bucket/commits)|
-|<a name="back_Alvison_scoop-alvison" id="back_Alvison_scoop-alvison"></a>[110.](# "23.613731") [__Alvison/scoop-alvison__](https://github.com/Alvison/scoop-alvison):  *scoop tmp  bucket, no maintain*|[1](#Alvison_scoop-alvison)|[0](https://github.com/Alvison/scoop-alvison/stargazers)|[0](https://github.com/Alvison/scoop-alvison/network)|[18&#x2011;07&#x2011;30](https://github.com/Alvison/scoop-alvison/commits)|
-|<a name="back_DEEP-IMPACT-AG_scoop-hyperdrive" id="back_DEEP-IMPACT-AG_scoop-hyperdrive"></a>[111.](# "23.59116") [__DEEP-IMPACT-AG/scoop-hyperdrive__](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive):  *Scoop bucket for the hyperdrive*|[1](#DEEP-IMPACT-AG_scoop-hyperdrive)|[0](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/stargazers)|[0](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/network)|[18&#x2011;07&#x2011;07](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/commits)|
-|<a name="back_ghchinoy_scoop-ce" id="back_ghchinoy_scoop-ce"></a>[112.](# "23.59116") [__ghchinoy/scoop-ce__](https://github.com/ghchinoy/scoop-ce):  *scoop bucket for CE tools*|[1](#ghchinoy_scoop-ce)|[0](https://github.com/ghchinoy/scoop-ce/stargazers)|[0](https://github.com/ghchinoy/scoop-ce/network)|[18&#x2011;11&#x2011;19](https://github.com/ghchinoy/scoop-ce/commits)|
-|<a name="back_slowbear_my-bucket" id="back_slowbear_my-bucket"></a>[113.](# "23.575073") [__slowbear/my-bucket__](https://github.com/slowbear/my-bucket):  *My own bucket for Scoop.*|[1](#slowbear_my-bucket)|[0](https://github.com/slowbear/my-bucket/stargazers)|[0](https://github.com/slowbear/my-bucket/network)|[18&#x2011;10&#x2011;07](https://github.com/slowbear/my-bucket/commits)|
-|<a name="back_sveco_my-bucket" id="back_sveco_my-bucket"></a>[114.](# "23.518599") [__sveco/my-bucket__](https://github.com/sveco/my-bucket):  *Scoop bucket for portable applications.*|[4](#sveco_my-bucket)|[0](https://github.com/sveco/my-bucket/stargazers)|[0](https://github.com/sveco/my-bucket/network)|[18&#x2011;10&#x2011;01](https://github.com/sveco/my-bucket/commits)|
-|<a name="back_systemexitzero_scoop-bucket" id="back_systemexitzero_scoop-bucket"></a>[115.](# "23.491522") [__systemexitzero/scoop-bucket__](https://github.com/systemexitzero/scoop-bucket):  *Personal bucket for scoop. See https://github.com/lukesampson/scoop*|[11](#systemexitzero_scoop-bucket)|[0](https://github.com/systemexitzero/scoop-bucket/stargazers)|[0](https://github.com/systemexitzero/scoop-bucket/network)|[16&#x2011;04&#x2011;29](https://github.com/systemexitzero/scoop-bucket/commits)|
-|<a name="back_c7i_scoop-bucket" id="back_c7i_scoop-bucket"></a>[116.](# "23.491522") [__c7i/scoop-bucket__](https://github.com/c7i/scoop-bucket)|[1](#c7i_scoop-bucket)|[0](https://github.com/c7i/scoop-bucket/stargazers)|[0](https://github.com/c7i/scoop-bucket/network)|[18&#x2011;08&#x2011;11](https://github.com/c7i/scoop-bucket/commits)|
-|<a name="back_nickers_scoop-bucket" id="back_nickers_scoop-bucket"></a>[117.](# "23.491522") [__nickers/scoop-bucket__](https://github.com/nickers/scoop-bucket):  *private bucket for http://scoop.sh/*|[1](#nickers_scoop-bucket)|[0](https://github.com/nickers/scoop-bucket/stargazers)|[0](https://github.com/nickers/scoop-bucket/network)|[18&#x2011;03&#x2011;22](https://github.com/nickers/scoop-bucket/commits)|
-|<a name="back_Kiedtl_open-scoop" id="back_Kiedtl_open-scoop"></a>[118.](# "23.489086") [__Kiedtl/open-scoop__](https://github.com/Kiedtl/open-scoop):  *The Scoop bucket for everything.*|[976](#Kiedtl_open-scoop)|[1](https://github.com/Kiedtl/open-scoop/stargazers)|[0](https://github.com/Kiedtl/open-scoop/network)|[18&#x2011;12&#x2011;14](https://github.com/Kiedtl/open-scoop/commits)|
-|<a name="back_TorrentKatten_torrentkatten-scoop-bucket" id="back_TorrentKatten_torrentkatten-scoop-bucket"></a>[119.](# "23.489086") [__TorrentKatten/torrentkatten-scoop-bucket__](https://github.com/TorrentKatten/torrentkatten-scoop-bucket):  *scoop bucket for titandb tools*|[1](#TorrentKatten_torrentkatten-scoop-bucket)|[0](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/stargazers)|[0](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/network)|[17&#x2011;10&#x2011;02](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/commits)|
-|<a name="back_Deide_deide-bucket" id="back_Deide_deide-bucket"></a>[120.](# "23.478523") [__Deide/deide-bucket__](https://github.com/Deide/deide-bucket):  *Personal bucket for Scoop.sh*|[10](#Deide_deide-bucket)|[0](https://github.com/Deide/deide-bucket/stargazers)|[0](https://github.com/Deide/deide-bucket/network)|[18&#x2011;12&#x2011;11](https://github.com/Deide/deide-bucket/commits)|
-|<a name="back_SheldonNico_echoBucket" id="back_SheldonNico_echoBucket"></a>[121.](# "23.478523") [__SheldonNico/echoBucket__](https://github.com/SheldonNico/echoBucket):  *self use bucket for scoop*|[4](#SheldonNico_echoBucket)|[0](https://github.com/SheldonNico/echoBucket/stargazers)|[0](https://github.com/SheldonNico/echoBucket/network)|[18&#x2011;11&#x2011;18](https://github.com/SheldonNico/echoBucket/commits)|
-|<a name="back_plombard_scoop-bucket" id="back_plombard_scoop-bucket"></a>[122.](# "23.478523") [__plombard/scoop-bucket__](https://github.com/plombard/scoop-bucket):  *Personal bucket for scoop installs*|[1](#plombard_scoop-bucket)|[0](https://github.com/plombard/scoop-bucket/stargazers)|[0](https://github.com/plombard/scoop-bucket/network)|[18&#x2011;03&#x2011;24](https://github.com/plombard/scoop-bucket/commits)|
-|<a name="back_zhangzhishan_scoop-bucket" id="back_zhangzhishan_scoop-bucket"></a>[123.](# "23.473846") [__zhangzhishan/scoop-bucket__](https://github.com/zhangzhishan/scoop-bucket):  *A scoop bucket for my usual applications*|[4](#zhangzhishan_scoop-bucket)|[0](https://github.com/zhangzhishan/scoop-bucket/stargazers)|[0](https://github.com/zhangzhishan/scoop-bucket/network)|[18&#x2011;11&#x2011;15](https://github.com/zhangzhishan/scoop-bucket/commits)|
-|<a name="back_klaidliadon_scoop-buckets" id="back_klaidliadon_scoop-buckets"></a>[124.](# "23.473846") [__klaidliadon/scoop-buckets__](https://github.com/klaidliadon/scoop-buckets):  *A collection of scoop buckets*|[2](#klaidliadon_scoop-buckets)|[0](https://github.com/klaidliadon/scoop-buckets/stargazers)|[0](https://github.com/klaidliadon/scoop-buckets/network)|[16&#x2011;02&#x2011;26](https://github.com/klaidliadon/scoop-buckets/commits)|
-|<a name="back_mmichaelis_scoop-bucket" id="back_mmichaelis_scoop-bucket"></a>[125.](# "23.450785") [__mmichaelis/scoop-bucket__](https://github.com/mmichaelis/scoop-bucket):  *My scoop bucket as extension to default and extras bucket. For details see http://scoop.sh/*|[4](#mmichaelis_scoop-bucket)|[0](https://github.com/mmichaelis/scoop-bucket/stargazers)|[1](https://github.com/mmichaelis/scoop-bucket/network)|[18&#x2011;12&#x2011;01](https://github.com/mmichaelis/scoop-bucket/commits)|
-|<a name="back_lurdan_scoop-bucket" id="back_lurdan_scoop-bucket"></a>[126.](# "23.450785") [__lurdan/scoop-bucket__](https://github.com/lurdan/scoop-bucket)|[25](#lurdan_scoop-bucket)|[0](https://github.com/lurdan/scoop-bucket/stargazers)|[0](https://github.com/lurdan/scoop-bucket/network)|[18&#x2011;07&#x2011;30](https://github.com/lurdan/scoop-bucket/commits)|
-|<a name="back_dimdimych_scoop-bucket" id="back_dimdimych_scoop-bucket"></a>[127.](# "23.450785") [__dimdimych/scoop-bucket__](https://github.com/dimdimych/scoop-bucket)|[3](#dimdimych_scoop-bucket)|[0](https://github.com/dimdimych/scoop-bucket/stargazers)|[0](https://github.com/dimdimych/scoop-bucket/network)|[18&#x2011;03&#x2011;16](https://github.com/dimdimych/scoop-bucket/commits)|
-|<a name="back_eugenesvk_scoop-bucket" id="back_eugenesvk_scoop-bucket"></a>[128.](# "23.450785") [__eugenesvk/scoop-bucket__](https://github.com/eugenesvk/scoop-bucket):  *List of additional apps that can be installed by Scoop*|[3](#eugenesvk_scoop-bucket)|[0](https://github.com/eugenesvk/scoop-bucket/stargazers)|[0](https://github.com/eugenesvk/scoop-bucket/network)|[16&#x2011;03&#x2011;10](https://github.com/eugenesvk/scoop-bucket/commits)|
-|<a name="back_sgarfinkel_scoop-bucket" id="back_sgarfinkel_scoop-bucket"></a>[129.](# "23.450785") [__sgarfinkel/scoop-bucket__](https://github.com/sgarfinkel/scoop-bucket)|[2](#sgarfinkel_scoop-bucket)|[0](https://github.com/sgarfinkel/scoop-bucket/stargazers)|[0](https://github.com/sgarfinkel/scoop-bucket/network)|[18&#x2011;08&#x2011;25](https://github.com/sgarfinkel/scoop-bucket/commits)|
-|<a name="back_SummerSad_scoop-bucket" id="back_SummerSad_scoop-bucket"></a>[130.](# "23.450785") [__SummerSad/scoop-bucket__](https://github.com/SummerSad/scoop-bucket):  *More apps for scoop*|[2](#SummerSad_scoop-bucket)|[0](https://github.com/SummerSad/scoop-bucket/stargazers)|[0](https://github.com/SummerSad/scoop-bucket/network)|[18&#x2011;09&#x2011;13](https://github.com/SummerSad/scoop-bucket/commits)|
-|<a name="back_toburger_scoop-buckets" id="back_toburger_scoop-buckets"></a>[131.](# "23.439068") [__toburger/scoop-buckets__](https://github.com/toburger/scoop-buckets)|[2](#toburger_scoop-buckets)|[0](https://github.com/toburger/scoop-buckets/stargazers)|[0](https://github.com/toburger/scoop-buckets/network)|[16&#x2011;03&#x2011;16](https://github.com/toburger/scoop-buckets/commits)|
-|<a name="back_skabashnyuk_scoop-bucket" id="back_skabashnyuk_scoop-bucket"></a>[132.](# "23.439068") [__skabashnyuk/scoop-bucket__](https://github.com/skabashnyuk/scoop-bucket)|[1](#skabashnyuk_scoop-bucket)|[0](https://github.com/skabashnyuk/scoop-bucket/stargazers)|[0](https://github.com/skabashnyuk/scoop-bucket/network)|[18&#x2011;09&#x2011;07](https://github.com/skabashnyuk/scoop-bucket/commits)|
-|<a name="back_ondr3j_scoop-misc" id="back_ondr3j_scoop-misc"></a>[133.](# "23.408937") [__ondr3j/scoop-misc__](https://github.com/ondr3j/scoop-misc):  *My &#34;Miscellaneous&#34; bucket for Scoop*|[38](#ondr3j_scoop-misc)|[1](https://github.com/ondr3j/scoop-misc/stargazers)|[1](https://github.com/ondr3j/scoop-misc/network)|[18&#x2011;02&#x2011;24](https://github.com/ondr3j/scoop-misc/commits)|
-|<a name="back_a82p_scoop-yubico-bucket" id="back_a82p_scoop-yubico-bucket"></a>[134.](# "23.408937") [__82p/scoop-yubico-bucket__](https://github.com/82p/scoop-yubico-bucket):  *scoop bucket of yubico tools*|[4](#a82p_scoop-yubico-bucket)|[0](https://github.com/82p/scoop-yubico-bucket/stargazers)|[0](https://github.com/82p/scoop-yubico-bucket/network)|[18&#x2011;05&#x2011;09](https://github.com/82p/scoop-yubico-bucket/commits)|
-|<a name="back_philippgille_scoop-bucket" id="back_philippgille_scoop-bucket"></a>[135.](# "23.408937") [__philippgille/scoop-bucket__](https://github.com/philippgille/scoop-bucket):  *Scoop bucket for my apps*|[1](#philippgille_scoop-bucket)|[0](https://github.com/philippgille/scoop-bucket/stargazers)|[0](https://github.com/philippgille/scoop-bucket/network)|[18&#x2011;05&#x2011;13](https://github.com/philippgille/scoop-bucket/commits)|
-|<a name="back_superudo_scoop-bucket" id="back_superudo_scoop-bucket"></a>[136.](# "23.405537") [__superudo/scoop-bucket__](https://github.com/superudo/scoop-bucket)|[10](#superudo_scoop-bucket)|[0](https://github.com/superudo/scoop-bucket/stargazers)|[0](https://github.com/superudo/scoop-bucket/network)|[18&#x2011;10&#x2011;01](https://github.com/superudo/scoop-bucket/commits)|
-|<a name="back_holehan_scoop-bucket" id="back_holehan_scoop-bucket"></a>[137.](# "23.39525") [__holehan/scoop-bucket__](https://github.com/holehan/scoop-bucket)|[2](#holehan_scoop-bucket)|[0](https://github.com/holehan/scoop-bucket/stargazers)|[0](https://github.com/holehan/scoop-bucket/network)|[16&#x2011;10&#x2011;02](https://github.com/holehan/scoop-bucket/commits)|
-|<a name="back_broovy_scoop-bucket" id="back_broovy_scoop-bucket"></a>[138.](# "23.39525") [__broovy/scoop-bucket__](https://github.com/broovy/scoop-bucket):  *A bucket for https://github.com/lukesampson/scoop*|[1](#broovy_scoop-bucket)|[0](https://github.com/broovy/scoop-bucket/stargazers)|[0](https://github.com/broovy/scoop-bucket/network)|[15&#x2011;08&#x2011;18](https://github.com/broovy/scoop-bucket/commits)|
-|<a name="back_qoomon_scoop-bucket" id="back_qoomon_scoop-bucket"></a>[139.](# "23.39525") [__qoomon/scoop-bucket__](https://github.com/qoomon/scoop-bucket)|[1](#qoomon_scoop-bucket)|[0](https://github.com/qoomon/scoop-bucket/stargazers)|[0](https://github.com/qoomon/scoop-bucket/network)|[18&#x2011;07&#x2011;25](https://github.com/qoomon/scoop-bucket/commits)|
-|<a name="back_twxs_scoop-buckets" id="back_twxs_scoop-buckets"></a>[140.](# "23.388762") [__twxs/scoop-buckets__](https://github.com/twxs/scoop-buckets)|[1](#twxs_scoop-buckets)|[0](https://github.com/twxs/scoop-buckets/stargazers)|[0](https://github.com/twxs/scoop-buckets/network)|[16&#x2011;05&#x2011;08](https://github.com/twxs/scoop-buckets/commits)|
-|<a name="back_tapanchandra_scoop-personal" id="back_tapanchandra_scoop-personal"></a>[141.](# "23.37804") [__tapanchandra/scoop-personal__](https://github.com/tapanchandra/scoop-personal):  *A personal bucket for scoop*|[2](#tapanchandra_scoop-personal)|[0](https://github.com/tapanchandra/scoop-personal/stargazers)|[0](https://github.com/tapanchandra/scoop-personal/network)|[18&#x2011;01&#x2011;21](https://github.com/tapanchandra/scoop-personal/commits)|
-|<a name="back_PiwwowPants_scoop-bucket" id="back_PiwwowPants_scoop-bucket"></a>[142.](# "23.354225") [__PiwwowPants/scoop-bucket__](https://github.com/PiwwowPants/scoop-bucket):  *A repo for my scoop bucket*|[5](#PiwwowPants_scoop-bucket)|[0](https://github.com/PiwwowPants/scoop-bucket/stargazers)|[0](https://github.com/PiwwowPants/scoop-bucket/network)|[18&#x2011;05&#x2011;31](https://github.com/PiwwowPants/scoop-bucket/commits)|
-|<a name="back_ErnWong_scoop-bucket" id="back_ErnWong_scoop-bucket"></a>[143.](# "23.354225") [__ErnWong/scoop-bucket__](https://github.com/ErnWong/scoop-bucket):  *My personal manifests bucket of scoop goodness*|[3](#ErnWong_scoop-bucket)|[0](https://github.com/ErnWong/scoop-bucket/stargazers)|[0](https://github.com/ErnWong/scoop-bucket/network)|[18&#x2011;03&#x2011;13](https://github.com/ErnWong/scoop-bucket/commits)|
-|<a name="back_tbung_scoop-bucket" id="back_tbung_scoop-bucket"></a>[144.](# "23.354225") [__tbung/scoop-bucket__](https://github.com/tbung/scoop-bucket)|[3](#tbung_scoop-bucket)|[0](https://github.com/tbung/scoop-bucket/stargazers)|[0](https://github.com/tbung/scoop-bucket/network)|[16&#x2011;09&#x2011;21](https://github.com/tbung/scoop-bucket/commits)|
-|<a name="back_shacal_scoop-bucket" id="back_shacal_scoop-bucket"></a>[145.](# "23.354225") [__shacal/scoop-bucket__](https://github.com/shacal/scoop-bucket):  *Scoop bucket list of apps to install*|[1](#shacal_scoop-bucket)|[0](https://github.com/shacal/scoop-bucket/stargazers)|[0](https://github.com/shacal/scoop-bucket/network)|[18&#x2011;10&#x2011;03](https://github.com/shacal/scoop-bucket/commits)|
-|<a name="back_pcrama_scoop-buckets" id="back_pcrama_scoop-buckets"></a>[146.](# "23.348398") [__pcrama/scoop-buckets__](https://github.com/pcrama/scoop-buckets):  *Bucket of extra software to install using scoop*|[11](#pcrama_scoop-buckets)|[0](https://github.com/pcrama/scoop-buckets/stargazers)|[0](https://github.com/pcrama/scoop-buckets/network)|[18&#x2011;08&#x2011;07](https://github.com/pcrama/scoop-buckets/commits)|
-|<a name="back_masaeedu_scoop-bucket" id="back_masaeedu_scoop-bucket"></a>[147.](# "23.348398") [__masaeedu/scoop-bucket__](https://github.com/masaeedu/scoop-bucket)|[3](#masaeedu_scoop-bucket)|[0](https://github.com/masaeedu/scoop-bucket/stargazers)|[0](https://github.com/masaeedu/scoop-bucket/network)|[17&#x2011;06&#x2011;14](https://github.com/masaeedu/scoop-bucket/commits)|
-|<a name="back_goreleaser_scoop-bucket" id="back_goreleaser_scoop-bucket"></a>[148.](# "23.348398") [__goreleaser/scoop-bucket__](https://github.com/goreleaser/scoop-bucket):  *Scoop bucket for @goreleaser binaries, powered by @goreleaser*|[1](#goreleaser_scoop-bucket)|[0](https://github.com/goreleaser/scoop-bucket/stargazers)|[0](https://github.com/goreleaser/scoop-bucket/network)|[18&#x2011;12&#x2011;13](https://github.com/goreleaser/scoop-bucket/commits)|
-|<a name="back_S0methingWicked_scoop-bucket" id="back_S0methingWicked_scoop-bucket"></a>[149.](# "23.348398") [__S0methingWicked/scoop-bucket__](https://github.com/S0methingWicked/scoop-bucket):  *Things that can be installed using Scoop*|[1](#S0methingWicked_scoop-bucket)|[0](https://github.com/S0methingWicked/scoop-bucket/stargazers)|[0](https://github.com/S0methingWicked/scoop-bucket/network)|[18&#x2011;10&#x2011;24](https://github.com/S0methingWicked/scoop-bucket/commits)|
-|<a name="back_deevus_scoop-games" id="back_deevus_scoop-games"></a>[150.](# "23.346163") [__deevus/scoop-games__](https://github.com/deevus/scoop-games):  *A Scoop bucket for Games.*|[2](#deevus_scoop-games)|[0](https://github.com/deevus/scoop-games/stargazers)|[1](https://github.com/deevus/scoop-games/network)|[15&#x2011;03&#x2011;25](https://github.com/deevus/scoop-games/commits)|
-|<a name="back_a2moveit_scoop-bucket" id="back_a2moveit_scoop-bucket"></a>[151.](# "23.344713") [__2moveit/scoop-bucket__](https://github.com/2moveit/scoop-bucket):  *Repository for apps to install via scoop*|[11](#a2moveit_scoop-bucket)|[0](https://github.com/2moveit/scoop-bucket/stargazers)|[0](https://github.com/2moveit/scoop-bucket/network)|[16&#x2011;11&#x2011;09](https://github.com/2moveit/scoop-bucket/commits)|
-|<a name="back_watchmen-test_scoop-bucket" id="back_watchmen-test_scoop-bucket"></a>[152.](# "23.344713") [__watchmen-test/scoop-bucket__](https://github.com/watchmen-test/scoop-bucket):  *This bucket is for installation programs that dont have a home in scoop that we need to install for this organization*|[5](#watchmen-test_scoop-bucket)|[0](https://github.com/watchmen-test/scoop-bucket/stargazers)|[0](https://github.com/watchmen-test/scoop-bucket/network)|[18&#x2011;10&#x2011;10](https://github.com/watchmen-test/scoop-bucket/commits)|
-|<a name="back_itzg_scoop-bucket" id="back_itzg_scoop-bucket"></a>[153.](# "23.344713") [__itzg/scoop-bucket__](https://github.com/itzg/scoop-bucket):  *My apps published for installation via scoop*|[2](#itzg_scoop-bucket)|[0](https://github.com/itzg/scoop-bucket/stargazers)|[0](https://github.com/itzg/scoop-bucket/network)|[18&#x2011;05&#x2011;19](https://github.com/itzg/scoop-bucket/commits)|
-|<a name="back_Jokler_scoop-bucket" id="back_Jokler_scoop-bucket"></a>[154.](# "23.325275") [__Jokler/scoop-bucket__](https://github.com/Jokler/scoop-bucket):  *My bucket for programs not in the official buckets*|[6](#Jokler_scoop-bucket)|[0](https://github.com/Jokler/scoop-bucket/stargazers)|[0](https://github.com/Jokler/scoop-bucket/network)|[18&#x2011;07&#x2011;17](https://github.com/Jokler/scoop-bucket/commits)|
-|<a name="back_hydra1983_scoop-bucket" id="back_hydra1983_scoop-bucket"></a>[155.](# "23.325275") [__hydra1983/scoop-bucket__](https://github.com/hydra1983/scoop-bucket)|[2](#hydra1983_scoop-bucket)|[0](https://github.com/hydra1983/scoop-bucket/stargazers)|[0](https://github.com/hydra1983/scoop-bucket/network)|[15&#x2011;03&#x2011;23](https://github.com/hydra1983/scoop-bucket/commits)|
-|<a name="back_mathieucarbou_scoop-bucket" id="back_mathieucarbou_scoop-bucket"></a>[156.](# "23.324484") [__mathieucarbou/scoop-bucket__](https://github.com/mathieucarbou/scoop-bucket)|[1](#mathieucarbou_scoop-bucket)|[0](https://github.com/mathieucarbou/scoop-bucket/stargazers)|[0](https://github.com/mathieucarbou/scoop-bucket/network)|[16&#x2011;01&#x2011;13](https://github.com/mathieucarbou/scoop-bucket/commits)|
-|<a name="back_wangfeishine_adds" id="back_wangfeishine_adds"></a>[157.](# "23.285828") [__wangfeishine/adds__](https://github.com/wangfeishine/adds):  *My extra bucket for scoop*|[1](#wangfeishine_adds)|[0](https://github.com/wangfeishine/adds/stargazers)|[0](https://github.com/wangfeishine/adds/network)|[17&#x2011;05&#x2011;15](https://github.com/wangfeishine/adds/commits)|
-|<a name="back_nickbudi_scoop-bucket" id="back_nickbudi_scoop-bucket"></a>[158.](# "23.27921") [__nickbudi/scoop-bucket__](https://github.com/nickbudi/scoop-bucket):  *Scoop bucket for portableapps.com apps and other packages I use that aren&#39;t found in the main or known buckets (yet).*|[32](#nickbudi_scoop-bucket)|[0](https://github.com/nickbudi/scoop-bucket/stargazers)|[0](https://github.com/nickbudi/scoop-bucket/network)|[18&#x2011;12&#x2011;15](https://github.com/nickbudi/scoop-bucket/commits)|
-|<a name="back_tnessy_scoop-bucket" id="back_tnessy_scoop-bucket"></a>[159.](# "23.27921") [__tnessy/scoop-bucket__](https://github.com/tnessy/scoop-bucket):  *Custom scoop bucket for random things*|[1](#tnessy_scoop-bucket)|[0](https://github.com/tnessy/scoop-bucket/stargazers)|[0](https://github.com/tnessy/scoop-bucket/network)|[17&#x2011;07&#x2011;20](https://github.com/tnessy/scoop-bucket/commits)|
-|<a name="back_typhoon51280_scoop-bucket" id="back_typhoon51280_scoop-bucket"></a>[160.](# "23.27921") [__typhoon51280/scoop-bucket__](https://github.com/typhoon51280/scoop-bucket)|[1](#typhoon51280_scoop-bucket)|[0](https://github.com/typhoon51280/scoop-bucket/stargazers)|[0](https://github.com/typhoon51280/scoop-bucket/network)|[14&#x2011;09&#x2011;29](https://github.com/typhoon51280/scoop-bucket/commits)|
-|<a name="back_mgarbvs_scoop-bucket" id="back_mgarbvs_scoop-bucket"></a>[161.](# "23.244081") [__mgarbvs/scoop-bucket__](https://github.com/mgarbvs/scoop-bucket)|[6](#mgarbvs_scoop-bucket)|[1](https://github.com/mgarbvs/scoop-bucket/stargazers)|[0](https://github.com/mgarbvs/scoop-bucket/network)|[15&#x2011;12&#x2011;05](https://github.com/mgarbvs/scoop-bucket/commits)|
-|<a name="back_leonidboykov_scoop-bucket" id="back_leonidboykov_scoop-bucket"></a>[162.](# "23.244081") [__leonidboykov/scoop-bucket__](https://github.com/leonidboykov/scoop-bucket):  *Scoop bucket for my projects&#39; binaries*|[2](#leonidboykov_scoop-bucket)|[0](https://github.com/leonidboykov/scoop-bucket/stargazers)|[0](https://github.com/leonidboykov/scoop-bucket/network)|[18&#x2011;10&#x2011;04](https://github.com/leonidboykov/scoop-bucket/commits)|
-|<a name="back_derKrischan_scoop-bucket" id="back_derKrischan_scoop-bucket"></a>[163.](# "23.244081") [__derKrischan/scoop-bucket__](https://github.com/derKrischan/scoop-bucket):  *Experiment with scoop.sh manifests*|[1](#derKrischan_scoop-bucket)|[0](https://github.com/derKrischan/scoop-bucket/stargazers)|[0](https://github.com/derKrischan/scoop-bucket/network)|[17&#x2011;12&#x2011;23](https://github.com/derKrischan/scoop-bucket/commits)|
-|<a name="back_gabrielrobert_scoop-bucket" id="back_gabrielrobert_scoop-bucket"></a>[164.](# "23.244081") [__gabrielrobert/scoop-bucket__](https://github.com/gabrielrobert/scoop-bucket)|[1](#gabrielrobert_scoop-bucket)|[0](https://github.com/gabrielrobert/scoop-bucket/stargazers)|[0](https://github.com/gabrielrobert/scoop-bucket/network)|[18&#x2011;04&#x2011;06](https://github.com/gabrielrobert/scoop-bucket/commits)|
-|<a name="back_icalder_scoop-bucket" id="back_icalder_scoop-bucket"></a>[165.](# "23.244081") [__icalder/scoop-bucket__](https://github.com/icalder/scoop-bucket)|[1](#icalder_scoop-bucket)|[0](https://github.com/icalder/scoop-bucket/stargazers)|[0](https://github.com/icalder/scoop-bucket/network)|[18&#x2011;01&#x2011;18](https://github.com/icalder/scoop-bucket/commits)|
-|<a name="back_nilkesede_scoop-bucket" id="back_nilkesede_scoop-bucket"></a>[166.](# "23.244081") [__nilkesede/scoop-bucket__](https://github.com/nilkesede/scoop-bucket)|[1](#nilkesede_scoop-bucket)|[0](https://github.com/nilkesede/scoop-bucket/stargazers)|[0](https://github.com/nilkesede/scoop-bucket/network)|[18&#x2011;06&#x2011;01](https://github.com/nilkesede/scoop-bucket/commits)|
-|<a name="back_rivy_scoop-bucket" id="back_rivy_scoop-bucket"></a>[167.](# "23.240883") [__rivy/scoop-bucket__](https://github.com/rivy/scoop-bucket)|[160](#rivy_scoop-bucket)|[1](https://github.com/rivy/scoop-bucket/stargazers)|[1](https://github.com/rivy/scoop-bucket/network)|[18&#x2011;11&#x2011;26](https://github.com/rivy/scoop-bucket/commits)|
-|<a name="back_tehbilly_scoop-bucket" id="back_tehbilly_scoop-bucket"></a>[168.](# "23.240883") [__tehbilly/scoop-bucket__](https://github.com/tehbilly/scoop-bucket)|[5](#tehbilly_scoop-bucket)|[1](https://github.com/tehbilly/scoop-bucket/stargazers)|[0](https://github.com/tehbilly/scoop-bucket/network)|[17&#x2011;06&#x2011;01](https://github.com/tehbilly/scoop-bucket/commits)|
-|<a name="back_giantswarm_scoop-bucket" id="back_giantswarm_scoop-bucket"></a>[169.](# "23.240883") [__giantswarm/scoop-bucket__](https://github.com/giantswarm/scoop-bucket):  *App manifests for simple Windows installs using scoop*|[1](#giantswarm_scoop-bucket)|[0](https://github.com/giantswarm/scoop-bucket/stargazers)|[1](https://github.com/giantswarm/scoop-bucket/network)|[18&#x2011;12&#x2011;10](https://github.com/giantswarm/scoop-bucket/commits)|
-|<a name="back_joserebelo_scoop-bucket" id="back_joserebelo_scoop-bucket"></a>[170.](# "23.240883") [__joserebelo/scoop-bucket__](https://github.com/joserebelo/scoop-bucket)|[11](#joserebelo_scoop-bucket)|[0](https://github.com/joserebelo/scoop-bucket/stargazers)|[0](https://github.com/joserebelo/scoop-bucket/network)|[18&#x2011;10&#x2011;12](https://github.com/joserebelo/scoop-bucket/commits)|
-|<a name="back_leafgarland_scoop-bucket" id="back_leafgarland_scoop-bucket"></a>[171.](# "23.240883") [__leafgarland/scoop-bucket__](https://github.com/leafgarland/scoop-bucket):  *Collection of app manifests for the Scoop package installer*|[5](#leafgarland_scoop-bucket)|[0](https://github.com/leafgarland/scoop-bucket/stargazers)|[0](https://github.com/leafgarland/scoop-bucket/network)|[14&#x2011;10&#x2011;09](https://github.com/leafgarland/scoop-bucket/commits)|
-|<a name="back_izm4457_scoop_bucket" id="back_izm4457_scoop_bucket"></a>[172.](# "23.240883") [__izm4457/scoop_bucket__](https://github.com/izm4457/scoop_bucket)|[2](#izm4457_scoop_bucket)|[0](https://github.com/izm4457/scoop_bucket/stargazers)|[0](https://github.com/izm4457/scoop_bucket/network)|[18&#x2011;08&#x2011;29](https://github.com/izm4457/scoop_bucket/commits)|
-|<a name="back_ubclaunchpad_scoop-bucket" id="back_ubclaunchpad_scoop-bucket"></a>[173.](# "23.240883") [__ubclaunchpad/scoop-bucket__](https://github.com/ubclaunchpad/scoop-bucket):  *🥄 Scoop bucket for UBC Launch Pad projects*|[2](#ubclaunchpad_scoop-bucket)|[0](https://github.com/ubclaunchpad/scoop-bucket/stargazers)|[0](https://github.com/ubclaunchpad/scoop-bucket/network)|[18&#x2011;08&#x2011;15](https://github.com/ubclaunchpad/scoop-bucket/commits)|
-|<a name="back_slaxor_scoop-bucket" id="back_slaxor_scoop-bucket"></a>[174.](# "23.240883") [__slaxor/scoop-bucket__](https://github.com/slaxor/scoop-bucket):  *My repo for Scoop*|[1](#slaxor_scoop-bucket)|[0](https://github.com/slaxor/scoop-bucket/stargazers)|[0](https://github.com/slaxor/scoop-bucket/network)|[17&#x2011;10&#x2011;04](https://github.com/slaxor/scoop-bucket/commits)|
-|<a name="back_zaquestion_scoop-bucket" id="back_zaquestion_scoop-bucket"></a>[175.](# "23.240883") [__zaquestion/scoop-bucket__](https://github.com/zaquestion/scoop-bucket)|[1](#zaquestion_scoop-bucket)|[0](https://github.com/zaquestion/scoop-bucket/stargazers)|[0](https://github.com/zaquestion/scoop-bucket/network)|[18&#x2011;10&#x2011;24](https://github.com/zaquestion/scoop-bucket/commits)|
-|<a name="back_Utdanningsdirektoratet_PAS-scoop-public" id="back_Utdanningsdirektoratet_PAS-scoop-public"></a>[176.](# "23.19233") [__Utdanningsdirektoratet/PAS-scoop-public__](https://github.com/Utdanningsdirektoratet/PAS-scoop-public):  *Scoop bucket for PAS-prosjektet*|[43](#Utdanningsdirektoratet_PAS-scoop-public)|[0](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/stargazers)|[0](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/network)|[18&#x2011;12&#x2011;05](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/commits)|
-|<a name="back_dasbaumwolltier_scoop-bucket" id="back_dasbaumwolltier_scoop-bucket"></a>[177.](# "23.186323") [__dasbaumwolltier/scoop-bucket__](https://github.com/dasbaumwolltier/scoop-bucket)|[9](#dasbaumwolltier_scoop-bucket)|[0](https://github.com/dasbaumwolltier/scoop-bucket/stargazers)|[0](https://github.com/dasbaumwolltier/scoop-bucket/network)|[18&#x2011;10&#x2011;17](https://github.com/dasbaumwolltier/scoop-bucket/commits)|
-|<a name="back_qcts33_scoop_bucket" id="back_qcts33_scoop_bucket"></a>[178.](# "23.186323") [__qcts33/scoop_bucket__](https://github.com/qcts33/scoop_bucket)|[4](#qcts33_scoop_bucket)|[0](https://github.com/qcts33/scoop_bucket/stargazers)|[0](https://github.com/qcts33/scoop_bucket/network)|[18&#x2011;09&#x2011;11](https://github.com/qcts33/scoop_bucket/commits)|
-|<a name="back_mhhollomon_scoop-bucket" id="back_mhhollomon_scoop-bucket"></a>[179.](# "23.186323") [__mhhollomon/scoop-bucket__](https://github.com/mhhollomon/scoop-bucket):  *A scoop bucket for my extra stuff*|[2](#mhhollomon_scoop-bucket)|[0](https://github.com/mhhollomon/scoop-bucket/stargazers)|[0](https://github.com/mhhollomon/scoop-bucket/network)|[18&#x2011;12&#x2011;09](https://github.com/mhhollomon/scoop-bucket/commits)|
-|<a name="back_proudzhu_scoop-bucket" id="back_proudzhu_scoop-bucket"></a>[180.](# "23.186323") [__proudzhu/scoop-bucket__](https://github.com/proudzhu/scoop-bucket)|[2](#proudzhu_scoop-bucket)|[0](https://github.com/proudzhu/scoop-bucket/stargazers)|[0](https://github.com/proudzhu/scoop-bucket/network)|[18&#x2011;06&#x2011;13](https://github.com/proudzhu/scoop-bucket/commits)|
-|<a name="back_sankaku-deltalab_sankaku-app-bucket" id="back_sankaku-deltalab_sankaku-app-bucket"></a>[181.](# "22.578468") [__sankaku-deltalab/sankaku-app-bucket__](https://github.com/sankaku-deltalab/sankaku-app-bucket):  *sankaku-app-bucket is [Scoop](http://scoop.sh/) bucket mainly contains applications used by Sankaku.*|[9](#sankaku-deltalab_sankaku-app-bucket)|[0](https://github.com/sankaku-deltalab/sankaku-app-bucket/stargazers)|[0](https://github.com/sankaku-deltalab/sankaku-app-bucket/network)|[17&#x2011;10&#x2011;27](https://github.com/sankaku-deltalab/sankaku-app-bucket/commits)|
-|<a name="back_vidarkongsli_vidars-scoop-bucket" id="back_vidarkongsli_vidars-scoop-bucket"></a>[182.](# "22.2242") [__vidarkongsli/vidars-scoop-bucket__](https://github.com/vidarkongsli/vidars-scoop-bucket)|[20](#vidarkongsli_vidars-scoop-bucket)|[1](https://github.com/vidarkongsli/vidars-scoop-bucket/stargazers)|[0](https://github.com/vidarkongsli/vidars-scoop-bucket/network)|[18&#x2011;08&#x2011;05](https://github.com/vidarkongsli/vidars-scoop-bucket/commits)|
-|<a name="back_lesstif_scoop-bucket-for-korean" id="back_lesstif_scoop-bucket-for-korean"></a>[183.](# "22.2242") [__lesstif/scoop-bucket-for-korean__](https://github.com/lesstif/scoop-bucket-for-korean):  *네이버 나눔 폰트 scoop 버킷.*|[2](#lesstif_scoop-bucket-for-korean)|[1](https://github.com/lesstif/scoop-bucket-for-korean/stargazers)|[0](https://github.com/lesstif/scoop-bucket-for-korean/network)|[18&#x2011;05&#x2011;25](https://github.com/lesstif/scoop-bucket-for-korean/commits)|
-|<a name="back_ati-ozgur_ati-scoop-bucket" id="back_ati-ozgur_ati-scoop-bucket"></a>[184.](# "22.2242") [__ati-ozgur/ati-scoop-bucket__](https://github.com/ati-ozgur/ati-scoop-bucket)|[2](#ati-ozgur_ati-scoop-bucket)|[0](https://github.com/ati-ozgur/ati-scoop-bucket/stargazers)|[0](https://github.com/ati-ozgur/ati-scoop-bucket/network)|[18&#x2011;08&#x2011;13](https://github.com/ati-ozgur/ati-scoop-bucket/commits)|
-|<a name="back_yukihane_scoop-bucket-yukihane-games" id="back_yukihane_scoop-bucket-yukihane-games"></a>[185.](# "22.208897") [__yukihane/scoop-bucket-yukihane-games__](https://github.com/yukihane/scoop-bucket-yukihane-games):  *自家製scoop bucketゲーム版*|[4](#yukihane_scoop-bucket-yukihane-games)|[0](https://github.com/yukihane/scoop-bucket-yukihane-games/stargazers)|[0](https://github.com/yukihane/scoop-bucket-yukihane-games/network)|[18&#x2011;12&#x2011;12](https://github.com/yukihane/scoop-bucket-yukihane-games/commits)|
-|<a name="back_devilishcherub_scoop-app-bucket" id="back_devilishcherub_scoop-app-bucket"></a>[186.](# "22.191986") [__devilishcherub/scoop-app-bucket__](https://github.com/devilishcherub/scoop-app-bucket):  *Similar to Homebrew Cask on Mac. A bucket for actual apps.*|[1](#devilishcherub_scoop-app-bucket)|[0](https://github.com/devilishcherub/scoop-app-bucket/stargazers)|[0](https://github.com/devilishcherub/scoop-app-bucket/network)|[17&#x2011;07&#x2011;11](https://github.com/devilishcherub/scoop-app-bucket/commits)|
-|<a name="back_dennislloydjr_scoop-bucket-devbox" id="back_dennislloydjr_scoop-bucket-devbox"></a>[187.](# "22.18203") [__dennislloydjr/scoop-bucket-devbox__](https://github.com/dennislloydjr/scoop-bucket-devbox):  *Scoop bucket for installing apps for development box*|[19](#dennislloydjr_scoop-bucket-devbox)|[0](https://github.com/dennislloydjr/scoop-bucket-devbox/stargazers)|[1](https://github.com/dennislloydjr/scoop-bucket-devbox/network)|[14&#x2011;11&#x2011;18](https://github.com/dennislloydjr/scoop-bucket-devbox/commits)|
-|<a name="back_thiagotelesdesigner_scoop-bucket-graphic-tools" id="back_thiagotelesdesigner_scoop-bucket-graphic-tools"></a>[188.](# "22.101555") [__thiagotelesdesigner/scoop-bucket-graphic-tools__](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools):  *Bucket do Scoop, com app manifests de ferramentas gráficas*|[1](#thiagotelesdesigner_scoop-bucket-graphic-tools)|[0](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/stargazers)|[0](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/network)|[16&#x2011;04&#x2011;24](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools/commits)|
-|<a name="back_raisercostin_raiser-scoop-bucket" id="back_raisercostin_raiser-scoop-bucket"></a>[189.](# "22.101265") [__raisercostin/raiser-scoop-bucket__](https://github.com/raisercostin/raiser-scoop-bucket):  *My scoop installable scripts - https://github.com/lukesampson/scoop/wiki/Buckets*|[12](#raisercostin_raiser-scoop-bucket)|[0](https://github.com/raisercostin/raiser-scoop-bucket/stargazers)|[0](https://github.com/raisercostin/raiser-scoop-bucket/network)|[18&#x2011;12&#x2011;11](https://github.com/raisercostin/raiser-scoop-bucket/commits)|
-|<a name="back_lucagrulla_cw-scoop-bucket" id="back_lucagrulla_cw-scoop-bucket"></a>[190.](# "22.100334") [__lucagrulla/cw-scoop-bucket__](https://github.com/lucagrulla/cw-scoop-bucket):  *Scoop bucket for cw https://www.lucagrulla.com/cw*|[1](#lucagrulla_cw-scoop-bucket)|[0](https://github.com/lucagrulla/cw-scoop-bucket/stargazers)|[0](https://github.com/lucagrulla/cw-scoop-bucket/network)|[18&#x2011;12&#x2011;12](https://github.com/lucagrulla/cw-scoop-bucket/commits)|
-|<a name="back_windchime-yk_wcy-scoop-bucket" id="back_windchime-yk_wcy-scoop-bucket"></a>[191.](# "22.100334") [__windchime-yk/wcy-scoop-bucket__](https://github.com/windchime-yk/wcy-scoop-bucket):  *Scoopの非公式Bucket。できればextrasに統合してほしいので仮置き*|[1](#windchime-yk_wcy-scoop-bucket)|[0](https://github.com/windchime-yk/wcy-scoop-bucket/stargazers)|[0](https://github.com/windchime-yk/wcy-scoop-bucket/network)|[18&#x2011;09&#x2011;13](https://github.com/windchime-yk/wcy-scoop-bucket/commits)|
-|<a name="back_monotykamary_toms-scoop-bucket" id="back_monotykamary_toms-scoop-bucket"></a>[192.](# "22.05064") [__monotykamary/toms-scoop-bucket__](https://github.com/monotykamary/toms-scoop-bucket)|[9](#monotykamary_toms-scoop-bucket)|[0](https://github.com/monotykamary/toms-scoop-bucket/stargazers)|[1](https://github.com/monotykamary/toms-scoop-bucket/network)|[18&#x2011;05&#x2011;28](https://github.com/monotykamary/toms-scoop-bucket/commits)|
-|<a name="back_BjoernPetersen_scoop-misc-bucket" id="back_BjoernPetersen_scoop-misc-bucket"></a>[193.](# "22.035397") [__BjoernPetersen/scoop-misc-bucket__](https://github.com/BjoernPetersen/scoop-misc-bucket):  *A scoop bucket containing some useful programs missing in the default buckets*|[11](#BjoernPetersen_scoop-misc-bucket)|[1](https://github.com/BjoernPetersen/scoop-misc-bucket/stargazers)|[0](https://github.com/BjoernPetersen/scoop-misc-bucket/network)|[18&#x2011;11&#x2011;16](https://github.com/BjoernPetersen/scoop-misc-bucket/commits)|
-|<a name="back_jsorah_jsorah-scoop-bucket" id="back_jsorah_jsorah-scoop-bucket"></a>[194.](# "22.035397") [__jsorah/jsorah-scoop-bucket__](https://github.com/jsorah/jsorah-scoop-bucket):  *My personal scoop bucket, use at your own risk.*|[5](#jsorah_jsorah-scoop-bucket)|[0](https://github.com/jsorah/jsorah-scoop-bucket/stargazers)|[1](https://github.com/jsorah/jsorah-scoop-bucket/network)|[18&#x2011;12&#x2011;07](https://github.com/jsorah/jsorah-scoop-bucket/commits)|
-|<a name="back_aparkerlue_apl-scoop-bucket" id="back_aparkerlue_apl-scoop-bucket"></a>[195.](# "22.035397") [__aparkerlue/apl-scoop-bucket__](https://github.com/aparkerlue/apl-scoop-bucket):  *Bucket (i.e., collection of apps) for scoop*|[1](#aparkerlue_apl-scoop-bucket)|[0](https://github.com/aparkerlue/apl-scoop-bucket/stargazers)|[0](https://github.com/aparkerlue/apl-scoop-bucket/network)|[16&#x2011;04&#x2011;08](https://github.com/aparkerlue/apl-scoop-bucket/commits)|
-|<a name="back_wrokred_phpdev-scoop-bucket" id="back_wrokred_phpdev-scoop-bucket"></a>[196.](# "21.997345") [__wrokred/phpdev-scoop-bucket__](https://github.com/wrokred/phpdev-scoop-bucket):  *Basic Scoop bucket to manage installs needed for modern php framework.*|[5](#wrokred_phpdev-scoop-bucket)|[1](https://github.com/wrokred/phpdev-scoop-bucket/stargazers)|[0](https://github.com/wrokred/phpdev-scoop-bucket/network)|[17&#x2011;05&#x2011;31](https://github.com/wrokred/phpdev-scoop-bucket/commits)|
-|<a name="back_hed0n1st_my-scoop-bucket" id="back_hed0n1st_my-scoop-bucket"></a>[197.](# "21.997345") [__hed0n1st/my-scoop-bucket__](https://github.com/hed0n1st/my-scoop-bucket)|[6](#hed0n1st_my-scoop-bucket)|[0](https://github.com/hed0n1st/my-scoop-bucket/stargazers)|[0](https://github.com/hed0n1st/my-scoop-bucket/network)|[18&#x2011;12&#x2011;15](https://github.com/hed0n1st/my-scoop-bucket/commits)|
-|<a name="back_tksoftware_tks-scoop-bucket" id="back_tksoftware_tks-scoop-bucket"></a>[198.](# "21.997345") [__tksoftware/tks-scoop-bucket__](https://github.com/tksoftware/tks-scoop-bucket)|[2](#tksoftware_tks-scoop-bucket)|[0](https://github.com/tksoftware/tks-scoop-bucket/stargazers)|[0](https://github.com/tksoftware/tks-scoop-bucket/network)|[15&#x2011;10&#x2011;23](https://github.com/tksoftware/tks-scoop-bucket/commits)|
-|<a name="back_prezesp_scoop-viewer-bucket" id="back_prezesp_scoop-viewer-bucket"></a>[199.](# "21.997345") [__prezesp/scoop-viewer-bucket__](https://github.com/prezesp/scoop-viewer-bucket)|[1](#prezesp_scoop-viewer-bucket)|[0](https://github.com/prezesp/scoop-viewer-bucket/stargazers)|[0](https://github.com/prezesp/scoop-viewer-bucket/network)|[18&#x2011;08&#x2011;21](https://github.com/prezesp/scoop-viewer-bucket/commits)|
-|<a name="back_tscangussu_misc-scoop-bucket" id="back_tscangussu_misc-scoop-bucket"></a>[200.](# "21.997345") [__tscangussu/misc-scoop-bucket__](https://github.com/tscangussu/misc-scoop-bucket)|[1](#tscangussu_misc-scoop-bucket)|[0](https://github.com/tscangussu/misc-scoop-bucket/stargazers)|[0](https://github.com/tscangussu/misc-scoop-bucket/network)|[18&#x2011;10&#x2011;03](https://github.com/tscangussu/misc-scoop-bucket/commits)|
-|<a name="back_rohitnarayanan_scoop-apps" id="back_rohitnarayanan_scoop-apps"></a>[201.](# "21.99493") [__rohitnarayanan/scoop-apps__](https://github.com/rohitnarayanan/scoop-apps):  *private bucket for scoop apps not available in public buckets*|[7](#rohitnarayanan_scoop-apps)|[0](https://github.com/rohitnarayanan/scoop-apps/stargazers)|[0](https://github.com/rohitnarayanan/scoop-apps/network)|[18&#x2011;06&#x2011;27](https://github.com/rohitnarayanan/scoop-apps/commits)|
-|<a name="back_kkum_my-scoop-bucket" id="back_kkum_my-scoop-bucket"></a>[202.](# "21.959225") [__kkum/my-scoop-bucket__](https://github.com/kkum/my-scoop-bucket)|[3](#kkum_my-scoop-bucket)|[0](https://github.com/kkum/my-scoop-bucket/stargazers)|[0](https://github.com/kkum/my-scoop-bucket/network)|[18&#x2011;11&#x2011;15](https://github.com/kkum/my-scoop-bucket/commits)|
-|<a name="back_barohatoum_my-scoop-bucket" id="back_barohatoum_my-scoop-bucket"></a>[203.](# "21.959225") [__barohatoum/my-scoop-bucket__](https://github.com/barohatoum/my-scoop-bucket)|[1](#barohatoum_my-scoop-bucket)|[0](https://github.com/barohatoum/my-scoop-bucket/stargazers)|[0](https://github.com/barohatoum/my-scoop-bucket/network)|[15&#x2011;08&#x2011;19](https://github.com/barohatoum/my-scoop-bucket/commits)|
-|<a name="back_tmsdnl_scoop-dev-bucket" id="back_tmsdnl_scoop-dev-bucket"></a>[204.](# "21.875633") [__tmsdnl/scoop-dev-bucket__](https://github.com/tmsdnl/scoop-dev-bucket)|[1](#tmsdnl_scoop-dev-bucket)|[0](https://github.com/tmsdnl/scoop-dev-bucket/stargazers)|[0](https://github.com/tmsdnl/scoop-dev-bucket/network)|[15&#x2011;12&#x2011;02](https://github.com/tmsdnl/scoop-dev-bucket/commits)|
-|<a name="back_Melvinkooi_My-Bucket" id="back_Melvinkooi_My-Bucket"></a>[205.](# "21.725344") [__Melvinkooi/My-Bucket__](https://github.com/Melvinkooi/My-Bucket):  *Scoop bucket to test upcoming app manifests*|[3](#Melvinkooi_My-Bucket)|[0](https://github.com/Melvinkooi/My-Bucket/stargazers)|[0](https://github.com/Melvinkooi/My-Bucket/network)|[18&#x2011;09&#x2011;30](https://github.com/Melvinkooi/My-Bucket/commits)|
-|<a name="back_MerdedSpade_my-bucket" id="back_MerdedSpade_my-bucket"></a>[206.](# "21.69151") [__MerdedSpade/my-bucket__](https://github.com/MerdedSpade/my-bucket):  *My bucket for Scoop. Contains some programs.*|[2](#MerdedSpade_my-bucket)|[0](https://github.com/MerdedSpade/my-bucket/stargazers)|[0](https://github.com/MerdedSpade/my-bucket/network)|[18&#x2011;11&#x2011;17](https://github.com/MerdedSpade/my-bucket/commits)|
-|<a name="back_Sandeep-Bansal_scooped" id="back_Sandeep-Bansal_scooped"></a>[207.](# "21.592243") [__Sandeep-Bansal/scooped__](https://github.com/Sandeep-Bansal/scooped):  *Scoop Bucket containing several useful software items*|[1](#Sandeep-Bansal_scooped)|[0](https://github.com/Sandeep-Bansal/scooped/stargazers)|[0](https://github.com/Sandeep-Bansal/scooped/network)|[18&#x2011;12&#x2011;12](https://github.com/Sandeep-Bansal/scooped/commits)|
-|<a name="back_cprecioso_scoop-lektor" id="back_cprecioso_scoop-lektor"></a>[208.](# "21.548105") [__cprecioso/scoop-lektor__](https://github.com/cprecioso/scoop-lektor):  *Bucket to install Lektor with Scoop*|[1](#cprecioso_scoop-lektor)|[0](https://github.com/cprecioso/scoop-lektor/stargazers)|[0](https://github.com/cprecioso/scoop-lektor/network)|[17&#x2011;02&#x2011;21](https://github.com/cprecioso/scoop-lektor/commits)|
-|<a name="back_demesne_dev-extras" id="back_demesne_dev-extras"></a>[209.](# "21.526543") [__demesne/dev-extras__](https://github.com/demesne/dev-extras):  *Scoop bucket for commonly used Development Tools*|[1](#demesne_dev-extras)|[0](https://github.com/demesne/dev-extras/stargazers)|[0](https://github.com/demesne/dev-extras/network)|[17&#x2011;06&#x2011;30](https://github.com/demesne/dev-extras/commits)|
-|<a name="back_jfut_scoop-pleiades" id="back_jfut_scoop-pleiades"></a>[210.](# "21.498196") [__jfut/scoop-pleiades__](https://github.com/jfut/scoop-pleiades):  *Pleiades Bucket for http://scoop.sh*|[120](#jfut_scoop-pleiades)|[0](https://github.com/jfut/scoop-pleiades/stargazers)|[0](https://github.com/jfut/scoop-pleiades/network)|[18&#x2011;09&#x2011;26](https://github.com/jfut/scoop-pleiades/commits)|
-|<a name="back_xeijin_propositum-bucket" id="back_xeijin_propositum-bucket"></a>[211.](# "21.453192") [__xeijin/propositum-bucket__](https://github.com/xeijin/propositum-bucket):  *Repository for scoop install manifests customised for propositum*|[7](#xeijin_propositum-bucket)|[0](https://github.com/xeijin/propositum-bucket/stargazers)|[0](https://github.com/xeijin/propositum-bucket/network)|[18&#x2011;11&#x2011;05](https://github.com/xeijin/propositum-bucket/commits)|
-|<a name="back_sivertsenstian_my-bucket" id="back_sivertsenstian_my-bucket"></a>[212.](# "21.355185") [__sivertsenstian/my-bucket__](https://github.com/sivertsenstian/my-bucket):  *my personal https://scoop.sh bucket*|[2](#sivertsenstian_my-bucket)|[0](https://github.com/sivertsenstian/my-bucket/stargazers)|[0](https://github.com/sivertsenstian/my-bucket/network)|[18&#x2011;12&#x2011;11](https://github.com/sivertsenstian/my-bucket/commits)|
-|<a name="back_warexify_scoop-edk2-buildtools" id="back_warexify_scoop-edk2-buildtools"></a>[213.](# "21.337936") [__warexify/scoop-edk2-buildtools__](https://github.com/warexify/scoop-edk2-buildtools):  *Scoop bucket for installing edk2-buildtools*|[20](#warexify_scoop-edk2-buildtools)|[0](https://github.com/warexify/scoop-edk2-buildtools/stargazers)|[0](https://github.com/warexify/scoop-edk2-buildtools/network)|[18&#x2011;12&#x2011;12](https://github.com/warexify/scoop-edk2-buildtools/commits)|
-|<a name="back_Krzysztof-Cieslak_scoop-fsharp-extras" id="back_Krzysztof-Cieslak_scoop-fsharp-extras"></a>[214.](# "21.337936") [__Krzysztof-Cieslak/scoop-fsharp-extras__](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras):  *Scoop bucket with F# specific utilities*|[1](#Krzysztof-Cieslak_scoop-fsharp-extras)|[0](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/stargazers)|[0](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/network)|[17&#x2011;06&#x2011;04](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras/commits)|
-|<a name="back_mikepruett3_scoop-cyberduck" id="back_mikepruett3_scoop-cyberduck"></a>[215.](# "21.290245") [__mikepruett3/scoop-cyberduck__](https://github.com/mikepruett3/scoop-cyberduck):  *A Scoop Bucket for Cyberduck Installs*|[1](#mikepruett3_scoop-cyberduck)|[0](https://github.com/mikepruett3/scoop-cyberduck/stargazers)|[0](https://github.com/mikepruett3/scoop-cyberduck/network)|[18&#x2011;10&#x2011;04](https://github.com/mikepruett3/scoop-cyberduck/commits)|
-|<a name="back_tetradice_scoop-iyokan-jp" id="back_tetradice_scoop-iyokan-jp"></a>[216.](# "20.317408") [__tetradice/scoop-iyokan-jp__](https://github.com/tetradice/scoop-iyokan-jp):  *日本語環境に最適化されたscoop bucket*|[20](#tetradice_scoop-iyokan-jp)|[2](https://github.com/tetradice/scoop-iyokan-jp/stargazers)|[1](https://github.com/tetradice/scoop-iyokan-jp/network)|[18&#x2011;11&#x2011;23](https://github.com/tetradice/scoop-iyokan-jp/commits)|
-|<a name="back_ChinLong_scoop-customize" id="back_ChinLong_scoop-customize"></a>[217.](# "20.090265") [__ChinLong/scoop-customize__](https://github.com/ChinLong/scoop-customize):  *It is customize for scoop-extras*|[14](#ChinLong_scoop-customize)|[4](https://github.com/ChinLong/scoop-customize/stargazers)|[0](https://github.com/ChinLong/scoop-customize/network)|[18&#x2011;11&#x2011;28](https://github.com/ChinLong/scoop-customize/commits)|
-|<a name="back_comp500_scoop-comp500" id="back_comp500_scoop-comp500"></a>[218.](# "19.928635") [__comp500/scoop-comp500__](https://github.com/comp500/scoop-comp500):  *Scoop bucket for my packages (software not made by me, only the package files)*|[18](#comp500_scoop-comp500)|[2](https://github.com/comp500/scoop-comp500/stargazers)|[0](https://github.com/comp500/scoop-comp500/network)|[18&#x2011;11&#x2011;22](https://github.com/comp500/scoop-comp500/commits)|
-|<a name="back_nrakochy_leiningen_bucket" id="back_nrakochy_leiningen_bucket"></a>[219.](# "19.35257") [__nrakochy/leiningen_bucket__](https://github.com/nrakochy/leiningen_bucket):  *JSON package for adding Leiningen to Windows via the Scoop installer*|[1](#nrakochy_leiningen_bucket)|[0](https://github.com/nrakochy/leiningen_bucket/stargazers)|[0](https://github.com/nrakochy/leiningen_bucket/network)|[16&#x2011;11&#x2011;17](https://github.com/nrakochy/leiningen_bucket/commits)|
-|<a name="back_minorgod_scoop-minorgod" id="back_minorgod_scoop-minorgod"></a>[220.](# "19.126392") [__minorgod/scoop-minorgod__](https://github.com/minorgod/scoop-minorgod):  *A scoop bucket for some random packages I wanted to install through scoop.*|[6](#minorgod_scoop-minorgod)|[0](https://github.com/minorgod/scoop-minorgod/stargazers)|[0](https://github.com/minorgod/scoop-minorgod/network)|[18&#x2011;10&#x2011;13](https://github.com/minorgod/scoop-minorgod/commits)|
-|<a name="back_Greydus_weeb-bucket" id="back_Greydus_weeb-bucket"></a>[221.](# "19.051987") [__Greydus/weeb-bucket__](https://github.com/Greydus/weeb-bucket):  *A scoop bucket containing various utilities that I use*|[3](#Greydus_weeb-bucket)|[1](https://github.com/Greydus/weeb-bucket/stargazers)|[0](https://github.com/Greydus/weeb-bucket/network)|[18&#x2011;07&#x2011;30](https://github.com/Greydus/weeb-bucket/commits)|
-|<a name="back_NSIS-Dev_scoop-nsis" id="back_NSIS-Dev_scoop-nsis"></a>[222.](# "19.049858") [__NSIS-Dev/scoop-nsis__](https://github.com/NSIS-Dev/scoop-nsis):  *NSIS bucket for scoop, a command-line installer for Windows*|[63](#NSIS-Dev_scoop-nsis)|[1](https://github.com/NSIS-Dev/scoop-nsis/stargazers)|[0](https://github.com/NSIS-Dev/scoop-nsis/network)|[18&#x2011;10&#x2011;14](https://github.com/NSIS-Dev/scoop-nsis/commits)|
-|<a name="back_lefevrep_scoop" id="back_lefevrep_scoop"></a>[223.](# "18.91703") [__lefevrep/scoop__](https://github.com/lefevrep/scoop):  *scoop bucket not in std/extra or corrected*|[9](#lefevrep_scoop)|[0](https://github.com/lefevrep/scoop/stargazers)|[0](https://github.com/lefevrep/scoop/network)|[18&#x2011;10&#x2011;19](https://github.com/lefevrep/scoop/commits)|
-|<a name="back_niklaskorz_scoop-setlx" id="back_niklaskorz_scoop-setlx"></a>[224.](# "18.880928") [__niklaskorz/scoop-setlx__](https://github.com/niklaskorz/scoop-setlx):  *Scoop manifest and bucket for the SetlX interpreter*|[1](#niklaskorz_scoop-setlx)|[0](https://github.com/niklaskorz/scoop-setlx/stargazers)|[0](https://github.com/niklaskorz/scoop-setlx/network)|[18&#x2011;12&#x2011;05](https://github.com/niklaskorz/scoop-setlx/commits)|
-|<a name="back_Doublemine_scoops" id="back_Doublemine_scoops"></a>[225.](# "18.870304") [__Doublemine/scoops__](https://github.com/Doublemine/scoops):  *a buckets to collection some application for scoop*|[1](#Doublemine_scoops)|[1](https://github.com/Doublemine/scoops/stargazers)|[0](https://github.com/Doublemine/scoops/network)|[17&#x2011;12&#x2011;25](https://github.com/Doublemine/scoops/commits)|
-|<a name="back_juliostanley_scoop-windows-linux-containers" id="back_juliostanley_scoop-windows-linux-containers"></a>[226.](# "18.781782") [__juliostanley/scoop-windows-linux-containers__](https://github.com/juliostanley/scoop-windows-linux-containers):  *A setup script to enable containers on windows for local development*|[3](#juliostanley_scoop-windows-linux-containers)|[4](https://github.com/juliostanley/scoop-windows-linux-containers/stargazers)|[0](https://github.com/juliostanley/scoop-windows-linux-containers/network)|[18&#x2011;08&#x2011;01](https://github.com/juliostanley/scoop-windows-linux-containers/commits)|
-|<a name="back_Praqma_scoop-praqma-tools" id="back_Praqma_scoop-praqma-tools"></a>[227.](# "18.736012") [__Praqma/scoop-praqma-tools__](https://github.com/Praqma/scoop-praqma-tools):  *Scoop bucket for command line tools on windows*|[1](#Praqma_scoop-praqma-tools)|[0](https://github.com/Praqma/scoop-praqma-tools/stargazers)|[0](https://github.com/Praqma/scoop-praqma-tools/network)|[17&#x2011;08&#x2011;03](https://github.com/Praqma/scoop-praqma-tools/commits)|
-|<a name="back_grigoryvp_scoop-grigoryvp" id="back_grigoryvp_scoop-grigoryvp"></a>[228.](# "15.62846") [__grigoryvp/scoop-grigoryvp__](https://github.com/grigoryvp/scoop-grigoryvp):  *Scoop app manifest to install &#34;KPScript&#34; plugin for the &#34;KeePass&#34; app installed from the &#34;extras&#34; bucket*|[3](#grigoryvp_scoop-grigoryvp)|[0](https://github.com/grigoryvp/scoop-grigoryvp/stargazers)|[0](https://github.com/grigoryvp/scoop-grigoryvp/network)|[18&#x2011;09&#x2011;22](https://github.com/grigoryvp/scoop-grigoryvp/commits)|
-|<a name="back_Callidin_ragnar-scoop" id="back_Callidin_ragnar-scoop"></a>[229.](# "15.62846") [__Callidin/ragnar-scoop__](https://github.com/Callidin/ragnar-scoop):  *A small bucket so I can find and install older versions of things from scoop repros.*|[1](#Callidin_ragnar-scoop)|[0](https://github.com/Callidin/ragnar-scoop/stargazers)|[0](https://github.com/Callidin/ragnar-scoop/network)|[16&#x2011;03&#x2011;16](https://github.com/Callidin/ragnar-scoop/commits)|
-|<a name="back_mundusnine_audio-bucket" id="back_mundusnine_audio-bucket"></a>[230.](# "15.460333") [__mundusnine/audio-bucket__](https://github.com/mundusnine/audio-bucket):  *A bucket-list for scoop.sh that covers multiple audio technologies(apps, code base, tools etc.)*|[12](#mundusnine_audio-bucket)|[0](https://github.com/mundusnine/audio-bucket/stargazers)|[0](https://github.com/mundusnine/audio-bucket/network)|[18&#x2011;12&#x2011;04](https://github.com/mundusnine/audio-bucket/commits)|
-|<a name="back_jfut_scoop-dell-xps-8920" id="back_jfut_scoop-dell-xps-8920"></a>[231.](# "15.424093") [__jfut/scoop-dell-xps-8920__](https://github.com/jfut/scoop-dell-xps-8920):  *DELL XPS 8920 Hardware Driver and Software Bucket for http://scoop.sh*|[1](#jfut_scoop-dell-xps-8920)|[0](https://github.com/jfut/scoop-dell-xps-8920/stargazers)|[0](https://github.com/jfut/scoop-dell-xps-8920/network)|[17&#x2011;11&#x2011;24](https://github.com/jfut/scoop-dell-xps-8920/commits)|
-|<a name="back_MCOfficer_scoop-nirsoft" id="back_MCOfficer_scoop-nirsoft"></a>[232.](# "15.330991") [__MCOfficer/scoop-nirsoft__](https://github.com/MCOfficer/scoop-nirsoft):  *My own shot at a nirsoft.net-bucket. Contains all 250+ programs.*|[250](#MCOfficer_scoop-nirsoft)|[3](https://github.com/MCOfficer/scoop-nirsoft/stargazers)|[0](https://github.com/MCOfficer/scoop-nirsoft/network)|[18&#x2011;12&#x2011;14](https://github.com/MCOfficer/scoop-nirsoft/commits)|
-|<a name="back_propositum_scoop-tools" id="back_propositum_scoop-tools"></a>[233.](# "15.301218") [__propositum/scoop-tools__](https://github.com/propositum/scoop-tools):  *Scoop Bucket with additional tools and utilities I like to use.*|[11](#propositum_scoop-tools)|[0](https://github.com/propositum/scoop-tools/stargazers)|[0](https://github.com/propositum/scoop-tools/network)|[18&#x2011;12&#x2011;06](https://github.com/propositum/scoop-tools/commits)|
-|<a name="back_rc55_demoscene" id="back_rc55_demoscene"></a>[234.](# "11.210426") [__rc55/demoscene__](https://github.com/rc55/demoscene):  *A Scoop bucket containing demoscene production manifests, enabling command line downloads of demoscene productions. **This is just a test area for the time being! - IT WILL BREAK!***|[437](#rc55_demoscene)|[0](https://github.com/rc55/demoscene/stargazers)|[0](https://github.com/rc55/demoscene/network)|[18&#x2011;11&#x2011;30](https://github.com/rc55/demoscene/commits)|
+|<a name="back_lukesampson_scoop-extras" id="back_lukesampson_scoop-extras"></a>[1.](# "230.52138") [__lukesampson/scoop-extras__](https://github.com/lukesampson/scoop-extras):  *&#34;Extras&#34; bucket for Scoop(scoop&#39;s built-in bucket &#39;extras&#39;)*|[580](#lukesampson_scoop-extras)|[337](https://github.com/lukesampson/scoop-extras/stargazers)|[274](https://github.com/lukesampson/scoop-extras/network)|[18&#x2011;12&#x2011;15](https://github.com/lukesampson/scoop-extras/commits)|
+|<a name="back_scoopinstaller_versions" id="back_scoopinstaller_versions"></a>[2.](# "97.79799") [__scoopinstaller/versions__](https://github.com/scoopinstaller/versions):  *A Scoop bucket for alternative versions of apps.(scoop&#39;s built-in bucket &#39;versions&#39;)*|[67](#scoopinstaller_versions)|[11](https://github.com/scoopinstaller/versions/stargazers)|[23](https://github.com/scoopinstaller/versions/network)|[18&#x2011;12&#x2011;12](https://github.com/scoopinstaller/versions/commits)|
+|<a name="back_lukesampson_scoop" id="back_lukesampson_scoop"></a>[3.](# "95.70125") [__lukesampson/scoop__](https://github.com/lukesampson/scoop):  *A command-line installer for Windows.(scoop&#39;s main/default bucket)*|[407](#lukesampson_scoop)|[5611](https://github.com/lukesampson/scoop/stargazers)|[601](https://github.com/lukesampson/scoop/network)|[18&#x2011;12&#x2011;15](https://github.com/lukesampson/scoop/commits)|
+|<a name="back_kodybrown_scoop-nirsoft" id="back_kodybrown_scoop-nirsoft"></a>[4.](# "77.429474") [__kodybrown/scoop-nirsoft__](https://github.com/kodybrown/scoop-nirsoft):  *A Scoop bucket of useful NirSoft utilities(scoop&#39;s built-in bucket &#39;nirsoft&#39;)*|[18](#kodybrown_scoop-nirsoft)|[15](https://github.com/kodybrown/scoop-nirsoft/stargazers)|[5](https://github.com/kodybrown/scoop-nirsoft/network)|[18&#x2011;11&#x2011;19](https://github.com/kodybrown/scoop-nirsoft/commits)|
+|<a name="back_nueko_scoop-php" id="back_nueko_scoop-php"></a>[5.](# "67.57943") [__nueko/scoop-php__](https://github.com/nueko/scoop-php):  *PHP Bucket for http://scoop.sh(scoop&#39;s built-in bucket &#39;php&#39;)*|[438](#nueko_scoop-php)|[6](https://github.com/nueko/scoop-php/stargazers)|[5](https://github.com/nueko/scoop-php/network)|[18&#x2011;12&#x2011;08](https://github.com/nueko/scoop-php/commits)|
+|<a name="back_matthewjberger_scoop-nerd-fonts" id="back_matthewjberger_scoop-nerd-fonts"></a>[6.](# "64.722565") [__matthewjberger/scoop-nerd-fonts__](https://github.com/matthewjberger/scoop-nerd-fonts):  *A scoop bucket for installing nerd fonts.(scoop&#39;s built-in bucket &#39;nerd-fonts&#39;)*|[35](#matthewjberger_scoop-nerd-fonts)|[19](https://github.com/matthewjberger/scoop-nerd-fonts/stargazers)|[2](https://github.com/matthewjberger/scoop-nerd-fonts/network)|[18&#x2011;12&#x2011;01](https://github.com/matthewjberger/scoop-nerd-fonts/commits)|
+|<a name="back_nueko_php-ext-bucket" id="back_nueko_php-ext-bucket"></a>[7.](# "61.10293") [__nueko/php-ext-bucket__](https://github.com/nueko/php-ext-bucket):  *Scoop Bucket for PHP Extensions*|[54](#nueko_php-ext-bucket)|[3](https://github.com/nueko/php-ext-bucket/stargazers)|[3](https://github.com/nueko/php-ext-bucket/network)|[18&#x2011;06&#x2011;14](https://github.com/nueko/php-ext-bucket/commits)|
+|<a name="back_se35710_scoop-java" id="back_se35710_scoop-java"></a>[8.](# "56.997757") [__se35710/scoop-java__](https://github.com/se35710/scoop-java):  *A bucket for Scoop, for Oracle Java, OpenJDK, Zulu, ojdkbuild, AdoptOpenJDK and Amazon Corretto.(scoop&#39;s built-in bucket &#39;java&#39;)*|[56](#se35710_scoop-java)|[19](https://github.com/se35710/scoop-java/stargazers)|[4](https://github.com/se35710/scoop-java/network)|[18&#x2011;12&#x2011;15](https://github.com/se35710/scoop-java/commits)|
+|<a name="back_Calinou_scoop-games" id="back_Calinou_scoop-games"></a>[9.](# "54.971405") [__Calinou/scoop-games__](https://github.com/Calinou/scoop-games):  *Scoop bucket for open source/freeware games and game-related tools(scoop&#39;s built-in bucket &#39;games&#39;)*|[41](#Calinou_scoop-games)|[9](https://github.com/Calinou/scoop-games/stargazers)|[5](https://github.com/Calinou/scoop-games/network)|[18&#x2011;12&#x2011;13](https://github.com/Calinou/scoop-games/commits)|
+|<a name="back_TheCjw_scoop-retools" id="back_TheCjw_scoop-retools"></a>[10.](# "54.677532") [__TheCjw/scoop-retools__](https://github.com/TheCjw/scoop-retools):  *Scoop bucket for reverse engineering tools*|[22](#TheCjw_scoop-retools)|[7](https://github.com/TheCjw/scoop-retools/stargazers)|[2](https://github.com/TheCjw/scoop-retools/network)|[18&#x2011;11&#x2011;30](https://github.com/TheCjw/scoop-retools/commits)|
+|<a name="back_oltolm_scoop-nonportable" id="back_oltolm_scoop-nonportable"></a>[11.](# "50.51118") [__oltolm/scoop-nonportable__](https://github.com/oltolm/scoop-nonportable):  *Scoop bucket for nonportable apps(scoop&#39;s built-in bucket &#39;nonportable&#39;)*|[17](#oltolm_scoop-nonportable)|[3](https://github.com/oltolm/scoop-nonportable/stargazers)|[2](https://github.com/oltolm/scoop-nonportable/network)|[18&#x2011;12&#x2011;12](https://github.com/oltolm/scoop-nonportable/commits)|
+|<a name="back_rasa_scoops" id="back_rasa_scoops"></a>[12.](# "50.005806") [__rasa/scoops__](https://github.com/rasa/scoops):  *:fries: A bucket of tasty scoop flavored apps.*|[81](#rasa_scoops)|[9](https://github.com/rasa/scoops/stargazers)|[2](https://github.com/rasa/scoops/network)|[18&#x2011;12&#x2011;15](https://github.com/rasa/scoops/commits)|
+|<a name="back_maman_scoop-bucket" id="back_maman_scoop-bucket"></a>[13.](# "46.397892") [__maman/scoop-bucket__](https://github.com/maman/scoop-bucket):  *Additional buckets for scoop - homebrew for windows*|[7](#maman_scoop-bucket)|[2](https://github.com/maman/scoop-bucket/stargazers)|[2](https://github.com/maman/scoop-bucket/network)|[17&#x2011;05&#x2011;26](https://github.com/maman/scoop-bucket/commits)|
+|<a name="back_vidarkongsli_vidars-scoop-bucket" id="back_vidarkongsli_vidars-scoop-bucket"></a>[14.](# "43.688343") [__vidarkongsli/vidars-scoop-bucket__](https://github.com/vidarkongsli/vidars-scoop-bucket)|[20](#vidarkongsli_vidars-scoop-bucket)|[1](https://github.com/vidarkongsli/vidars-scoop-bucket/stargazers)|[0](https://github.com/vidarkongsli/vidars-scoop-bucket/network)|[18&#x2011;08&#x2011;05](https://github.com/vidarkongsli/vidars-scoop-bucket/commits)|
+|<a name="back_wrokred_phpdev-scoop-bucket" id="back_wrokred_phpdev-scoop-bucket"></a>[15.](# "42.818573") [__wrokred/phpdev-scoop-bucket__](https://github.com/wrokred/phpdev-scoop-bucket):  *Basic Scoop bucket to manage installs needed for modern php framework.*|[5](#wrokred_phpdev-scoop-bucket)|[1](https://github.com/wrokred/phpdev-scoop-bucket/stargazers)|[0](https://github.com/wrokred/phpdev-scoop-bucket/network)|[17&#x2011;05&#x2011;31](https://github.com/wrokred/phpdev-scoop-bucket/commits)|
+|<a name="back_jmcarbo_scoopbucket" id="back_jmcarbo_scoopbucket"></a>[16.](# "41.837833") [__jmcarbo/scoopbucket__](https://github.com/jmcarbo/scoopbucket):  *Scoop bucket install definitions*|[6](#jmcarbo_scoopbucket)|[1](https://github.com/jmcarbo/scoopbucket/stargazers)|[2](https://github.com/jmcarbo/scoopbucket/network)|[16&#x2011;09&#x2011;08](https://github.com/jmcarbo/scoopbucket/commits)|
+|<a name="back_monotykamary_toms-scoop-bucket" id="back_monotykamary_toms-scoop-bucket"></a>[17.](# "41.668747") [__monotykamary/toms-scoop-bucket__](https://github.com/monotykamary/toms-scoop-bucket)|[9](#monotykamary_toms-scoop-bucket)|[0](https://github.com/monotykamary/toms-scoop-bucket/stargazers)|[1](https://github.com/monotykamary/toms-scoop-bucket/network)|[18&#x2011;05&#x2011;28](https://github.com/monotykamary/toms-scoop-bucket/commits)|
+|<a name="back_dennislloydjr_scoop-bucket-devbox" id="back_dennislloydjr_scoop-bucket-devbox"></a>[18.](# "40.892128") [__dennislloydjr/scoop-bucket-devbox__](https://github.com/dennislloydjr/scoop-bucket-devbox):  *Scoop bucket for installing apps for development box*|[19](#dennislloydjr_scoop-bucket-devbox)|[0](https://github.com/dennislloydjr/scoop-bucket-devbox/stargazers)|[1](https://github.com/dennislloydjr/scoop-bucket-devbox/network)|[14&#x2011;11&#x2011;18](https://github.com/dennislloydjr/scoop-bucket-devbox/commits)|
+|<a name="back_red_scoop-bucket" id="back_red_scoop-bucket"></a>[19.](# "39.798054") [__red/scoop-bucket__](https://github.com/red/scoop-bucket)|[2](#red_scoop-bucket)|[1](https://github.com/red/scoop-bucket/stargazers)|[2](https://github.com/red/scoop-bucket/network)|[17&#x2011;05&#x2011;16](https://github.com/red/scoop-bucket/commits)|
+|<a name="back_onlyice_scoop-bucket" id="back_onlyice_scoop-bucket"></a>[20.](# "37.63695") [__onlyice/scoop-bucket__](https://github.com/onlyice/scoop-bucket):  *Scoop bucket containing useful tools*|[2](#onlyice_scoop-bucket)|[4](https://github.com/onlyice/scoop-bucket/stargazers)|[1](https://github.com/onlyice/scoop-bucket/network)|[18&#x2011;11&#x2011;14](https://github.com/onlyice/scoop-bucket/commits)|
+|<a name="back_BjoernPetersen_scoop-misc-bucket" id="back_BjoernPetersen_scoop-misc-bucket"></a>[21.](# "37.214832") [__BjoernPetersen/scoop-misc-bucket__](https://github.com/BjoernPetersen/scoop-misc-bucket):  *A scoop bucket containing some useful programs missing in the default buckets*|[11](#BjoernPetersen_scoop-misc-bucket)|[1](https://github.com/BjoernPetersen/scoop-misc-bucket/stargazers)|[0](https://github.com/BjoernPetersen/scoop-misc-bucket/network)|[18&#x2011;11&#x2011;16](https://github.com/BjoernPetersen/scoop-misc-bucket/commits)|
+|<a name="back_h404bi_dorado" id="back_h404bi_dorado"></a>[22.](# "36.552734") [__h404bi/dorado__](https://github.com/h404bi/dorado):  *🐟 A bucket of Scoop, for h404bi*|[44](#h404bi_dorado)|[5](https://github.com/h404bi/dorado/stargazers)|[1](https://github.com/h404bi/dorado/network)|[18&#x2011;12&#x2011;12](https://github.com/h404bi/dorado/commits)|
+|<a name="back_liaoya_scoop-bucket" id="back_liaoya_scoop-bucket"></a>[23.](# "34.321785") [__liaoya/scoop-bucket__](https://github.com/liaoya/scoop-bucket):  *Tom&#39;s scoop bucket which contain the software does not exist in main and extras scoop bucket*|[18](#liaoya_scoop-bucket)|[3](https://github.com/liaoya/scoop-bucket/stargazers)|[0](https://github.com/liaoya/scoop-bucket/network)|[18&#x2011;12&#x2011;07](https://github.com/liaoya/scoop-bucket/commits)|
+|<a name="back_wangzq_scoop-bucket" id="back_wangzq_scoop-bucket"></a>[24.](# "34.205784") [__wangzq/scoop-bucket__](https://github.com/wangzq/scoop-bucket):  *A bucket for http://scoop.sh*|[85](#wangzq_scoop-bucket)|[3](https://github.com/wangzq/scoop-bucket/stargazers)|[1](https://github.com/wangzq/scoop-bucket/network)|[18&#x2011;12&#x2011;02](https://github.com/wangzq/scoop-bucket/commits)|
+|<a name="back_Callidin_ragnar-scoop" id="back_Callidin_ragnar-scoop"></a>[25.](# "33.82791") [__Callidin/ragnar-scoop__](https://github.com/Callidin/ragnar-scoop):  *A small bucket so I can find and install older versions of things from scoop repros.*|[1](#Callidin_ragnar-scoop)|[0](https://github.com/Callidin/ragnar-scoop/stargazers)|[0](https://github.com/Callidin/ragnar-scoop/network)|[16&#x2011;03&#x2011;16](https://github.com/Callidin/ragnar-scoop/commits)|
+|<a name="back_jfut_scoop-pleiades" id="back_jfut_scoop-pleiades"></a>[26.](# "33.07325") [__jfut/scoop-pleiades__](https://github.com/jfut/scoop-pleiades):  *Pleiades Bucket for http://scoop.sh*|[120](#jfut_scoop-pleiades)|[0](https://github.com/jfut/scoop-pleiades/stargazers)|[0](https://github.com/jfut/scoop-pleiades/network)|[18&#x2011;09&#x2011;26](https://github.com/jfut/scoop-pleiades/commits)|
+|<a name="back_cprecioso_scoop-lektor" id="back_cprecioso_scoop-lektor"></a>[27.](# "32.65708") [__cprecioso/scoop-lektor__](https://github.com/cprecioso/scoop-lektor):  *Bucket to install Lektor with Scoop*|[1](#cprecioso_scoop-lektor)|[0](https://github.com/cprecioso/scoop-lektor/stargazers)|[0](https://github.com/cprecioso/scoop-lektor/network)|[17&#x2011;02&#x2011;21](https://github.com/cprecioso/scoop-lektor/commits)|
+|<a name="back_hermanjustnu_scoop-emulators" id="back_hermanjustnu_scoop-emulators"></a>[28.](# "32.444775") [__hermanjustnu/scoop-emulators__](https://github.com/hermanjustnu/scoop-emulators):  *Scoop bucket for emulators*|[11](#hermanjustnu_scoop-emulators)|[2](https://github.com/hermanjustnu/scoop-emulators/stargazers)|[1](https://github.com/hermanjustnu/scoop-emulators/network)|[18&#x2011;12&#x2011;15](https://github.com/hermanjustnu/scoop-emulators/commits)|
+|<a name="back_scoopinstaller_nightlies" id="back_scoopinstaller_nightlies"></a>[29.](# "30.795013") [__scoopinstaller/nightlies__](https://github.com/scoopinstaller/nightlies):  *(scoop&#39;s built-in bucket &#39;nightlies&#39;)*|[1](#scoopinstaller_nightlies)|[0](https://github.com/scoopinstaller/nightlies/stargazers)|[0](https://github.com/scoopinstaller/nightlies/network)|[16&#x2011;01&#x2011;24](https://github.com/scoopinstaller/nightlies/commits)|
+|<a name="back_siddarthasagar_scoopbucket" id="back_siddarthasagar_scoopbucket"></a>[30.](# "30.28417") [__siddarthasagar/scoopbucket__](https://github.com/siddarthasagar/scoopbucket):  *customBucket to support scoop installations*|[10](#siddarthasagar_scoopbucket)|[0](https://github.com/siddarthasagar/scoopbucket/stargazers)|[0](https://github.com/siddarthasagar/scoopbucket/network)|[18&#x2011;11&#x2011;16](https://github.com/siddarthasagar/scoopbucket/commits)|
+|<a name="back_se35710_scoop-ibm" id="back_se35710_scoop-ibm"></a>[31.](# "30.229858") [__se35710/scoop-ibm__](https://github.com/se35710/scoop-ibm):  *Scoop bucket for IBM Cloud tools and IBM WebSphere Liberty*|[13](#se35710_scoop-ibm)|[4](https://github.com/se35710/scoop-ibm/stargazers)|[0](https://github.com/se35710/scoop-ibm/network)|[18&#x2011;12&#x2011;14](https://github.com/se35710/scoop-ibm/commits)|
+|<a name="back_MCOfficer_scoop-nirsoft" id="back_MCOfficer_scoop-nirsoft"></a>[32.](# "28.323748") [__MCOfficer/scoop-nirsoft__](https://github.com/MCOfficer/scoop-nirsoft):  *My own shot at a nirsoft.net-bucket. Contains all 250+ programs.*|[250](#MCOfficer_scoop-nirsoft)|[3](https://github.com/MCOfficer/scoop-nirsoft/stargazers)|[0](https://github.com/MCOfficer/scoop-nirsoft/network)|[18&#x2011;12&#x2011;14](https://github.com/MCOfficer/scoop-nirsoft/commits)|
+|<a name="back_jfut_scoop-jfut" id="back_jfut_scoop-jfut"></a>[33.](# "28.196905") [__jfut/scoop-jfut__](https://github.com/jfut/scoop-jfut):  *&#34;jfut&#34; bucket for http://scoop.sh*|[39](#jfut_scoop-jfut)|[2](https://github.com/jfut/scoop-jfut/stargazers)|[1](https://github.com/jfut/scoop-jfut/network)|[18&#x2011;12&#x2011;15](https://github.com/jfut/scoop-jfut/commits)|
+|<a name="back_jamesgecko_scoop-packages" id="back_jamesgecko_scoop-packages"></a>[34.](# "28.079977") [__jamesgecko/scoop-packages__](https://github.com/jamesgecko/scoop-packages):  *Random manifests*|[6](#jamesgecko_scoop-packages)|[0](https://github.com/jamesgecko/scoop-packages/stargazers)|[0](https://github.com/jamesgecko/scoop-packages/network)|[15&#x2011;04&#x2011;25](https://github.com/jamesgecko/scoop-packages/commits)|
+|<a name="back_rkbk60_scoop-for-jp" id="back_rkbk60_scoop-for-jp"></a>[35.](# "27.972637") [__rkbk60/scoop-for-jp__](https://github.com/rkbk60/scoop-for-jp):  *Scoop bucket for ALL Japanese users.*|[9](#rkbk60_scoop-for-jp)|[2](https://github.com/rkbk60/scoop-for-jp/stargazers)|[0](https://github.com/rkbk60/scoop-for-jp/network)|[18&#x2011;12&#x2011;14](https://github.com/rkbk60/scoop-for-jp/commits)|
+|<a name="back_Doublemine_scoops" id="back_Doublemine_scoops"></a>[36.](# "27.721489") [__Doublemine/scoops__](https://github.com/Doublemine/scoops):  *a buckets to collection some application for scoop*|[1](#Doublemine_scoops)|[1](https://github.com/Doublemine/scoops/stargazers)|[0](https://github.com/Doublemine/scoops/network)|[17&#x2011;12&#x2011;25](https://github.com/Doublemine/scoops/commits)|
+|<a name="back_furyfire_my-bucket" id="back_furyfire_my-bucket"></a>[37.](# "27.28725") [__furyfire/my-bucket__](https://github.com/furyfire/my-bucket):  *scoop bucket*|[1](#furyfire_my-bucket)|[0](https://github.com/furyfire/my-bucket/stargazers)|[0](https://github.com/furyfire/my-bucket/network)|[17&#x2011;10&#x2011;10](https://github.com/furyfire/my-bucket/commits)|
+|<a name="back_svkoh_scoop-bucket" id="back_svkoh_scoop-bucket"></a>[38.](# "27.251408") [__svkoh/scoop-bucket__](https://github.com/svkoh/scoop-bucket):  *scoop-bucket*|[1](#svkoh_scoop-bucket)|[0](https://github.com/svkoh/scoop-bucket/stargazers)|[1](https://github.com/svkoh/scoop-bucket/network)|[18&#x2011;11&#x2011;22](https://github.com/svkoh/scoop-bucket/commits)|
+|<a name="back_cryptogrampus_cuztum-bucket" id="back_cryptogrampus_cuztum-bucket"></a>[39.](# "27.218395") [__cryptogrampus/cuztum-bucket__](https://github.com/cryptogrampus/cuztum-bucket):  *scoop bucket*|[1](#cryptogrampus_cuztum-bucket)|[0](https://github.com/cryptogrampus/cuztum-bucket/stargazers)|[0](https://github.com/cryptogrampus/cuztum-bucket/network)|[18&#x2011;05&#x2011;29](https://github.com/cryptogrampus/cuztum-bucket/commits)|
+|<a name="back_Aaike_scoop" id="back_Aaike_scoop"></a>[40.](# "27.209873") [__Aaike/scoop__](https://github.com/Aaike/scoop):  *Scoop bucket*|[1](#Aaike_scoop)|[0](https://github.com/Aaike/scoop/stargazers)|[0](https://github.com/Aaike/scoop/network)|[15&#x2011;06&#x2011;11](https://github.com/Aaike/scoop/commits)|
+|<a name="back_gexclaude_scoop-bucket" id="back_gexclaude_scoop-bucket"></a>[41.](# "27.142504") [__gexclaude/scoop-bucket__](https://github.com/gexclaude/scoop-bucket):  *Scoop Bucket*|[1](#gexclaude_scoop-bucket)|[0](https://github.com/gexclaude/scoop-bucket/stargazers)|[0](https://github.com/gexclaude/scoop-bucket/network)|[18&#x2011;06&#x2011;12](https://github.com/gexclaude/scoop-bucket/commits)|
+|<a name="back_Sandex_scoop-supernova" id="back_Sandex_scoop-supernova"></a>[42.](# "27.115143") [__Sandex/scoop-supernova__](https://github.com/Sandex/scoop-supernova):  *Scoop bucket*|[6](#Sandex_scoop-supernova)|[1](https://github.com/Sandex/scoop-supernova/stargazers)|[1](https://github.com/Sandex/scoop-supernova/network)|[18&#x2011;05&#x2011;04](https://github.com/Sandex/scoop-supernova/commits)|
+|<a name="back_simonwjackson_my-bucket" id="back_simonwjackson_my-bucket"></a>[43.](# "27.09676") [__simonwjackson/my-bucket__](https://github.com/simonwjackson/my-bucket):  *Scoop bucket*|[1](#simonwjackson_my-bucket)|[0](https://github.com/simonwjackson/my-bucket/stargazers)|[0](https://github.com/simonwjackson/my-bucket/network)|[17&#x2011;04&#x2011;30](https://github.com/simonwjackson/my-bucket/commits)|
+|<a name="back_kingchang_scoop-buckets" id="back_kingchang_scoop-buckets"></a>[44.](# "26.980526") [__kingchang/scoop-buckets__](https://github.com/kingchang/scoop-buckets):  *Scoop Buckets*|[2](#kingchang_scoop-buckets)|[0](https://github.com/kingchang/scoop-buckets/stargazers)|[0](https://github.com/kingchang/scoop-buckets/network)|[18&#x2011;03&#x2011;29](https://github.com/kingchang/scoop-buckets/commits)|
+|<a name="back_idursun_my-bucket" id="back_idursun_my-bucket"></a>[45.](# "26.967865") [__idursun/my-bucket__](https://github.com/idursun/my-bucket):  *Scoop bucket*|[1](#idursun_my-bucket)|[0](https://github.com/idursun/my-bucket/stargazers)|[0](https://github.com/idursun/my-bucket/network)|[17&#x2011;05&#x2011;25](https://github.com/idursun/my-bucket/commits)|
+|<a name="back_sh4869221b_scoop-bucket" id="back_sh4869221b_scoop-bucket"></a>[46.](# "26.698015") [__sh4869221b/scoop-bucket__](https://github.com/sh4869221b/scoop-bucket):  *scoop bucket*|[16](#sh4869221b_scoop-bucket)|[0](https://github.com/sh4869221b/scoop-bucket/stargazers)|[0](https://github.com/sh4869221b/scoop-bucket/network)|[18&#x2011;12&#x2011;15](https://github.com/sh4869221b/scoop-bucket/commits)|
+|<a name="back_excitoon_scoop-user" id="back_excitoon_scoop-user"></a>[47.](# "26.332119") [__excitoon/scoop-user__](https://github.com/excitoon/scoop-user):  *My custom Scoop repository*|[50](#excitoon_scoop-user)|[0](https://github.com/excitoon/scoop-user/stargazers)|[1](https://github.com/excitoon/scoop-user/network)|[18&#x2011;12&#x2011;06](https://github.com/excitoon/scoop-user/commits)|
+|<a name="back_Nunnery_ScoopBucket" id="back_Nunnery_ScoopBucket"></a>[48.](# "25.571693") [__Nunnery/ScoopBucket__](https://github.com/Nunnery/ScoopBucket)|[2](#Nunnery_ScoopBucket)|[0](https://github.com/Nunnery/ScoopBucket/stargazers)|[0](https://github.com/Nunnery/ScoopBucket/network)|[15&#x2011;09&#x2011;06](https://github.com/Nunnery/ScoopBucket/commits)|
+|<a name="back_Southclaws_scoops" id="back_Southclaws_scoops"></a>[49.](# "25.505997") [__Southclaws/scoops__](https://github.com/Southclaws/scoops):  *Southclaws&#39; scoop.sh bucket - https://scoop.sh*|[1](#Southclaws_scoops)|[0](https://github.com/Southclaws/scoops/stargazers)|[1](https://github.com/Southclaws/scoops/network)|[18&#x2011;10&#x2011;28](https://github.com/Southclaws/scoops/commits)|
+|<a name="back_TnmkFan_my-bucket" id="back_TnmkFan_my-bucket"></a>[50.](# "25.505997") [__TnmkFan/my-bucket__](https://github.com/TnmkFan/my-bucket):  *bucket for scoop (extra apps for scoop)*|[1](#TnmkFan_my-bucket)|[0](https://github.com/TnmkFan/my-bucket/stargazers)|[0](https://github.com/TnmkFan/my-bucket/network)|[16&#x2011;09&#x2011;22](https://github.com/TnmkFan/my-bucket/commits)|
+|<a name="back_Lomeli12_ScoopBucket" id="back_Lomeli12_ScoopBucket"></a>[51.](# "25.49916") [__Lomeli12/ScoopBucket__](https://github.com/Lomeli12/ScoopBucket):  *A bucket to install my programs using Scoop (http://scoop.sh/)*|[4](#Lomeli12_ScoopBucket)|[0](https://github.com/Lomeli12/ScoopBucket/stargazers)|[0](https://github.com/Lomeli12/ScoopBucket/network)|[17&#x2011;04&#x2011;24](https://github.com/Lomeli12/ScoopBucket/commits)|
+|<a name="back_Guard13007_ScoopBucket" id="back_Guard13007_ScoopBucket"></a>[52.](# "25.49916") [__Guard13007/ScoopBucket__](https://github.com/Guard13007/ScoopBucket):  *Bucket for Scoop to install my stuff. (http://scoop.sh)*|[2](#Guard13007_ScoopBucket)|[0](https://github.com/Guard13007/ScoopBucket/stargazers)|[0](https://github.com/Guard13007/ScoopBucket/network)|[17&#x2011;05&#x2011;08](https://github.com/Guard13007/ScoopBucket/commits)|
+|<a name="back_anurse_scoop-bucket" id="back_anurse_scoop-bucket"></a>[53.](# "25.313921") [__anurse/scoop-bucket__](https://github.com/anurse/scoop-bucket):  *My Scoop (http://scoop.sh) bucket*|[7](#anurse_scoop-bucket)|[0](https://github.com/anurse/scoop-bucket/stargazers)|[0](https://github.com/anurse/scoop-bucket/network)|[18&#x2011;04&#x2011;25](https://github.com/anurse/scoop-bucket/commits)|
+|<a name="back_atomicwrites_bucket" id="back_atomicwrites_bucket"></a>[54.](# "25.223747") [__atomicwrites/bucket__](https://github.com/atomicwrites/bucket):  *Some windows apps I&#39;ve packaged for scoop.*|[4](#atomicwrites_bucket)|[0](https://github.com/atomicwrites/bucket/stargazers)|[0](https://github.com/atomicwrites/bucket/network)|[18&#x2011;05&#x2011;20](https://github.com/atomicwrites/bucket/commits)|
+|<a name="back_scoopinstaller_php" id="back_scoopinstaller_php"></a>[55.](# "25.223728") [__scoopinstaller/php__](https://github.com/scoopinstaller/php):  *PHP Bucket for Scoop*|[377](#scoopinstaller_php)|[0](https://github.com/scoopinstaller/php/stargazers)|[0](https://github.com/scoopinstaller/php/network)|[18&#x2011;12&#x2011;07](https://github.com/scoopinstaller/php/commits)|
+|<a name="back_ericzong_ericzone" id="back_ericzong_ericzone"></a>[56.](# "25.223728") [__ericzong/ericzone__](https://github.com/ericzong/ericzone):  *My bucket for Scoop*|[4](#ericzong_ericzone)|[0](https://github.com/ericzong/ericzone/stargazers)|[0](https://github.com/ericzong/ericzone/network)|[18&#x2011;11&#x2011;28](https://github.com/ericzong/ericzone/commits)|
+|<a name="back_wio_wio-bucket" id="back_wio_wio-bucket"></a>[57.](# "25.223728") [__wio/wio-bucket__](https://github.com/wio/wio-bucket):  *Scoop Bucket for Wio*|[1](#wio_wio-bucket)|[0](https://github.com/wio/wio-bucket/stargazers)|[0](https://github.com/wio/wio-bucket/network)|[18&#x2011;10&#x2011;31](https://github.com/wio/wio-bucket/commits)|
+|<a name="back_yt3r_test-bucket" id="back_yt3r_test-bucket"></a>[58.](# "25.223728") [__yt3r/test-bucket__](https://github.com/yt3r/test-bucket):  *test bucket for scoop*|[1](#yt3r_test-bucket)|[0](https://github.com/yt3r/test-bucket/stargazers)|[0](https://github.com/yt3r/test-bucket/network)|[18&#x2011;01&#x2011;22](https://github.com/yt3r/test-bucket/commits)|
+|<a name="back_narnaud_scoop-bucket" id="back_narnaud_scoop-bucket"></a>[59.](# "25.219067") [__narnaud/scoop-bucket__](https://github.com/narnaud/scoop-bucket):  *Extra bucket for scoop*|[6](#narnaud_scoop-bucket)|[0](https://github.com/narnaud/scoop-bucket/stargazers)|[0](https://github.com/narnaud/scoop-bucket/network)|[18&#x2011;09&#x2011;03](https://github.com/narnaud/scoop-bucket/commits)|
+|<a name="back_follnoob_follnoob-bucket" id="back_follnoob_follnoob-bucket"></a>[60.](# "25.219067") [__follnoob/follnoob-bucket__](https://github.com/follnoob/follnoob-bucket):  *own scoop bucket*|[2](#follnoob_follnoob-bucket)|[0](https://github.com/follnoob/follnoob-bucket/stargazers)|[0](https://github.com/follnoob/follnoob-bucket/network)|[18&#x2011;01&#x2011;04](https://github.com/follnoob/follnoob-bucket/commits)|
+|<a name="back_iquiw_scoop-bucket" id="back_iquiw_scoop-bucket"></a>[61.](# "25.219067") [__iquiw/scoop-bucket__](https://github.com/iquiw/scoop-bucket):  *My personal scoop bucket*|[2](#iquiw_scoop-bucket)|[0](https://github.com/iquiw/scoop-bucket/stargazers)|[0](https://github.com/iquiw/scoop-bucket/network)|[18&#x2011;12&#x2011;08](https://github.com/iquiw/scoop-bucket/commits)|
+|<a name="back_MCOfficer_scoop-bucket" id="back_MCOfficer_scoop-bucket"></a>[62.](# "25.214409") [__MCOfficer/scoop-bucket__](https://github.com/MCOfficer/scoop-bucket):  *My personal scoop bucket.*|[6](#MCOfficer_scoop-bucket)|[1](https://github.com/MCOfficer/scoop-bucket/stargazers)|[0](https://github.com/MCOfficer/scoop-bucket/network)|[18&#x2011;12&#x2011;15](https://github.com/MCOfficer/scoop-bucket/commits)|
+|<a name="back_Sathish-n_appbucket" id="back_Sathish-n_appbucket"></a>[63.](# "25.214409") [__Sathish-n/appbucket__](https://github.com/Sathish-n/appbucket):  *Bucket for Scoop*|[4](#Sathish-n_appbucket)|[1](https://github.com/Sathish-n/appbucket/stargazers)|[0](https://github.com/Sathish-n/appbucket/network)|[18&#x2011;05&#x2011;19](https://github.com/Sathish-n/appbucket/commits)|
+|<a name="back_Alxandr_scoop-bucket" id="back_Alxandr_scoop-bucket"></a>[64.](# "25.214409") [__Alxandr/scoop-bucket__](https://github.com/Alxandr/scoop-bucket):  *My scoop bucket*|[3](#Alxandr_scoop-bucket)|[0](https://github.com/Alxandr/scoop-bucket/stargazers)|[0](https://github.com/Alxandr/scoop-bucket/network)|[18&#x2011;08&#x2011;26](https://github.com/Alxandr/scoop-bucket/commits)|
+|<a name="back_bitrvmpd_scoop-wuff" id="back_bitrvmpd_scoop-wuff"></a>[65.](# "25.214409") [__bitrvmpd/scoop-wuff__](https://github.com/bitrvmpd/scoop-wuff):  *Another Scoop Bucket*|[1](#bitrvmpd_scoop-wuff)|[0](https://github.com/bitrvmpd/scoop-wuff/stargazers)|[0](https://github.com/bitrvmpd/scoop-wuff/network)|[15&#x2011;09&#x2011;03](https://github.com/bitrvmpd/scoop-wuff/commits)|
+|<a name="back_DanteTheEgregore_smithy" id="back_DanteTheEgregore_smithy"></a>[66.](# "25.214409") [__DanteTheEgregore/smithy__](https://github.com/DanteTheEgregore/smithy):  *A Scoop Bucket*|[1](#DanteTheEgregore_smithy)|[0](https://github.com/DanteTheEgregore/smithy/stargazers)|[0](https://github.com/DanteTheEgregore/smithy/network)|[18&#x2011;09&#x2011;06](https://github.com/DanteTheEgregore/smithy/commits)|
+|<a name="back_andreysaksonov_scoop-bucket" id="back_andreysaksonov_scoop-bucket"></a>[67.](# "25.211342") [__andreysaksonov/scoop-bucket__](https://github.com/andreysaksonov/scoop-bucket):  *Bucket for Scoop (http://scoop.sh/)*|[2](#andreysaksonov_scoop-bucket)|[0](https://github.com/andreysaksonov/scoop-bucket/stargazers)|[0](https://github.com/andreysaksonov/scoop-bucket/network)|[18&#x2011;04&#x2011;26](https://github.com/andreysaksonov/scoop-bucket/commits)|
+|<a name="back_ippsio_scoop_bucket" id="back_ippsio_scoop_bucket"></a>[68.](# "25.20859") [__ippsio/scoop_bucket__](https://github.com/ippsio/scoop_bucket):  *a bucket of scoop*|[4](#ippsio_scoop_bucket)|[0](https://github.com/ippsio/scoop_bucket/stargazers)|[0](https://github.com/ippsio/scoop_bucket/network)|[18&#x2011;11&#x2011;14](https://github.com/ippsio/scoop_bucket/commits)|
+|<a name="back_rcqls_scoop-extras" id="back_rcqls_scoop-extras"></a>[69.](# "25.20859") [__rcqls/scoop-extras__](https://github.com/rcqls/scoop-extras):  *scoop bucket for rcqls*|[4](#rcqls_scoop-extras)|[0](https://github.com/rcqls/scoop-extras/stargazers)|[0](https://github.com/rcqls/scoop-extras/network)|[16&#x2011;11&#x2011;26](https://github.com/rcqls/scoop-extras/commits)|
+|<a name="back_mko-x_bucket" id="back_mko-x_bucket"></a>[70.](# "25.20859") [__mko-x/bucket__](https://github.com/mko-x/bucket):  *scoop bucket customized*|[1](#mko-x_bucket)|[0](https://github.com/mko-x/bucket/stargazers)|[0](https://github.com/mko-x/bucket/network)|[15&#x2011;07&#x2011;09](https://github.com/mko-x/bucket/commits)|
+|<a name="back_lzimd_lzimd-scoop-bucket" id="back_lzimd_lzimd-scoop-bucket"></a>[71.](# "25.118813") [__lzimd/lzimd-scoop-bucket__](https://github.com/lzimd/lzimd-scoop-bucket):  *lzimd&#39;s scoop bucket*|[7](#lzimd_lzimd-scoop-bucket)|[0](https://github.com/lzimd/lzimd-scoop-bucket/stargazers)|[0](https://github.com/lzimd/lzimd-scoop-bucket/network)|[18&#x2011;12&#x2011;04](https://github.com/lzimd/lzimd-scoop-bucket/commits)|
+|<a name="back_glucas_scoop-bucket" id="back_glucas_scoop-bucket"></a>[72.](# "25.118813") [__glucas/scoop-bucket__](https://github.com/glucas/scoop-bucket):  *My scoop bucket.*|[5](#glucas_scoop-bucket)|[0](https://github.com/glucas/scoop-bucket/stargazers)|[0](https://github.com/glucas/scoop-bucket/network)|[18&#x2011;08&#x2011;28](https://github.com/glucas/scoop-bucket/commits)|
+|<a name="back_waderchan_valor-bucket" id="back_waderchan_valor-bucket"></a>[73.](# "25.118813") [__waderchan/valor-bucket__](https://github.com/waderchan/valor-bucket):  *My personal scoop bucket.*|[2](#waderchan_valor-bucket)|[0](https://github.com/waderchan/valor-bucket/stargazers)|[0](https://github.com/waderchan/valor-bucket/network)|[18&#x2011;09&#x2011;08](https://github.com/waderchan/valor-bucket/commits)|
+|<a name="back_DeezCashews_tilt-bucket" id="back_DeezCashews_tilt-bucket"></a>[74.](# "25.118813") [__DeezCashews/tilt-bucket__](https://github.com/DeezCashews/tilt-bucket):  *Bucket for scoop installs*|[1](#DeezCashews_tilt-bucket)|[0](https://github.com/DeezCashews/tilt-bucket/stargazers)|[0](https://github.com/DeezCashews/tilt-bucket/network)|[18&#x2011;05&#x2011;17](https://github.com/DeezCashews/tilt-bucket/commits)|
+|<a name="back_rgroszewski_scoop-bucket" id="back_rgroszewski_scoop-bucket"></a>[75.](# "25.118813") [__rgroszewski/scoop-bucket__](https://github.com/rgroszewski/scoop-bucket):  *Bucket for Scoop*|[1](#rgroszewski_scoop-bucket)|[0](https://github.com/rgroszewski/scoop-bucket/stargazers)|[0](https://github.com/rgroszewski/scoop-bucket/network)|[18&#x2011;10&#x2011;06](https://github.com/rgroszewski/scoop-bucket/commits)|
+|<a name="back_yutahaga_scoop-bucket" id="back_yutahaga_scoop-bucket"></a>[76.](# "25.07502") [__yutahaga/scoop-bucket__](https://github.com/yutahaga/scoop-bucket):  *my scoop bucket*|[10](#yutahaga_scoop-bucket)|[1](https://github.com/yutahaga/scoop-bucket/stargazers)|[0](https://github.com/yutahaga/scoop-bucket/network)|[18&#x2011;11&#x2011;23](https://github.com/yutahaga/scoop-bucket/commits)|
+|<a name="back_mattkang_scoop-bucket" id="back_mattkang_scoop-bucket"></a>[77.](# "25.07502") [__mattkang/scoop-bucket__](https://github.com/mattkang/scoop-bucket):  *Bucket for scoop.sh*|[2](#mattkang_scoop-bucket)|[0](https://github.com/mattkang/scoop-bucket/stargazers)|[0](https://github.com/mattkang/scoop-bucket/network)|[17&#x2011;04&#x2011;20](https://github.com/mattkang/scoop-bucket/commits)|
+|<a name="back_javageek_scoop-bucket" id="back_javageek_scoop-bucket"></a>[78.](# "24.998804") [__javageek/scoop-bucket__](https://github.com/javageek/scoop-bucket):  *scoop.sh bucket*|[1](#javageek_scoop-bucket)|[0](https://github.com/javageek/scoop-bucket/stargazers)|[0](https://github.com/javageek/scoop-bucket/network)|[17&#x2011;12&#x2011;07](https://github.com/javageek/scoop-bucket/commits)|
+|<a name="back_hyrious_scoop-hyrious" id="back_hyrious_scoop-hyrious"></a>[79.](# "24.97826") [__hyrious/scoop-hyrious__](https://github.com/hyrious/scoop-hyrious):  *Personal Scoop buckets.*|[6](#hyrious_scoop-hyrious)|[0](https://github.com/hyrious/scoop-hyrious/stargazers)|[0](https://github.com/hyrious/scoop-hyrious/network)|[18&#x2011;10&#x2011;31](https://github.com/hyrious/scoop-hyrious/commits)|
+|<a name="back_hulucc_bucket" id="back_hulucc_bucket"></a>[80.](# "24.97826") [__hulucc/bucket__](https://github.com/hulucc/bucket):  *my scoop bucket*|[3](#hulucc_bucket)|[0](https://github.com/hulucc/bucket/stargazers)|[0](https://github.com/hulucc/bucket/network)|[18&#x2011;11&#x2011;04](https://github.com/hulucc/bucket/commits)|
+|<a name="back_klauern_trackello-bucket" id="back_klauern_trackello-bucket"></a>[81.](# "24.97826") [__klauern/trackello-bucket__](https://github.com/klauern/trackello-bucket):  *scoop bucket for trackello*|[1](#klauern_trackello-bucket)|[0](https://github.com/klauern/trackello-bucket/stargazers)|[0](https://github.com/klauern/trackello-bucket/network)|[18&#x2011;02&#x2011;16](https://github.com/klauern/trackello-bucket/commits)|
+|<a name="back_kentork_scoop-leaky-bucket" id="back_kentork_scoop-leaky-bucket"></a>[82.](# "24.968132") [__kentork/scoop-leaky-bucket__](https://github.com/kentork/scoop-leaky-bucket):  *my scoop bucket*|[3](#kentork_scoop-leaky-bucket)|[0](https://github.com/kentork/scoop-leaky-bucket/stargazers)|[0](https://github.com/kentork/scoop-leaky-bucket/network)|[17&#x2011;11&#x2011;23](https://github.com/kentork/scoop-leaky-bucket/commits)|
+|<a name="back_MunsterPlop_munsterbucket" id="back_MunsterPlop_munsterbucket"></a>[83.](# "24.968132") [__MunsterPlop/munsterbucket__](https://github.com/MunsterPlop/munsterbucket):  *My personal Scoop bucket*|[1](#MunsterPlop_munsterbucket)|[0](https://github.com/MunsterPlop/munsterbucket/stargazers)|[0](https://github.com/MunsterPlop/munsterbucket/network)|[18&#x2011;05&#x2011;16](https://github.com/MunsterPlop/munsterbucket/commits)|
+|<a name="back_nikolasd_scoop-bucket" id="back_nikolasd_scoop-bucket"></a>[84.](# "24.968132") [__nikolasd/scoop-bucket__](https://github.com/nikolasd/scoop-bucket):  *My Scoop bucket*|[1](#nikolasd_scoop-bucket)|[0](https://github.com/nikolasd/scoop-bucket/stargazers)|[0](https://github.com/nikolasd/scoop-bucket/network)|[13&#x2011;11&#x2011;06](https://github.com/nikolasd/scoop-bucket/commits)|
+|<a name="back_shyun3_my-bucket" id="back_shyun3_my-bucket"></a>[85.](# "24.937761") [__shyun3/my-bucket__](https://github.com/shyun3/my-bucket):  *My Scoop bucket*|[4](#shyun3_my-bucket)|[0](https://github.com/shyun3/my-bucket/stargazers)|[0](https://github.com/shyun3/my-bucket/network)|[18&#x2011;12&#x2011;03](https://github.com/shyun3/my-bucket/commits)|
+|<a name="back_hannesdorn_scoop-dorn" id="back_hannesdorn_scoop-dorn"></a>[86.](# "24.937761") [__hannesdorn/scoop-dorn__](https://github.com/hannesdorn/scoop-dorn):  *My scoop bucket*|[1](#hannesdorn_scoop-dorn)|[0](https://github.com/hannesdorn/scoop-dorn/stargazers)|[0](https://github.com/hannesdorn/scoop-dorn/network)|[18&#x2011;11&#x2011;18](https://github.com/hannesdorn/scoop-dorn/commits)|
+|<a name="back_yuanying1199_scoopbucket" id="back_yuanying1199_scoopbucket"></a>[87.](# "24.77373") [__yuanying1199/scoopbucket__](https://github.com/yuanying1199/scoopbucket):  *my scoop bucket*|[21](#yuanying1199_scoopbucket)|[1](https://github.com/yuanying1199/scoopbucket/stargazers)|[0](https://github.com/yuanying1199/scoopbucket/network)|[18&#x2011;12&#x2011;09](https://github.com/yuanying1199/scoopbucket/commits)|
+|<a name="back_biehlermi_scoop-apps" id="back_biehlermi_scoop-apps"></a>[88.](# "24.77373") [__biehlermi/scoop-apps__](https://github.com/biehlermi/scoop-apps):  *Bucket for Scoop.*|[8](#biehlermi_scoop-apps)|[0](https://github.com/biehlermi/scoop-apps/stargazers)|[0](https://github.com/biehlermi/scoop-apps/network)|[18&#x2011;11&#x2011;09](https://github.com/biehlermi/scoop-apps/commits)|
+|<a name="back_Spiraster_scoop-bucket" id="back_Spiraster_scoop-bucket"></a>[89.](# "24.77373") [__Spiraster/scoop-bucket__](https://github.com/Spiraster/scoop-bucket):  *A personal Scoop bucket*|[7](#Spiraster_scoop-bucket)|[0](https://github.com/Spiraster/scoop-bucket/stargazers)|[0](https://github.com/Spiraster/scoop-bucket/network)|[18&#x2011;12&#x2011;06](https://github.com/Spiraster/scoop-bucket/commits)|
+|<a name="back_demas_demas-scoop" id="back_demas_demas-scoop"></a>[90.](# "24.77373") [__demas/demas-scoop__](https://github.com/demas/demas-scoop):  *My Scoop Bucket*|[5](#demas_demas-scoop)|[0](https://github.com/demas/demas-scoop/stargazers)|[0](https://github.com/demas/demas-scoop/network)|[16&#x2011;09&#x2011;19](https://github.com/demas/demas-scoop/commits)|
+|<a name="back_ponta555_scoop-bucket" id="back_ponta555_scoop-bucket"></a>[91.](# "24.77373") [__ponta555/scoop-bucket__](https://github.com/ponta555/scoop-bucket):  *My scoop bucket.*|[5](#ponta555_scoop-bucket)|[0](https://github.com/ponta555/scoop-bucket/stargazers)|[0](https://github.com/ponta555/scoop-bucket/network)|[18&#x2011;07&#x2011;28](https://github.com/ponta555/scoop-bucket/commits)|
+|<a name="back_pastleo_scoop-bucket" id="back_pastleo_scoop-bucket"></a>[92.](# "24.77373") [__pastleo/scoop-bucket__](https://github.com/pastleo/scoop-bucket):  *My Scoop Bucket*|[2](#pastleo_scoop-bucket)|[0](https://github.com/pastleo/scoop-bucket/stargazers)|[0](https://github.com/pastleo/scoop-bucket/network)|[16&#x2011;03&#x2011;20](https://github.com/pastleo/scoop-bucket/commits)|
+|<a name="back_jayonthenet_scoop" id="back_jayonthenet_scoop"></a>[93.](# "24.77373") [__jayonthenet/scoop__](https://github.com/jayonthenet/scoop):  *My own scoop bucket*|[1](#jayonthenet_scoop)|[0](https://github.com/jayonthenet/scoop/stargazers)|[0](https://github.com/jayonthenet/scoop/network)|[18&#x2011;08&#x2011;06](https://github.com/jayonthenet/scoop/commits)|
+|<a name="back_eamatt_scoop" id="back_eamatt_scoop"></a>[94.](# "24.741764") [__eamatt/scoop__](https://github.com/eamatt/scoop):  *my scoop bucket (Japanese)*|[20](#eamatt_scoop)|[0](https://github.com/eamatt/scoop/stargazers)|[0](https://github.com/eamatt/scoop/network)|[18&#x2011;11&#x2011;26](https://github.com/eamatt/scoop/commits)|
+|<a name="back_iainsgillis_isg-bucket" id="back_iainsgillis_isg-bucket"></a>[95.](# "24.741764") [__iainsgillis/isg-bucket__](https://github.com/iainsgillis/isg-bucket):  *Personal bucket for scoop*|[4](#iainsgillis_isg-bucket)|[0](https://github.com/iainsgillis/isg-bucket/stargazers)|[0](https://github.com/iainsgillis/isg-bucket/network)|[18&#x2011;07&#x2011;24](https://github.com/iainsgillis/isg-bucket/commits)|
+|<a name="back_TokunaKimochi_scoop-bucket" id="back_TokunaKimochi_scoop-bucket"></a>[96.](# "24.741764") [__TokunaKimochi/scoop-bucket__](https://github.com/TokunaKimochi/scoop-bucket):  *my bucket for Scoop*|[2](#TokunaKimochi_scoop-bucket)|[0](https://github.com/TokunaKimochi/scoop-bucket/stargazers)|[0](https://github.com/TokunaKimochi/scoop-bucket/network)|[18&#x2011;09&#x2011;23](https://github.com/TokunaKimochi/scoop-bucket/commits)|
+|<a name="back_myomi_scoop-bucket" id="back_myomi_scoop-bucket"></a>[97.](# "24.741764") [__myomi/scoop-bucket__](https://github.com/myomi/scoop-bucket):  *my scoop bucket*|[1](#myomi_scoop-bucket)|[0](https://github.com/myomi/scoop-bucket/stargazers)|[0](https://github.com/myomi/scoop-bucket/network)|[18&#x2011;11&#x2011;01](https://github.com/myomi/scoop-bucket/commits)|
+|<a name="back_DimiG_dgBucket" id="back_DimiG_dgBucket"></a>[98.](# "24.710098") [__DimiG/dgBucket__](https://github.com/DimiG/dgBucket):  *Scoop personal bucket*|[9](#DimiG_dgBucket)|[1](https://github.com/DimiG/dgBucket/stargazers)|[0](https://github.com/DimiG/dgBucket/network)|[18&#x2011;12&#x2011;13](https://github.com/DimiG/dgBucket/commits)|
+|<a name="back_fredjoseph_scoop-bucket" id="back_fredjoseph_scoop-bucket"></a>[99.](# "24.710098") [__fredjoseph/scoop-bucket__](https://github.com/fredjoseph/scoop-bucket):  *bucket for Scoop installer*|[13](#fredjoseph_scoop-bucket)|[0](https://github.com/fredjoseph/scoop-bucket/stargazers)|[0](https://github.com/fredjoseph/scoop-bucket/network)|[18&#x2011;11&#x2011;07](https://github.com/fredjoseph/scoop-bucket/commits)|
+|<a name="back_noquierouser_nqu-scoop" id="back_noquierouser_nqu-scoop"></a>[100.](# "24.710098") [__noquierouser/nqu-scoop__](https://github.com/noquierouser/nqu-scoop):  *My own Scoop bucket*|[6](#noquierouser_nqu-scoop)|[0](https://github.com/noquierouser/nqu-scoop/stargazers)|[0](https://github.com/noquierouser/nqu-scoop/network)|[18&#x2011;11&#x2011;28](https://github.com/noquierouser/nqu-scoop/commits)|
+|<a name="back_daniel-scholz_my-bucket" id="back_daniel-scholz_my-bucket"></a>[101.](# "24.710098") [__daniel-scholz/my-bucket__](https://github.com/daniel-scholz/my-bucket):  *scoop bucket from me*|[1](#daniel-scholz_my-bucket)|[0](https://github.com/daniel-scholz/my-bucket/stargazers)|[0](https://github.com/daniel-scholz/my-bucket/network)|[18&#x2011;06&#x2011;25](https://github.com/daniel-scholz/my-bucket/commits)|
+|<a name="back_mdekstrand_ekstrand-bucket" id="back_mdekstrand_ekstrand-bucket"></a>[102.](# "24.526913") [__mdekstrand/ekstrand-bucket__](https://github.com/mdekstrand/ekstrand-bucket):  *My personal Scoop packages*|[1](#mdekstrand_ekstrand-bucket)|[0](https://github.com/mdekstrand/ekstrand-bucket/stargazers)|[0](https://github.com/mdekstrand/ekstrand-bucket/network)|[18&#x2011;05&#x2011;17](https://github.com/mdekstrand/ekstrand-bucket/commits)|
+|<a name="back_Guard13007_ScoopBucket-ThirdParty" id="back_Guard13007_ScoopBucket-ThirdParty"></a>[103.](# "24.521023") [__Guard13007/ScoopBucket-ThirdParty__](https://github.com/Guard13007/ScoopBucket-ThirdParty):  *Bucket for Scoop to install cool stuff I didn&#39;t make. (http://scoop.sh)*|[7](#Guard13007_ScoopBucket-ThirdParty)|[1](https://github.com/Guard13007/ScoopBucket-ThirdParty/stargazers)|[0](https://github.com/Guard13007/ScoopBucket-ThirdParty/network)|[18&#x2011;02&#x2011;01](https://github.com/Guard13007/ScoopBucket-ThirdParty/commits)|
+|<a name="back_dzxs_scoop-dzxs" id="back_dzxs_scoop-dzxs"></a>[104.](# "24.485645") [__dzxs/scoop-dzxs__](https://github.com/dzxs/scoop-dzxs)|[5](#dzxs_scoop-dzxs)|[2](https://github.com/dzxs/scoop-dzxs/stargazers)|[2](https://github.com/dzxs/scoop-dzxs/network)|[18&#x2011;11&#x2011;27](https://github.com/dzxs/scoop-dzxs/commits)|
+|<a name="back_tetradice_scoop-iyokan-jp" id="back_tetradice_scoop-iyokan-jp"></a>[105.](# "24.31673") [__tetradice/scoop-iyokan-jp__](https://github.com/tetradice/scoop-iyokan-jp):  *日本語環境に最適化されたscoop bucket*|[20](#tetradice_scoop-iyokan-jp)|[2](https://github.com/tetradice/scoop-iyokan-jp/stargazers)|[1](https://github.com/tetradice/scoop-iyokan-jp/network)|[18&#x2011;11&#x2011;23](https://github.com/tetradice/scoop-iyokan-jp/commits)|
+|<a name="back_comp500_scoop-comp500" id="back_comp500_scoop-comp500"></a>[106.](# "23.987661") [__comp500/scoop-comp500__](https://github.com/comp500/scoop-comp500):  *Scoop bucket for my packages (software not made by me, only the package files)*|[18](#comp500_scoop-comp500)|[2](https://github.com/comp500/scoop-comp500/stargazers)|[0](https://github.com/comp500/scoop-comp500/network)|[18&#x2011;11&#x2011;22](https://github.com/comp500/scoop-comp500/commits)|
+|<a name="back_rohitnarayanan_scoop-apps" id="back_rohitnarayanan_scoop-apps"></a>[107.](# "23.972654") [__rohitnarayanan/scoop-apps__](https://github.com/rohitnarayanan/scoop-apps):  *private bucket for scoop apps not available in public buckets*|[7](#rohitnarayanan_scoop-apps)|[0](https://github.com/rohitnarayanan/scoop-apps/stargazers)|[0](https://github.com/rohitnarayanan/scoop-apps/network)|[18&#x2011;06&#x2011;27](https://github.com/rohitnarayanan/scoop-apps/commits)|
+|<a name="back_dbarbuzzi_scoop-bucket" id="back_dbarbuzzi_scoop-bucket"></a>[108.](# "23.767317") [__dbarbuzzi/scoop-bucket__](https://github.com/dbarbuzzi/scoop-bucket):  *Scoop bucket for my tools*|[2](#dbarbuzzi_scoop-bucket)|[0](https://github.com/dbarbuzzi/scoop-bucket/stargazers)|[0](https://github.com/dbarbuzzi/scoop-bucket/network)|[18&#x2011;11&#x2011;27](https://github.com/dbarbuzzi/scoop-bucket/commits)|
+|<a name="back_smarthut_scoop-bucket" id="back_smarthut_scoop-bucket"></a>[109.](# "23.767317") [__smarthut/scoop-bucket__](https://github.com/smarthut/scoop-bucket):  *Scoop bucket for @smarthut binaries*|[2](#smarthut_scoop-bucket)|[0](https://github.com/smarthut/scoop-bucket/stargazers)|[0](https://github.com/smarthut/scoop-bucket/network)|[18&#x2011;09&#x2011;17](https://github.com/smarthut/scoop-bucket/commits)|
+|<a name="back_yukihane_scoop-bucket-yukihane" id="back_yukihane_scoop-bucket-yukihane"></a>[110.](# "23.728813") [__yukihane/scoop-bucket-yukihane__](https://github.com/yukihane/scoop-bucket-yukihane):  *自家製scoop bucket*|[2](#yukihane_scoop-bucket-yukihane)|[0](https://github.com/yukihane/scoop-bucket-yukihane/stargazers)|[0](https://github.com/yukihane/scoop-bucket-yukihane/network)|[18&#x2011;11&#x2011;27](https://github.com/yukihane/scoop-bucket-yukihane/commits)|
+|<a name="back_DamianReeves_scoop-tools" id="back_DamianReeves_scoop-tools"></a>[111.](# "23.728813") [__DamianReeves/scoop-tools__](https://github.com/DamianReeves/scoop-tools):  *A scoop bucket for tools*|[1](#DamianReeves_scoop-tools)|[0](https://github.com/DamianReeves/scoop-tools/stargazers)|[0](https://github.com/DamianReeves/scoop-tools/network)|[18&#x2011;06&#x2011;09](https://github.com/DamianReeves/scoop-tools/commits)|
+|<a name="back_michaelxmcbride_scoop-michaelxmcbride" id="back_michaelxmcbride_scoop-michaelxmcbride"></a>[112.](# "23.728813") [__michaelxmcbride/scoop-michaelxmcbride__](https://github.com/michaelxmcbride/scoop-michaelxmcbride):  *My personal bucket for Scoop*|[1](#michaelxmcbride_scoop-michaelxmcbride)|[0](https://github.com/michaelxmcbride/scoop-michaelxmcbride/stargazers)|[0](https://github.com/michaelxmcbride/scoop-michaelxmcbride/network)|[18&#x2011;08&#x2011;03](https://github.com/michaelxmcbride/scoop-michaelxmcbride/commits)|
+|<a name="back_lillicoder_scoop-openjdk6" id="back_lillicoder_scoop-openjdk6"></a>[113.](# "23.724785") [__lillicoder/scoop-openjdk6__](https://github.com/lillicoder/scoop-openjdk6):  *Scoop bucket definition for OpenJDK6*|[1](#lillicoder_scoop-openjdk6)|[0](https://github.com/lillicoder/scoop-openjdk6/stargazers)|[0](https://github.com/lillicoder/scoop-openjdk6/network)|[15&#x2011;04&#x2011;06](https://github.com/lillicoder/scoop-openjdk6/commits)|
+|<a name="back_zeero_scoop-my-bucket" id="back_zeero_scoop-my-bucket"></a>[114.](# "23.72277") [__zeero/scoop-my-bucket__](https://github.com/zeero/scoop-my-bucket):  *My scoop bucket json files.*|[25](#zeero_scoop-my-bucket)|[0](https://github.com/zeero/scoop-my-bucket/stargazers)|[0](https://github.com/zeero/scoop-my-bucket/network)|[16&#x2011;12&#x2011;20](https://github.com/zeero/scoop-my-bucket/commits)|
+|<a name="back_huleiak47_scoop-apps" id="back_huleiak47_scoop-apps"></a>[115.](# "23.722538") [__huleiak47/scoop-apps__](https://github.com/huleiak47/scoop-apps):  *My apps bucket for scoop*|[6](#huleiak47_scoop-apps)|[0](https://github.com/huleiak47/scoop-apps/stargazers)|[0](https://github.com/huleiak47/scoop-apps/network)|[18&#x2011;11&#x2011;13](https://github.com/huleiak47/scoop-apps/commits)|
+|<a name="back_icetee_icetee-bucket" id="back_icetee_icetee-bucket"></a>[116.](# "23.720486") [__icetee/icetee-bucket__](https://github.com/icetee/icetee-bucket):  *My custom manifests for Scoop*|[3](#icetee_icetee-bucket)|[1](https://github.com/icetee/icetee-bucket/stargazers)|[0](https://github.com/icetee/icetee-bucket/network)|[16&#x2011;11&#x2011;26](https://github.com/icetee/icetee-bucket/commits)|
+|<a name="back_masaeedu_scoop-growlnotify" id="back_masaeedu_scoop-growlnotify"></a>[117.](# "23.64912") [__masaeedu/scoop-growlnotify__](https://github.com/masaeedu/scoop-growlnotify):  *Bucket for growlnotify app*|[1](#masaeedu_scoop-growlnotify)|[0](https://github.com/masaeedu/scoop-growlnotify/stargazers)|[0](https://github.com/masaeedu/scoop-growlnotify/network)|[15&#x2011;06&#x2011;12](https://github.com/masaeedu/scoop-growlnotify/commits)|
+|<a name="back_masonm12_scoop-personal" id="back_masonm12_scoop-personal"></a>[118.](# "23.648289") [__masonm12/scoop-personal__](https://github.com/masonm12/scoop-personal):  *Bucket for personal scoop apps.*|[4](#masonm12_scoop-personal)|[0](https://github.com/masonm12/scoop-personal/stargazers)|[0](https://github.com/masonm12/scoop-personal/network)|[15&#x2011;05&#x2011;26](https://github.com/masonm12/scoop-personal/commits)|
+|<a name="back_divanvisagie_scoop-bucket" id="back_divanvisagie_scoop-bucket"></a>[119.](# "23.648289") [__divanvisagie/scoop-bucket__](https://github.com/divanvisagie/scoop-bucket):  *A bucket for my scoops*|[2](#divanvisagie_scoop-bucket)|[0](https://github.com/divanvisagie/scoop-bucket/stargazers)|[0](https://github.com/divanvisagie/scoop-bucket/network)|[17&#x2011;08&#x2011;26](https://github.com/divanvisagie/scoop-bucket/commits)|
+|<a name="back_jm0477_bucket" id="back_jm0477_bucket"></a>[120.](# "23.648289") [__jm0477/bucket__](https://github.com/jm0477/bucket):  *public scoop bucket  learning REPO*|[2](#jm0477_bucket)|[0](https://github.com/jm0477/bucket/stargazers)|[0](https://github.com/jm0477/bucket/network)|[17&#x2011;05&#x2011;11](https://github.com/jm0477/bucket/commits)|
+|<a name="back_aenthill_scoop-bucket" id="back_aenthill_scoop-bucket"></a>[121.](# "23.648289") [__aenthill/scoop-bucket__](https://github.com/aenthill/scoop-bucket):  *Scoop bucket for @aenthill binaries*|[1](#aenthill_scoop-bucket)|[0](https://github.com/aenthill/scoop-bucket/stargazers)|[0](https://github.com/aenthill/scoop-bucket/network)|[18&#x2011;11&#x2011;22](https://github.com/aenthill/scoop-bucket/commits)|
+|<a name="back_Alvison_scoop-alvison" id="back_Alvison_scoop-alvison"></a>[122.](# "23.648289") [__Alvison/scoop-alvison__](https://github.com/Alvison/scoop-alvison):  *scoop tmp  bucket, no maintain*|[1](#Alvison_scoop-alvison)|[0](https://github.com/Alvison/scoop-alvison/stargazers)|[0](https://github.com/Alvison/scoop-alvison/network)|[18&#x2011;07&#x2011;30](https://github.com/Alvison/scoop-alvison/commits)|
+|<a name="back_slowbear_my-bucket" id="back_slowbear_my-bucket"></a>[123.](# "23.638885") [__slowbear/my-bucket__](https://github.com/slowbear/my-bucket):  *My own bucket for Scoop.*|[1](#slowbear_my-bucket)|[0](https://github.com/slowbear/my-bucket/stargazers)|[0](https://github.com/slowbear/my-bucket/network)|[18&#x2011;10&#x2011;07](https://github.com/slowbear/my-bucket/commits)|
+|<a name="back_nrakochy_scoop-solidity" id="back_nrakochy_scoop-solidity"></a>[124.](# "23.636637") [__nrakochy/scoop-solidity__](https://github.com/nrakochy/scoop-solidity):  *Bucket manifest for solidity*|[1](#nrakochy_scoop-solidity)|[0](https://github.com/nrakochy/scoop-solidity/stargazers)|[0](https://github.com/nrakochy/scoop-solidity/network)|[17&#x2011;10&#x2011;27](https://github.com/nrakochy/scoop-solidity/commits)|
+|<a name="back_DEEP-IMPACT-AG_scoop-hyperdrive" id="back_DEEP-IMPACT-AG_scoop-hyperdrive"></a>[125.](# "23.579035") [__DEEP-IMPACT-AG/scoop-hyperdrive__](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive):  *Scoop bucket for the hyperdrive*|[1](#DEEP-IMPACT-AG_scoop-hyperdrive)|[0](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/stargazers)|[0](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/network)|[18&#x2011;07&#x2011;07](https://github.com/DEEP-IMPACT-AG/scoop-hyperdrive/commits)|
+|<a name="back_ghchinoy_scoop-ce" id="back_ghchinoy_scoop-ce"></a>[126.](# "23.579035") [__ghchinoy/scoop-ce__](https://github.com/ghchinoy/scoop-ce):  *scoop bucket for CE tools*|[1](#ghchinoy_scoop-ce)|[0](https://github.com/ghchinoy/scoop-ce/stargazers)|[0](https://github.com/ghchinoy/scoop-ce/network)|[18&#x2011;11&#x2011;19](https://github.com/ghchinoy/scoop-ce/commits)|
+|<a name="back_systemexitzero_scoop-bucket" id="back_systemexitzero_scoop-bucket"></a>[127.](# "23.515085") [__systemexitzero/scoop-bucket__](https://github.com/systemexitzero/scoop-bucket):  *Personal bucket for scoop. See https://github.com/lukesampson/scoop*|[11](#systemexitzero_scoop-bucket)|[0](https://github.com/systemexitzero/scoop-bucket/stargazers)|[0](https://github.com/systemexitzero/scoop-bucket/network)|[16&#x2011;04&#x2011;29](https://github.com/systemexitzero/scoop-bucket/commits)|
+|<a name="back_c7i_scoop-bucket" id="back_c7i_scoop-bucket"></a>[128.](# "23.515085") [__c7i/scoop-bucket__](https://github.com/c7i/scoop-bucket)|[1](#c7i_scoop-bucket)|[0](https://github.com/c7i/scoop-bucket/stargazers)|[0](https://github.com/c7i/scoop-bucket/network)|[18&#x2011;08&#x2011;11](https://github.com/c7i/scoop-bucket/commits)|
+|<a name="back_nickers_scoop-bucket" id="back_nickers_scoop-bucket"></a>[129.](# "23.515085") [__nickers/scoop-bucket__](https://github.com/nickers/scoop-bucket):  *private bucket for http://scoop.sh/*|[1](#nickers_scoop-bucket)|[0](https://github.com/nickers/scoop-bucket/stargazers)|[0](https://github.com/nickers/scoop-bucket/network)|[18&#x2011;03&#x2011;22](https://github.com/nickers/scoop-bucket/commits)|
+|<a name="back_deevus_scoop-games" id="back_deevus_scoop-games"></a>[130.](# "23.513477") [__deevus/scoop-games__](https://github.com/deevus/scoop-games):  *A Scoop bucket for Games.*|[2](#deevus_scoop-games)|[0](https://github.com/deevus/scoop-games/stargazers)|[1](https://github.com/deevus/scoop-games/network)|[15&#x2011;03&#x2011;25](https://github.com/deevus/scoop-games/commits)|
+|<a name="back_klaidliadon_scoop-buckets" id="back_klaidliadon_scoop-buckets"></a>[131.](# "23.513477") [__klaidliadon/scoop-buckets__](https://github.com/klaidliadon/scoop-buckets):  *A collection of scoop buckets*|[2](#klaidliadon_scoop-buckets)|[0](https://github.com/klaidliadon/scoop-buckets/stargazers)|[0](https://github.com/klaidliadon/scoop-buckets/network)|[16&#x2011;02&#x2011;26](https://github.com/klaidliadon/scoop-buckets/commits)|
+|<a name="back_zhangzhishan_scoop-bucket" id="back_zhangzhishan_scoop-bucket"></a>[132.](# "23.505375") [__zhangzhishan/scoop-bucket__](https://github.com/zhangzhishan/scoop-bucket):  *A scoop bucket for my usual applications*|[4](#zhangzhishan_scoop-bucket)|[0](https://github.com/zhangzhishan/scoop-bucket/stargazers)|[0](https://github.com/zhangzhishan/scoop-bucket/network)|[18&#x2011;11&#x2011;15](https://github.com/zhangzhishan/scoop-bucket/commits)|
+|<a name="back_tapanchandra_scoop-personal" id="back_tapanchandra_scoop-personal"></a>[133.](# "23.492851") [__tapanchandra/scoop-personal__](https://github.com/tapanchandra/scoop-personal):  *A personal bucket for scoop*|[2](#tapanchandra_scoop-personal)|[0](https://github.com/tapanchandra/scoop-personal/stargazers)|[0](https://github.com/tapanchandra/scoop-personal/network)|[18&#x2011;01&#x2011;21](https://github.com/tapanchandra/scoop-personal/commits)|
+|<a name="back_lesstif_scoop-bucket-for-korean" id="back_lesstif_scoop-bucket-for-korean"></a>[134.](# "23.482372") [__lesstif/scoop-bucket-for-korean__](https://github.com/lesstif/scoop-bucket-for-korean):  *네이버 나눔 폰트 scoop 버킷.*|[2](#lesstif_scoop-bucket-for-korean)|[1](https://github.com/lesstif/scoop-bucket-for-korean/stargazers)|[0](https://github.com/lesstif/scoop-bucket-for-korean/network)|[18&#x2011;05&#x2011;25](https://github.com/lesstif/scoop-bucket-for-korean/commits)|
+|<a name="back_Kiedtl_open-scoop" id="back_Kiedtl_open-scoop"></a>[135.](# "23.478996") [__Kiedtl/open-scoop__](https://github.com/Kiedtl/open-scoop):  *The Scoop bucket for everything.*|[976](#Kiedtl_open-scoop)|[1](https://github.com/Kiedtl/open-scoop/stargazers)|[0](https://github.com/Kiedtl/open-scoop/network)|[18&#x2011;12&#x2011;14](https://github.com/Kiedtl/open-scoop/commits)|
+|<a name="back_TorrentKatten_torrentkatten-scoop-bucket" id="back_TorrentKatten_torrentkatten-scoop-bucket"></a>[136.](# "23.478996") [__TorrentKatten/torrentkatten-scoop-bucket__](https://github.com/TorrentKatten/torrentkatten-scoop-bucket):  *scoop bucket for titandb tools*|[1](#TorrentKatten_torrentkatten-scoop-bucket)|[0](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/stargazers)|[0](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/network)|[17&#x2011;10&#x2011;02](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/commits)|
+|<a name="back_mmichaelis_scoop-bucket" id="back_mmichaelis_scoop-bucket"></a>[137.](# "23.45602") [__mmichaelis/scoop-bucket__](https://github.com/mmichaelis/scoop-bucket):  *My scoop bucket as extension to default and extras bucket. For details see http://scoop.sh/*|[4](#mmichaelis_scoop-bucket)|[0](https://github.com/mmichaelis/scoop-bucket/stargazers)|[1](https://github.com/mmichaelis/scoop-bucket/network)|[18&#x2011;12&#x2011;01](https://github.com/mmichaelis/scoop-bucket/commits)|
+|<a name="back_lurdan_scoop-bucket" id="back_lurdan_scoop-bucket"></a>[138.](# "23.45602") [__lurdan/scoop-bucket__](https://github.com/lurdan/scoop-bucket)|[25](#lurdan_scoop-bucket)|[0](https://github.com/lurdan/scoop-bucket/stargazers)|[0](https://github.com/lurdan/scoop-bucket/network)|[18&#x2011;07&#x2011;30](https://github.com/lurdan/scoop-bucket/commits)|
+|<a name="back_dimdimych_scoop-bucket" id="back_dimdimych_scoop-bucket"></a>[139.](# "23.45602") [__dimdimych/scoop-bucket__](https://github.com/dimdimych/scoop-bucket)|[3](#dimdimych_scoop-bucket)|[0](https://github.com/dimdimych/scoop-bucket/stargazers)|[0](https://github.com/dimdimych/scoop-bucket/network)|[18&#x2011;03&#x2011;16](https://github.com/dimdimych/scoop-bucket/commits)|
+|<a name="back_eugenesvk_scoop-bucket" id="back_eugenesvk_scoop-bucket"></a>[140.](# "23.45602") [__eugenesvk/scoop-bucket__](https://github.com/eugenesvk/scoop-bucket):  *List of additional apps that can be installed by Scoop*|[3](#eugenesvk_scoop-bucket)|[0](https://github.com/eugenesvk/scoop-bucket/stargazers)|[0](https://github.com/eugenesvk/scoop-bucket/network)|[16&#x2011;03&#x2011;10](https://github.com/eugenesvk/scoop-bucket/commits)|
+|<a name="back_sgarfinkel_scoop-bucket" id="back_sgarfinkel_scoop-bucket"></a>[141.](# "23.45602") [__sgarfinkel/scoop-bucket__](https://github.com/sgarfinkel/scoop-bucket)|[2](#sgarfinkel_scoop-bucket)|[0](https://github.com/sgarfinkel/scoop-bucket/stargazers)|[0](https://github.com/sgarfinkel/scoop-bucket/network)|[18&#x2011;08&#x2011;25](https://github.com/sgarfinkel/scoop-bucket/commits)|
+|<a name="back_SummerSad_scoop-bucket" id="back_SummerSad_scoop-bucket"></a>[142.](# "23.45602") [__SummerSad/scoop-bucket__](https://github.com/SummerSad/scoop-bucket):  *More apps for scoop*|[2](#SummerSad_scoop-bucket)|[0](https://github.com/SummerSad/scoop-bucket/stargazers)|[0](https://github.com/SummerSad/scoop-bucket/network)|[18&#x2011;09&#x2011;13](https://github.com/SummerSad/scoop-bucket/commits)|
+|<a name="back_Deide_deide-bucket" id="back_Deide_deide-bucket"></a>[143.](# "23.447773") [__Deide/deide-bucket__](https://github.com/Deide/deide-bucket):  *Personal bucket for Scoop.sh*|[10](#Deide_deide-bucket)|[0](https://github.com/Deide/deide-bucket/stargazers)|[0](https://github.com/Deide/deide-bucket/network)|[18&#x2011;12&#x2011;11](https://github.com/Deide/deide-bucket/commits)|
+|<a name="back_SheldonNico_echoBucket" id="back_SheldonNico_echoBucket"></a>[144.](# "23.447773") [__SheldonNico/echoBucket__](https://github.com/SheldonNico/echoBucket):  *self use bucket for scoop*|[4](#SheldonNico_echoBucket)|[0](https://github.com/SheldonNico/echoBucket/stargazers)|[0](https://github.com/SheldonNico/echoBucket/network)|[18&#x2011;11&#x2011;18](https://github.com/SheldonNico/echoBucket/commits)|
+|<a name="back_plombard_scoop-bucket" id="back_plombard_scoop-bucket"></a>[145.](# "23.447773") [__plombard/scoop-bucket__](https://github.com/plombard/scoop-bucket):  *Personal bucket for scoop installs*|[1](#plombard_scoop-bucket)|[0](https://github.com/plombard/scoop-bucket/stargazers)|[0](https://github.com/plombard/scoop-bucket/network)|[18&#x2011;03&#x2011;24](https://github.com/plombard/scoop-bucket/commits)|
+|<a name="back_sveco_my-bucket" id="back_sveco_my-bucket"></a>[146.](# "23.440805") [__sveco/my-bucket__](https://github.com/sveco/my-bucket):  *Scoop bucket for portable applications.*|[4](#sveco_my-bucket)|[0](https://github.com/sveco/my-bucket/stargazers)|[0](https://github.com/sveco/my-bucket/network)|[18&#x2011;10&#x2011;01](https://github.com/sveco/my-bucket/commits)|
+|<a name="back_toburger_scoop-buckets" id="back_toburger_scoop-buckets"></a>[147.](# "23.438389") [__toburger/scoop-buckets__](https://github.com/toburger/scoop-buckets)|[2](#toburger_scoop-buckets)|[0](https://github.com/toburger/scoop-buckets/stargazers)|[0](https://github.com/toburger/scoop-buckets/network)|[16&#x2011;03&#x2011;16](https://github.com/toburger/scoop-buckets/commits)|
+|<a name="back_skabashnyuk_scoop-bucket" id="back_skabashnyuk_scoop-bucket"></a>[148.](# "23.438389") [__skabashnyuk/scoop-bucket__](https://github.com/skabashnyuk/scoop-bucket)|[1](#skabashnyuk_scoop-bucket)|[0](https://github.com/skabashnyuk/scoop-bucket/stargazers)|[0](https://github.com/skabashnyuk/scoop-bucket/network)|[18&#x2011;09&#x2011;07](https://github.com/skabashnyuk/scoop-bucket/commits)|
+|<a name="back_twxs_scoop-buckets" id="back_twxs_scoop-buckets"></a>[149.](# "23.400177") [__twxs/scoop-buckets__](https://github.com/twxs/scoop-buckets)|[1](#twxs_scoop-buckets)|[0](https://github.com/twxs/scoop-buckets/stargazers)|[0](https://github.com/twxs/scoop-buckets/network)|[16&#x2011;05&#x2011;08](https://github.com/twxs/scoop-buckets/commits)|
+|<a name="back_holehan_scoop-bucket" id="back_holehan_scoop-bucket"></a>[150.](# "23.396236") [__holehan/scoop-bucket__](https://github.com/holehan/scoop-bucket)|[2](#holehan_scoop-bucket)|[0](https://github.com/holehan/scoop-bucket/stargazers)|[0](https://github.com/holehan/scoop-bucket/network)|[16&#x2011;10&#x2011;02](https://github.com/holehan/scoop-bucket/commits)|
+|<a name="back_broovy_scoop-bucket" id="back_broovy_scoop-bucket"></a>[151.](# "23.396236") [__broovy/scoop-bucket__](https://github.com/broovy/scoop-bucket):  *A bucket for https://github.com/lukesampson/scoop*|[1](#broovy_scoop-bucket)|[0](https://github.com/broovy/scoop-bucket/stargazers)|[0](https://github.com/broovy/scoop-bucket/network)|[15&#x2011;08&#x2011;18](https://github.com/broovy/scoop-bucket/commits)|
+|<a name="back_qoomon_scoop-bucket" id="back_qoomon_scoop-bucket"></a>[152.](# "23.396236") [__qoomon/scoop-bucket__](https://github.com/qoomon/scoop-bucket)|[1](#qoomon_scoop-bucket)|[0](https://github.com/qoomon/scoop-bucket/stargazers)|[0](https://github.com/qoomon/scoop-bucket/network)|[18&#x2011;07&#x2011;25](https://github.com/qoomon/scoop-bucket/commits)|
+|<a name="back_superudo_scoop-bucket" id="back_superudo_scoop-bucket"></a>[153.](# "23.392536") [__superudo/scoop-bucket__](https://github.com/superudo/scoop-bucket)|[10](#superudo_scoop-bucket)|[0](https://github.com/superudo/scoop-bucket/stargazers)|[0](https://github.com/superudo/scoop-bucket/network)|[18&#x2011;10&#x2011;01](https://github.com/superudo/scoop-bucket/commits)|
+|<a name="back_pcrama_scoop-buckets" id="back_pcrama_scoop-buckets"></a>[154.](# "23.362343") [__pcrama/scoop-buckets__](https://github.com/pcrama/scoop-buckets):  *Bucket of extra software to install using scoop*|[11](#pcrama_scoop-buckets)|[0](https://github.com/pcrama/scoop-buckets/stargazers)|[0](https://github.com/pcrama/scoop-buckets/network)|[18&#x2011;08&#x2011;07](https://github.com/pcrama/scoop-buckets/commits)|
+|<a name="back_masaeedu_scoop-bucket" id="back_masaeedu_scoop-bucket"></a>[155.](# "23.362343") [__masaeedu/scoop-bucket__](https://github.com/masaeedu/scoop-bucket)|[3](#masaeedu_scoop-bucket)|[0](https://github.com/masaeedu/scoop-bucket/stargazers)|[0](https://github.com/masaeedu/scoop-bucket/network)|[17&#x2011;06&#x2011;14](https://github.com/masaeedu/scoop-bucket/commits)|
+|<a name="back_goreleaser_scoop-bucket" id="back_goreleaser_scoop-bucket"></a>[156.](# "23.362343") [__goreleaser/scoop-bucket__](https://github.com/goreleaser/scoop-bucket):  *Scoop bucket for @goreleaser binaries, powered by @goreleaser*|[1](#goreleaser_scoop-bucket)|[0](https://github.com/goreleaser/scoop-bucket/stargazers)|[0](https://github.com/goreleaser/scoop-bucket/network)|[18&#x2011;12&#x2011;13](https://github.com/goreleaser/scoop-bucket/commits)|
+|<a name="back_S0methingWicked_scoop-bucket" id="back_S0methingWicked_scoop-bucket"></a>[157.](# "23.362343") [__S0methingWicked/scoop-bucket__](https://github.com/S0methingWicked/scoop-bucket):  *Things that can be installed using Scoop*|[1](#S0methingWicked_scoop-bucket)|[0](https://github.com/S0methingWicked/scoop-bucket/stargazers)|[0](https://github.com/S0methingWicked/scoop-bucket/network)|[18&#x2011;10&#x2011;24](https://github.com/S0methingWicked/scoop-bucket/commits)|
+|<a name="back_PiwwowPants_scoop-bucket" id="back_PiwwowPants_scoop-bucket"></a>[158.](# "23.342978") [__PiwwowPants/scoop-bucket__](https://github.com/PiwwowPants/scoop-bucket):  *A repo for my scoop bucket*|[5](#PiwwowPants_scoop-bucket)|[0](https://github.com/PiwwowPants/scoop-bucket/stargazers)|[0](https://github.com/PiwwowPants/scoop-bucket/network)|[18&#x2011;05&#x2011;31](https://github.com/PiwwowPants/scoop-bucket/commits)|
+|<a name="back_ErnWong_scoop-bucket" id="back_ErnWong_scoop-bucket"></a>[159.](# "23.342978") [__ErnWong/scoop-bucket__](https://github.com/ErnWong/scoop-bucket):  *My personal manifests bucket of scoop goodness*|[3](#ErnWong_scoop-bucket)|[0](https://github.com/ErnWong/scoop-bucket/stargazers)|[0](https://github.com/ErnWong/scoop-bucket/network)|[18&#x2011;03&#x2011;13](https://github.com/ErnWong/scoop-bucket/commits)|
+|<a name="back_tbung_scoop-bucket" id="back_tbung_scoop-bucket"></a>[160.](# "23.342978") [__tbung/scoop-bucket__](https://github.com/tbung/scoop-bucket)|[3](#tbung_scoop-bucket)|[0](https://github.com/tbung/scoop-bucket/stargazers)|[0](https://github.com/tbung/scoop-bucket/network)|[16&#x2011;09&#x2011;21](https://github.com/tbung/scoop-bucket/commits)|
+|<a name="back_shacal_scoop-bucket" id="back_shacal_scoop-bucket"></a>[161.](# "23.342978") [__shacal/scoop-bucket__](https://github.com/shacal/scoop-bucket):  *Scoop bucket list of apps to install*|[1](#shacal_scoop-bucket)|[0](https://github.com/shacal/scoop-bucket/stargazers)|[0](https://github.com/shacal/scoop-bucket/network)|[18&#x2011;10&#x2011;03](https://github.com/shacal/scoop-bucket/commits)|
+|<a name="back_a2moveit_scoop-bucket" id="back_a2moveit_scoop-bucket"></a>[162.](# "23.331219") [__2moveit/scoop-bucket__](https://github.com/2moveit/scoop-bucket):  *Repository for apps to install via scoop*|[11](#a2moveit_scoop-bucket)|[0](https://github.com/2moveit/scoop-bucket/stargazers)|[0](https://github.com/2moveit/scoop-bucket/network)|[16&#x2011;11&#x2011;09](https://github.com/2moveit/scoop-bucket/commits)|
+|<a name="back_watchmen-test_scoop-bucket" id="back_watchmen-test_scoop-bucket"></a>[163.](# "23.331219") [__watchmen-test/scoop-bucket__](https://github.com/watchmen-test/scoop-bucket):  *This bucket is for installation programs that dont have a home in scoop that we need to install for this organization*|[5](#watchmen-test_scoop-bucket)|[0](https://github.com/watchmen-test/scoop-bucket/stargazers)|[0](https://github.com/watchmen-test/scoop-bucket/network)|[18&#x2011;10&#x2011;10](https://github.com/watchmen-test/scoop-bucket/commits)|
+|<a name="back_itzg_scoop-bucket" id="back_itzg_scoop-bucket"></a>[164.](# "23.331219") [__itzg/scoop-bucket__](https://github.com/itzg/scoop-bucket):  *My apps published for installation via scoop*|[2](#itzg_scoop-bucket)|[0](https://github.com/itzg/scoop-bucket/stargazers)|[0](https://github.com/itzg/scoop-bucket/network)|[18&#x2011;05&#x2011;19](https://github.com/itzg/scoop-bucket/commits)|
+|<a name="back_Jokler_scoop-bucket" id="back_Jokler_scoop-bucket"></a>[165.](# "23.327143") [__Jokler/scoop-bucket__](https://github.com/Jokler/scoop-bucket):  *My bucket for programs not in the official buckets*|[6](#Jokler_scoop-bucket)|[0](https://github.com/Jokler/scoop-bucket/stargazers)|[0](https://github.com/Jokler/scoop-bucket/network)|[18&#x2011;07&#x2011;17](https://github.com/Jokler/scoop-bucket/commits)|
+|<a name="back_hydra1983_scoop-bucket" id="back_hydra1983_scoop-bucket"></a>[166.](# "23.327143") [__hydra1983/scoop-bucket__](https://github.com/hydra1983/scoop-bucket)|[2](#hydra1983_scoop-bucket)|[0](https://github.com/hydra1983/scoop-bucket/stargazers)|[0](https://github.com/hydra1983/scoop-bucket/network)|[15&#x2011;03&#x2011;23](https://github.com/hydra1983/scoop-bucket/commits)|
+|<a name="back_nickbudi_scoop-bucket" id="back_nickbudi_scoop-bucket"></a>[167.](# "23.326036") [__nickbudi/scoop-bucket__](https://github.com/nickbudi/scoop-bucket):  *Scoop bucket for portableapps.com apps and other packages I use that aren&#39;t found in the main or known buckets (yet).*|[32](#nickbudi_scoop-bucket)|[0](https://github.com/nickbudi/scoop-bucket/stargazers)|[0](https://github.com/nickbudi/scoop-bucket/network)|[18&#x2011;12&#x2011;15](https://github.com/nickbudi/scoop-bucket/commits)|
+|<a name="back_tnessy_scoop-bucket" id="back_tnessy_scoop-bucket"></a>[168.](# "23.326036") [__tnessy/scoop-bucket__](https://github.com/tnessy/scoop-bucket):  *Custom scoop bucket for random things*|[1](#tnessy_scoop-bucket)|[0](https://github.com/tnessy/scoop-bucket/stargazers)|[0](https://github.com/tnessy/scoop-bucket/network)|[17&#x2011;07&#x2011;20](https://github.com/tnessy/scoop-bucket/commits)|
+|<a name="back_typhoon51280_scoop-bucket" id="back_typhoon51280_scoop-bucket"></a>[169.](# "23.326036") [__typhoon51280/scoop-bucket__](https://github.com/typhoon51280/scoop-bucket)|[1](#typhoon51280_scoop-bucket)|[0](https://github.com/typhoon51280/scoop-bucket/stargazers)|[0](https://github.com/typhoon51280/scoop-bucket/network)|[14&#x2011;09&#x2011;29](https://github.com/typhoon51280/scoop-bucket/commits)|
+|<a name="back_ondr3j_scoop-misc" id="back_ondr3j_scoop-misc"></a>[170.](# "23.305687") [__ondr3j/scoop-misc__](https://github.com/ondr3j/scoop-misc):  *My &#34;Miscellaneous&#34; bucket for Scoop*|[38](#ondr3j_scoop-misc)|[1](https://github.com/ondr3j/scoop-misc/stargazers)|[1](https://github.com/ondr3j/scoop-misc/network)|[18&#x2011;02&#x2011;24](https://github.com/ondr3j/scoop-misc/commits)|
+|<a name="back_a82p_scoop-yubico-bucket" id="back_a82p_scoop-yubico-bucket"></a>[171.](# "23.305687") [__82p/scoop-yubico-bucket__](https://github.com/82p/scoop-yubico-bucket):  *scoop bucket of yubico tools*|[4](#a82p_scoop-yubico-bucket)|[0](https://github.com/82p/scoop-yubico-bucket/stargazers)|[0](https://github.com/82p/scoop-yubico-bucket/network)|[18&#x2011;05&#x2011;09](https://github.com/82p/scoop-yubico-bucket/commits)|
+|<a name="back_philippgille_scoop-bucket" id="back_philippgille_scoop-bucket"></a>[172.](# "23.305687") [__philippgille/scoop-bucket__](https://github.com/philippgille/scoop-bucket):  *Scoop bucket for my apps*|[1](#philippgille_scoop-bucket)|[0](https://github.com/philippgille/scoop-bucket/stargazers)|[0](https://github.com/philippgille/scoop-bucket/network)|[18&#x2011;05&#x2011;13](https://github.com/philippgille/scoop-bucket/commits)|
+|<a name="back_mathieucarbou_scoop-bucket" id="back_mathieucarbou_scoop-bucket"></a>[173.](# "23.286018") [__mathieucarbou/scoop-bucket__](https://github.com/mathieucarbou/scoop-bucket)|[1](#mathieucarbou_scoop-bucket)|[0](https://github.com/mathieucarbou/scoop-bucket/stargazers)|[0](https://github.com/mathieucarbou/scoop-bucket/network)|[16&#x2011;01&#x2011;13](https://github.com/mathieucarbou/scoop-bucket/commits)|
+|<a name="back_wangfeishine_adds" id="back_wangfeishine_adds"></a>[174.](# "23.274168") [__wangfeishine/adds__](https://github.com/wangfeishine/adds):  *My extra bucket for scoop*|[1](#wangfeishine_adds)|[0](https://github.com/wangfeishine/adds/stargazers)|[0](https://github.com/wangfeishine/adds/network)|[17&#x2011;05&#x2011;15](https://github.com/wangfeishine/adds/commits)|
+|<a name="back_mgarbvs_scoop-bucket" id="back_mgarbvs_scoop-bucket"></a>[175.](# "23.26669") [__mgarbvs/scoop-bucket__](https://github.com/mgarbvs/scoop-bucket)|[6](#mgarbvs_scoop-bucket)|[1](https://github.com/mgarbvs/scoop-bucket/stargazers)|[0](https://github.com/mgarbvs/scoop-bucket/network)|[15&#x2011;12&#x2011;05](https://github.com/mgarbvs/scoop-bucket/commits)|
+|<a name="back_leonidboykov_scoop-bucket" id="back_leonidboykov_scoop-bucket"></a>[176.](# "23.26669") [__leonidboykov/scoop-bucket__](https://github.com/leonidboykov/scoop-bucket):  *Scoop bucket for my projects&#39; binaries*|[2](#leonidboykov_scoop-bucket)|[0](https://github.com/leonidboykov/scoop-bucket/stargazers)|[0](https://github.com/leonidboykov/scoop-bucket/network)|[18&#x2011;10&#x2011;04](https://github.com/leonidboykov/scoop-bucket/commits)|
+|<a name="back_derKrischan_scoop-bucket" id="back_derKrischan_scoop-bucket"></a>[177.](# "23.26669") [__derKrischan/scoop-bucket__](https://github.com/derKrischan/scoop-bucket):  *Experiment with scoop.sh manifests*|[1](#derKrischan_scoop-bucket)|[0](https://github.com/derKrischan/scoop-bucket/stargazers)|[0](https://github.com/derKrischan/scoop-bucket/network)|[17&#x2011;12&#x2011;23](https://github.com/derKrischan/scoop-bucket/commits)|
+|<a name="back_gabrielrobert_scoop-bucket" id="back_gabrielrobert_scoop-bucket"></a>[178.](# "23.26669") [__gabrielrobert/scoop-bucket__](https://github.com/gabrielrobert/scoop-bucket)|[1](#gabrielrobert_scoop-bucket)|[0](https://github.com/gabrielrobert/scoop-bucket/stargazers)|[0](https://github.com/gabrielrobert/scoop-bucket/network)|[18&#x2011;04&#x2011;06](https://github.com/gabrielrobert/scoop-bucket/commits)|
+|<a name="back_icalder_scoop-bucket" id="back_icalder_scoop-bucket"></a>[179.](# "23.26669") [__icalder/scoop-bucket__](https://github.com/icalder/scoop-bucket)|[1](#icalder_scoop-bucket)|[0](https://github.com/icalder/scoop-bucket/stargazers)|[0](https://github.com/icalder/scoop-bucket/network)|[18&#x2011;01&#x2011;18](https://github.com/icalder/scoop-bucket/commits)|
+|<a name="back_nilkesede_scoop-bucket" id="back_nilkesede_scoop-bucket"></a>[180.](# "23.26669") [__nilkesede/scoop-bucket__](https://github.com/nilkesede/scoop-bucket)|[1](#nilkesede_scoop-bucket)|[0](https://github.com/nilkesede/scoop-bucket/stargazers)|[0](https://github.com/nilkesede/scoop-bucket/network)|[18&#x2011;06&#x2011;01](https://github.com/nilkesede/scoop-bucket/commits)|
+|<a name="back_Utdanningsdirektoratet_PAS-scoop-public" id="back_Utdanningsdirektoratet_PAS-scoop-public"></a>[181.](# "23.238724") [__Utdanningsdirektoratet/PAS-scoop-public__](https://github.com/Utdanningsdirektoratet/PAS-scoop-public):  *Scoop bucket for PAS-prosjektet*|[43](#Utdanningsdirektoratet_PAS-scoop-public)|[0](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/stargazers)|[0](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/network)|[18&#x2011;12&#x2011;05](https://github.com/Utdanningsdirektoratet/PAS-scoop-public/commits)|
+|<a name="back_rivy_scoop-bucket" id="back_rivy_scoop-bucket"></a>[182.](# "23.235601") [__rivy/scoop-bucket__](https://github.com/rivy/scoop-bucket)|[160](#rivy_scoop-bucket)|[1](https://github.com/rivy/scoop-bucket/stargazers)|[1](https://github.com/rivy/scoop-bucket/network)|[18&#x2011;11&#x2011;26](https://github.com/rivy/scoop-bucket/commits)|
+|<a name="back_tehbilly_scoop-bucket" id="back_tehbilly_scoop-bucket"></a>[183.](# "23.235601") [__tehbilly/scoop-bucket__](https://github.com/tehbilly/scoop-bucket)|[5](#tehbilly_scoop-bucket)|[1](https://github.com/tehbilly/scoop-bucket/stargazers)|[0](https://github.com/tehbilly/scoop-bucket/network)|[17&#x2011;06&#x2011;01](https://github.com/tehbilly/scoop-bucket/commits)|
+|<a name="back_giantswarm_scoop-bucket" id="back_giantswarm_scoop-bucket"></a>[184.](# "23.235601") [__giantswarm/scoop-bucket__](https://github.com/giantswarm/scoop-bucket):  *App manifests for simple Windows installs using scoop*|[1](#giantswarm_scoop-bucket)|[0](https://github.com/giantswarm/scoop-bucket/stargazers)|[1](https://github.com/giantswarm/scoop-bucket/network)|[18&#x2011;12&#x2011;10](https://github.com/giantswarm/scoop-bucket/commits)|
+|<a name="back_joserebelo_scoop-bucket" id="back_joserebelo_scoop-bucket"></a>[185.](# "23.235601") [__joserebelo/scoop-bucket__](https://github.com/joserebelo/scoop-bucket)|[11](#joserebelo_scoop-bucket)|[0](https://github.com/joserebelo/scoop-bucket/stargazers)|[0](https://github.com/joserebelo/scoop-bucket/network)|[18&#x2011;10&#x2011;12](https://github.com/joserebelo/scoop-bucket/commits)|
+|<a name="back_leafgarland_scoop-bucket" id="back_leafgarland_scoop-bucket"></a>[186.](# "23.235601") [__leafgarland/scoop-bucket__](https://github.com/leafgarland/scoop-bucket):  *Collection of app manifests for the Scoop package installer*|[5](#leafgarland_scoop-bucket)|[0](https://github.com/leafgarland/scoop-bucket/stargazers)|[0](https://github.com/leafgarland/scoop-bucket/network)|[14&#x2011;10&#x2011;09](https://github.com/leafgarland/scoop-bucket/commits)|
+|<a name="back_izm4457_scoop_bucket" id="back_izm4457_scoop_bucket"></a>[187.](# "23.235601") [__izm4457/scoop_bucket__](https://github.com/izm4457/scoop_bucket)|[2](#izm4457_scoop_bucket)|[0](https://github.com/izm4457/scoop_bucket/stargazers)|[0](https://github.com/izm4457/scoop_bucket/network)|[18&#x2011;08&#x2011;29](https://github.com/izm4457/scoop_bucket/commits)|
+|<a name="back_ubclaunchpad_scoop-bucket" id="back_ubclaunchpad_scoop-bucket"></a>[188.](# "23.235601") [__ubclaunchpad/scoop-bucket__](https://github.com/ubclaunchpad/scoop-bucket):  *🥄 Scoop bucket for UBC Launch Pad projects*|[2](#ubclaunchpad_scoop-bucket)|[0](https://github.com/ubclaunchpad/scoop-bucket/stargazers)|[0](https://github.com/ubclaunchpad/scoop-bucket/network)|[18&#x2011;08&#x2011;15](https://github.com/ubclaunchpad/scoop-bucket/commits)|
+|<a name="back_slaxor_scoop-bucket" id="back_slaxor_scoop-bucket"></a>[189.](# "23.235601") [__slaxor/scoop-bucket__](https://github.com/slaxor/scoop-bucket):  *My repo for Scoop*|[1](#slaxor_scoop-bucket)|[0](https://github.com/slaxor/scoop-bucket/stargazers)|[0](https://github.com/slaxor/scoop-bucket/network)|[17&#x2011;10&#x2011;04](https://github.com/slaxor/scoop-bucket/commits)|
+|<a name="back_zaquestion_scoop-bucket" id="back_zaquestion_scoop-bucket"></a>[190.](# "23.235601") [__zaquestion/scoop-bucket__](https://github.com/zaquestion/scoop-bucket)|[1](#zaquestion_scoop-bucket)|[0](https://github.com/zaquestion/scoop-bucket/stargazers)|[0](https://github.com/zaquestion/scoop-bucket/network)|[18&#x2011;10&#x2011;24](https://github.com/zaquestion/scoop-bucket/commits)|
+|<a name="back_dasbaumwolltier_scoop-bucket" id="back_dasbaumwolltier_scoop-bucket"></a>[191.](# "23.157066") [__dasbaumwolltier/scoop-bucket__](https://github.com/dasbaumwolltier/scoop-bucket)|[9](#dasbaumwolltier_scoop-bucket)|[0](https://github.com/dasbaumwolltier/scoop-bucket/stargazers)|[0](https://github.com/dasbaumwolltier/scoop-bucket/network)|[18&#x2011;10&#x2011;17](https://github.com/dasbaumwolltier/scoop-bucket/commits)|
+|<a name="back_qcts33_scoop_bucket" id="back_qcts33_scoop_bucket"></a>[192.](# "23.157066") [__qcts33/scoop_bucket__](https://github.com/qcts33/scoop_bucket)|[4](#qcts33_scoop_bucket)|[0](https://github.com/qcts33/scoop_bucket/stargazers)|[0](https://github.com/qcts33/scoop_bucket/network)|[18&#x2011;09&#x2011;11](https://github.com/qcts33/scoop_bucket/commits)|
+|<a name="back_mhhollomon_scoop-bucket" id="back_mhhollomon_scoop-bucket"></a>[193.](# "23.157066") [__mhhollomon/scoop-bucket__](https://github.com/mhhollomon/scoop-bucket):  *A scoop bucket for my extra stuff*|[2](#mhhollomon_scoop-bucket)|[0](https://github.com/mhhollomon/scoop-bucket/stargazers)|[0](https://github.com/mhhollomon/scoop-bucket/network)|[18&#x2011;12&#x2011;09](https://github.com/mhhollomon/scoop-bucket/commits)|
+|<a name="back_proudzhu_scoop-bucket" id="back_proudzhu_scoop-bucket"></a>[194.](# "23.157066") [__proudzhu/scoop-bucket__](https://github.com/proudzhu/scoop-bucket)|[2](#proudzhu_scoop-bucket)|[0](https://github.com/proudzhu/scoop-bucket/stargazers)|[0](https://github.com/proudzhu/scoop-bucket/network)|[18&#x2011;06&#x2011;13](https://github.com/proudzhu/scoop-bucket/commits)|
+|<a name="back_sankaku-deltalab_sankaku-app-bucket" id="back_sankaku-deltalab_sankaku-app-bucket"></a>[195.](# "22.619175") [__sankaku-deltalab/sankaku-app-bucket__](https://github.com/sankaku-deltalab/sankaku-app-bucket):  *sankaku-app-bucket is [Scoop](http://scoop.sh/) bucket mainly contains applications used by Sankaku.*|[9](#sankaku-deltalab_sankaku-app-bucket)|[0](https://github.com/sankaku-deltalab/sankaku-app-bucket/stargazers)|[0](https://github.com/sankaku-deltalab/sankaku-app-bucket/network)|[17&#x2011;10&#x2011;27](https://github.com/sankaku-deltalab/sankaku-app-bucket/commits)|
+|<a name="back_devilishcherub_scoop-app-bucket" id="back_devilishcherub_scoop-app-bucket"></a>[196.](# "22.21468") [__devilishcherub/scoop-app-bucket__](https://github.com/devilishcherub/scoop-app-bucket):  *Similar to Homebrew Cask on Mac. A bucket for actual apps.*|[1](#devilishcherub_scoop-app-bucket)|[0](https://github.com/devilishcherub/scoop-app-bucket/stargazers)|[0](https://github.com/devilishcherub/scoop-app-bucket/network)|[17&#x2011;07&#x2011;11](https://github.com/devilishcherub/scoop-app-bucket/commits)|
+|<a name="back_ChinLong_scoop-customize" id="back_ChinLong_scoop-customize"></a>[197.](# "20.021187") [__ChinLong/scoop-customize__](https://github.com/ChinLong/scoop-customize):  *It is customize for scoop-extras*|[14](#ChinLong_scoop-customize)|[4](https://github.com/ChinLong/scoop-customize/stargazers)|[0](https://github.com/ChinLong/scoop-customize/network)|[18&#x2011;11&#x2011;28](https://github.com/ChinLong/scoop-customize/commits)|
+|<a name="back_juliostanley_scoop-windows-linux-containers" id="back_juliostanley_scoop-windows-linux-containers"></a>[198.](# "18.824669") [__juliostanley/scoop-windows-linux-containers__](https://github.com/juliostanley/scoop-windows-linux-containers):  *A setup script to enable containers on windows for local development*|[3](#juliostanley_scoop-windows-linux-containers)|[4](https://github.com/juliostanley/scoop-windows-linux-containers/stargazers)|[0](https://github.com/juliostanley/scoop-windows-linux-containers/network)|[18&#x2011;08&#x2011;01](https://github.com/juliostanley/scoop-windows-linux-containers/commits)|
 | **Bucket** | **Apps** | **![Stars](https://png.icons8.com/material/15/000000/christmas-star.png "Stars")** | **![Forks](https://png.icons8.com/material/15/000000/code-fork.png "Forks")** | **Updated** |
 
 
@@ -318,21 +282,6 @@
 | [win-openssh](https://github.com/anurse/scoop-bucket/blob/master/win-openssh.json) | *0.0.24.0* |  |  |
 | [win32yank](https://github.com/anurse/scoop-bucket/blob/master/win32yank.json) | *0.0.4* |  |  |
 
-### <a name="aparkerlue_apl-scoop-bucket" id="aparkerlue_apl-scoop-bucket"></a>[aparkerlue/apl-scoop-bucket](https://github.com/aparkerlue/apl-scoop-bucket) [&#x2934;](#back_aparkerlue_apl-scoop-bucket)
- *Bucket (i.e., collection of apps) for scoop*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [gpg4win](https://www.gpg4win.org) | [*2.3.1*](https://www.gpg4win.org) |  | [Link](https://www.gpg4win.org/license.html) |
-
-### <a name="ati-ozgur_ati-scoop-bucket" id="ati-ozgur_ati-scoop-bucket"></a>[ati-ozgur/ati-scoop-bucket](https://github.com/ati-ozgur/ati-scoop-bucket) [&#x2934;](#back_ati-ozgur_ati-scoop-bucket)
-
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [hello]() |  |  |  |
-| [jabref](https://github.com/JabRef/jabref) | [4.3.1](https://github.com/JabRef/jabref) |  | [MIT](https://opensource.org/licenses/MIT) |
-
 ### <a name="atomicwrites_bucket" id="atomicwrites_bucket"></a>[atomicwrites/bucket](https://github.com/atomicwrites/bucket) [&#x2934;](#back_atomicwrites_bucket)
  *Some windows apps I've packaged for scoop.*
 
@@ -342,13 +291,6 @@
 | [qtpass](http://qtpass.org/) | [*1.2.2*](http://qtpass.org/) |  | GPL |
 | [w10privacy](https://github.com/atomicwrites/bucket/blob/master/w10privacy.json) | *3.1.0.1* |  |  |
 | [xmbc](https://github.com/atomicwrites/bucket/blob/master/xmbc.json) | *2.17* |  |  |
-
-### <a name="barohatoum_my-scoop-bucket" id="barohatoum_my-scoop-bucket"></a>[barohatoum/my-scoop-bucket](https://github.com/barohatoum/my-scoop-bucket) [&#x2934;](#back_barohatoum_my-scoop-bucket)
-
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [apache](http://www.apachelounge.com) | [2.4.16](http://www.apachelounge.com) |  | Apache 2.0 |
 
 ### <a name="biehlermi_scoop-apps" id="biehlermi_scoop-apps"></a>[biehlermi/scoop-apps](https://github.com/biehlermi/scoop-apps) [&#x2934;](#back_biehlermi_scoop-apps)
  *Bucket for Scoop.*
@@ -606,13 +548,6 @@
 | [tomcat](https://tomcat.apache.org/) | [*8.5.11*](https://tomcat.apache.org/) |  |  |
 | [total-commander](https://www.ghisler.com/) | [*8.51a*](https://www.ghisler.com/) |  |  |
 | [web-storm](http://www.jetbrains.com/webstorm/) | [*2016.2.3*](http://www.jetbrains.com/webstorm/) |  |  |
-
-### <a name="demesne_dev-extras" id="demesne_dev-extras"></a>[demesne/dev-extras](https://github.com/demesne/dev-extras) [&#x2934;](#back_demesne_dev-extras)
- *Scoop bucket for commonly used Development Tools*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [sublime-dev](https://www.sublimetext.com/3dev) | [3140](https://www.sublimetext.com/3dev) |  |  |
 
 ### <a name="dennislloydjr_scoop-bucket-devbox" id="dennislloydjr_scoop-bucket-devbox"></a>[dennislloydjr/scoop-bucket-devbox](https://github.com/dennislloydjr/scoop-bucket-devbox) [&#x2934;](#back_dennislloydjr_scoop-bucket-devbox)
  *Scoop bucket for installing apps for development box*
@@ -893,24 +828,6 @@
 | :--- | :--- | :--- | :--- |
 | [goreleaser](https://goreleaser.com) | [*0.95.0*](https://goreleaser.com) | Deliver Go binaries as fast and easily as possible | [MIT](https://opensource.org/licenses/MIT) |
 
-### <a name="Greydus_weeb-bucket" id="Greydus_weeb-bucket"></a>[Greydus/weeb-bucket](https://github.com/Greydus/weeb-bucket) [&#x2934;](#back_Greydus_weeb-bucket)
- *A scoop bucket containing various utilities that I use*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [cmdutils](http://www.maddogsw.com/cmdutils/) | [*1.5*](http://www.maddogsw.com/cmdutils/) |  | GPL |
-| [megatools](https://megatools.megous.com) | [*1.9.98*](https://megatools.megous.com) |  | GPL2 |
-| [oppai](https://github.com/Francesco149/oppai-ng) | [1.1.46](https://github.com/Francesco149/oppai-ng) |  | [Link](https://github.com/Francesco149/oppai-ng/blob/master/UNLICENSE) |
-
-### <a name="grigoryvp_scoop-grigoryvp" id="grigoryvp_scoop-grigoryvp"></a>[grigoryvp/scoop-grigoryvp](https://github.com/grigoryvp/scoop-grigoryvp) [&#x2934;](#back_grigoryvp_scoop-grigoryvp)
- *Scoop app manifest to install "KPScript" plugin for the "KeePass" app installed from the "extras" bucket*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [kpscript](https://keepass.info/plugins.html#kpscript) | [*2.40.0*](https://keepass.info/plugins.html#kpscript) |  |  |
-| [perfgraph](http://www.codefromthe70s.org/perfgraph3.aspx) | [*3.013*](http://www.codefromthe70s.org/perfgraph3.aspx) |  |  |
-| [tray-monitor](https://github.com/strayge/tray-monitor) | [*2.2.0*](https://github.com/strayge/tray-monitor) |  |  |
-
 ### <a name="Guard13007_ScoopBucket" id="Guard13007_ScoopBucket"></a>[Guard13007/ScoopBucket](https://github.com/Guard13007/ScoopBucket) [&#x2934;](#back_Guard13007_ScoopBucket)
  *Bucket for Scoop to install my stuff. (http://scoop.sh)*
 
@@ -988,18 +905,6 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [systemsreport](https://github.com/hannesdorn/scoop-dorn) | [*0.2.14*](https://github.com/hannesdorn/scoop-dorn) |  | [Link](https://www.gnu.org/licenses/gpl.html) |
-
-### <a name="hed0n1st_my-scoop-bucket" id="hed0n1st_my-scoop-bucket"></a>[hed0n1st/my-scoop-bucket](https://github.com/hed0n1st/my-scoop-bucket) [&#x2934;](#back_hed0n1st_my-scoop-bucket)
-
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [autohotkey-installer](https://www.autohotkey.com/) | [1.1.30.00](https://www.autohotkey.com/) |  | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [easyserviceoptimizer](https://www.sordum.org/files/easy-service-optimizer/) | [1.2](https://www.sordum.org/files/easy-service-optimizer/) |  | [Freeware](https://www.sordum.org/eula/) |
-| [firewallappblocker](https://www.sordum.org/files/firewall-app-blocker/) | [1.6](https://www.sordum.org/files/firewall-app-blocker/) |  | [Freeware](https://www.sordum.org/eula/) |
-| [fmedia](http://fmedia.firmdev.com/) | [1.1](http://fmedia.firmdev.com/) | fmedia is a fast media player/recorder/converter for Windows, macOS, Linux and FreeBSD. | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
-| [geekuninstaller](https://geekuninstaller.com/) | [1.4.5.131](https://geekuninstaller.com/) |  | Free for personnal use only |
-| [gpodder](https://gpodder.org/) | [3.10.5](https://gpodder.org/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
 
 ### <a name="hermanjustnu_scoop-emulators" id="hermanjustnu_scoop-emulators"></a>[hermanjustnu/scoop-emulators](https://github.com/hermanjustnu/scoop-emulators) [&#x2934;](#back_hermanjustnu_scoop-emulators)
  *Scoop bucket for emulators*
@@ -1160,13 +1065,6 @@
 | :--- | :--- | :--- | :--- |
 | [typora](https://typora.io/) | [0.9.9.53](https://typora.io/) | Typora ï¿½ a minimal markdown editor, markdown reader. |  |
 
-### <a name="jfut_scoop-dell-xps-8920" id="jfut_scoop-dell-xps-8920"></a>[jfut/scoop-dell-xps-8920](https://github.com/jfut/scoop-dell-xps-8920) [&#x2934;](#back_jfut_scoop-dell-xps-8920)
- *DELL XPS 8920 Hardware Driver and Software Bucket for http://scoop.sh*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [hardware-bios](http://www.dell.com/support/home/en/us/04/product-support/product/xps-8920-desktop/drivers) | [1.0.10](http://www.dell.com/support/home/en/us/04/product-support/product/xps-8920-desktop/drivers) |  | [Proprietary](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
-
 ### <a name="jfut_scoop-jfut" id="jfut_scoop-jfut"></a>[jfut/scoop-jfut](https://github.com/jfut/scoop-jfut) [&#x2934;](#back_jfut_scoop-jfut)
  *"jfut" bucket for http://scoop.sh*
 
@@ -1191,7 +1089,7 @@
 | [idmanager](http://hakomo.github.io/fitwin/) | [8.1](http://hakomo.github.io/fitwin/) |  | ID Manager is a freeware. No warranty of any kind&hellip; |
 | [imgburn](http://www.imgburn.com/) | [2.5.8.0](http://www.imgburn.com/) |  | [Link](http://www.imgburn.com/) |
 | [imgburn.ja](http://www.imgburn.com/) | [2.5.8.0](http://www.imgburn.com/) |  | [Link](http://www.imgburn.com/) |
-| [irfanview.ja](http://www.irfanview.com/) | [4.51](http://www.irfanview.com/) |  | [Commercial](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
+| [irfanview.ja](http://www.irfanview.com/) | [4.52](http://www.irfanview.com/) |  | [Commercial](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
 | [jasper](https://jasperapp.io/) | [0.6.0](https://jasperapp.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [lhaz](http://chitora.com/lhaz.html) | [2.5.1](http://chitora.com/lhaz.html) |  | [Link](http://chitora.com/lhaz/lhazhelp.html) |
 | [lyricsmaster](http://www.kenichimaehashi.com/lyricsmaster/) | [2.5.2](http://www.kenichimaehashi.com/lyricsmaster/) |  | [Proprietary](https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses) |
@@ -1386,17 +1284,6 @@
 | [spek](http://spek.cc/) | [0.8.2](http://spek.cc/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
 | [subtitleedit](https://www.nikse.dk/subtitleedit) | [3.5.7](https://www.nikse.dk/subtitleedit) |  |  |
 | [treesize](https://www.jam-software.com/treesize_free/) | [4.2](https://www.jam-software.com/treesize_free/) |  |  |
-
-### <a name="jsorah_jsorah-scoop-bucket" id="jsorah_jsorah-scoop-bucket"></a>[jsorah/jsorah-scoop-bucket](https://github.com/jsorah/jsorah-scoop-bucket) [&#x2934;](#back_jsorah_jsorah-scoop-bucket)
- *My personal scoop bucket, use at your own risk.*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [cherrytree](https://www.giuspen.com/cherrytree/) | [*0.38.6*](https://www.giuspen.com/cherrytree/) |  |  |
-| [hxd](https://mh-nexus.de/en/hxd/) | [*1.7.7.0*](https://mh-nexus.de/en/hxd/) |  |  |
-| [jd-gui](http://jd.benow.ca/) | [*1.4.0*](http://jd.benow.ca/) |  |  |
-| [keystore-explorer](http://keystore-explorer.org) | [*5.3.2*](http://keystore-explorer.org) |  |  |
-| [xvi32](http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm) | [*2.55*](http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm) |  |  |
 
 ### <a name="juliostanley_scoop-windows-linux-containers" id="juliostanley_scoop-windows-linux-containers"></a>[juliostanley/scoop-windows-linux-containers](https://github.com/juliostanley/scoop-windows-linux-containers) [&#x2934;](#back_juliostanley_scoop-windows-linux-containers)
  *A setup script to enable containers on windows for local development*
@@ -2406,15 +2293,6 @@
 | [intellij-idea](https://www.jetbrains.com/idea/) | [2018.1](https://www.jetbrains.com/idea/) | The Java IDE for Professional Developers by JetBrains |  |
 | [intellij-idea-ce](https://www.jetbrains.com/idea/) | [2018.1](https://www.jetbrains.com/idea/) | The Java IDE for Professional Developers by JetBrains |  |
 
-### <a name="kkum_my-scoop-bucket" id="kkum_my-scoop-bucket"></a>[kkum/my-scoop-bucket](https://github.com/kkum/my-scoop-bucket) [&#x2934;](#back_kkum_my-scoop-bucket)
-
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [browserchooser](https://browserchooser2.com/) | [*2.0.2*](https://browserchooser2.com/) |  |  |
-| [hello]() |  |  |  |
-| [sitecore-config-builder](https://github.com/Sitecore/Sitecore-Config-Builder/) | [*1.5.0.4*](https://github.com/Sitecore/Sitecore-Config-Builder/) |  |  |
-
 ### <a name="klaidliadon_scoop-buckets" id="klaidliadon_scoop-buckets"></a>[klaidliadon/scoop-buckets](https://github.com/klaidliadon/scoop-buckets) [&#x2934;](#back_klaidliadon_scoop-buckets)
  *A collection of scoop buckets*
 
@@ -2454,13 +2332,6 @@
 | [specialfoldersview](http://www.nirsoft.net/utils/special_folders_view.html) | [*1.26*](http://www.nirsoft.net/utils/special_folders_view.html) | Windows operating system have dozens of special folders that are used for storing application settings and files, storing Internet files, saving temporary files, storing shortcuts to other files, and so on. This utility displays the list of all special folders in your system, and allows you to easily jump to the right folder simply by double-clicking the folder item. You can also save the list of all folder paths into text/html/xml file. | [freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [sysexporter](http://www.nirsoft.net/utils/sysexp.html) | [*1.76*](http://www.nirsoft.net/utils/sysexp.html) | SysExporter utility allows you to grab the data stored in standard list-views, tree-views, list boxes, combo boxes, text-boxes, and WebBrowser/HTML controls from almost any application running on your system, and export it to text, HTML or XML file. Here&#39;s some examples for data that you can export with SysExporter: * The files list inside archive file (.zip, .rar, and so on) as displayed by WinZip or 7-Zip File Manager. * The files list inside a folder. * The event log of Windows. * The list of emails and contacts in Outlook Express. * The Registry values displayed in the right pane of the Registry Editor. * The data displayed by SysInternals utilities (Registry Monitor, File Monitor, Process Explorer, and others.) * The text inside a standard message-box of Windows. * The HTML inside any instance of Internet Explorer. | [freeware](https://en.wikipedia.org/wiki/Freeware) |
 
-### <a name="Krzysztof-Cieslak_scoop-fsharp-extras" id="Krzysztof-Cieslak_scoop-fsharp-extras"></a>[Krzysztof-Cieslak/scoop-fsharp-extras](https://github.com/Krzysztof-Cieslak/scoop-fsharp-extras) [&#x2934;](#back_Krzysztof-Cieslak_scoop-fsharp-extras)
- *Scoop bucket with F# specific utilities*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax) | [*0.1.0*](https://gitlab.com/Krzysztof-Cieslak/Fornax) |  |  |
-
 ### <a name="leafgarland_scoop-bucket" id="leafgarland_scoop-bucket"></a>[leafgarland/scoop-bucket](https://github.com/leafgarland/scoop-bucket) [&#x2934;](#back_leafgarland_scoop-bucket)
  *Collection of app manifests for the Scoop package installer*
 
@@ -2471,21 +2342,6 @@
 | [silversearcher](http://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html) | [0.29.1-1641](http://blog.kowalczyk.info/software/the-silver-searcher-for-windows.html) |  | [Link](https://raw.githubusercontent.com/kjk/the_silver_searcher/master/LICENSE) |
 | [vim-leafgarland](https://github.com/leafgarland/vimfiles) | [*master*](https://github.com/leafgarland/vimfiles) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [vim-youcompleteme](https://bitbucket.org/Haroogan/vim-youcompleteme-for-windows) | [current](https://bitbucket.org/Haroogan/vim-youcompleteme-for-windows) |  |  |
-
-### <a name="lefevrep_scoop" id="lefevrep_scoop"></a>[lefevrep/scoop](https://github.com/lefevrep/scoop) [&#x2934;](#back_lefevrep_scoop)
- *scoop bucket not in std/extra or corrected*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [backupmaker](https://www.ascomp.de/en/products/show/product/backupmaker) | [7.302](https://www.ascomp.de/en/products/show/product/backupmaker) | Backup your files and folders (non-portable) |  |
-| [baregrep](https://http://www.baremetalsoft.com) | [*3.50a*](https://http://www.baremetalsoft.com) | very powerfull GUI grep | [Freeware](https://www.baremetalsoft.com/baretail/licence.php) |
-| [cmder-full](http://cmder.net) | [1.3.5](http://cmder.net) | cmder console + git + linux utilities | [MIT](https://opensource.org/licenses/MIT) |
-| [cpdf](http://community.coherentpdf.com/) | [*2.2-patchlevel1*](http://community.coherentpdf.com/) | Powerful PDF manipulation tool | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
-| [mtee](https://ritchielawrence.github.io/mtee/) | [2.21](https://ritchielawrence.github.io/mtee/) | multiple tee (overwrite/append multiple files from stdout) | [MIT](https://opensource.org/licenses/MIT) |
-| [pup](https://github.com/ericchiang/pup) | [*0.4.0*](https://github.com/ericchiang/pup) | tool for processing HTML. It allows the user to filter parts of the page using CSS selectors. | [MIT](https://opensource.org/licenses/MIT) |
-| [q-dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) | [7.24](http://www.softwareok.com/?seite=Freeware/Q-Dir) | Q-dir File manager | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
-| [sqliteman](https://sourceforge.net/projects/sqliteman) | [*1.2.2*](https://sourceforge.net/projects/sqliteman) | old but powerful Sqlite manager | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
-| [syncredible](https://www.ascomp.de/en/products/show/product/synchredible) | [5.202](https://www.ascomp.de/en/products/show/product/synchredible) | Synchronize or backup your files and folders (non-portable) |  |
 
 ### <a name="leonidboykov_scoop-bucket" id="leonidboykov_scoop-bucket"></a>[leonidboykov/scoop-bucket](https://github.com/leonidboykov/scoop-bucket) [&#x2934;](#back_leonidboykov_scoop-bucket)
  *Scoop bucket for my projects' binaries*
@@ -2543,13 +2399,6 @@
 | [mp3o](https://github.com/Lomeli12/ScoopBucket/blob/master/mp3o.json) | *1.0.2* |  |  |
 | [plummod](https://lomeli12.net/apps/plummod/) | [*2.0.0*](https://lomeli12.net/apps/plummod/) |  |  |
 | [pngcap](https://lomeli12.net/apps/pngcap/) | [*1.0.2*](https://lomeli12.net/apps/pngcap/) |  |  |
-
-### <a name="lucagrulla_cw-scoop-bucket" id="lucagrulla_cw-scoop-bucket"></a>[lucagrulla/cw-scoop-bucket](https://github.com/lucagrulla/cw-scoop-bucket) [&#x2934;](#back_lucagrulla_cw-scoop-bucket)
- *Scoop bucket for cw https://www.lucagrulla.com/cw*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [cw](https://www.lucagrulla.com/cw) | [*2.1.3*](https://www.lucagrulla.com/cw) | The best way to tail AWS Cloudwatch Logs from your terminal | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 
 ### <a name="lukesampson_scoop" id="lukesampson_scoop"></a>[lukesampson/scoop](https://github.com/lukesampson/scoop) [&#x2934;](#back_lukesampson_scoop)
  *A command-line installer for Windows.(scoop's main/default bucket)*
@@ -2652,7 +2501,7 @@
 | [far](https://farmanager.com/) | [30b5300](https://farmanager.com/) |  |  |
 | [fd](https://github.com/sharkdp/fd) | [7.2.0](https://github.com/sharkdp/fd) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [ffmpeg](https://ffmpeg.zeranoe.com/builds/) | [4.1](https://ffmpeg.zeranoe.com/builds/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
-| [ffmpeg-nightly](https://ffmpeg.zeranoe.com/builds/) | [20181213-e5a0013](https://ffmpeg.zeranoe.com/builds/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
+| [ffmpeg-nightly](https://ffmpeg.zeranoe.com/builds/) | [20181215-011c911](https://ffmpeg.zeranoe.com/builds/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
 | [figlet](https://github.com/lukesampson/figlet) | [*1.0-go*](https://github.com/lukesampson/figlet) |  |  |
 | [file](http://gnuwin32.sourceforge.net/packages/file.htm) | [*5.03*](http://gnuwin32.sourceforge.net/packages/file.htm) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [findutils](http://www.mingw.org/wiki/msys) | [*4.4.2*](http://www.mingw.org/wiki/msys) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
@@ -2674,7 +2523,7 @@
 | [ghq](https://github.com/motemen/ghq) | [0.8.0](https://github.com/motemen/ghq) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [gibo](https://github.com/simonwhitaker/gibo) | [2.1.0](https://github.com/simonwhitaker/gibo) | gibo (short for .gitignore boilerplates) is a shell script to help you easily access .gitignore boilerplates from github.com/github/gitignore. | [Unlicense](https://opensource.org/licenses/Unlicense) |
 | [gifsicle](http://www.lcdf.org/gifsicle/) | [*1.89*](http://www.lcdf.org/gifsicle/) |  | [LGPL-2.0](https://opensource.org/licenses/LGPL-2.0-only) |
-| [git](https://git-for-windows.github.io/) | [2.20.0.windows.1](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
+| [git](https://git-for-windows.github.io/) | [2.20.1.windows.1](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [git-annex](http://git-annex.branchable.com/) | [7.20181211](http://git-annex.branchable.com/) | Manage files with git, without comitting them | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
 | [git-crypt](https://www.agwa.name/projects/git-crypt/) | [0.6.0-701fb8e](https://www.agwa.name/projects/git-crypt/) | Store encrypted data in git repository | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
 | [git-istage](https://github.com/terrajobst/git-istage) | [0.2.61](https://github.com/terrajobst/git-istage) | A better git add -p | [MIT](https://opensource.org/licenses/MIT) |
@@ -2682,7 +2531,7 @@
 | [git-sizer](https://github.com/github/git-sizer) | [1.3.0](https://github.com/github/git-sizer) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [git-town](http://www.git-town.com/) | [7.2.0](http://www.git-town.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [git-up](https://github.com/msiemens/PyGitUp) | [1.6.0](https://github.com/msiemens/PyGitUp) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [git-with-openssh](https://git-for-windows.github.io/) | [2.20.0.windows.1](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
+| [git-with-openssh](https://git-for-windows.github.io/) | [2.20.1.windows.1](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [git19](https://git-for-windows.github.io/) | [*1.9.5-preview20150319*](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [gitignore](https://github.com/lukesampson/psutils) | [0.2018.08.04](https://github.com/lukesampson/psutils) | Fetches .gitignore file templates from gitignore.io and writes them to standard output. | [MIT](https://opensource.org/licenses/MIT) |
 | [gitlab-runner](https://docs.gitlab.com/runner/) | [11.5.1](https://docs.gitlab.com/runner/) | GitLab Runner is the open source project that is used to run your jobs and send the results back to GitLab | [MIT](https://opensource.org/licenses/MIT) |
@@ -2767,8 +2616,8 @@
 | [metastore](https://github.com/rasa/metastore) | [1.1.2-9-gdafa727](https://github.com/rasa/metastore) | Store and restore metadata from a filesystem | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [micro](https://micro-editor.github.io/) | [1.4.1](https://micro-editor.github.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [mill](http://www.lihaoyi.com/mill/) | [0.3.5](http://www.lihaoyi.com/mill/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [mingit](https://git-for-windows.github.io/) | [2.20.0.windows.1](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
-| [mingit-busybox](https://git-for-windows.github.io/) | [2.20.0.windows.1](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
+| [mingit](https://git-for-windows.github.io/) | [2.20.1.windows.1](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
+| [mingit-busybox](https://git-for-windows.github.io/) | [2.20.1.windows.1](https://git-for-windows.github.io/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
 | [minikube](https://kubernetes.io/docs/getting-started-guides/minikube/) | [0.31.0](https://kubernetes.io/docs/getting-started-guides/minikube/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [minio](https://minio.io/) | [2018-12-13T02-04-19Z](https://minio.io/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 | [minio-client](https://minio.io/) | [2018-12-12T19-02-22Z](https://minio.io/) |  | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
@@ -3964,23 +3813,6 @@
 | :--- | :--- | :--- | :--- |
 | [visualvm](https://visualvm.github.io/) | [*1.4.1_1*](https://visualvm.github.io/) |  |  |
 
-### <a name="Melvinkooi_My-Bucket" id="Melvinkooi_My-Bucket"></a>[Melvinkooi/My-Bucket](https://github.com/Melvinkooi/My-Bucket) [&#x2934;](#back_Melvinkooi_My-Bucket)
- *Scoop bucket to test upcoming app manifests*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [lightbulb](https://github.com/Tyrrrz/LightBulb) | [1.6.4](https://github.com/Tyrrrz/LightBulb) | A program that reduces eyestrain produced by staring at a computer screen when working late hours | [GPL-3.0](https://github.com/Tyrrrz/LightBulb/blob/master/License.txt) |
-| [Ocenaudio](https://www.ocenaudio.com/) | [3.4.5](https://www.ocenaudio.com/) |  |  |
-| [syncfolders](http://www.syncfolders.elementfx.com/) | [3.4.471](http://www.syncfolders.elementfx.com/) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
-
-### <a name="MerdedSpade_my-bucket" id="MerdedSpade_my-bucket"></a>[MerdedSpade/my-bucket](https://github.com/MerdedSpade/my-bucket) [&#x2934;](#back_MerdedSpade_my-bucket)
- *My bucket for Scoop. Contains some programs.*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [github-desktop](https://desktop.github.com/) | [*1.5.0*](https://desktop.github.com/) |  |  |
-| [peazip](http://www.peazip.org/) | [*6.6.1*](http://www.peazip.org/) |  |  |
-
 ### <a name="mgarbvs_scoop-bucket" id="mgarbvs_scoop-bucket"></a>[mgarbvs/scoop-bucket](https://github.com/mgarbvs/scoop-bucket) [&#x2934;](#back_mgarbvs_scoop-bucket)
 
 
@@ -4007,25 +3839,6 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [wifi-password](https://github.com/RReverser/WiFi-Password) | [*0.0.0*](https://github.com/RReverser/WiFi-Password) |  | [MIT](https://opensource.org/licenses/MIT) |
-
-### <a name="mikepruett3_scoop-cyberduck" id="mikepruett3_scoop-cyberduck"></a>[mikepruett3/scoop-cyberduck](https://github.com/mikepruett3/scoop-cyberduck) [&#x2934;](#back_mikepruett3_scoop-cyberduck)
- *A Scoop Bucket for Cyberduck Installs*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [cyberduck-6.8.0.28825](https://cyberduck.io/) | [6.8.0.28825](https://cyberduck.io/) |  |  |
-
-### <a name="minorgod_scoop-minorgod" id="minorgod_scoop-minorgod"></a>[minorgod/scoop-minorgod](https://github.com/minorgod/scoop-minorgod) [&#x2934;](#back_minorgod_scoop-minorgod)
- *A scoop bucket for some random packages I wanted to install through scoop.*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [elevate](https://github.com/mrkrch/Elevation-PowerToys) | [1.1.1](https://github.com/mrkrch/Elevation-PowerToys) |  | [Link](https://github.com/mrkrch/Elevation-PowerToys/blob/master/Eula.doc?raw=true) |
-| [link-shell-extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) | [*3.8.7.1*](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) |  |  |
-| [mariadb](https://mariadb.org) | [10.3.9](https://mariadb.org) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
-| [open-shell](https://github.com/Open-Shell/Open-Shell-Menu) | [*4.4.131*](https://github.com/Open-Shell/Open-Shell-Menu) |  |  |
-| [subgit](https://subgit.com) | [3.3.3](https://subgit.com) |  | [Link](https://subgit.com/eula) |
-| [tortoisegit](https://github.com/minorgod/scoop-minorgod/blob/master/tortoisegit.json) | *2.7.0.0* |  |  |
 
 ### <a name="mko-x_bucket" id="mko-x_bucket"></a>[mko-x/bucket](https://github.com/mko-x/bucket) [&#x2934;](#back_mko-x_bucket)
  *scoop bucket customized*
@@ -4058,24 +3871,6 @@
 | [mpc-hc-x86](https://mpc-hc.org/) | [*1.7.10*](https://mpc-hc.org/) |  |  |
 | [oracle-jdk-x64](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [*1.8.0-u92*](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  |  |
 | [oracle-jdk-x86](http://www.oracle.com/technetwork/java/javase/overview/index.html) | [*1.8.0-u92*](http://www.oracle.com/technetwork/java/javase/overview/index.html) |  |  |
-
-### <a name="mundusnine_audio-bucket" id="mundusnine_audio-bucket"></a>[mundusnine/audio-bucket](https://github.com/mundusnine/audio-bucket) [&#x2934;](#back_mundusnine_audio-bucket)
- *A bucket-list for scoop.sh that covers multiple audio technologies(apps, code base, tools etc.)*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [cabbage](http://cabbageaudio.com/) | [*1.1.0*](http://cabbageaudio.com/) |  | GPLv3 |
-| [clang](https://mingw-w64.org) | [*6.3.0*](https://mingw-w64.org) |  | GPL3 |
-| [gcc5](https://mingw-w64.org) | [*5.4.0*](https://mingw-w64.org) |  | GPL3 |
-| [GDNative]() |  |  |  |
-| [godot-devtools](https://github.com/GodotExplorer) | [0.3.1](https://github.com/GodotExplorer) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [godotengine](https://godotengine.org/) | [2.1.4](https://godotengine.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [lmms](https://lmms.io/) | [*1.1.3*](https://lmms.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [lmms-beta](https://lmms.io/) | [*1.20.0-RC.3*](https://lmms.io/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [meld]() |  |  |  |
-| [reaper](http://www.reaper.fm/index.php) | [*5.40*](http://www.reaper.fm/index.php) |  | [Link](http://www.reaper.fm/dist-agreement.php) |
-| [scons](https://scons.org) | [*3.0.0*](https://scons.org) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [scons25](https://scons.org) | [*2.5.1*](https://scons.org) |  | [MIT](https://opensource.org/licenses/MIT) |
 
 ### <a name="MunsterPlop_munsterbucket" id="MunsterPlop_munsterbucket"></a>[MunsterPlop/munsterbucket](https://github.com/MunsterPlop/munsterbucket) [&#x2934;](#back_MunsterPlop_munsterbucket)
  *My personal Scoop bucket*
@@ -4115,7 +3910,7 @@
 | [ccleaner](https://www.piriform.com/ccleaner) | [5.51.6939](https://www.piriform.com/ccleaner) |  |  |
 | [crystaldiskmark-portable](http://crystalmark.info/en/software/crystaldiskmark/) | [6.0.1](http://crystalmark.info/en/software/crystaldiskmark/) |  |  |
 | [epicgames](https://www.epicgames.com/) | [*nightly*](https://www.epicgames.com/) |  | [Freeware](https://www.epicgames.com/site/en-US/tos) |
-| [everything](https://www.voidtools.com/) | [1.4.1.895](https://www.voidtools.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
+| [everything](https://www.voidtools.com/) | [1.4.1.922](https://www.voidtools.com/) |  | [MIT](https://opensource.org/licenses/MIT) |
 | [firefox-portable](https://www.mozilla.org/en-US/firefox/new/) | [64.0](https://www.mozilla.org/en-US/firefox/new/) |  |  |
 | [furmark](https://geeks3d.com/furmark/) | [1.20.1.0](https://geeks3d.com/furmark/) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [geekuninstaller-portable](https://geekuninstaller.com/) | [1.4.5.132](https://geekuninstaller.com/) |  | Free for personnal use only |
@@ -4148,13 +3943,6 @@
 | :--- | :--- | :--- | :--- |
 | [qr-filetransfer](https://github.com/nickers/scoop-bucket/blob/master/qr-filetransfer.json) | *0.1* |  | [MIT](https://opensource.org/licenses/MIT) |
 
-### <a name="niklaskorz_scoop-setlx" id="niklaskorz_scoop-setlx"></a>[niklaskorz/scoop-setlx](https://github.com/niklaskorz/scoop-setlx) [&#x2934;](#back_niklaskorz_scoop-setlx)
- *Scoop manifest and bucket for the SetlX interpreter*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [setlx](https://randoom.org/Software/SetlX/) | [2.7.1](https://randoom.org/Software/SetlX/) | setlX is an interpreter for the high level programming-language SetlX (set language extended) | [BSD-3](https://opensource.org/licenses/BSD-3-Clause) |
-
 ### <a name="nikolasd_scoop-bucket" id="nikolasd_scoop-bucket"></a>[nikolasd/scoop-bucket](https://github.com/nikolasd/scoop-bucket) [&#x2934;](#back_nikolasd_scoop-bucket)
  *My Scoop bucket*
 
@@ -4181,88 +3969,12 @@
 | [prepros](https://prepros.io/) | [*6.2.3*](https://prepros.io/) | Compile Sass, Less, Stylus, Jade, CoffeeScript on Mac, Windows &amp; Linux with Live Browser Reload. |  |
 | [typora](https://typora.io/#windows) | [*0.9.9.60*](https://typora.io/#windows) | A decent markdown editor finally available on Windows. |  |
 
-### <a name="nrakochy_leiningen_bucket" id="nrakochy_leiningen_bucket"></a>[nrakochy/leiningen_bucket](https://github.com/nrakochy/leiningen_bucket) [&#x2934;](#back_nrakochy_leiningen_bucket)
- *JSON package for adding Leiningen to Windows via the Scoop installer*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [leiningen_test](https://github.com/technomancy/leiningen) | [2.7.1](https://github.com/technomancy/leiningen) |  | Eclipse Public License 1.0 |
-
 ### <a name="nrakochy_scoop-solidity" id="nrakochy_scoop-solidity"></a>[nrakochy/scoop-solidity](https://github.com/nrakochy/scoop-solidity) [&#x2934;](#back_nrakochy_scoop-solidity)
  *Bucket manifest for solidity*
 
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [solidity](https://github.com/nrakochy/scoop-solidity/blob/master/solidity.json) | *0.4.18* |  |  |
-
-### <a name="NSIS-Dev_scoop-nsis" id="NSIS-Dev_scoop-nsis"></a>[NSIS-Dev/scoop-nsis](https://github.com/NSIS-Dev/scoop-nsis) [&#x2934;](#back_NSIS-Dev_scoop-nsis)
- *NSIS bucket for scoop, a command-line installer for Windows*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [nsis](http://nsis.sourceforge.net/) | [3.03](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2](http://nsis.sourceforge.net/) | [2.51](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.07](http://nsis.sourceforge.net/) | [2.07](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.08](http://nsis.sourceforge.net/) | [2.08](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.09](http://nsis.sourceforge.net/) | [2.09](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.10](http://nsis.sourceforge.net/) | [2.10](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.11](http://nsis.sourceforge.net/) | [2.11](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.12](http://nsis.sourceforge.net/) | [2.12](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.13](http://nsis.sourceforge.net/) | [2.13](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.14](http://nsis.sourceforge.net/) | [2.14](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.15](http://nsis.sourceforge.net/) | [2.15](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.16](http://nsis.sourceforge.net/) | [2.16](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.17](http://nsis.sourceforge.net/) | [2.17](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.18](http://nsis.sourceforge.net/) | [2.18](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.19](http://nsis.sourceforge.net/) | [2.19](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.20](http://nsis.sourceforge.net/) | [2.20](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.21](http://nsis.sourceforge.net/) | [2.21](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.22](http://nsis.sourceforge.net/) | [2.22](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.23](http://nsis.sourceforge.net/) | [2.23](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.24](http://nsis.sourceforge.net/) | [2.24](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.25](http://nsis.sourceforge.net/) | [2.25](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.26](http://nsis.sourceforge.net/) | [2.26](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.27](http://nsis.sourceforge.net/) | [2.27](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.28](http://nsis.sourceforge.net/) | [2.28](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.29](http://nsis.sourceforge.net/) | [2.29](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.30](http://nsis.sourceforge.net/) | [2.30](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.31](http://nsis.sourceforge.net/) | [2.31](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.32](http://nsis.sourceforge.net/) | [2.32](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.33](http://nsis.sourceforge.net/) | [2.33](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.34](http://nsis.sourceforge.net/) | [2.34](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.35](http://nsis.sourceforge.net/) | [2.35](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.36](http://nsis.sourceforge.net/) | [2.36](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.37](http://nsis.sourceforge.net/) | [2.37](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.38](http://nsis.sourceforge.net/) | [2.38](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.39](http://nsis.sourceforge.net/) | [2.39](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.40](http://nsis.sourceforge.net/) | [2.40](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.41](http://nsis.sourceforge.net/) | [2.41](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.42](http://nsis.sourceforge.net/) | [2.42](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.43](http://nsis.sourceforge.net/) | [2.43](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.44](http://nsis.sourceforge.net/) | [2.44](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.45](http://nsis.sourceforge.net/) | [2.45](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.46](http://nsis.sourceforge.net/) | [2.46](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.47](http://nsis.sourceforge.net/) | [2.47](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.48](http://nsis.sourceforge.net/) | [2.48](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.49](http://nsis.sourceforge.net/) | [2.49](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.50](http://nsis.sourceforge.net/) | [2.50](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-2.51](http://nsis.sourceforge.net/) | [2.51](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0](http://nsis.sourceforge.net/) | [3.0](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.01](http://nsis.sourceforge.net/) | [3.01](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.02](http://nsis.sourceforge.net/) | [3.02](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.02.1](http://nsis.sourceforge.net/) | [3.02.1](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.03](http://nsis.sourceforge.net/) | [3.03](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0a0](http://nsis.sourceforge.net/) | [3.0a0](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0a1](http://nsis.sourceforge.net/) | [3.0a1](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0a2](http://nsis.sourceforge.net/) | [3.0a2](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0b0](http://nsis.sourceforge.net/) | [3.0b0](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0b1](http://nsis.sourceforge.net/) | [3.0b1](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0b2](http://nsis.sourceforge.net/) | [3.0b2](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0b3](http://nsis.sourceforge.net/) | [3.0b3](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0rc1](http://nsis.sourceforge.net/) | [3.0rc1](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [nsis-3.0rc2](http://nsis.sourceforge.net/) | [3.0rc2](http://nsis.sourceforge.net/) |  | [Zlib](https://opensource.org/licenses/Zlib) |
-| [package]() |  |  |  |
-| [package-lock]() |  |  |  |
 
 ### <a name="nueko_php-ext-bucket" id="nueko_php-ext-bucket"></a>[nueko/php-ext-bucket](https://github.com/nueko/php-ext-bucket) [&#x2934;](#back_nueko_php-ext-bucket)
  *Scoop Bucket for PHP Extensions*
@@ -4912,37 +4624,6 @@
 | [jane-style](http://janesoft.net/janestyle/) | [4.0.0](http://janesoft.net/janestyle/) |  | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 | [strokeplus](https://strokesplus.com) | [2.8.6.4](https://strokesplus.com) |  |  |
 
-### <a name="Praqma_scoop-praqma-tools" id="Praqma_scoop-praqma-tools"></a>[Praqma/scoop-praqma-tools](https://github.com/Praqma/scoop-praqma-tools) [&#x2934;](#back_Praqma_scoop-praqma-tools)
- *Scoop bucket for command line tools on windows*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [git-phlow](https://github.com/praqma/git-phlow) | [*3.8.20*](https://github.com/praqma/git-phlow) |  | [mit](https://opensource.org/licenses/MIT) |
-
-### <a name="prezesp_scoop-viewer-bucket" id="prezesp_scoop-viewer-bucket"></a>[prezesp/scoop-viewer-bucket](https://github.com/prezesp/scoop-viewer-bucket) [&#x2934;](#back_prezesp_scoop-viewer-bucket)
-
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [scoop-viewer](https://github.com/prezesp/scoop-viewer) | [*v0.6.2*](https://github.com/prezesp/scoop-viewer) | A gui client for scoop |  |
-
-### <a name="propositum_scoop-tools" id="propositum_scoop-tools"></a>[propositum/scoop-tools](https://github.com/propositum/scoop-tools) [&#x2934;](#back_propositum_scoop-tools)
- *Scoop Bucket with additional tools and utilities I like to use.*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [ccalc](http://www.zoesoft.com/) | [*3.1.0*](http://www.zoesoft.com/) | Console Calculator |  |
-| [clojure](https://github.com/propositum/scoop-tools/blob/master/clojure.json) | *4.0* |  |  |
-| [markn](https://github.com/minodisk/markn) | [*0.2.1*](https://github.com/minodisk/markn) | Lightweight markdown viewer | MIT License |
-| [multicommander](http://multicommander.com) | [*8.1.0*](http://multicommander.com) | Excellent double pane file manager, fast, configurable and lightweight. |  |
-| [spdbg](http://www.nirsoft.net/utils/simple_program_debugger.html) | [*1.05*](http://www.nirsoft.net/utils/simple_program_debugger.html) | Simple Program Debugger |  |
-| [template]() |  |  |  |
-| [template-full]() |  |  |  |
-| [tree](http://gnuwin32.sourceforge.net/packages/tree.htm) | [*1.5.2.2*](http://gnuwin32.sourceforge.net/packages/tree.htm) | Unix tree command | GNU |
-| [virtualdesktopmanager](https://github.com/m0ngr31/VirtualDesktopManager/releases) | [*1.9.0*](https://github.com/m0ngr31/VirtualDesktopManager/releases) | Virtual Desktop Manager improved. | none |
-| [winlister](http://www.nirsoft.net/utils/winlister.html) | [*1.22*](http://www.nirsoft.net/utils/winlister.html) | Shows opened windows information |  |
-| [wslgit](https://github.com/propositum/scoop-tools/blob/master/wslgit.json) | *0.6.0* |  |  |
-
 ### <a name="proudzhu_scoop-bucket" id="proudzhu_scoop-bucket"></a>[proudzhu/scoop-bucket](https://github.com/proudzhu/scoop-bucket) [&#x2934;](#back_proudzhu_scoop-bucket)
 
 
@@ -4967,24 +4648,6 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [aws-assume](https://github.com/qoomon/scoop-bucket/blob/master/aws-assume.json) | *1.0.1* |  |  |
-
-### <a name="raisercostin_raiser-scoop-bucket" id="raisercostin_raiser-scoop-bucket"></a>[raisercostin/raiser-scoop-bucket](https://github.com/raisercostin/raiser-scoop-bucket) [&#x2934;](#back_raisercostin_raiser-scoop-bucket)
- *My scoop installable scripts - https://github.com/lukesampson/scoop/wiki/Buckets*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [gtools](http://p-nand-q.com/download/gtools) | [4.2](http://p-nand-q.com/download/gtools) | Gtools include: pserv, dllusage, gkalk, as well as a couple of command-line only tools: regdiff, supershell, ddupe, pathed, touch, which, md5sums. | New BSD License |
-| [hello]() |  |  |  |
-| [kscript](https://github.com/holgerbrandl/kscript) | [*2.6.0*](https://github.com/holgerbrandl/kscript) | Enhanced scripting support for Kotlin on *nix-based systems. Kotlin has some built-in support for scripting already but it is not yet feature-rich enough to be a viable alternative in the shell. | [MIT](https://opensource.org/licenses/MIT) |
-| [picasa](https://en.wikipedia.org/wiki/Picasa) | [*3.9.141.Build-259*](https://en.wikipedia.org/wiki/Picasa) | Picasa is a discontinued image organizer and image viewer for organizing and editing digital photos, plus an integrated photo-sharing website by Google | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
-| [picasa-starter](https://sites.google.com/site/picasastartersite/) | [*2.0*](https://sites.google.com/site/picasastartersite/) | PicasaStarter is a small application that provides a solution for a number of shortcomings of Google&#39;s Picasa, the image organisation and editing application. | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
-| [pidgin](https://pidgin.im/) | [2.11.0](https://pidgin.im/) | Pidgin IM - A universal instant messaging (IM) program. Pidgin is an instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems. Pidgin is compatible with the following chat networks out of the box: AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo!, Bonjour, Gadu-Gadu, IRC, MXit, Novell GroupWise Messenger, Lotus Sametime, SILC, SIMPLE, MySpaceIM, and Zephyr. It is written in C and makes heavy use of GLib and GTK+. | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [pidgin-facebook](https://github.com/dequis/purple-facebook/wiki/Installing-on-Windows) | [2018.Mar.22](https://github.com/dequis/purple-facebook/wiki/Installing-on-Windows) | Pidgin facebook plugin | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [pidgin-full](https://pidgin.im/) | [*2.11.0*](https://pidgin.im/) | Pidgin full = Pidgin IM + facebook, telegram, slack, skype plugins. A universal instant messaging (IM) program. Pidgin is an instant messaging program which lets you log in to accounts on multiple chat networks simultaneously. It runs on Windows, Linux, and other UNIX operating systems. Pidgin is compatible with the following chat networks out of the box: AIM, ICQ, Google Talk, Jabber/XMPP, MSN Messenger, Yahoo!, Bonjour, Gadu-Gadu, IRC, MXit, Novell GroupWise Messenger, Lotus Sametime, SILC, SIMPLE, MySpaceIM, and Zephyr. It is written in C and makes heavy use of GLib and GTK+. | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [pidgin-telegram](https://github.com/majn/telegram-purple) | [1.3.0rev2](https://github.com/majn/telegram-purple) | Pidgin telegram plugin | [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
-| [riot](https://riot.im/) | [0.17.6](https://riot.im/) | Riot is a decentralised, encrypted chat &amp; collaboration powered by matrix.org. It has group chat, integrations, voip &amp; video calling, bridge networks, end to end encryption, file transfer. Lots of rooms already exist in Matrix, linked to existing networks (Slack, IRC, Gitter etc) or independent. | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
-| [tortoisegit](https://tortoisegit.org/) | [2.7.0.0](https://tortoisegit.org/) | Windows Shell Interface to Git based on TortoiseSVN. | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
-| [yed](https://www.yworks.com/products/yed) | [3.18.2](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. | [freeware](https://en.wikipedia.org/wiki/Freeware) |
 
 ### <a name="rasa_scoops" id="rasa_scoops"></a>[rasa/scoops](https://github.com/rasa/scoops) [&#x2934;](#back_rasa_scoops)
  *:fries: A bucket of tasty scoop flavored apps.*
@@ -5072,449 +4735,6 @@
 | [ztree](http://www.ztree.com/html/ztreewin.htm) | [2.2](http://www.ztree.com/html/ztreewin.htm) | Text-mode file/directory manager | [Shareware](https://en.wikipedia.org/wiki/Shareware) |
 | [ztree-beta](http://www.ztree.com/html/beta.htm) | [2.4.181](http://www.ztree.com/html/beta.htm) | Text-mode file/directory manager (beta version) | [Shareware](https://en.wikipedia.org/wiki/Shareware) |
 | [ztree-zeta](http://www.ztw3.com/forum/search.php?search=[zeta]) | [2.4.186](http://www.ztw3.com/forum/search.php?search=[zeta]) | Text-mode file/directory manager (zeta version) | [Shareware](https://en.wikipedia.org/wiki/Shareware) |
-
-### <a name="rc55_demoscene" id="rc55_demoscene"></a>[rc55/demoscene](https://github.com/rc55/demoscene) [&#x2934;](#back_rc55_demoscene)
- *A Scoop bucket containing demoscene production manifests, enabling command line downloads of demoscene productions. **This is just a test area for the time being! - IT WILL BREAK!***
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [#audio-no-comply](https://github.com/rc55/demoscene/blob/master/#audio-no-comply.json) | *1.0* |  |  |
-| [#hack.se-aramchek](https://github.com/rc55/demoscene/blob/master/#hack.se-aramchek.json) | *1.0* |  |  |
-| [#hack.se-mad-world](https://github.com/rc55/demoscene/blob/master/#hack.se-mad-world.json) | *1.0* |  |  |
-| [10tons-metsã¤teollisuuden-laajuus](https://github.com/rc55/demoscene/blob/master/10tons-metsã¤teollisuuden-laajuus.json) | *1.0* |  |  |
-| [2ka-nightshift-motion-graphics-billboard](https://github.com/rc55/demoscene/blob/master/2ka-nightshift-motion-graphics-billboard.json) | *1.0* |  |  |
-| [66gramms-luca-help-me---strangebird](https://github.com/rc55/demoscene/blob/master/66gramms-luca-help-me---strangebird.json) | *1.0* |  |  |
-| [7-gods-mode](https://github.com/rc55/demoscene/blob/master/7-gods-mode.json) | *1.0* |  |  |
-| [a-life-in-hell-the-mandlebot-project-artifact-#1-(aka-jeffery)](https://github.com/rc55/demoscene/blob/master/a-life-in-hell-the-mandlebot-project-artifact-#1-(aka-jeffery).json) | *1.0* |  |  |
-| [aardbei-miss-guided](https://github.com/rc55/demoscene/blob/master/aardbei-miss-guided.json) | *1.0* |  |  |
-| [abyss-connection-new-horizons](https://github.com/rc55/demoscene/blob/master/abyss-connection-new-horizons.json) | *1.0* |  |  |
-| [abyss-nikolaus](https://github.com/rc55/demoscene/blob/master/abyss-nikolaus.json) | *1.0* |  |  |
-| [addict-liquid-forms](https://github.com/rc55/demoscene/blob/master/addict-liquid-forms.json) | *1.0* |  |  |
-| [addict-mind-machine](https://github.com/rc55/demoscene/blob/master/addict-mind-machine.json) | *1.0* |  |  |
-| [addict-miracle](https://github.com/rc55/demoscene/blob/master/addict-miracle.json) | *1.0* |  |  |
-| [adeptapril-and-dusty-love-story](https://github.com/rc55/demoscene/blob/master/adeptapril-and-dusty-love-story.json) | *1.0* |  |  |
-| [adinpsz-metadark](https://github.com/rc55/demoscene/blob/master/adinpsz-metadark.json) | *1.0* |  |  |
-| [adventura-lonely-man](https://github.com/rc55/demoscene/blob/master/adventura-lonely-man.json) | *1.0* |  |  |
-| [ajna-monumentalne-zabytki-mmdxxv](https://github.com/rc55/demoscene/blob/master/ajna-monumentalne-zabytki-mmdxxv.json) | *1.0* |  |  |
-| [ajna-monumentalne-zabytki-mmmmmmmdx](https://github.com/rc55/demoscene/blob/master/ajna-monumentalne-zabytki-mmmmmmmdx.json) | *1.0* |  |  |
-| [alien)(dream-and-genshinken-anachronism](https://github.com/rc55/demoscene/blob/master/alien)(dream-and-genshinken-anachronism.json) | *1.0* |  |  |
-| [allien-senses-and-anadune-angelic-forum](https://github.com/rc55/demoscene/blob/master/allien-senses-and-anadune-angelic-forum.json) | *1.0* |  |  |
-| [altair-man-whoo-swallowed-swarming-beehavior](https://github.com/rc55/demoscene/blob/master/altair-man-whoo-swallowed-swarming-beehavior.json) | *1.0* |  |  |
-| [altair-monoamine](https://github.com/rc55/demoscene/blob/master/altair-monoamine.json) | *1.0* |  |  |
-| [amigbg-and-compusphere-amiga-summer-party](https://github.com/rc55/demoscene/blob/master/amigbg-and-compusphere-amiga-summer-party.json) | *1.0* |  |  |
-| [anadune-and-nah-kolor-moonstone](https://github.com/rc55/demoscene/blob/master/anadune-and-nah-kolor-moonstone.json) | *1.0* |  |  |
-| [ananasmurska-mystical-machine](https://github.com/rc55/demoscene/blob/master/ananasmurska-mystical-machine.json) | *1.0* |  |  |
-| [androids-the-making-of-fuzzy-dice](https://github.com/rc55/demoscene/blob/master/androids-the-making-of-fuzzy-dice.json) | *1.0* |  |  |
-| [andromeda-software-development-and-minimalartifact-anoxia-redux](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-and-minimalartifact-anoxia-redux.json) | *1.0* |  |  |
-| [andromeda-software-development-animal-attraction](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-animal-attraction.json) | *1.0* |  |  |
-| [andromeda-software-development-antidote-for-the-masses](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-antidote-for-the-masses.json) | *1.0* |  |  |
-| [andromeda-software-development-aphorism-for-the-masses](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-aphorism-for-the-masses.json) | *1.0* |  |  |
-| [andromeda-software-development-lifeforce](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-lifeforce.json) | *1.0* |  |  |
-| [andromeda-software-development-litography](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-litography.json) | *1.0* |  |  |
-| [andromeda-software-development-metamorphosis](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-metamorphosis.json) | *1.0* |  |  |
-| [andromeda-software-development-midnight-run](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-midnight-run.json) | *1.0* |  |  |
-| [andromeda-software-development-mito-chondrio](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-mito-chondrio.json) | *1.0* |  |  |
-| [andromeda-software-development-monolith](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-monolith.json) | *1.0* |  |  |
-| [andromeda-software-development-mrs-escher's-nightmare](https://github.com/rc55/demoscene/blob/master/andromeda-software-development-mrs-escher's-nightmare.json) | *1.0* |  |  |
-| [aneurysm-aneurysm01](https://github.com/rc55/demoscene/blob/master/aneurysm-aneurysm01.json) | *1.0* |  |  |
-| [anhk,-colas-and-zixaq-antisectic](https://github.com/rc55/demoscene/blob/master/anhk,-colas-and-zixaq-antisectic.json) | *1.0* |  |  |
-| [anti-macaw-brigade-macawsux-2](https://github.com/rc55/demoscene/blob/master/anti-macaw-brigade-macawsux-2.json) | *1.0* |  |  |
-| [apex-neuronal-flashes](https://github.com/rc55/demoscene/blob/master/apex-neuronal-flashes.json) | *1.0* |  |  |
-| [apocalypse-inc.-andromus](https://github.com/rc55/demoscene/blob/master/apocalypse-inc.-andromus.json) | *1.0* |  |  |
-| [art-mafia-collective-my-dreams](https://github.com/rc55/demoscene/blob/master/art-mafia-collective-my-dreams.json) | *1.0* |  |  |
-| [aspirine-life-is-a-bizz](https://github.com/rc55/demoscene/blob/master/aspirine-life-is-a-bizz.json) | *1.0* |  |  |
-| [astronautenbande-ðÿœš-(molester-moon-emoji)](https://github.com/rc55/demoscene/blob/master/astronautenbande-ðÿœš-(molester-moon-emoji).json) | *1.0* |  |  |
-| [aural-planet-and-satori-metamorf](https://github.com/rc55/demoscene/blob/master/aural-planet-and-satori-metamorf.json) | *1.0* |  |  |
-| [australian-drug-foundation-low-echo](https://github.com/rc55/demoscene/blob/master/australian-drug-foundation-low-echo.json) | *1.0* |  |  |
-| [awind-and-hymy-meteoroid](https://github.com/rc55/demoscene/blob/master/awind-and-hymy-meteoroid.json) | *1.0* |  |  |
-| [azure-memory-2004](https://github.com/rc55/demoscene/blob/master/azure-memory-2004.json) | *1.0* |  |  |
-| [bawlz-new-york-beautiful](https://github.com/rc55/demoscene/blob/master/bawlz-new-york-beautiful.json) | *1.0* |  |  |
-| [beer2beer-vs-pizza2code-long-run](https://github.com/rc55/demoscene/blob/master/beer2beer-vs-pizza2code-long-run.json) | *1.0* |  |  |
-| [benny-loom-of-doom](https://github.com/rc55/demoscene/blob/master/benny-loom-of-doom.json) | *1.0* |  |  |
-| [big-scary-agency-ludo-demo](https://github.com/rc55/demoscene/blob/master/big-scary-agency-ludo-demo.json) | *1.0* |  |  |
-| [bilotrip-majestic-twelve](https://github.com/rc55/demoscene/blob/master/bilotrip-majestic-twelve.json) | *1.0* |  |  |
-| [black-maiden-and-bypass-monorail](https://github.com/rc55/demoscene/blob/master/black-maiden-and-bypass-monorail.json) | *1.0* |  |  |
-| [blasphemy-and-purple-megademo-2000](https://github.com/rc55/demoscene/blob/master/blasphemy-and-purple-megademo-2000.json) | *1.0* |  |  |
-| [blob-ndir](https://github.com/rc55/demoscene/blob/master/blob-ndir.json) | *1.0* |  |  |
-| [blocktronics,-desire-and-quã©barium-new.txt](https://github.com/rc55/demoscene/blob/master/blocktronics,-desire-and-quã©barium-new.txt.json) | *1.0* |  |  |
-| [bonâ²-limiteo](https://github.com/rc55/demoscene/blob/master/bonâ²-limiteo.json) | *1.0* |  |  |
-| [boolean,-handle-and-spikeheddd-morjen](https://github.com/rc55/demoscene/blob/master/boolean,-handle-and-spikeheddd-morjen.json) | *1.0* |  |  |
-| [boonecrew-antz-in-the-pants](https://github.com/rc55/demoscene/blob/master/boonecrew-antz-in-the-pants.json) | *1.0* |  |  |
-| [boozing-kupoz-narcoleptic-insomnia](https://github.com/rc55/demoscene/blob/master/boozing-kupoz-narcoleptic-insomnia.json) | *1.0* |  |  |
-| [boozing-kupoz-the-lonely-tower](https://github.com/rc55/demoscene/blob/master/boozing-kupoz-the-lonely-tower.json) | *1.0* |  |  |
-| [boozoholics-megahitler-expansion-pack](https://github.com/rc55/demoscene/blob/master/boozoholics-megahitler-expansion-pack.json) | *1.0* |  |  |
-| [brainstorm-and-loonies-memento-mori](https://github.com/rc55/demoscene/blob/master/brainstorm-and-loonies-memento-mori.json) | *1.0* |  |  |
-| [brainstorm-and-traction-muoto](https://github.com/rc55/demoscene/blob/master/brainstorm-and-traction-muoto.json) | *1.0* |  |  |
-| [brainstorm-lucifer](https://github.com/rc55/demoscene/blob/master/brainstorm-lucifer.json) | *1.0* |  |  |
-| [brainstorm-magrathea](https://github.com/rc55/demoscene/blob/master/brainstorm-magrathea.json) | *1.0* |  |  |
-| [brainwave-and-warpig-studio-militarize](https://github.com/rc55/demoscene/blob/master/brainwave-and-warpig-studio-militarize.json) | *1.0* |  |  |
-| [buenzli-orgas-and-netpoet-my-buenzli---the-demodays-2011-invitation](https://github.com/rc55/demoscene/blob/master/buenzli-orgas-and-netpoet-my-buenzli---the-demodays-2011-invitation.json) | *1.0* |  |  |
-| [byterapers-monotypia](https://github.com/rc55/demoscene/blob/master/byterapers-monotypia.json) | *1.0* |  |  |
-| [calamity-aperturist](https://github.com/rc55/demoscene/blob/master/calamity-aperturist.json) | *1.0* |  |  |
-| [calamity-mode](https://github.com/rc55/demoscene/blob/master/calamity-mode.json) | *1.0* |  |  |
-| [capanna-lost-in-central-europe](https://github.com/rc55/demoscene/blob/master/capanna-lost-in-central-europe.json) | *1.0* |  |  |
-| [carl-b-anal-og](https://github.com/rc55/demoscene/blob/master/carl-b-anal-og.json) | *1.0* |  |  |
-| [cheat-the-machine-anonymous](https://github.com/rc55/demoscene/blob/master/cheat-the-machine-anonymous.json) | *1.0* |  |  |
-| [chojin-megumi's-lesson](https://github.com/rc55/demoscene/blob/master/chojin-megumi's-lesson.json) | *1.0* |  |  |
-| [chucky-minimalistic-compofiller](https://github.com/rc55/demoscene/blob/master/chucky-minimalistic-compofiller.json) | *1.0* |  |  |
-| [clrsrc-macnorris](https://github.com/rc55/demoscene/blob/master/clrsrc-macnorris.json) | *1.0* |  |  |
-| [cncd,-fairlight-and-orange-media-error](https://github.com/rc55/demoscene/blob/master/cncd,-fairlight-and-orange-media-error.json) | *1.0* |  |  |
-| [cocoon-nazca](https://github.com/rc55/demoscene/blob/master/cocoon-nazca.json) | *1.0* |  |  |
-| [colas,-tetrisman-and-valdor-micron](https://github.com/rc55/demoscene/blob/master/colas,-tetrisman-and-valdor-micron.json) | *1.0* |  |  |
-| [community-announcements-no-egg-on-kebabs-in-sydney](https://github.com/rc55/demoscene/blob/master/community-announcements-no-egg-on-kebabs-in-sydney.json) | *1.0* |  |  |
-| [confine-lost](https://github.com/rc55/demoscene/blob/master/confine-lost.json) | *1.0* |  |  |
-| [confine-new-work](https://github.com/rc55/demoscene/blob/master/confine-new-work.json) | *1.0* |  |  |
-| [creative-mind-linear](https://github.com/rc55/demoscene/blob/master/creative-mind-linear.json) | *1.0* |  |  |
-| [cricky-light-=-control-xor-freedom](https://github.com/rc55/demoscene/blob/master/cricky-light-=-control-xor-freedom.json) | *1.0* |  |  |
-| [crolyx-megachaos](https://github.com/rc55/demoscene/blob/master/crolyx-megachaos.json) | *1.0* |  |  |
-| [crolyx-my-own-bullet-of-autumn](https://github.com/rc55/demoscene/blob/master/crolyx-my-own-bullet-of-autumn.json) | *1.0* |  |  |
-| [cypres-noname-2](https://github.com/rc55/demoscene/blob/master/cypres-noname-2.json) | *1.0* |  |  |
-| [d'oh!-lullaby](https://github.com/rc55/demoscene/blob/master/d'oh!-lullaby.json) | *1.0* |  |  |
-| [d-lirium-nature-of-fortune-iii](https://github.com/rc55/demoscene/blob/master/d-lirium-nature-of-fortune-iii.json) | *1.0* |  |  |
-| [dahan-mary](https://github.com/rc55/demoscene/blob/master/dahan-mary.json) | *1.0* |  |  |
-| [damones-and-finnish-amiga-group-megademo-2006](https://github.com/rc55/demoscene/blob/master/damones-and-finnish-amiga-group-megademo-2006.json) | *1.0* |  |  |
-| [dark-bit-factory-amorphous-darkness](https://github.com/rc55/demoscene/blob/master/dark-bit-factory-amorphous-darkness.json) | *1.0* |  |  |
-| [dark-codex-amplexus-primordia](https://github.com/rc55/demoscene/blob/master/dark-codex-amplexus-primordia.json) | *1.0* |  |  |
-| [darklite-more-pigs---5-hours-of-partycode](https://github.com/rc55/demoscene/blob/master/darklite-more-pigs---5-hours-of-partycode.json) | *1.0* |  |  |
-| [daydreamer-designs-lã¶ã¶ppijulkkis](https://github.com/rc55/demoscene/blob/master/daydreamer-designs-lã¶ã¶ppijulkkis.json) | *1.0* |  |  |
-| [defame-low-poly](https://github.com/rc55/demoscene/blob/master/defame-low-poly.json) | *1.0* |  |  |
-| [dekadence,-jumalauta-and-mfx-lilith---the-universe,-part-666](https://github.com/rc55/demoscene/blob/master/dekadence,-jumalauta-and-mfx-lilith---the-universe,-part-666.json) | *1.0* |  |  |
-| [delabu-alama-luchador](https://github.com/rc55/demoscene/blob/master/delabu-alama-luchador.json) | *1.0* |  |  |
-| [delabualama-monamixxx](https://github.com/rc55/demoscene/blob/master/delabualama-monamixxx.json) | *1.0* |  |  |
-| [delight-nighshift](https://github.com/rc55/demoscene/blob/master/delight-nighshift.json) | *1.0* |  |  |
-| [demarche-magic-balls](https://github.com/rc55/demoscene/blob/master/demarche-magic-balls.json) | *1.0* |  |  |
-| [desire-lost--signal](https://github.com/rc55/demoscene/blob/master/desire-lost--signal.json) | *1.0* |  |  |
-| [deus-lost-journeyman-project](https://github.com/rc55/demoscene/blob/master/deus-lost-journeyman-project.json) | *1.0* |  |  |
-| [digitalangels-angel-dust](https://github.com/rc55/demoscene/blob/master/digitalangels-angel-dust.json) | *1.0* |  |  |
-| [disaster-area-and-a-merry-bloody-xmas-to-you](https://github.com/rc55/demoscene/blob/master/disaster-area-and-a-merry-bloody-xmas-to-you.json) | *1.0* |  |  |
-| [division-the-apparatus](https://github.com/rc55/demoscene/blob/master/division-the-apparatus.json) | *1.0* |  |  |
-| [djinn-morepower](https://github.com/rc55/demoscene/blob/master/djinn-morepower.json) | *1.0* |  |  |
-| [dlyr,-kala-and-li_long-light](https://github.com/rc55/demoscene/blob/master/dlyr,-kala-and-li_long-light.json) | *1.0* |  |  |
-| [downtown-monte-carlo](https://github.com/rc55/demoscene/blob/master/downtown-monte-carlo.json) | *1.0* |  |  |
-| [dual-crew-shining-and-mfx-limousine-for-the-demoscene---the-payback-2013-invitation](https://github.com/rc55/demoscene/blob/master/dual-crew-shining-and-mfx-limousine-for-the-demoscene---the-payback-2013-invitation.json) | *1.0* |  |  |
-| [einklang.net-medium](https://github.com/rc55/demoscene/blob/master/einklang.net-medium.json) | *1.0* |  |  |
-| [ekspert-and-topi-mk-bra](https://github.com/rc55/demoscene/blob/master/ekspert-and-topi-mk-bra.json) | *1.0* |  |  |
-| [elitegroup.fr-.made-.by](https://github.com/rc55/demoscene/blob/master/elitegroup.fr-.made-.by.json) | *1.0* |  |  |
-| [epilepsy-and-neurosis-narcolepsy](https://github.com/rc55/demoscene/blob/master/epilepsy-and-neurosis-narcolepsy.json) | *1.0* |  |  |
-| [epilepsy-no-escape](https://github.com/rc55/demoscene/blob/master/epilepsy-no-escape.json) | *1.0* |  |  |
-| [etak-noga-16](https://github.com/rc55/demoscene/blob/master/etak-noga-16.json) | *1.0* |  |  |
-| [extrait-lights-off](https://github.com/rc55/demoscene/blob/master/extrait-lights-off.json) | *1.0* |  |  |
-| [extreme-command-love-parade](https://github.com/rc55/demoscene/blob/master/extreme-command-love-parade.json) | *1.0* |  |  |
-| [fairlight-and-the-black-lotus-only-one-wish](https://github.com/rc55/demoscene/blob/master/fairlight-and-the-black-lotus-only-one-wish.json) | *1.0* |  |  |
-| [fairlight-apocalypse-when](https://github.com/rc55/demoscene/blob/master/fairlight-apocalypse-when.json) | *1.0* |  |  |
-| [fairlight-liquid-lust](https://github.com/rc55/demoscene/blob/master/fairlight-liquid-lust.json) | *1.0* |  |  |
-| [fairlight-monkeys-'n-chihuahua's](https://github.com/rc55/demoscene/blob/master/fairlight-monkeys-'n-chihuahua's.json) | *1.0* |  |  |
-| [faque,-metalvotze-and-squoquo-mm-shitty-style](https://github.com/rc55/demoscene/blob/master/faque,-metalvotze-and-squoquo-mm-shitty-style.json) | *1.0* |  |  |
-| [federation-against-nature-nature-still-suxx](https://github.com/rc55/demoscene/blob/master/federation-against-nature-nature-still-suxx.json) | *1.0* |  |  |
-| [federation-against-nature-nature-suxx](https://github.com/rc55/demoscene/blob/master/federation-against-nature-nature-suxx.json) | *1.0* |  |  |
-| [firg-lottã³zã³](https://github.com/rc55/demoscene/blob/master/firg-lottã³zã³.json) | *1.0* |  |  |
-| [flo-ampd](https://github.com/rc55/demoscene/blob/master/flo-ampd.json) | *1.0* |  |  |
-| [flo-luutia](https://github.com/rc55/demoscene/blob/master/flo-luutia.json) | *1.0* |  |  |
-| [flo-nailusator](https://github.com/rc55/demoscene/blob/master/flo-nailusator.json) | *1.0* |  |  |
-| [frequency-madchip](https://github.com/rc55/demoscene/blob/master/frequency-madchip.json) | *1.0* |  |  |
-| [fresh!mindworkz-and-ãœmlaã¼t-design-margin-of-error](https://github.com/rc55/demoscene/blob/master/fresh!mindworkz-and-ãœmlaã¼t-design-margin-of-error.json) | *1.0* |  |  |
-| [fresh!mindworkz-and-ãœmlaã¼t-design-meaningless](https://github.com/rc55/demoscene/blob/master/fresh!mindworkz-and-ãœmlaã¼t-design-meaningless.json) | *1.0* |  |  |
-| [fresh!mindworkz-negative-isotope](https://github.com/rc55/demoscene/blob/master/fresh!mindworkz-negative-isotope.json) | *1.0* |  |  |
-| [fresh!mindworkz-neuron-x](https://github.com/rc55/demoscene/blob/master/fresh!mindworkz-neuron-x.json) | *1.0* |  |  |
-| [froggy-my-first-demo](https://github.com/rc55/demoscene/blob/master/froggy-my-first-demo.json) | *1.0* |  |  |
-| [froggycorp-minianimals](https://github.com/rc55/demoscene/blob/master/froggycorp-minianimals.json) | *1.0* |  |  |
-| [frozak-nimmerland](https://github.com/rc55/demoscene/blob/master/frozak-nimmerland.json) | *1.0* |  |  |
-| [fulcrum-a-minor-impact-on-productivity](https://github.com/rc55/demoscene/blob/master/fulcrum-a-minor-impact-on-productivity.json) | *1.0* |  |  |
-| [fulcrum-natural-grown-killer](https://github.com/rc55/demoscene/blob/master/fulcrum-natural-grown-killer.json) | *1.0* |  |  |
-| [futuris-machineris](https://github.com/rc55/demoscene/blob/master/futuris-machineris.json) | *1.0* |  |  |
-| [fuzzion-mankind-kolors](https://github.com/rc55/demoscene/blob/master/fuzzion-mankind-kolors.json) | *1.0* |  |  |
-| [glass-mjukglass](https://github.com/rc55/demoscene/blob/master/glass-mjukglass.json) | *1.0* |  |  |
-| [gluterol-noisedemo](https://github.com/rc55/demoscene/blob/master/gluterol-noisedemo.json) | *1.0* |  |  |
-| [godasyou-minimal-ratance](https://github.com/rc55/demoscene/blob/master/godasyou-minimal-ratance.json) | *1.0* |  |  |
-| [greuh!-lotte](https://github.com/rc55/demoscene/blob/master/greuh!-lotte.json) | *1.0* |  |  |
-| [groupe-k-moustik-story](https://github.com/rc55/demoscene/blob/master/groupe-k-moustik-story.json) | *1.0* |  |  |
-| [grunstein-studios-mouse-overdose](https://github.com/rc55/demoscene/blob/master/grunstein-studios-mouse-overdose.json) | *1.0* |  |  |
-| [guideline-memorial](https://github.com/rc55/demoscene/blob/master/guideline-memorial.json) | *1.0* |  |  |
-| [guideline-messing-with-the-current](https://github.com/rc55/demoscene/blob/master/guideline-messing-with-the-current.json) | *1.0* |  |  |
-| [haujobb-mikrostrange](https://github.com/rc55/demoscene/blob/master/haujobb-mikrostrange.json) | *1.0* |  |  |
-| [haujobb-moments](https://github.com/rc55/demoscene/blob/master/haujobb-moments.json) | *1.0* |  |  |
-| [haujobb-mosaik](https://github.com/rc55/demoscene/blob/master/haujobb-mosaik.json) | *1.0* |  |  |
-| [hirmu-loving-spoonful](https://github.com/rc55/demoscene/blob/master/hirmu-loving-spoonful.json) | *1.0* |  |  |
-| [holograms-ancient-dreams](https://github.com/rc55/demoscene/blob/master/holograms-ancient-dreams.json) | *1.0* |  |  |
-| [hybrid-2k-never-finished](https://github.com/rc55/demoscene/blob/master/hybrid-2k-never-finished.json) | *1.0* |  |  |
-| [hypercube-marxism](https://github.com/rc55/demoscene/blob/master/hypercube-marxism.json) | *1.0* |  |  |
-| [hã¤lã¤blã¤p-crew-â€¦](https://github.com/rc55/demoscene/blob/master/hã¤lã¤blã¤p-crew-â€¦.json) | *1.0* |  |  |
-| [ijskast-liflaf](https://github.com/rc55/demoscene/blob/master/ijskast-liflaf.json) | *1.0* |  |  |
-| [indigo-demo-division-lolfiller2k16!!!111kek](https://github.com/rc55/demoscene/blob/master/indigo-demo-division-lolfiller2k16!!!111kek.json) | *1.0* |  |  |
-| [inf-love-creation-max](https://github.com/rc55/demoscene/blob/master/inf-love-creation-max.json) | *1.0* |  |  |
-| [infuse-megatokyo](https://github.com/rc55/demoscene/blob/master/infuse-megatokyo.json) | *1.0* |  |  |
-| [insomnia-moments](https://github.com/rc55/demoscene/blob/master/insomnia-moments.json) | *1.0* |  |  |
-| [iso-matkustin-koko-tã¤mã¤n-matkan-kertoakseni-teille-ettã¤-olen-sahramista-valmistettu-konekã¤ã¤pã¤](https://github.com/rc55/demoscene/blob/master/iso-matkustin-koko-tã¤mã¤n-matkan-kertoakseni-teille-ettã¤-olen-sahramista-valmistettu-konekã¤ã¤pã¤.json) | *1.0* |  |  |
-| [iso-metsã¤n-elã¤imet](https://github.com/rc55/demoscene/blob/master/iso-metsã¤n-elã¤imet.json) | *1.0* |  |  |
-| [iso-nameless-kauhanen4-demo](https://github.com/rc55/demoscene/blob/master/iso-nameless-kauhanen4-demo.json) | *1.0* |  |  |
-| [ivory-labs-lucy](https://github.com/rc55/demoscene/blob/master/ivory-labs-lucy.json) | *1.0* |  |  |
-| [ivory-mystery-demoscene-theater-9000-season-1-episode-9-invitation](https://github.com/rc55/demoscene/blob/master/ivory-mystery-demoscene-theater-9000-season-1-episode-9-invitation.json) | *1.0* |  |  |
-| [iya-minimal_anal](https://github.com/rc55/demoscene/blob/master/iya-minimal_anal.json) | *1.0* |  |  |
-| [jadecorp-mp+1](https://github.com/rc55/demoscene/blob/master/jadecorp-mp+1.json) | *1.0* |  |  |
-| [japotek-my-love](https://github.com/rc55/demoscene/blob/master/japotek-my-love.json) | *1.0* |  |  |
-| [jimage-malkovich-malkovich-malkovich](https://github.com/rc55/demoscene/blob/master/jimage-malkovich-malkovich-malkovich.json) | *1.0* |  |  |
-| [john-doe-mindcluster](https://github.com/rc55/demoscene/blob/master/john-doe-mindcluster.json) | *1.0* |  |  |
-| [jolt-mash-room](https://github.com/rc55/demoscene/blob/master/jolt-mash-room.json) | *1.0* |  |  |
-| [jugi-kaartinen-nima-one-introduction](https://github.com/rc55/demoscene/blob/master/jugi-kaartinen-nima-one-introduction.json) | *1.0* |  |  |
-| [jugz-ministry-of-sound](https://github.com/rc55/demoscene/blob/master/jugz-ministry-of-sound.json) | *1.0* |  |  |
-| [jukupliut-natur](https://github.com/rc55/demoscene/blob/master/jukupliut-natur.json) | *1.0* |  |  |
-| [jumalauta-ancient-signals](https://github.com/rc55/demoscene/blob/master/jumalauta-ancient-signals.json) | *1.0* |  |  |
-| [jumalauta-long-marry-emperor](https://github.com/rc55/demoscene/blob/master/jumalauta-long-marry-emperor.json) | *1.0* |  |  |
-| [jumalauta-mainboards-of-atari](https://github.com/rc55/demoscene/blob/master/jumalauta-mainboards-of-atari.json) | *1.0* |  |  |
-| [jumalauta-money-and-more](https://github.com/rc55/demoscene/blob/master/jumalauta-money-and-more.json) | *1.0* |  |  |
-| [jumalauta-my-super-jumalauta-sweet-16](https://github.com/rc55/demoscene/blob/master/jumalauta-my-super-jumalauta-sweet-16.json) | *1.0* |  |  |
-| [jumalauta-the-long-march](https://github.com/rc55/demoscene/blob/master/jumalauta-the-long-march.json) | *1.0* |  |  |
-| [jumalauta-the-mega-demo](https://github.com/rc55/demoscene/blob/master/jumalauta-the-mega-demo.json) | *1.0* |  |  |
-| [jumalauta-x-message-to-the-whiteman-in-demoscene](https://github.com/rc55/demoscene/blob/master/jumalauta-x-message-to-the-whiteman-in-demoscene.json) | *1.0* |  |  |
-| [kaktusen-and-mr.-clean-nm-i-compofiller](https://github.com/rc55/demoscene/blob/master/kaktusen-and-mr.-clean-nm-i-compofiller.json) | *1.0* |  |  |
-| [kaleido-mooit](https://github.com/rc55/demoscene/blob/master/kaleido-mooit.json) | *1.0* |  |  |
-| [kbe-m455iv3-menel](https://github.com/rc55/demoscene/blob/master/kbe-m455iv3-menel.json) | *1.0* |  |  |
-| [kewlers-another-high-caliber-mechanical-complication-(ah-cmc)](https://github.com/rc55/demoscene/blob/master/kewlers-another-high-caliber-mechanical-complication-(ah-cmc).json) | *1.0* |  |  |
-| [kewlers-mf-real](https://github.com/rc55/demoscene/blob/master/kewlers-mf-real.json) | *1.0* |  |  |
-| [kewlers-mono-part-1](https://github.com/rc55/demoscene/blob/master/kewlers-mono-part-1.json) | *1.0* |  |  |
-| [keyboarders-aperitif](https://github.com/rc55/demoscene/blob/master/keyboarders-aperitif.json) | *1.0* |  |  |
-| [keyboarders-life-on-the-grid](https://github.com/rc55/demoscene/blob/master/keyboarders-life-on-the-grid.json) | *1.0* |  |  |
-| [kiki-productions-ltp-invasion](https://github.com/rc55/demoscene/blob/master/kiki-productions-ltp-invasion.json) | *1.0* |  |  |
-| [kiki-productions-minimal-animal-fast](https://github.com/rc55/demoscene/blob/master/kiki-productions-minimal-animal-fast.json) | *1.0* |  |  |
-| [kiki-productions-mirages](https://github.com/rc55/demoscene/blob/master/kiki-productions-mirages.json) | *1.0* |  |  |
-| [knights-little-simple-demo](https://github.com/rc55/demoscene/blob/master/knights-little-simple-demo.json) | *1.0* |  |  |
-| [kooma-love,-fear,-the-numbers](https://github.com/rc55/demoscene/blob/master/kooma-love,-fear,-the-numbers.json) | *1.0* |  |  |
-| [kooma-media-huora](https://github.com/rc55/demoscene/blob/master/kooma-media-huora.json) | *1.0* |  |  |
-| [kooma-mighty-dollar](https://github.com/rc55/demoscene/blob/master/kooma-mighty-dollar.json) | *1.0* |  |  |
-| [koomadot-lines](https://github.com/rc55/demoscene/blob/master/koomadot-lines.json) | *1.0* |  |  |
-| [kosmoplovci-and-minimalartifact-the-lost-religion-of-light](https://github.com/rc55/demoscene/blob/master/kosmoplovci-and-minimalartifact-the-lost-religion-of-light.json) | *1.0* |  |  |
-| [kosmoplovci-migracija](https://github.com/rc55/demoscene/blob/master/kosmoplovci-migracija.json) | *1.0* |  |  |
-| [kosmoplovci-minimalanimal](https://github.com/rc55/demoscene/blob/master/kosmoplovci-minimalanimal.json) | *1.0* |  |  |
-| [ksh-meta](https://github.com/rc55/demoscene/blob/master/ksh-meta.json) | *1.0* |  |  |
-| [kvasigen-and-outracks-the-limit](https://github.com/rc55/demoscene/blob/master/kvasigen-and-outracks-the-limit.json) | *1.0* |  |  |
-| [lbt-anal-probejection](https://github.com/rc55/demoscene/blob/master/lbt-anal-probejection.json) | *1.0* |  |  |
-| [lightcore-anomie](https://github.com/rc55/demoscene/blob/master/lightcore-anomie.json) | *1.0* |  |  |
-| [limp-ninja-antifact](https://github.com/rc55/demoscene/blob/master/limp-ninja-antifact.json) | *1.0* |  |  |
-| [limp-ninja-lomp-nonja](https://github.com/rc55/demoscene/blob/master/limp-ninja-lomp-nonja.json) | *1.0* |  |  |
-| [link-the-energies-mushroomz](https://github.com/rc55/demoscene/blob/master/link-the-energies-mushroomz.json) | *1.0* |  |  |
-| [link-the-energies-noname](https://github.com/rc55/demoscene/blob/master/link-the-energies-noname.json) | *1.0* |  |  |
-| [lion-metalique](https://github.com/rc55/demoscene/blob/master/lion-metalique.json) | *1.0* |  |  |
-| [lithe.lewd.leyman-anorganic-orange](https://github.com/rc55/demoscene/blob/master/lithe.lewd.leyman-anorganic-orange.json) | *1.0* |  |  |
-| [lnx-light-city](https://github.com/rc55/demoscene/blob/master/lnx-light-city.json) | *1.0* |  |  |
-| [loopit-min](https://github.com/rc55/demoscene/blob/master/loopit-min.json) | *1.0* |  |  |
-| [lorraine-productions-mandon-array](https://github.com/rc55/demoscene/blob/master/lorraine-productions-mandon-array.json) | *1.0* |  |  |
-| [low-fuel-love-cancer](https://github.com/rc55/demoscene/blob/master/low-fuel-love-cancer.json) | *1.0* |  |  |
-| [lowfuel-light-for-life](https://github.com/rc55/demoscene/blob/master/lowfuel-light-for-life.json) | *1.0* |  |  |
-| [lucis-magia-milkshake](https://github.com/rc55/demoscene/blob/master/lucis-magia-milkshake.json) | *1.0* |  |  |
-| [lumental-magic-blocks](https://github.com/rc55/demoscene/blob/master/lumental-magic-blocks.json) | *1.0* |  |  |
-| [lunix-music-influence](https://github.com/rc55/demoscene/blob/master/lunix-music-influence.json) | *1.0* |  |  |
-| [m-'n-m-liver-wash](https://github.com/rc55/demoscene/blob/master/m-'n-m-liver-wash.json) | *1.0* |  |  |
-| [mad-virgin-narcotic-flower](https://github.com/rc55/demoscene/blob/master/mad-virgin-narcotic-flower.json) | *1.0* |  |  |
-| [mad-virgin-neurotik](https://github.com/rc55/demoscene/blob/master/mad-virgin-neurotik.json) | *1.0* |  |  |
-| [madami-natural-beat](https://github.com/rc55/demoscene/blob/master/madami-natural-beat.json) | *1.0* |  |  |
-| [madbrain-megademo-zx](https://github.com/rc55/demoscene/blob/master/madbrain-megademo-zx.json) | *1.0* |  |  |
-| [madsy-lines!](https://github.com/rc55/demoscene/blob/master/madsy-lines!.json) | *1.0* |  |  |
-| [mainloop-monopolo](https://github.com/rc55/demoscene/blob/master/mainloop-monopolo.json) | *1.0* |  |  |
-| [mandula-live-evil](https://github.com/rc55/demoscene/blob/master/mandula-live-evil.json) | *1.0* |  |  |
-| [marshals-meteor](https://github.com/rc55/demoscene/blob/master/marshals-meteor.json) | *1.0* |  |  |
-| [marshals-my-own-monoscope](https://github.com/rc55/demoscene/blob/master/marshals-my-own-monoscope.json) | *1.0* |  |  |
-| [marshals-neperliva-(spleen-2)](https://github.com/rc55/demoscene/blob/master/marshals-neperliva-(spleen-2).json) | *1.0* |  |  |
-| [marvin-mr.-kuuub](https://github.com/rc55/demoscene/blob/master/marvin-mr.-kuuub.json) | *1.0* |  |  |
-| [marvin-mr.-kuuub-reloaded](https://github.com/rc55/demoscene/blob/master/marvin-mr.-kuuub-reloaded.json) | *1.0* |  |  |
-| [mayoneez-and-the-boys-moped](https://github.com/rc55/demoscene/blob/master/mayoneez-and-the-boys-moped.json) | *1.0* |  |  |
-| [melancholy-limbo](https://github.com/rc55/demoscene/blob/master/melancholy-limbo.json) | *1.0* |  |  |
-| [melting-pot-and-olneda-massive-attack](https://github.com/rc55/demoscene/blob/master/melting-pot-and-olneda-massive-attack.json) | *1.0* |  |  |
-| [melting-pot-momentum-3](https://github.com/rc55/demoscene/blob/master/melting-pot-momentum-3.json) | *1.0* |  |  |
-| [melting-pot-music-fairy](https://github.com/rc55/demoscene/blob/master/melting-pot-music-fairy.json) | *1.0* |  |  |
-| [mental-mnt07---crossproduct](https://github.com/rc55/demoscene/blob/master/mental-mnt07---crossproduct.json) | *1.0* |  |  |
-| [mental-mnt08--the-quickie](https://github.com/rc55/demoscene/blob/master/mental-mnt08--the-quickie.json) | *1.0* |  |  |
-| [metrogirl-luna](https://github.com/rc55/demoscene/blob/master/metrogirl-luna.json) | *1.0* |  |  |
-| [metrogirl-movement](https://github.com/rc55/demoscene/blob/master/metrogirl-movement.json) | *1.0* |  |  |
-| [mfx-anthropogenesis---the-universe,-part-4](https://github.com/rc55/demoscene/blob/master/mfx-anthropogenesis---the-universe,-part-4.json) | *1.0* |  |  |
-| [mfx-medusa](https://github.com/rc55/demoscene/blob/master/mfx-medusa.json) | *1.0* |  |  |
-| [mfx-mono,-part-2](https://github.com/rc55/demoscene/blob/master/mfx-mono,-part-2.json) | *1.0* |  |  |
-| [mfx-mono,-part-3](https://github.com/rc55/demoscene/blob/master/mfx-mono,-part-3.json) | *1.0* |  |  |
-| [mfx-moron](https://github.com/rc55/demoscene/blob/master/mfx-moron.json) | *1.0* |  |  |
-| [mfx-mother,-mother-my-ears-bleed](https://github.com/rc55/demoscene/blob/master/mfx-mother,-mother-my-ears-bleed.json) | *1.0* |  |  |
-| [mfx-nederland](https://github.com/rc55/demoscene/blob/master/mfx-nederland.json) | *1.0* |  |  |
-| [mfx-nematomorpha](https://github.com/rc55/demoscene/blob/master/mfx-nematomorpha.json) | *1.0* |  |  |
-| [mikro-liquid](https://github.com/rc55/demoscene/blob/master/mikro-liquid.json) | *1.0* |  |  |
-| [mindless-by-motion-mindless](https://github.com/rc55/demoscene/blob/master/mindless-by-motion-mindless.json) | *1.0* |  |  |
-| [mindware-node](https://github.com/rc55/demoscene/blob/master/mindware-node.json) | *1.0* |  |  |
-| [minimalanimal-messiah](https://github.com/rc55/demoscene/blob/master/minimalanimal-messiah.json) | *1.0* |  |  |
-| [minimalartifact-ana](https://github.com/rc55/demoscene/blob/master/minimalartifact-ana.json) | *1.0* |  |  |
-| [minimalartifact-ana-remix](https://github.com/rc55/demoscene/blob/master/minimalartifact-ana-remix.json) | *1.0* |  |  |
-| [mojito-mojito01](https://github.com/rc55/demoscene/blob/master/mojito-mojito01.json) | *1.0* |  |  |
-| [mojito-mojito02](https://github.com/rc55/demoscene/blob/master/mojito-mojito02.json) | *1.0* |  |  |
-| [moojuice-moojuice's-revenge](https://github.com/rc55/demoscene/blob/master/moojuice-moojuice's-revenge.json) | *1.0* |  |  |
-| [moojuice-moood](https://github.com/rc55/demoscene/blob/master/moojuice-moood.json) | *1.0* |  |  |
-| [moonhazard-limonite](https://github.com/rc55/demoscene/blob/master/moonhazard-limonite.json) | *1.0* |  |  |
-| [mov-movit](https://github.com/rc55/demoscene/blob/master/mov-movit.json) | *1.0* |  |  |
-| [mudlord-nether-mind](https://github.com/rc55/demoscene/blob/master/mudlord-nether-mind.json) | *1.0* |  |  |
-| [mutant-inc.-the-mutant-pouletz-project-2](https://github.com/rc55/demoscene/blob/master/mutant-inc.-the-mutant-pouletz-project-2.json) | *1.0* |  |  |
-| [mwss-my-first-megademo](https://github.com/rc55/demoscene/blob/master/mwss-my-first-megademo.json) | *1.0* |  |  |
-| [myke-the-low-rider&the-dindon](https://github.com/rc55/demoscene/blob/master/myke-the-low-rider&the-dindon.json) | *1.0* |  |  |
-| [n-discovery-moving-shit](https://github.com/rc55/demoscene/blob/master/n-discovery-moving-shit.json) | *1.0* |  |  |
-| [nakedhamsterz-maxicubation](https://github.com/rc55/demoscene/blob/master/nakedhamsterz-maxicubation.json) | *1.0* |  |  |
-| [napalm-core-metal-flirt](https://github.com/rc55/demoscene/blob/master/napalm-core-metal-flirt.json) | *1.0* |  |  |
-| [nasta-angree-aliens-eat-our-pets](https://github.com/rc55/demoscene/blob/master/nasta-angree-aliens-eat-our-pets.json) | *1.0* |  |  |
-| [nasta-nanana](https://github.com/rc55/demoscene/blob/master/nasta-nanana.json) | *1.0* |  |  |
-| [nastolan-multimediakerho-ammattilainen](https://github.com/rc55/demoscene/blob/master/nastolan-multimediakerho-ammattilainen.json) | *1.0* |  |  |
-| [nazareth-creations-mathturbation](https://github.com/rc55/demoscene/blob/master/nazareth-creations-mathturbation.json) | *1.0* |  |  |
-| [nazareth-creations-mercury](https://github.com/rc55/demoscene/blob/master/nazareth-creations-mercury.json) | *1.0* |  |  |
-| [nazareth-creations-midget-phone-booth](https://github.com/rc55/demoscene/blob/master/nazareth-creations-midget-phone-booth.json) | *1.0* |  |  |
-| [neonray-and-throb-metropol](https://github.com/rc55/demoscene/blob/master/neonray-and-throb-metropol.json) | *1.0* |  |  |
-| [nerdarzt-and-still-mutualism](https://github.com/rc55/demoscene/blob/master/nerdarzt-and-still-mutualism.json) | *1.0* |  |  |
-| [newgen-mr-egg](https://github.com/rc55/demoscene/blob/master/newgen-mr-egg.json) | *1.0* |  |  |
-| [nimh-and-rawhed-moojuice's-revenge](https://github.com/rc55/demoscene/blob/master/nimh-and-rawhed-moojuice's-revenge.json) | *1.0* |  |  |
-| [noice-noicetalgia](https://github.com/rc55/demoscene/blob/master/noice-noicetalgia.json) | *1.0* |  |  |
-| [nomad-no-exit](https://github.com/rc55/demoscene/blob/master/nomad-no-exit.json) | *1.0* |  |  |
-| [nonoil-and-rtx1911-new-world-old-skool](https://github.com/rc55/demoscene/blob/master/nonoil-and-rtx1911-new-world-old-skool.json) | *1.0* |  |  |
-| [nonsense-nonstop](https://github.com/rc55/demoscene/blob/master/nonsense-nonstop.json) | *1.0* |  |  |
-| [nothing-mouth](https://github.com/rc55/demoscene/blob/master/nothing-mouth.json) | *1.0* |  |  |
-| [npli-monkey-ball-infection-module](https://github.com/rc55/demoscene/blob/master/npli-monkey-ball-infection-module.json) | *1.0* |  |  |
-| [nuance-anxious](https://github.com/rc55/demoscene/blob/master/nuance-anxious.json) | *1.0* |  |  |
-| [nuance-local-warming](https://github.com/rc55/demoscene/blob/master/nuance-local-warming.json) | *1.0* |  |  |
-| [nuance-marijform](https://github.com/rc55/demoscene/blob/master/nuance-marijform.json) | *1.0* |  |  |
-| [odd-demo-design-mexico](https://github.com/rc55/demoscene/blob/master/odd-demo-design-mexico.json) | *1.0* |  |  |
-| [odd-demo-design-newschool-plasmademo](https://github.com/rc55/demoscene/blob/master/odd-demo-design-newschool-plasmademo.json) | *1.0* |  |  |
-| [oftenhide-memory-remains](https://github.com/rc55/demoscene/blob/master/oftenhide-memory-remains.json) | *1.0* |  |  |
-| [optimus-lily-9](https://github.com/rc55/demoscene/blob/master/optimus-lily-9.json) | *1.0* |  |  |
-| [optimus-linaffy](https://github.com/rc55/demoscene/blob/master/optimus-linaffy.json) | *1.0* |  |  |
-| [orange-the-nonstop-ibiza-experience](https://github.com/rc55/demoscene/blob/master/orange-the-nonstop-ibiza-experience.json) | *1.0* |  |  |
-| [orion-amour](https://github.com/rc55/demoscene/blob/master/orion-amour.json) | *1.0* |  |  |
-| [orion-madness](https://github.com/rc55/demoscene/blob/master/orion-madness.json) | *1.0* |  |  |
-| [orion-nightfall](https://github.com/rc55/demoscene/blob/master/orion-nightfall.json) | *1.0* |  |  |
-| [outracks-little-ball-of-water](https://github.com/rc55/demoscene/blob/master/outracks-little-ball-of-water.json) | *1.0* |  |  |
-| [outracks-no-kelvin](https://github.com/rc55/demoscene/blob/master/outracks-no-kelvin.json) | *1.0* |  |  |
-| [p-_](https://github.com/rc55/demoscene/blob/master/p-_.json) | *1.0* |  |  |
-| [p33107-mustikka](https://github.com/rc55/demoscene/blob/master/p33107-mustikka.json) | *1.0* |  |  |
-| [p4!nt-the-microdemo](https://github.com/rc55/demoscene/blob/master/p4!nt-the-microdemo.json) | *1.0* |  |  |
-| [paraguay-my-summer-demo-pt-1](https://github.com/rc55/demoscene/blob/master/paraguay-my-summer-demo-pt-1.json) | *1.0* |  |  |
-| [peon-movement](https://github.com/rc55/demoscene/blob/master/peon-movement.json) | *1.0* |  |  |
-| [plastic-na-napalm](https://github.com/rc55/demoscene/blob/master/plastic-na-napalm.json) | *1.0* |  |  |
-| [playpsyco-mathog](https://github.com/rc55/demoscene/blob/master/playpsyco-mathog.json) | *1.0* |  |  |
-| [playpsyco-melkiotin](https://github.com/rc55/demoscene/blob/master/playpsyco-melkiotin.json) | *1.0* |  |  |
-| [playpsyco-mf2hdx10](https://github.com/rc55/demoscene/blob/master/playpsyco-mf2hdx10.json) | *1.0* |  |  |
-| [playpsyco-no-cave-in](https://github.com/rc55/demoscene/blob/master/playpsyco-no-cave-in.json) | *1.0* |  |  |
-| [poo-brain-monolith-i](https://github.com/rc55/demoscene/blob/master/poo-brain-monolith-i.json) | *1.0* |  |  |
-| [portal-process-lumotronik](https://github.com/rc55/demoscene/blob/master/portal-process-lumotronik.json) | *1.0* |  |  |
-| [portal-process-meet-the-biots](https://github.com/rc55/demoscene/blob/master/portal-process-meet-the-biots.json) | *1.0* |  |  |
-| [power-team-mementosmix](https://github.com/rc55/demoscene/blob/master/power-team-mementosmix.json) | *1.0* |  |  |
-| [pro-message-to-speckdrumm,-hsm-and-dreamcast-scene-organizers](https://github.com/rc55/demoscene/blob/master/pro-message-to-speckdrumm,-hsm-and-dreamcast-scene-organizers.json) | *1.0* |  |  |
-| [progress-neurosis](https://github.com/rc55/demoscene/blob/master/progress-neurosis.json) | *1.0* |  |  |
-| [pyrotech-antimon](https://github.com/rc55/demoscene/blob/master/pyrotech-antimon.json) | *1.0* |  |  |
-| [quite-and-t-rex-no-ambition](https://github.com/rc55/demoscene/blob/master/quite-and-t-rex-no-ambition.json) | *1.0* |  |  |
-| [quite-made-on-dihalt](https://github.com/rc55/demoscene/blob/master/quite-made-on-dihalt.json) | *1.0* |  |  |
-| [quite-moskwa](https://github.com/rc55/demoscene/blob/master/quite-moskwa.json) | *1.0* |  |  |
-| [qute-and-scale-little-l](https://github.com/rc55/demoscene/blob/master/qute-and-scale-little-l.json) | *1.0* |  |  |
-| [rage-manifesto-my-little-progress](https://github.com/rc55/demoscene/blob/master/rage-manifesto-my-little-progress.json) | *1.0* |  |  |
-| [razor-1911-mindstammer](https://github.com/rc55/demoscene/blob/master/razor-1911-mindstammer.json) | *1.0* |  |  |
-| [reaper_unreal-music-to-my-ears](https://github.com/rc55/demoscene/blob/master/reaper_unreal-music-to-my-ears.json) | *1.0* |  |  |
-| [rebels-liquid-sun](https://github.com/rc55/demoscene/blob/master/rebels-liquid-sun.json) | *1.0* |  |  |
-| [rebels-neon](https://github.com/rc55/demoscene/blob/master/rebels-neon.json) | *1.0* |  |  |
-| [reputeless-millumination](https://github.com/rc55/demoscene/blob/master/reputeless-millumination.json) | *1.0* |  |  |
-| [retro-a.c.-media](https://github.com/rc55/demoscene/blob/master/retro-a.c.-media.json) | *1.0* |  |  |
-| [retro-a.c.-nodelab](https://github.com/rc55/demoscene/blob/master/retro-a.c.-nodelab.json) | *1.0* |  |  |
-| [riot-nature](https://github.com/rc55/demoscene/blob/master/riot-nature.json) | *1.0* |  |  |
-| [rohtie-mycelium](https://github.com/rc55/demoscene/blob/master/rohtie-mycelium.json) | *1.0* |  |  |
-| [rre-m1nt-t34](https://github.com/rc55/demoscene/blob/master/rre-m1nt-t34.json) | *1.0* |  |  |
-| [s3k7lã¼nch-apskit-i-yttre-rã¼mden](https://github.com/rc55/demoscene/blob/master/s3k7lã¼nch-apskit-i-yttre-rã¼mden.json) | *1.0* |  |  |
-| [s_tec-antimatter](https://github.com/rc55/demoscene/blob/master/s_tec-antimatter.json) | *1.0* |  |  |
-| [samar-productions-lowart](https://github.com/rc55/demoscene/blob/master/samar-productions-lowart.json) | *1.0* |  |  |
-| [sands-and-throb-nicht](https://github.com/rc55/demoscene/blob/master/sands-and-throb-nicht.json) | *1.0* |  |  |
-| [satori-locus-alienus](https://github.com/rc55/demoscene/blob/master/satori-locus-alienus.json) | *1.0* |  |  |
-| [satori-metamorf-ii](https://github.com/rc55/demoscene/blob/master/satori-metamorf-ii.json) | *1.0* |  |  |
-| [satori-monstra-kosa](https://github.com/rc55/demoscene/blob/master/satori-monstra-kosa.json) | *1.0* |  |  |
-| [scarab-corpse-nighttime](https://github.com/rc55/demoscene/blob/master/scarab-corpse-nighttime.json) | *1.0* |  |  |
-| [sector-omega-mirages](https://github.com/rc55/demoscene/blob/master/sector-omega-mirages.json) | *1.0* |  |  |
-| [sector-omega-nagatabi](https://github.com/rc55/demoscene/blob/master/sector-omega-nagatabi.json) | *1.0* |  |  |
-| [sector-omega-the-message](https://github.com/rc55/demoscene/blob/master/sector-omega-the-message.json) | *1.0* |  |  |
-| [sense-amok-negative](https://github.com/rc55/demoscene/blob/master/sense-amok-negative.json) | *1.0* |  |  |
-| [shampit-meadow](https://github.com/rc55/demoscene/blob/master/shampit-meadow.json) | *1.0* |  |  |
-| [shampit-mockio-n-spinfrit](https://github.com/rc55/demoscene/blob/master/shampit-mockio-n-spinfrit.json) | *1.0* |  |  |
-| [skrju-and-then](https://github.com/rc55/demoscene/blob/master/skrju-and-then.json) | *1.0* |  |  |
-| [smash-designs-nights(h)ift-2](https://github.com/rc55/demoscene/blob/master/smash-designs-nights(h)ift-2.json) | *1.0* |  |  |
-| [speedheilers-my-hero-2](https://github.com/rc55/demoscene/blob/master/speedheilers-my-hero-2.json) | *1.0* |  |  |
-| [speedheilers-nazibingo-without-bingo](https://github.com/rc55/demoscene/blob/master/speedheilers-nazibingo-without-bingo.json) | *1.0* |  |  |
-| [sprite-lolly-pop](https://github.com/rc55/demoscene/blob/master/sprite-lolly-pop.json) | *1.0* |  |  |
-| [sprite-memories](https://github.com/rc55/demoscene/blob/master/sprite-memories.json) | *1.0* |  |  |
-| [sqny-linear](https://github.com/rc55/demoscene/blob/master/sqny-linear.json) | *1.0* |  |  |
-| [squoquo-mein-zahnfleisch-brennt](https://github.com/rc55/demoscene/blob/master/squoquo-mein-zahnfleisch-brennt.json) | *1.0* |  |  |
-| [squoquo-modular-woodpecker](https://github.com/rc55/demoscene/blob/master/squoquo-modular-woodpecker.json) | *1.0* |  |  |
-| [squoquo-noir](https://github.com/rc55/demoscene/blob/master/squoquo-noir.json) | *1.0* |  |  |
-| [srejv-men-jag-kan-inte-c++](https://github.com/rc55/demoscene/blob/master/srejv-men-jag-kan-inte-c++.json) | *1.0* |  |  |
-| [srejv-the-many-jeeze](https://github.com/rc55/demoscene/blob/master/srejv-the-many-jeeze.json) | *1.0* |  |  |
-| [ste83-napstyler](https://github.com/rc55/demoscene/blob/master/ste83-napstyler.json) | *1.0* |  |  |
-| [stil-lobstertainment2](https://github.com/rc55/demoscene/blob/master/stil-lobstertainment2.json) | *1.0* |  |  |
-| [still-new](https://github.com/rc55/demoscene/blob/master/still-new.json) | *1.0* |  |  |
-| [stã¥lverk-80-niveus](https://github.com/rc55/demoscene/blob/master/stã¥lverk-80-niveus.json) | *1.0* |  |  |
-| [subground4-nightscape](https://github.com/rc55/demoscene/blob/master/subground4-nightscape.json) | *1.0* |  |  |
-| [superdupergroup-mustafas-kebab](https://github.com/rc55/demoscene/blob/master/superdupergroup-mustafas-kebab.json) | *1.0* |  |  |
-| [surface-grant-marutaka501](https://github.com/rc55/demoscene/blob/master/surface-grant-marutaka501.json) | *1.0* |  |  |
-| [suspend-antropology](https://github.com/rc55/demoscene/blob/master/suspend-antropology.json) | *1.0* |  |  |
-| [suspend-mechanical-dreams](https://github.com/rc55/demoscene/blob/master/suspend-mechanical-dreams.json) | *1.0* |  |  |
-| [symbiotics-new-heights](https://github.com/rc55/demoscene/blob/master/symbiotics-new-heights.json) | *1.0* |  |  |
-| [system-k-life-on-air](https://github.com/rc55/demoscene/blob/master/system-k-life-on-air.json) | *1.0* |  |  |
-| [t-and-m-neo-terra](https://github.com/rc55/demoscene/blob/master/t-and-m-neo-terra.json) | *1.0* |  |  |
-| [taat-2010-napababa-1](https://github.com/rc55/demoscene/blob/master/taat-2010-napababa-1.json) | *1.0* |  |  |
-| [taat-likavesikylpylae](https://github.com/rc55/demoscene/blob/master/taat-likavesikylpylae.json) | *1.0* |  |  |
-| [taat-mã¶lypã¶ly---noisy-dust](https://github.com/rc55/demoscene/blob/master/taat-mã¶lypã¶ly---noisy-dust.json) | *1.0* |  |  |
-| [tap-nil](https://github.com/rc55/demoscene/blob/master/tap-nil.json) | *1.0* |  |  |
-| [tb2-mush-ca](https://github.com/rc55/demoscene/blob/master/tb2-mush-ca.json) | *1.0* |  |  |
-| [team-dagenefter-natiivia.exe](https://github.com/rc55/demoscene/blob/master/team-dagenefter-natiivia.exe.json) | *1.0* |  |  |
-| [teszkã³-gazdasã¡gos-demã³csapat-lyã©zus](https://github.com/rc55/demoscene/blob/master/teszkã³-gazdasã¡gos-demã³csapat-lyã©zus.json) | *1.0* |  |  |
-| [teszkã³-gazdasã¡gos-demã³csapat-megademo](https://github.com/rc55/demoscene/blob/master/teszkã³-gazdasã¡gos-demã³csapat-megademo.json) | *1.0* |  |  |
-| [teszkã³-gazdasã¡gos-demã³csapat-mit-nekem-te-zordon-kã¡rpã¡toknak-fenyvesekkel-vadregã©nyes-tã¡ja-2](https://github.com/rc55/demoscene/blob/master/teszkã³-gazdasã¡gos-demã³csapat-mit-nekem-te-zordon-kã¡rpã¡toknak-fenyvesekkel-vadregã©nyes-tã¡ja-2.json) | *1.0* |  |  |
-| [teve-nafplio](https://github.com/rc55/demoscene/blob/master/teve-nafplio.json) | *1.0* |  |  |
-| [thcoutput-marmelad-3---gabber-generation!!1!111!!](https://github.com/rc55/demoscene/blob/master/thcoutput-marmelad-3---gabber-generation!!1!111!!.json) | *1.0* |  |  |
-| [the-lords-of-the-bits-my-style](https://github.com/rc55/demoscene/blob/master/the-lords-of-the-bits-my-style.json) | *1.0* |  |  |
-| [the-lords-of-the-bits-the-loser](https://github.com/rc55/demoscene/blob/master/the-lords-of-the-bits-the-loser.json) | *1.0* |  |  |
-| [the-lost-souls-anytime](https://github.com/rc55/demoscene/blob/master/the-lost-souls-anytime.json) | *1.0* |  |  |
-| [the-obsessed-maniacs-lmsrmx](https://github.com/rc55/demoscene/blob/master/the-obsessed-maniacs-lmsrmx.json) | *1.0* |  |  |
-| [the-planet-of-leather-moomins-ninja-in-a-box](https://github.com/rc55/demoscene/blob/master/the-planet-of-leather-moomins-ninja-in-a-box.json) | *1.0* |  |  |
-| [the-third-foundation-lost-frames](https://github.com/rc55/demoscene/blob/master/the-third-foundation-lost-frames.json) | *1.0* |  |  |
-| [third-eye-anthropomorphic](https://github.com/rc55/demoscene/blob/master/third-eye-anthropomorphic.json) | *1.0* |  |  |
-| [those-up-fucked-sceners-mã¸rk-og-stormfull-aften](https://github.com/rc55/demoscene/blob/master/those-up-fucked-sceners-mã¸rk-og-stormfull-aften.json) | *1.0* |  |  |
-| [threepixels-lighthouse-dream](https://github.com/rc55/demoscene/blob/master/threepixels-lighthouse-dream.json) | *1.0* |  |  |
-| [threepixels-mdma](https://github.com/rc55/demoscene/blob/master/threepixels-mdma.json) | *1.0* |  |  |
-| [threepixels-minimalanimal-sux](https://github.com/rc55/demoscene/blob/master/threepixels-minimalanimal-sux.json) | *1.0* |  |  |
-| [threepixels-nature-v2.0](https://github.com/rc55/demoscene/blob/master/threepixels-nature-v2.0.json) | *1.0* |  |  |
-| [threestate-melrose-space](https://github.com/rc55/demoscene/blob/master/threestate-melrose-space.json) | *1.0* |  |  |
-| [throb-love](https://github.com/rc55/demoscene/blob/master/throb-love.json) | *1.0* |  |  |
-| [time-scratchers-miserae](https://github.com/rc55/demoscene/blob/master/time-scratchers-miserae.json) | *1.0* |  |  |
-| [titan-lutsch-mein-schwanz](https://github.com/rc55/demoscene/blob/master/titan-lutsch-mein-schwanz.json) | *1.0* |  |  |
-| [tmp-marquee](https://github.com/rc55/demoscene/blob/master/tmp-marquee.json) | *1.0* |  |  |
-| [tnt-newromancer](https://github.com/rc55/demoscene/blob/master/tnt-newromancer.json) | *1.0* |  |  |
-| [tolle-nâ°---262](https://github.com/rc55/demoscene/blob/master/tolle-nâ°---262.json) | *1.0* |  |  |
-| [tonrauschen-antichrist-superstar](https://github.com/rc55/demoscene/blob/master/tonrauschen-antichrist-superstar.json) | *1.0* |  |  |
-| [traction-net](https://github.com/rc55/demoscene/blob/master/traction-net.json) | *1.0* |  |  |
-| [trailer-park-demos-microkandy](https://github.com/rc55/demoscene/blob/master/trailer-park-demos-microkandy.json) | *1.0* |  |  |
-| [trauma-anterpe-kiew](https://github.com/rc55/demoscene/blob/master/trauma-anterpe-kiew.json) | *1.0* |  |  |
-| [trauma-light](https://github.com/rc55/demoscene/blob/master/trauma-light.json) | *1.0* |  |  |
-| [trauma-litterae-finis](https://github.com/rc55/demoscene/blob/master/trauma-litterae-finis.json) | *1.0* |  |  |
-| [trauma-the-line-age](https://github.com/rc55/demoscene/blob/master/trauma-the-line-age.json) | *1.0* |  |  |
-| [trbl-aon](https://github.com/rc55/demoscene/blob/master/trbl-aon.json) | *1.0* |  |  |
-| [trbl-meet-the-katze](https://github.com/rc55/demoscene/blob/master/trbl-meet-the-katze.json) | *1.0* |  |  |
-| [tristar-&-red-sector-inc.-mikado](https://github.com/rc55/demoscene/blob/master/tristar-&-red-sector-inc.-mikado.json) | *1.0* |  |  |
-| [tus-newbie-c++](https://github.com/rc55/demoscene/blob/master/tus-newbie-c++.json) | *1.0* |  |  |
-| [ukonx-mindbender](https://github.com/rc55/demoscene/blob/master/ukonx-mindbender.json) | *1.0* |  |  |
-| [ukonx-mushdrum](https://github.com/rc55/demoscene/blob/master/ukonx-mushdrum.json) | *1.0* |  |  |
-| [unique-malfunction](https://github.com/rc55/demoscene/blob/master/unique-malfunction.json) | *1.0* |  |  |
-| [united-force-lifestyle-2k](https://github.com/rc55/demoscene/blob/master/united-force-lifestyle-2k.json) | *1.0* |  |  |
-| [united-force-loneliness](https://github.com/rc55/demoscene/blob/master/united-force-loneliness.json) | *1.0* |  |  |
-| [virtual-light-pump-m3kka](https://github.com/rc55/demoscene/blob/master/virtual-light-pump-m3kka.json) | *1.0* |  |  |
-| [viruta-team-mipalos-juice](https://github.com/rc55/demoscene/blob/master/viruta-team-mipalos-juice.json) | *1.0* |  |  |
-| [wireframe-millennium's-goes-by](https://github.com/rc55/demoscene/blob/master/wireframe-millennium's-goes-by.json) | *1.0* |  |  |
-| [witchcraft-medievil-times](https://github.com/rc55/demoscene/blob/master/witchcraft-medievil-times.json) | *1.0* |  |  |
-| [woorlic-mr.-datamusic](https://github.com/rc55/demoscene/blob/master/woorlic-mr.-datamusic.json) | *1.0* |  |  |
-| [xibalba-mazed!](https://github.com/rc55/demoscene/blob/master/xibalba-mazed!.json) | *1.0* |  |  |
-| [xplsv-mudballs](https://github.com/rc55/demoscene/blob/master/xplsv-mudballs.json) | *1.0* |  |  |
-| [xplsv-n-0505](https://github.com/rc55/demoscene/blob/master/xplsv-n-0505.json) | *1.0* |  |  |
-| [yaphan-liquid-helium](https://github.com/rc55/demoscene/blob/master/yaphan-liquid-helium.json) | *1.0* |  |  |
-| [youth-uprising-lucidity](https://github.com/rc55/demoscene/blob/master/youth-uprising-lucidity.json) | *1.0* |  |  |
-| [youth-uprising-nitesco](https://github.com/rc55/demoscene/blob/master/youth-uprising-nitesco.json) | *1.0* |  |  |
-| [zalem-new-millenium](https://github.com/rc55/demoscene/blob/master/zalem-new-millenium.json) | *1.0* |  |  |
-| [zitrã³n-the-nonstop-pizza-experience](https://github.com/rc55/demoscene/blob/master/zitrã³n-the-nonstop-pizza-experience.json) | *1.0* |  |  |
-| [zyrthex-loadtro](https://github.com/rc55/demoscene/blob/master/zyrthex-loadtro.json) | *1.0* |  |  |
-| [ãœmlaã¼t-design-low](https://github.com/rc55/demoscene/blob/master/ãœmlaã¼t-design-low.json) | *1.0* |  |  |
-| [ãœmlaã¼t-design-machine](https://github.com/rc55/demoscene/blob/master/ãœmlaã¼t-design-machine.json) | *1.0* |  |  |
-| [ãœmlaã¼t-design-median](https://github.com/rc55/demoscene/blob/master/ãœmlaã¼t-design-median.json) | *1.0* |  |  |
 
 ### <a name="rcqls_scoop-extras" id="rcqls_scoop-extras"></a>[rcqls/scoop-extras](https://github.com/rcqls/scoop-extras) [&#x2934;](#back_rcqls_scoop-extras)
  *scoop bucket for rcqls*
@@ -5741,13 +4961,6 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [unison](http://www.cis.upenn.edu/~bcpierce/unison/) | [*2.51.2*](http://www.cis.upenn.edu/~bcpierce/unison/) |  | GPL3 |
-
-### <a name="Sandeep-Bansal_scooped" id="Sandeep-Bansal_scooped"></a>[Sandeep-Bansal/scooped](https://github.com/Sandeep-Bansal/scooped) [&#x2934;](#back_Sandeep-Bansal_scooped)
- *Scoop Bucket containing several useful software items*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [radarr](https://radarr.video/) | [0.2.0.1120](https://radarr.video/) |  |  |
 
 ### <a name="Sandex_scoop-supernova" id="Sandex_scoop-supernova"></a>[Sandex/scoop-supernova](https://github.com/Sandex/scoop-supernova) [&#x2934;](#back_Sandex_scoop-supernova)
  *Scoop bucket*
@@ -6285,12 +5498,12 @@
 | [adopt11-openj9-nightly](https://adoptopenjdk.net) | [201812150447](https://adoptopenjdk.net) | AdoptOpenJDK 11 with Eclipse OpenJ9 JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
 | [adopt8-hotspot](https://adoptopenjdk.net) | [8u192-b12](https://adoptopenjdk.net) | AdoptOpenJDK 8 with Oracle HotSpot JVM | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
 | [adopt8-hotspot-jre](https://adoptopenjdk.net) | [8u192-b12](https://adoptopenjdk.net) | AdoptOpenJDK 8 JRE with Oracle HotSpot JVM | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
-| [adopt8-hotspot-jre-nightly](https://adoptopenjdk.net) | [201812141456](https://adoptopenjdk.net) | AdoptOpenJDK 8 JRE with Oracle HotSpot JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
-| [adopt8-hotspot-nightly](https://adoptopenjdk.net) | [201812141456](https://adoptopenjdk.net) | AdoptOpenJDK 8 with Oracle HotSpot JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
+| [adopt8-hotspot-jre-nightly](https://adoptopenjdk.net) | [201812151447](https://adoptopenjdk.net) | AdoptOpenJDK 8 JRE with Oracle HotSpot JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
+| [adopt8-hotspot-nightly](https://adoptopenjdk.net) | [201812151447](https://adoptopenjdk.net) | AdoptOpenJDK 8 with Oracle HotSpot JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
 | [adopt8-openj9](https://adoptopenjdk.net) | [8u192-b12-0.11.0](https://adoptopenjdk.net) | AdoptOpenJDK 8 with Eclipse OpenJ9 JVM | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
 | [adopt8-openj9-jre](https://adoptopenjdk.net) | [8u192-b12-0.11.0](https://adoptopenjdk.net) | AdoptOpenJDK 8 JRE with Eclipse OpenJ9 JVM | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
-| [adopt8-openj9-jre-nightly](https://adoptopenjdk.net) | [201812141456](https://adoptopenjdk.net) | AdoptOpenJDK 8 JRE with Eclipse OpenJ9 JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
-| [adopt8-openj9-nightly](https://adoptopenjdk.net) | [201812141456](https://adoptopenjdk.net) | AdoptOpenJDK 8 with Eclipse OpenJ9 JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
+| [adopt8-openj9-jre-nightly](https://adoptopenjdk.net) | [201812151447](https://adoptopenjdk.net) | AdoptOpenJDK 8 JRE with Eclipse OpenJ9 JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
+| [adopt8-openj9-nightly](https://adoptopenjdk.net) | [201812151447](https://adoptopenjdk.net) | AdoptOpenJDK 8 with Eclipse OpenJ9 JVM (Nightly builds) | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
 | [adopt9-hotspot](https://adoptopenjdk.net) | [9.0.4-11](https://adoptopenjdk.net) | AdoptOpenJDK 9 with Oracle HotSpot JVM | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
 | [adopt9-openj9](https://adoptopenjdk.net) | [9.0.4-12-0.9.0](https://adoptopenjdk.net) | AdoptOpenJDK 9 with Eclipse OpenJ9 JVM | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
 | [adoptopenjdk-hotspot](https://adoptopenjdk.net) | [11.0.1-13](https://adoptopenjdk.net) | AdoptOpenJDK with Oracle HotSpot JVM | [GPL-2.0-with-classpath-exception](https://opensource.org/licenses/GPL-2.0-with-classpath-exception) |
@@ -6409,14 +5622,6 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [vivaldi](https://vivaldi.com) | [*1.15.1104.3*](https://vivaldi.com) |  | GPLv3 |
-
-### <a name="sivertsenstian_my-bucket" id="sivertsenstian_my-bucket"></a>[sivertsenstian/my-bucket](https://github.com/sivertsenstian/my-bucket) [&#x2934;](#back_sivertsenstian_my-bucket)
- *my personal https://scoop.sh bucket*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [joker](https://github.com/candid82/joker) | [*0.10.2*](https://github.com/candid82/joker) |  |  |
-| [sassc](https://github.com/sass/sassc) | [*3.4.7*](https://github.com/sass/sassc) |  |  |
 
 ### <a name="skabashnyuk_scoop-bucket" id="skabashnyuk_scoop-bucket"></a>[skabashnyuk/scoop-bucket](https://github.com/skabashnyuk/scoop-bucket) [&#x2934;](#back_skabashnyuk_scoop-bucket)
 
@@ -6607,28 +5812,6 @@
 | [simplify](https://github.com/CalebFenton/simplify) | [1.2.0](https://github.com/CalebFenton/simplify) |  |  |
 | [smali](https://github.com/JesusFreke/smali) | [2.2.5](https://github.com/JesusFreke/smali) |  |  |
 
-### <a name="thiagotelesdesigner_scoop-bucket-graphic-tools" id="thiagotelesdesigner_scoop-bucket-graphic-tools"></a>[thiagotelesdesigner/scoop-bucket-graphic-tools](https://github.com/thiagotelesdesigner/scoop-bucket-graphic-tools) [&#x2934;](#back_thiagotelesdesigner_scoop-bucket-graphic-tools)
- *Bucket do Scoop, com app manifests de ferramentas gráficas*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [inkscape](https://inkscape.org/pt/) | [*0.91*](https://inkscape.org/pt/) |  |  |
-
-### <a name="tksoftware_tks-scoop-bucket" id="tksoftware_tks-scoop-bucket"></a>[tksoftware/tks-scoop-bucket](https://github.com/tksoftware/tks-scoop-bucket) [&#x2934;](#back_tksoftware_tks-scoop-bucket)
-
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [baretail](https://www.baremetalsoft.com/baretail/index.php) | [*3.50a*](https://www.baremetalsoft.com/baretail/index.php) |  |  |
-| [sublime3](http://www.sublimetext.com/3) | [*3083*](http://www.sublimetext.com/3) |  |  |
-
-### <a name="tmsdnl_scoop-dev-bucket" id="tmsdnl_scoop-dev-bucket"></a>[tmsdnl/scoop-dev-bucket](https://github.com/tmsdnl/scoop-dev-bucket) [&#x2934;](#back_tmsdnl_scoop-dev-bucket)
-
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [setup](https://github.com/tmsdnl/scoop-dev-bucket/blob/master/setup.json) | *1.0* |  |  |
-
 ### <a name="tnessy_scoop-bucket" id="tnessy_scoop-bucket"></a>[tnessy/scoop-bucket](https://github.com/tnessy/scoop-bucket) [&#x2934;](#back_tnessy_scoop-bucket)
  *Custom scoop bucket for random things*
 
@@ -6665,13 +5848,6 @@
 | Name | Version | Description | License |
 | :--- | :--- | :--- | :--- |
 | [titan-hadoop1](https://github.com/TorrentKatten/torrentkatten-scoop-bucket/blob/master/titan-hadoop1.json) | *1.0* |  |  |
-
-### <a name="tscangussu_misc-scoop-bucket" id="tscangussu_misc-scoop-bucket"></a>[tscangussu/misc-scoop-bucket](https://github.com/tscangussu/misc-scoop-bucket) [&#x2934;](#back_tscangussu_misc-scoop-bucket)
-
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [wp-cli](https://wp-cli.org/) | [2.0.1](https://wp-cli.org/) |  | [MIT](https://opensource.org/licenses/MIT) |
 
 ### <a name="twxs_scoop-buckets" id="twxs_scoop-buckets"></a>[twxs/scoop-buckets](https://github.com/twxs/scoop-buckets) [&#x2934;](#back_twxs_scoop-buckets)
 
@@ -6876,32 +6052,6 @@
 | [winscp](https://github.com/wangzq/scoop-bucket/blob/master/winscp.json) | *5.9.3* |  |  |
 | [xsddiagram](https://github.com/wangzq/scoop-bucket/blob/master/xsddiagram.json) | *1.2* |  |  |
 
-### <a name="warexify_scoop-edk2-buildtools" id="warexify_scoop-edk2-buildtools"></a>[warexify/scoop-edk2-buildtools](https://github.com/warexify/scoop-edk2-buildtools) [&#x2934;](#back_warexify_scoop-edk2-buildtools)
- *Scoop bucket for installing edk2-buildtools*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [acpica](http://www.acpica.org) | [20181031](http://www.acpica.org) | ACPICA tools for the development and debug of ACPI tables | [Intel-ACPI,GPL-2.0,BSD-3](https://acpica.org/sites/acpica/files/licensing.txt) |
-| [aws](https://github.com/aws/aws-cli) | [1.16.73](https://github.com/aws/aws-cli) | AWS Command Line Interface | [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
-| [azure-cli](https://aka.ms/cli) | [2.0.52](https://aka.ms/cli) | Microsoft Azure CLI 2.0 | [MIT](https://opensource.org/licenses/MIT) |
-| [cmder](http://cmder.net) | [1.3.9](http://cmder.net) | Portable console emulator for Windows | [MIT](https://opensource.org/licenses/MIT) |
-| [codeformatter](https://github.com/dotnet/codeformatter) | [1.0.0-alpha7](https://github.com/dotnet/codeformatter) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [cygwin](https://cygwin.com/) | [2.895](https://cygwin.com/) | A large collection of GNU and Open Source tools which provide functionality similar to a Linux distribution on Windows |  |
-| [direnv](https://direnv.net) | [2.18.2](https://direnv.net) | Environment switcher for the shell | [MIT](https://opensource.org/licenses/MIT) |
-| [gcloud](https://cloud.google.com/sdk/) | [*227.0.0*](https://cloud.google.com/sdk/) |  |  |
-| [nasm](https://www.nasm.us) | [2.14](https://www.nasm.us) | General-purpose x86 assembler Netwide Assembler | [BSD-2](https://opensource.org/licenses/BSD-2-Clause) |
-| [nssm](https://nssm.cc) | [2.24-103-gdee49fc](https://nssm.cc) |  |  |
-| [pwsh](https://github.com/PowerShell/PowerShell) | [6.2.0-preview.3](https://github.com/PowerShell/PowerShell) | PowerShell Core. Cross-Platform task automation and configuration management framework/tool. | [MIT](https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt) |
-| [qemu](https://qemu.weilnetz.de/) | [3.1.0](https://qemu.weilnetz.de/) |  | [GPL-2.0](https://opensource.org/licenses/GPL-2.0) |
-| [rdnssd](https://rdnssd-win32.sourceforge.io) | [1.1](https://rdnssd-win32.sourceforge.io) | Recursive DNS Servers discovery daemon is a userspace implementation of the RFC 5006 for Microsoft Windows | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
-| [rustup](https://github.com/rust-lang-nursery/rustup.rs) | [1.16.0](https://github.com/rust-lang-nursery/rustup.rs) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [sdi](http://sdi-tool.org) | [1811](http://sdi-tool.org) | Snappy Driver Installer | [GPL-3.0](https://opensource.org/licenses/GPL-3.0-only) |
-| [subgit](https://subgit.com) | [3.3.5](https://subgit.com) |  | [Link](https://subgit.com/eula) |
-| [terminus](https://eugeny.github.io/terminus/) | [1.0.65](https://eugeny.github.io/terminus/) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [vcpython](https://www.microsoft.com/en-us/download/details.aspx?id=44266) | [*9.0*](https://www.microsoft.com/en-us/download/details.aspx?id=44266) | Microsoft Visual C++ Compiler Package for Python 2.7 |  |
-| [vsixbootstrapper](https://github.com/Microsoft/vsixbootstrapper) | [1.0.31](https://github.com/Microsoft/vsixbootstrapper) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [Win10-Initial-Setup](https://github.com/Disassembler0/Win10-Initial-Setup-Script#advanced-usage) | [3.3](https://github.com/Disassembler0/Win10-Initial-Setup-Script#advanced-usage) | Windows 10 Initial Setup Script. PowerShell script for automation of routine tasks done after fresh installations of Windows 10 / Server 2016 / Server 2019. | [MIT](https://github.com/Disassembler0/Win10-Initial-Setup-Script/blob/master/LICENSE) |
-
 ### <a name="watchmen-test_scoop-bucket" id="watchmen-test_scoop-bucket"></a>[watchmen-test/scoop-bucket](https://github.com/watchmen-test/scoop-bucket) [&#x2934;](#back_watchmen-test_scoop-bucket)
  *This bucket is for installation programs that dont have a home in scoop that we need to install for this organization*
 
@@ -6912,13 +6062,6 @@
 | [kubeless](https://github.com/watchmen-test/scoop-bucket/blob/master/kubeless.json) | *1.0.0-alpha.8* |  |  |
 | [rambox](https://github.com/watchmen-test/scoop-bucket/blob/master/rambox.json) | *v0.6.1* |  |  |
 | [rsync](https://cygwin.com/) | [*2.893*](https://cygwin.com/) | RSync a utility for windows used to move files. Specifically used in this case for Vagrant |  |
-
-### <a name="windchime-yk_wcy-scoop-bucket" id="windchime-yk_wcy-scoop-bucket"></a>[windchime-yk/wcy-scoop-bucket](https://github.com/windchime-yk/wcy-scoop-bucket) [&#x2934;](#back_windchime-yk_wcy-scoop-bucket)
- *Scoopの非公式Bucket。できればextrasに統合してほしいので仮置き*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [git-time-metric](https://github.com/windchime-yk/wcy-scoop-bucket/blob/master/git-time-metric.json) | *1.3.5* |  | [MIT](https://opensource.org/licenses/MIT) |
 
 ### <a name="wio_wio-bucket" id="wio_wio-bucket"></a>[wio/wio-bucket](https://github.com/wio/wio-bucket) [&#x2934;](#back_wio_wio-bucket)
  *Scoop Bucket for Wio*
@@ -6937,19 +6080,6 @@
 | [drupal-console](https://drupalconsole.com/) | [*1.0.0-rc10*](https://drupalconsole.com/) |  |  |
 | [laravel](https://laravel.com) | [*1.3.4*](https://laravel.com) |  |  |
 | [wp-cli](http://wp-cli.org/) | [*1.1.0*](http://wp-cli.org/) |  |  |
-
-### <a name="xeijin_propositum-bucket" id="xeijin_propositum-bucket"></a>[xeijin/propositum-bucket](https://github.com/xeijin/propositum-bucket) [&#x2934;](#back_xeijin_propositum-bucket)
- *Repository for scoop install manifests customised for propositum*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [doom-emacs-develop-p](https://github.com/hlissner/doom-emacs) | [*nightly*](https://github.com/hlissner/doom-emacs) |  | [MIT](https://opensource.org/licenses/MIT) |
-| [emacs-p](https://www.gnu.org/software/emacs/) | [26.1](https://www.gnu.org/software/emacs/) |  | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
-| [knime-p](https://www.knime.com/) | [3.6.1](https://www.knime.com/) | Usage: data pipelines, transformation, automation &amp; reporting | [GPL-3.0+](https://www.knime.com/downloads/full-license) |
-| [rawgraphs-p](https://rawgraphs.io/) | [1.3.0](https://rawgraphs.io/) | Usage: additional data visualisation options |  |
-| [regfont-p](http://www.marshwiggle.net/regfont) | [20160109](http://www.marshwiggle.net/regfont) | Usage: temporarily register fonts without installing | [GPL-3.0](https://opensource.org/licenses/GPL-3.0) |
-| [superset-p](https://superset.incubator.apache.org/) | [0.28.1](https://superset.incubator.apache.org/) | Usage: data analysis, exploration, dashboarding |  |
-| [texteditoranywhere-p](https://www.listary.com/text-editor-anywhere) | [2.01](https://www.listary.com/text-editor-anywhere) | Usage: make text fields and inputs editable with emacs and other text editors | [Freeware](https://en.wikipedia.org/wiki/Freeware) |
 
 ### <a name="yt3r_test-bucket" id="yt3r_test-bucket"></a>[yt3r/test-bucket](https://github.com/yt3r/test-bucket) [&#x2934;](#back_yt3r_test-bucket)
  *test bucket for scoop*
@@ -6992,16 +6122,6 @@
 | :--- | :--- | :--- | :--- |
 | [demohelper](https://tools.stefankueng.com/DemoHelper.html) | [*1.3*](https://tools.stefankueng.com/DemoHelper.html) | A tool which helps in demonstrations, presentations or if you just need to explain someone something on your computer. | GPLv2 |
 | [sakura-editor](https://sakura-editor.github.io/) | [*2.3.2.0*](https://sakura-editor.github.io/) |  |  |
-
-### <a name="yukihane_scoop-bucket-yukihane-games" id="yukihane_scoop-bucket-yukihane-games"></a>[yukihane/scoop-bucket-yukihane-games](https://github.com/yukihane/scoop-bucket-yukihane-games) [&#x2934;](#back_yukihane_scoop-bucket-yukihane-games)
- *自家製scoop bucketゲーム版*
-
-| Name | Version | Description | License |
-| :--- | :--- | :--- | :--- |
-| [densya](http://wheat.x0.to/game/densya/) | [1.06](http://wheat.x0.to/game/densya/) | デンシャ |  |
-| [hengband](https://rlbuild.herokuapp.com/) | [20181212231459](https://rlbuild.herokuapp.com/) | 変愚蛮怒(shimitei_labo version) |  |
-| [hengband-th](http://www.miyamasa.net/heng_th_katte.html) | [1.1.53](http://www.miyamasa.net/heng_th_katte.html) | 変愚蛮怒東方勝手版 |  |
-| [tanguband](http://tanguband.github.io/) | [20180919061458](http://tanguband.github.io/) | 短愚蛮怒 |  |
 
 ### <a name="yutahaga_scoop-bucket" id="yutahaga_scoop-bucket"></a>[yutahaga/scoop-bucket](https://github.com/yutahaga/scoop-bucket) [&#x2934;](#back_yutahaga_scoop-bucket)
  *my scoop bucket*
