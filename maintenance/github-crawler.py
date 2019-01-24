@@ -626,8 +626,8 @@ def do_repo(repo, i, num_repos, do_score=True):
         return 0
 
     cache[repofoldername]['entries'] = []
-
-    if full_name == 'lukesampson/scoop' or full_name == 'lukesampson/scoop-extras':
+    bucket_repos = ['lukesampson/scoop', 'lukesampson/scoop-extras', 'scoopinstaller/versions']
+    if full_name in bucket_repos:
         bucket = '/bucket'
     else:
         bucket = ''
