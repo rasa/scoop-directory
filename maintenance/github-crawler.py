@@ -211,6 +211,7 @@ searches.append({
         'kodybrown/scoop-nirsoft',
         'liaoya/scoop-bucket',
         'lillicoder/scoop-openjdk6',
+        'lptstr/open-scoop',
         'lukesampson/scoop',
         'lukesampson/scoop-extras',
         'lzimd/lzimd-scoop-bucket',
