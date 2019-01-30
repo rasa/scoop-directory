@@ -628,8 +628,10 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     cache[repofoldername]['entries'] = []
     
+    bucket = ''
     bucket_path = os.path.join(cache_dir, repofoldername)
     if os.path.isdir(bucket_path + '/bucket'):
+        bucket = '/bucket'
         bucket_path = bucket_path + '/bucket'
 
     rows = {}
