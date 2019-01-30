@@ -627,13 +627,10 @@ def do_repo(repo, i, num_repos, do_score=True):
         return 0
 
     cache[repofoldername]['entries'] = []
-    bucket_repos = ['lukesampson/scoop', 'lukesampson/scoop-extras', 'scoopinstaller/versions']
-    if full_name in bucket_repos:
-        bucket = '/bucket'
-    else:
-        bucket = ''
-
-    bucket_path = os.path.join(cache_dir, repofoldername) + bucket
+    
+    bucket_path = os.path.join(cache_dir, repofoldername)
+    if os.path.isdir(bucket_path + '/bucket'):
+        bucket_path = bucket_path + '/bucket'
 
     rows = {}
 
