@@ -610,6 +610,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             'stars': int(repo['stargazers_count']),
             'stars_url': html_url + '/stargazers',
             'updated': repo['updated_at'][2:10].replace('-', '&#x2011;'),
+            'updated_at': repo['updated_at'].replace('-', '&#x2011;'),
             'updated_url': html_url + '/commits',
             'url': html_url, }
 
@@ -628,7 +629,7 @@ def do_repo(repo, i, num_repos, do_score=True):
         return 0
 
     cache[repofoldername]['entries'] = []
-    
+
     bucket = ''
     bucket_path = os.path.join(cache_dir, repofoldername)
     if os.path.isdir(bucket_path + '/bucket'):
@@ -795,7 +796,7 @@ def save_cache():
     return 0
 
 
-def sort_repos(first_sort_key):
+def sort_repos(first_sort_key, sort_in_reverse):
     """ @todo """
     global repos_by_score
     global repos_by_name
@@ -808,9 +809,9 @@ def sort_repos(first_sort_key):
     repos_by_score = sorted(
         repos_by_score,
         key=lambda repo: (
-            -cache[repo][first_sort_key], -cache[repo]['score'], -cache[repo]
-            ['stars'], -cache[repo]['forks'], -cache[repo]['packages'], cache[
-                repo]['full_name'].lower()))
+            cache[repo][first_sort_key], cache[repo]['score'], cache[repo]
+            ['stars'], cache[repo]['forks'], cache[repo]['packages'], cache[
+                repo]['full_name'].lower()), reverse=sort_in_reverse)
 
     repos_by_name = copy.deepcopy(repos_by_score)
     repos_by_name = sorted(
@@ -832,19 +833,19 @@ def do_render(filename, sort_order_description):
         'sort_order_description': sort_order_description}
     tpl = 'ReadmeTemplate.md'
     markdown_content = TEMPLATE_ENVIRONMENT.get_template(tpl).render(context)
-    with io.open(filename, 'w', encoding='utf-8', newline="\n") as f:
+    with io.open(filename, 'w+', encoding='utf-8', newline="\n") as f:
         written = f.write(markdown_content)
         print("Wrote %d bytes to %s" % (written, filename))
     return True
 
 
-def do_readme(sort_field, output_file, sort_order_description):
+def do_readme(sort_field, output_file, sort_order_description, sort_in_reverse):
     """ @todo """
     filename = os.path.realpath(os.path.join(dir_path, '..', output_file))
-    if not os.path.isfile(filename):
-        print("File not found: %s" % filename)
-        return False
-    sort_repos(sort_field)
+    #if not os.path.isfile(filename):
+    #    print("File not found: %s" % filename)
+    #    return False
+    sort_repos(sort_field, sort_in_reverse)
     do_render(filename, sort_order_description)
     return True
 
@@ -855,8 +856,13 @@ def main():
     initialize_cache()
     do_searches()
     save_cache()
-    do_readme('score', 'by-score.md', 'Github score')
-    do_readme('epoch', 'by-date-updated.md', 'update date')
+    do_readme('score', 'README.md', 'Github score', True)
+    do_readme('score', 'by-score.md', 'Github score', True)
+    do_readme('full_name', 'by-bucket.md', 'bucket name', False)
+    do_readme('packages', 'by-apps.md', 'number of apps', True)
+    do_readme('stars', 'by-stars.md', 'number of stars', True)
+    do_readme('forks', 'by-forks.md', 'number of forks', True)
+    do_readme('epoch', 'by-date-updated.md', 'date last updated', True)
     return 0
 
 
