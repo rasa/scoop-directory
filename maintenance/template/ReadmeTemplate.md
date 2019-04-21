@@ -6,7 +6,7 @@
 #} [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/h404bi/awesome-scoop/blob/master/README.md "Awesome Scoop")
 
 | Score[&#x25b2;](by-score.md) | Bucket[&#x25b2;](by-bucket.md) | Apps[&#x25b2;](by-apps.md) | &#x2605;[&#x25b2;](by-stars.md) {#
-#} | &#x2442;[&#x25b2;](by-forks.md) | Updated[&#x25b2;](by-updated.md) |
+#} | &#x2442;[&#x25b2;](by-forks.md) | Updated[&#x25b2;](by-date-updated.md) |
 | :--- | :--- | ---: | ---: | ---: | ---: |
 {% for repo in repos_by_score %}{#
 #}|<a name="back_{{cache[repo]['id']}}" id="back_{{cache[repo]['id']}}"></a>[{{loop.index}}.](#)&nbsp;{{cache[repo]['score5']}} {#
