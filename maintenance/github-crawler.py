@@ -136,6 +136,7 @@ done = [
     'pavanbijja/scoop-bucket',
     'rivy/scoop.bucket.scoop-main',
     'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
+    "https://github.com/se35710/scoop-java",
 ]
 
 max_pages = 2
@@ -156,6 +157,7 @@ searches.append({
         True,
     'searches': [
         'scoop',
+        # @todo regen this list
         'comp500/scoop-browser',
         'ghchinoy/scoop-ce',
         'jfut/scoop-jfut',
@@ -239,8 +241,7 @@ searches.append({
         'rivy/scoop.bucket-scoop.main',
         'scoopinstaller/nightlies',
         'scoopinstaller/versions',
-        'se35710/scoop-ibm',
-        'se35710/scoop-java',
+        'se35710/scoop-ibm',      
         'siddarthasagar/scoopbucket',
         'simonwjackson/my-bucket',
         'stlhrt/steel-buckets',
@@ -393,7 +394,7 @@ def get_builtins():
         "php": "https://github.com/nueko/scoop-php.git",
         "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts.git",
         "nonportable": "https://github.com/oltolm/scoop-nonportable",
-        "java": "https://github.com/se35710/scoop-java",
+        "java": "https://github.com/scoopinstaller/Java",
         "games": "https://github.com/Calinou/scoop-games",
         "jetbrains": "https://github.com/Ash258/Scoop-JetBrains"}
 
