@@ -385,6 +385,7 @@ def get_builtins():
     # @todo load from
     # https://raw.githubusercontent.com/lukesampson/scoop/master/buckets.json
     bucket_list = {
+        "main": "https://github.com/scoopinstaller/scoop-main",
         "extras": "https://github.com/lukesampson/scoop-extras.git",
         "versions": "https://github.com/scoopinstaller/versions",
         "nightlies": "https://github.com/scoopinstaller/nightlies",
@@ -575,7 +576,7 @@ def do_repo(repo, i, num_repos, do_score=True):
         if full_name in builtins:
             builtin_text = "scoop's built-in bucket '%s'" % builtins[full_name]
         if full_name in 'lukesampson/scoop':
-            builtin_text = "scoop's main/default bucket"
+            builtin_text = "scoop's original main bucket (superseded by https://github.com/scoopinstaller/scoop-main)"
         if builtin_text:
             description += " (%s)" % builtin_text
 
