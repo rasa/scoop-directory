@@ -9,7 +9,7 @@
 #} | [&#x2442;&#x25b2;](by-forks.md) | [Updated&#x25b2;](by-date-updated.md) |
 | :--- | :--- | ---: | ---: | ---: | ---: |
 {% for repo in repos_by_score %}{#
-#}|<a name="back_{{cache[repo]['id']}}" id="back_{{cache[repo]['id']}}"></a>[{{loop.index}}.](#)&nbsp;{{cache[repo]['score5']}} {#
+#}|<a name="back_{{cache[repo]['id']}}" id="back_{{cache[repo]['id']}}"></a>[{{loop.index}}.](#back_{{cache[repo]['id']}})&nbsp;{{cache[repo]['score5']}} {#
 #}|[__{{cache[repo]['full_name']}}__]({{cache[repo]['url']}}){{cache[repo]['cdescription']}}{#
 #}|[{{cache[repo]['packages']}}](#{{cache[repo]['id']}}){#
 #}|[{{cache[repo]['stars']}}]({{cache[repo]['stars_url']}}){#
