@@ -214,7 +214,7 @@ searches.append({
         'liaoya/scoop-bucket',
         'lillicoder/scoop-openjdk6',
         'lptstr/open-scoop',
-        'lukesampson/scoop',
+        # 'lukesampson/scoop',
         'lukesampson/scoop-extras',
         'lzimd/lzimd-scoop-bucket',
         'maman/scoop-bucket',
@@ -637,6 +637,9 @@ def do_repo(repo, i, num_repos, do_score=True):
     if os.path.isdir(bucket_path + '/bucket'):
         bucket = '/bucket'
         bucket_path = bucket_path + '/bucket'
+
+    if full_name == 'lukesampson/scoop' and bucket == '':
+        return 0
 
     rows = {}
 
