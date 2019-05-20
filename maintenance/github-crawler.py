@@ -386,18 +386,18 @@ def get_builtins():
     # @todo load from
     # https://raw.githubusercontent.com/lukesampson/scoop/master/buckets.json
     bucket_list = {
-        "main": "https://github.com/scoopinstaller/scoop-main",
-        "extras": "https://github.com/lukesampson/scoop-extras.git",
-        "versions": "https://github.com/scoopinstaller/versions",
-        "nightlies": "https://github.com/scoopinstaller/nightlies",
-        "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
-        "php": "https://github.com/nueko/scoop-php.git",
-        "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts.git",
-        "nonportable": "https://github.com/oltolm/scoop-nonportable",
-        "java": "https://github.com/scoopinstaller/Java",
-        "games": "https://github.com/Calinou/scoop-games",
-        "jetbrains": "https://github.com/Ash258/Scoop-JetBrains"}
-
+    "main": "https://github.com/ScoopInstaller/Main",
+    "extras": "https://github.com/lukesampson/scoop-extras",
+    "versions": "https://github.com/ScoopInstaller/Versions",
+    "nightlies": "https://github.com/ScoopInstaller/Nightlies",
+    "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
+    "php": "https://github.com/ScoopInstaller/PHP",
+    "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts",
+    "nonportable": "https://github.com/oltolm/scoop-nonportable",
+    "java": "https://github.com/ScoopInstaller/Java",
+    "games": "https://github.com/Calinou/scoop-games",
+    "jetbrains": "https://github.com/Ash258/Scoop-JetBrains"
+    }
     for key in bucket_list:
         url = bucket_list[key]
         m = re.search(r'github\.com/(.*)$', url, re.I)
