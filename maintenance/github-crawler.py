@@ -576,8 +576,8 @@ def do_repo(repo, i, num_repos, do_score=True):
         builtin_text = ''
         if full_name in builtins:
             builtin_text = "scoop's built-in bucket '%s'" % builtins[full_name]
-        if full_name in 'lukesampson/scoop':
-            builtin_text = "scoop's original main bucket (superseded by https://github.com/scoopinstaller/scoop-main)"
+        #if full_name in 'lukesampson/scoop':
+        #    builtin_text = "scoop's original main bucket (superseded by https://github.com/scoopinstaller/scoop-main)"
         if builtin_text:
             description += " (%s)" % builtin_text
 
@@ -638,8 +638,8 @@ def do_repo(repo, i, num_repos, do_score=True):
         bucket = '/bucket'
         bucket_path = bucket_path + '/bucket'
 
-    if full_name == 'lukesampson/scoop' and bucket == '':
-        return 0
+    #if full_name == 'lukesampson/scoop' and bucket == '':
+    #    return 0
 
     rows = {}
 
@@ -840,7 +840,8 @@ def do_render(filename, sort_order_description):
     markdown_content = TEMPLATE_ENVIRONMENT.get_template(tpl).render(context)
     with io.open(filename, 'w+', encoding='utf-8', newline="\n") as f:
         written = f.write(markdown_content)
-        print("Wrote %d bytes to %s" % (written, filename))
+        lines = len(markdown_content.splitlines())
+        print("Wrote %d bytes (%s lines) to %s" % (written, lines, filename))
     return True
 
 
