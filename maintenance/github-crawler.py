@@ -862,7 +862,8 @@ def main():
     initialize_cache()
     do_searches()
     save_cache()
-    do_readme('score', 'README.md', 'Github score', True)
+    # GitHub truncates the readme
+    # do_readme('score', 'README.md', 'Github score', True)
     do_readme('score', 'by-score.md', 'Github score', True)
     do_readme('full_name', 'by-bucket.md', 'bucket name', False)
     do_readme('packages', 'by-apps.md', 'number of apps', True)
