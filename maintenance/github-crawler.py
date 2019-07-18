@@ -192,6 +192,7 @@ searches.append({
         'demas/demas-scoop',
         'dennislloydjr/scoop-bucket-devbox',
         'divanvisagie/scoop-bucket',
+        'edgardmessias/scoop-pentaho',
         'excitoon/scoop-user',
         'ezhikov/scoop-bucket',
         'follnoob/follnoob-bucket',
