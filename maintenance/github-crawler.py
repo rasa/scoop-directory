@@ -139,7 +139,7 @@ done = [
     "https://github.com/se35710/scoop-java",
 ]
 
-max_pages = 2
+max_pages = 1
 
 searches = []
 
