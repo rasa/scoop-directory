@@ -291,7 +291,7 @@ def do_license(v):
     if not identifier:
         identifier = url
 
-    parts = re.split(r'[,|]+', identifier)
+    parts = re.split(r'[,\|]+', identifier)
     v = ''
     for part in parts:
         if v > '':
