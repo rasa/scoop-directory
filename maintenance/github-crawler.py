@@ -242,7 +242,7 @@ searches.append({
         'rivy/scoop.bucket-scoop.main',
         'scoopinstaller/nightlies',
         'scoopinstaller/versions',
-        'se35710/scoop-ibm',      
+        'se35710/scoop-ibm',
         'siddarthasagar/scoopbucket',
         'simonwjackson/my-bucket',
         'stlhrt/steel-buckets',
@@ -285,24 +285,28 @@ def do_license(v):
     if re.search(r'^(http|ftp)', url):
         if not identifier:
             identifier = 'Link'
-        v = '[%s](%s)' % (identifier, url)
-        return v
+        return do_license_identifier(identifier, url)
 
     if not identifier:
         identifier = url
 
+    return do_license_identifier(identifier, '')
+
+
+def do_license_identifier(identifier, url):
+    """ @todo """
     parts = re.split(r'[,\|]+', identifier)
     v = ''
     for part in parts:
         if v > '':
             v += '/'
-        url = ''
         part = part.strip()
-        k = part.lower()
-        if k in OSImap:
-            url = OSImap[k]
-        elif k in lmap:
-            url = lmap[k]
+        if not url:
+            k = part.lower()
+            if k in OSImap:
+                url = OSImap[k]
+            elif k in lmap:
+                url = lmap[k]
         if url > '':
             v += '[%s](%s)' % (fix_license(part), url)
         else:
@@ -900,7 +904,7 @@ if not re.search(r'cache$', cache_root):
     cache_dir = os.path.join(cache_root, 'cache')
 
 # @todo change to startup option
-if False:
+if len(sys.argv) > 1:
     per_page = 1
     max_pages = 1
     searches[0]['pages'] = max_pages
