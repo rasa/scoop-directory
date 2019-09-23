@@ -109,7 +109,8 @@ OSI = [
     'Nokia-Qt-exception-1.1', 'OCCT-exception-1.0',
     'OpenJDK-assembly-exception-1.0', 'openvpn-openssl-exception',
     'Qt-GPL-exception-1.0', 'Qt-LGPL-exception-1.1', 'Qwt-exception-1.0',
-    'u-boot-exception-2.0', 'sWxWindows-exception-3.1']
+    'u-boot-exception-2.0', 'sWxWindows-exception-3.1'
+]
 
 lmap = {
     'commercial':
@@ -127,7 +128,8 @@ lmap = {
     'publicdomain':
         'https://wiki.creativecommons.org/wiki/Public_domain',
     'shareware':
-        'https://en.wikipedia.org/wiki/Shareware', }
+        'https://en.wikipedia.org/wiki/Shareware',
+}
 
 # skip these buckets as they are forks of other buckets
 done = [
@@ -148,7 +150,9 @@ searches.append({
     'score': True,
     'searches': [
         'scoop-bucket',
-        'scoop+bucket', ]})
+        'scoop+bucket',
+    ]
+})
 
 searches.append({
     'pages':
@@ -259,7 +263,9 @@ searches.append({
         'wrokred/phpdev-scoop-bucket',
         'yt3r/test-bucket',
         'yuanying1199/scoopbucket',
-        'yutahaga/scoop-bucket', ]})
+        'yutahaga/scoop-bucket',
+    ]
+})
 
 
 def fix_license(s):
@@ -391,17 +397,17 @@ def get_builtins():
     # @todo load from
     # https://raw.githubusercontent.com/lukesampson/scoop/master/buckets.json
     bucket_list = {
-    "main": "https://github.com/ScoopInstaller/Main",
-    "extras": "https://github.com/lukesampson/scoop-extras",
-    "versions": "https://github.com/ScoopInstaller/Versions",
-    "nightlies": "https://github.com/ScoopInstaller/Nightlies",
-    "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
-    "php": "https://github.com/ScoopInstaller/PHP",
-    "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts",
-    "nonportable": "https://github.com/oltolm/scoop-nonportable",
-    "java": "https://github.com/ScoopInstaller/Java",
-    "games": "https://github.com/Calinou/scoop-games",
-    "jetbrains": "https://github.com/Ash258/Scoop-JetBrains"
+        "main": "https://github.com/ScoopInstaller/Main",
+        "extras": "https://github.com/lukesampson/scoop-extras",
+        "versions": "https://github.com/ScoopInstaller/Versions",
+        "nightlies": "https://github.com/ScoopInstaller/Nightlies",
+        "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
+        "php": "https://github.com/ScoopInstaller/PHP",
+        "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts",
+        "nonportable": "https://github.com/oltolm/scoop-nonportable",
+        "java": "https://github.com/ScoopInstaller/Java",
+        "games": "https://github.com/Calinou/scoop-games",
+        "jetbrains": "https://github.com/Ash258/Scoop-JetBrains"
     }
     for key in bucket_list:
         url = bucket_list[key]
@@ -525,7 +531,8 @@ def do_repo(repo, i, num_repos, do_score=True):
         'description',
         # 'homepage',
         'license',
-        'version', ]
+        'version',
+    ]
 
     if 'name' not in repo:
         pprint.pprint(dict(repo), width=1)
@@ -565,7 +572,8 @@ def do_repo(repo, i, num_repos, do_score=True):
     if repofoldername not in cache:
         try:
             git.Repo.clone_from(
-                git_clone_url, os.path.join(cache_dir, repofoldername))
+                git_clone_url, os.path.join(cache_dir, repofoldername)
+            )
         except Exception as e:
             if nl:
                 print('')
@@ -596,7 +604,8 @@ def do_repo(repo, i, num_repos, do_score=True):
         pattern = '%Y-%m-%dT%H:%M:%S'
         try:
             epoch = int(
-                time.mktime(time.strptime(repo['updated_at'][:-1], pattern)))
+                time.mktime(time.strptime(repo['updated_at'][:-1], pattern))
+            )
         except:
             epoch = 0
 
@@ -619,7 +628,8 @@ def do_repo(repo, i, num_repos, do_score=True):
             'updated': repo['updated_at'][2:10].replace('-', '&#x2011;'),
             'updated_at': repo['updated_at'].replace('-', '&#x2011;'),
             'updated_url': html_url + '/commits',
-            'url': html_url, }
+            'url': html_url,
+        }
 
     elif repofoldername in cache and (last_updated > last_run):
         repo = git.Repo(os.path.join(cache_dir, repofoldername))
@@ -693,14 +703,16 @@ def do_repo(repo, i, num_repos, do_score=True):
             default_branch = 'master'
             if not row['url']:
                 row['url'] = '%s/blob/%s%s/%s' % (
-                    html_url, default_branch, bucket, f)
+                    html_url, default_branch, bucket, f
+                )
             for key in keys:
                 if key not in j:
                     continue
 
                 v = j[key]
                 is_string = type(v).__name__ == 'unicode' or type(
-                    v).__name__ == 'str'
+                    v
+                ).__name__ == 'str'
                 if is_string:
                     v = v.strip()
                     v = re.sub(r'[\r\n]+', ' ', v)
@@ -742,7 +754,8 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     print(
         '%3d (score:%10.6f)' %
-        (len(cache[repofoldername]['entries']), repo['score']))
+        (len(cache[repofoldername]['entries']), repo['score'])
+    )
     return len(cache[repofoldername]['entries'])
 
 
@@ -794,8 +807,8 @@ def save_cache():
 
     print("Saving cache")
     cache['last_run'] = datetime.strftime(
-        datetime.now().replace(hour=0, minute=0, second=0),
-        '%Y-%m-%dT%H:%M:%SZ')
+        datetime.now().replace(hour=0, minute=0, second=0), '%Y-%m-%dT%H:%M:%SZ'
+    )
 
     try:
         with open(os.path.join(cache_dir, 'cache.pickle'), "wb") as input_file:
@@ -815,17 +828,22 @@ def sort_repos(first_sort_key, sort_in_reverse):
     repos = [repo for repo in cache.keys()]
     repos_by_score = [
         repo for repo in repos
-        if repo != 'last_run' and len(cache[repo]['entries']) > 0]
+        if repo != 'last_run' and len(cache[repo]['entries']) > 0
+    ]
     repos_by_score = sorted(
         repos_by_score,
         key=lambda repo: (
-            cache[repo][first_sort_key], cache[repo]['score'], cache[repo]
-            ['stars'], cache[repo]['forks'], cache[repo]['packages'], cache[
-                repo]['full_name'].lower()), reverse=sort_in_reverse)
+            cache[repo][first_sort_key], cache[repo]['score'], cache[repo][
+                'stars'], cache[repo]['forks'], cache[repo]['packages'], cache[
+                    repo]['full_name'].lower()
+        ),
+        reverse=sort_in_reverse
+    )
 
     repos_by_name = copy.deepcopy(repos_by_score)
     repos_by_name = sorted(
-        repos_by_name, key=lambda repo: cache[repo]['full_name'].lower())
+        repos_by_name, key=lambda repo: cache[repo]['full_name'].lower()
+    )
     return True
 
 
@@ -835,12 +853,14 @@ def do_render(filename, sort_order_description):
     TEMPLATE_ENVIRONMENT = jinja2.Environment(
         autoescape=False,
         loader=jinja2.FileSystemLoader(os.path.join(dir_path, 'template')),
-        trim_blocks=False)
+        trim_blocks=False
+    )
     context = {
         'repos_by_score': repos_by_score,
         'repos_by_name': repos_by_name,
         'cache': cache,
-        'sort_order_description': sort_order_description}
+        'sort_order_description': sort_order_description
+    }
     tpl = 'ReadmeTemplate.md'
     markdown_content = TEMPLATE_ENVIRONMENT.get_template(tpl).render(context)
     with io.open(filename, 'w+', encoding='utf-8', newline="\n") as f:
