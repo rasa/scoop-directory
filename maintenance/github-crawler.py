@@ -255,6 +255,7 @@ searches.append({
         'tapanchandra/scoop-personal',
         'tditlu/scoop-amiga',
         'themrhead/scoop-bucket-apps',
+        'TheRandomLabs/Scoop-Bucket',
         'toburger/scoop-buckets',
         'twxs/scoop-buckets',
         'vidarkongsli/vidars-scoop-bucket',
