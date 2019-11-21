@@ -265,6 +265,7 @@ searches.append({
         'yt3r/test-bucket',
         'yuanying1199/scoopbucket',
         'yutahaga/scoop-bucket',
+        'zhoujin7/tomato',
     ]
 })
 
