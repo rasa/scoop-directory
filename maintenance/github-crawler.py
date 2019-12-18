@@ -227,6 +227,7 @@ searches.append({
         'masonm12/scoop-personal',
         'matthewjberger/scoop-nerd-fonts',
         'mattkang/scoop-bucket',
+        'MCOfficer/scoop-bucket',
         'michaelxmcbride/scoop-michaelxmcbride',
         'mmichaelis/scoop-bucket',
         'monotykamary/toms-scoop-bucket',
