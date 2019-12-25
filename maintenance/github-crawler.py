@@ -238,7 +238,7 @@ searches.append({
         'nsstrunks/scoop-bucket',
         'nueko/scoop-php',
         'nueko/scoop-php-ext',
-        'oltolm/scoop-nonportable',
+        'TheRandomLabs/scoop-nonportable',
         'ondr3j/scoop-misc',
         'pastleo/scoop-bucket',
         'pcrama/scoop-buckets',
@@ -407,7 +407,7 @@ def get_builtins():
         "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
         "php": "https://github.com/ScoopInstaller/PHP",
         "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts",
-        "nonportable": "https://github.com/oltolm/scoop-nonportable",
+        "nonportable": "https://github.com/TheRandomLabs/scoop-nonportable",
         "java": "https://github.com/ScoopInstaller/Java",
         "games": "https://github.com/Calinou/scoop-games",
         "jetbrains": "https://github.com/Ash258/Scoop-JetBrains"
