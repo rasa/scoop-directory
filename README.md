@@ -5,4 +5,4 @@ View the Scoop Directory by:
 
 [GitHub score](by-score.md) | [bucket name](by-bucket.md) | [apps](by-apps.md) | [stars](by-stars.md) | [forks](by-forks.md) | [last updated](by-date-updated.md)
 
-Another great Scoop tool can be found at scoop-docs.now.sh's [search page](https://scoop-docs.now.sh/apps/).
+To search the [known](https://github.com/lukesampson/scoop#known-application-buckets) scoop buckets for apps, please visit scoop-docs.now.sh's [search page](https://scoop-docs.now.sh/apps/).
