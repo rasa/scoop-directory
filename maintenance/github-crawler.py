@@ -913,7 +913,7 @@ builtins = {}
 cache = {}
 dir_path = os.path.dirname(os.path.realpath(__file__))
 last_run = None
-per_page = 25
+per_page = 20
 repos_by_score = []
 repos_by_name = []
 
