@@ -268,6 +268,7 @@ searches.append({
         'yuanying1199/scoopbucket',
         'yutahaga/scoop-bucket',
         'zhoujin7/tomato',
+        'GreatGodApollo/trough',
     ]
 })
 
