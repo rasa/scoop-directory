@@ -258,6 +258,7 @@ searches.append({
         'tditlu/scoop-amiga',
         'themrhead/scoop-bucket-apps',
         'TheRandomLabs/Scoop-Bucket',
+        'TheRandomLabs/Scoop-Spotify',
         'toburger/scoop-buckets',
         'twxs/scoop-buckets',
         'vidarkongsli/vidars-scoop-bucket',
@@ -268,7 +269,7 @@ searches.append({
         'yuanying1199/scoopbucket',
         'yutahaga/scoop-bucket',
         'zhoujin7/tomato',
-        'Ash258/Scoop-JetBrains',
+        'Ash258/Scoop-JetBrains'
     ]
 })
 
