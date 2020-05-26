@@ -138,7 +138,7 @@ done = [
     'pavanbijja/scoop-bucket',
     'rivy/scoop.bucket.scoop-main',
     'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
-    "https://github.com/se35710/scoop-java",
+    "se35710/scoop-java",
 ]
 
 max_pages = 1
