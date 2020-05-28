@@ -258,6 +258,7 @@ searches.append({
         'tditlu/scoop-amiga',
         'themrhead/scoop-bucket-apps',
         'TheRandomLabs/Scoop-Bucket',
+        'TheRandomLabs/Scoop-Python',
         'TheRandomLabs/Scoop-Spotify',
         'toburger/scoop-buckets',
         'twxs/scoop-buckets',
