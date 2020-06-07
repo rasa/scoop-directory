@@ -270,7 +270,8 @@ searches.append({
         'yuanying1199/scoopbucket',
         'yutahaga/scoop-bucket',
         'zhoujin7/tomato',
-        'Ash258/Scoop-JetBrains'
+        'Ash258/Scoop-JetBrains',
+        'dooteeen/scoop-for-jp'
     ]
 })
 
