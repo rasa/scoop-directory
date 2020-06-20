@@ -257,6 +257,7 @@ searches.append({
         'tapanchandra/scoop-personal',
         'tditlu/scoop-amiga',
         'themrhead/scoop-bucket-apps',
+        'TheLastZombie/scoop-bucket',
         'TheRandomLabs/Scoop-Bucket',
         'TheRandomLabs/Scoop-Python',
         'TheRandomLabs/Scoop-Spotify',
