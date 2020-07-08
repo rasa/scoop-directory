@@ -272,7 +272,8 @@ searches.append({
         'yutahaga/scoop-bucket',
         'zhoujin7/tomato',
         'Ash258/Scoop-JetBrains',
-        'dooteeen/scoop-for-jp'
+        'dooteeen/scoop-for-jp',
+        'MCOfficer/scoop-nirsoft',
     ]
 })
 
@@ -591,7 +592,10 @@ def do_repo(repo, i, num_repos, do_score=True):
             return 0
 
         try:
-            description = repo['description'].strip()
+            description = repo['description']
+            if isinstance(description, list):
+                description = ' \n'.join(description)
+            description = description.strip()
         except Exception:
             description = ''
 
