@@ -553,6 +553,10 @@ def do_repo(repo, i, num_repos, do_score=True):
     print('  %3d/%3d: %-50s: ' % (i, num_repos, full_name), end='')
     nl = True
 
+    if full_name == 'lukesampson/scoop':
+        print('Skipping lukesampson/scoop (no apps)')
+        return 0
+
     if full_name.lower() in done:
         print('Skipping (done)')
         return 0
@@ -723,9 +727,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                     continue
 
                 v = j[key]
-                is_string = type(v).__name__ == 'unicode' or type(
-                    v
-                ).__name__ == 'str'
+                is_string = isinstance(v, str) or type(v).__name__ == 'unicode'
                 if is_string:
                     v = v.strip()
                     v = re.sub(r'[\r\n]+', ' ', v)
@@ -735,7 +737,12 @@ def do_repo(repo, i, num_repos, do_score=True):
                     v = do_version(j)
 
                 try:
-                    row[key] = v.strip()
+                    if isinstance(v, list):
+                        if key == 'description':
+                            v = ' \n'.join(v)
+                    v = v.strip()
+                    v = re.sub(r'[\r\n]+', ' ', v)
+                    row[key] = v
                 except Exception as e:
                     if nl:
                         print('')
