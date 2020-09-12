@@ -243,6 +243,7 @@ searches.append({
         'ondr3j/scoop-misc',
         'pastleo/scoop-bucket',
         'pcrama/scoop-buckets',
+        'pgollangi/scoop-bucket',
         'rasa/scoops',
         'rcqls/scoop-extras',
         'rivy/scoop.bucket-scoop.main',
