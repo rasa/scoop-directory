@@ -256,6 +256,7 @@ searches.append({
         'svkoh/scoop-bucket',
         'systemexitzero/scoop-bucket',
         'tapanchandra/scoop-personal',
+        'thushan/scoop-devtools',
         'tditlu/scoop-amiga',
         'themrhead/scoop-bucket-apps',
         'TheLastZombie/scoop-bucket',
