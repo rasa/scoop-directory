@@ -4,10 +4,9 @@ language: python
 cache:
   directories:
   - "$HOME/.cache/pip"
-python: 3.8
+python: 3.9
 sudo: true
-# to enable 3.7+, per https://github.com/travis-ci/travis-ci/issues/9815#issuecomment-411073985
-dist: xenial
+dist: focal
 
 install: "pip install -r maintenance/requirements.txt"
 script: "python maintenance/github-crawler.py"
