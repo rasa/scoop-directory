@@ -4,9 +4,9 @@ language: python
 cache:
   directories:
   - "$HOME/.cache/pip"
-python: 3.8
+python: 3.9
 sudo: true
-dist: bionic
+dist: xenial
 
 install: "pip install -r maintenance/requirements.txt"
 script: "python maintenance/github-crawler.py"
