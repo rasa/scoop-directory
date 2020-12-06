@@ -4,7 +4,7 @@ language: python
 cache:
   directories:
   - "$HOME/.cache/pip"
-python: 3.9
+python: 3.8
 sudo: true
 dist: xenial
 
