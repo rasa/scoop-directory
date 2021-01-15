@@ -141,7 +141,7 @@ done = [
     "se35710/scoop-java",
 ]
 
-max_pages = 10
+max_pages = 2
 
 searches = []
 
@@ -939,7 +939,8 @@ builtins = {}
 cache = {}
 dir_path = os.path.dirname(os.path.realpath(__file__))
 last_run = None
-per_page = 100
+# https://docs.github.com/en/free-pro-team@latest/rest/overview/resources-in-the-rest-api#pagination
+per_page = 100 # Max is 100
 repos_by_score = []
 repos_by_name = []
 
