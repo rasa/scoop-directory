@@ -141,7 +141,7 @@ done = [
     "se35710/scoop-java",
 ]
 
-max_pages = 1
+max_pages = 10
 
 searches = []
 
@@ -156,7 +156,7 @@ searches.append({
 
 searches.append({
     'pages':
-        1,
+        max_pages,
     'score':
         True,
     'searches': [
@@ -928,7 +928,7 @@ builtins = {}
 cache = {}
 dir_path = os.path.dirname(os.path.realpath(__file__))
 last_run = None
-per_page = 15
+per_page = 100
 repos_by_score = []
 repos_by_name = []
 
