@@ -711,14 +711,16 @@ def do_repo(repo, i, num_repos, do_score=True):
                     nl = False
                 print('    %s: no version' % f)
                 break
-
+            
             try:
                 row['url'] = get_url(j)
             except Exception as e:
                 if nl:
                     print('')
                     nl = False
+                print(f)
                 print(e)
+                break
             
             # @todo Use github API to determine the default branch
             default_branch = 'master'
@@ -751,6 +753,8 @@ def do_repo(repo, i, num_repos, do_score=True):
                     if nl:
                         print('')
                         nl = False
+                    print(f)
+                    print(e)
                     parse_error = str(e)
                 # @TODO add bits/exes,shortcuts
                 # https://png.icons8.com/android/48/000000/ok.png
