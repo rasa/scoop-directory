@@ -712,7 +712,14 @@ def do_repo(repo, i, num_repos, do_score=True):
                 print('    %s: no version' % f)
                 break
 
-            row['url'] = get_url(j)
+            try:
+                row['url'] = get_url(j)
+            except Exception as e:
+                if nl:
+                    print('')
+                    nl = False
+                print(e)
+            
             # @todo Use github API to determine the default branch
             default_branch = 'master'
             if not row['url']:
