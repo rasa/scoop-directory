@@ -165,7 +165,7 @@ searches.append({
         '82p/scoop-yubico-bucket',
         'Aaike/scoop',
         'Alxandr/scoop-bucket',
-        'Ash258/Scoop-JetBrains',
+        'Ash258/Scoop-Ash258',
         'AStupidBear/scoop-bear',
         'BjoernPetersen/scoop-misc-bucket',
         'Callidin/ragnar-scoop',
@@ -182,7 +182,6 @@ searches.append({
         'Southclaws/scoops',
         'TheLastZombie/scoop-bucket',
         'TheRandomLabs/Scoop-Bucket',
-        'TheRandomLabs/scoop-nonportable',
         'TheRandomLabs/Scoop-Python',
         'TheRandomLabs/Scoop-Spotify',
         'TnmkFan/my-bucket',
@@ -223,18 +222,14 @@ searches.append({
         'kentork/scoop-leaky-bucket',
         'klaidliadon/scoop-buckets',
         'klauern/trackello-bucket',
-        'kodybrown/scoop-nirsoft',
         'liaoya/scoop-bucket',
         'lillicoder/scoop-openjdk6',
         'littleli/scoop-clojure',
         'lptstr/open-scoop',
-        # 'lukesampson/scoop',
-        'lukesampson/scoop-extras',
         'lzimd/lzimd-scoop-bucket',
         'maman/scoop-bucket',
         'masaeedu/scoop-growlnotify',
         'masonm12/scoop-personal',
-        'matthewjberger/scoop-nerd-fonts',
         'mattkang/scoop-bucket',
         'michaelxmcbride/scoop-michaelxmcbride',
         'mko-x/bucket',
@@ -255,8 +250,6 @@ searches.append({
         'rasa/scoops',
         'rcqls/scoop-extras',
         'rivy/scoop.bucket-scoop.main',
-        'scoopinstaller/nightlies',
-        'scoopinstaller/versions',
         'se35710/scoop-ibm',
         'siddarthasagar/scoopbucket',
         'simonwjackson/my-bucket',
@@ -816,6 +809,7 @@ def do_search(search, pages=1, do_score=True):
 
 def do_searches():
     """ @todo """
+    searches[1]['searches'].extend(builtins)
     for h in searches:
         for search in h['searches']:
             if search.lower() in done:
