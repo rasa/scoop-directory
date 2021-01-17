@@ -225,6 +225,7 @@ searches.append({
         'liaoya/scoop-bucket',
         'lillicoder/scoop-openjdk6',
         'littleli/scoop-clojure',
+        'littleli/Scoop-littleli',
         'lptstr/open-scoop',
         'lzimd/lzimd-scoop-bucket',
         'maman/scoop-bucket',
