@@ -212,6 +212,7 @@ searches.append({
         'goreleaser/scoop-bucket',
         'h404bi/dorado',
         'hermanjustnu/scoop-emulators',
+        'huangnauh/carrot',
         'iainsgillis/isg-bucket',
         'idursun/my-bucket',
         'jamesgecko/scoop-packages',
