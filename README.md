@@ -1,12 +1,14 @@
 # [Scoop](https://scoop.sh/) buckets
 [![Build Status](https://travis-ci.org/rasa/scoop-directory.svg)](https://travis-ci.org/rasa/scoop-directory "Build status")  [![Build Status](https://ci.appveyor.com/api/projects/status/github/rasa/scoop-directory?svg=true)](https://ci.appveyor.com/project/rasa/scoop-directory "Build Status")  [![Chat on Gitter](https://badges.gitter.im/lukesampson/scoop.svg)](https://gitter.im/lukesampson/scoop)  [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)  [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/h404bi/awesome-scoop/blob/master/README.md "Awesome Scoop")
 
-View the Scoop Directory by:
+View the Scoop Directory sorted by:
 
-[GitHub score](https://rasa.github.io/scoop-directory/by-score) | [bucket name](https://rasa.github.io/scoop-directory/by-bucket) | [apps](https://rasa.github.io/scoop-directory/by-apps) | [stars](https://rasa.github.io/scoop-directory/by-stars) | [forks](https://rasa.github.io/scoop-directory/by-forks) | [last updated](https://rasa.github.io/scoop-directory/by-date-updated)
+[bucket name](https://rasa.github.io/scoop-directory/by-bucket) | [number of apps](https://rasa.github.io/scoop-directory/by-apps) | [number of stars](https://rasa.github.io/scoop-directory/by-stars) | [number of forks](https://rasa.github.io/scoop-directory/by-forks) | [last updated](https://rasa.github.io/scoop-directory/by-date-updated) | [GitHub score](https://rasa.github.io/scoop-directory/by-score) (deprecated) | 
 
-View on GitHub (if the pages do not display, use the links above):
+The above pages are updated daily.
 
-[GitHub score](by-score.md) | [bucket name](by-bucket.md) | [apps](by-apps.md) | [stars](by-stars.md) | [forks](by-forks.md) | [last updated](by-date-updated.md)
+To search the [known](https://github.com/lukesampson/scoop#known-application-buckets) scoop buckets for apps (as well as other well known buckets), please visit scoop-docs.now.sh's [search page](https://scoop-docs.now.sh/apps/).
 
-To search the [known](https://github.com/lukesampson/scoop#known-application-buckets) scoop buckets for apps, please visit scoop-docs.now.sh's [search page](https://scoop-docs.now.sh/apps/).
+[@zhoujin7](https://github.com/zhoujin7) created the command line search tool [scoop-search](https://github.com/zhoujin7/scoop-search) which searches the above pages.
+
+[@shilangyu](https://github.com/shilangyu) created another command-line search tool called [scoop-search](https://github.com/shilangyu/scoop-search) which can be installed via `scoop install scoop-search` which searches the buckets installed locally via `scoop bucket add [bucketname]`.
