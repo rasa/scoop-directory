@@ -9,6 +9,6 @@ The above pages are updated daily.
 
 To search the [known](https://github.com/lukesampson/scoop#known-application-buckets) scoop buckets for apps (as well as other well known buckets), please visit scoop-docs.now.sh's [search page](https://scoop-docs.now.sh/apps/).
 
-[@zhoujin7](https://github.com/zhoujin7) created the command-line search tool [scoop-search](https://github.com/zhoujin7/scoop-search) which searches the above pages. The search tool works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a Sqlite3 eatabase.
+[@zhoujin7](https://github.com/zhoujin7) created the command-line search tool [scoop-search](https://github.com/zhoujin7/scoop-search) which searches the above pages. The search tool works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a Sqlite3 database.
 
 [@shilangyu](https://github.com/shilangyu) created another command-line search tool called [scoop-search](https://github.com/shilangyu/scoop-search) which can be installed via `scoop install scoop-search` which searches the buckets installed locally via `scoop bucket add [bucketname]`.
