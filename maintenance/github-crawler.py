@@ -131,13 +131,14 @@ lmap = {
         'https://en.wikipedia.org/wiki/Shareware',
 }
 
-# skip these buckets as they are forks of other buckets
+# skip these as they are dups of other buckets
 done = [
-    'Ranjizamadhu/scoop-bear',
+    'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
+    'kkzzhizhou/scoop-apps',
     'nueko/scoop-php-ext',
     'pavanbijja/scoop-bucket',
+    'Ranjizamadhu/scoop-bear',
     'rivy/scoop.bucket.scoop-main',
-    'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
     "se35710/scoop-java",
 ]
 
