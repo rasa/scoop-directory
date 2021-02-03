@@ -1,11 +1,5 @@
-certifi==2017.4.17
-chardet==3.0.4
-gitdb2==2.0.2
-GitPython==2.1.5
-idna==2.5
-jsoncomment==0.3.0
-Jinja2==2.9.6
-MarkupSafe==1.0
-requests==2.18.1
-smmap2==2.0.3
-urllib3==1.21.1
+requests==2.25.1
+Jinja2==2.11.2
+chardet==4.0.0
+jsoncomment==0.4.2
+GitPython==3.1.12
