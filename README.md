@@ -3,7 +3,7 @@
 
 View the Scoop Directory sorted by:
 
-[bucket name](https://rasa.github.io/scoop-directory/by-bucket) | [number of apps](https://rasa.github.io/scoop-directory/by-apps) | [number of stars](https://rasa.github.io/scoop-directory/by-stars) | [number of forks](https://rasa.github.io/scoop-directory/by-forks) | [last updated](https://rasa.github.io/scoop-directory/by-date-updated) | [GitHub score](https://rasa.github.io/scoop-directory/by-score) (deprecated) | 
+[bucket name](https://rasa.github.io/scoop-directory/by-bucket) | [number of apps](https://rasa.github.io/scoop-directory/by-apps) | [number of stars](https://rasa.github.io/scoop-directory/by-stars) | [number of forks](https://rasa.github.io/scoop-directory/by-forks) | [last updated](https://rasa.github.io/scoop-directory/by-date-updated) | [GitHub score](https://rasa.github.io/scoop-directory/by-score) ([deprecated](#Deprecated-pages) | 
 
 The above pages are updated daily.
 
@@ -15,4 +15,9 @@ To search the [known](https://github.com/lukesampson/scoop#known-application-buc
 
 ## Notes
 
-A few buckets are [excluded](https://github.com/rasa/scoop-directory/blob/master/maintenance/github-crawler.py#L135) as they duplicate other buckets.
+A few buckets are excluded as they duplicate other buckets. The list of excluded buckets is [here](https://github.com/rasa/scoop-directory/blob/master/maintenance/github-crawler.py#L135).
+
+## Deprecated pages
+
+The [GitHub score](https://rasa.github.io/scoop-directory/by-score) page is deprecated as the GitHub API returns a score of `1` for every search result.
+
