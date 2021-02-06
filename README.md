@@ -12,3 +12,7 @@ To search the [known](https://github.com/lukesampson/scoop#known-application-buc
 [@zhoujin7](https://github.com/zhoujin7) created the command-line search tool [scoop-search](https://github.com/zhoujin7/scoop-search) which searches the above pages. The search tool works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a [Sqlite3 database](https://github.com/zhoujin7/crawl-scoop-directory/blob/master/scoop_directory.db) which can be downloaded from [here](https://github.com/zhoujin7/crawl-scoop-directory/raw/master/scoop_directory.db).
 
 [@shilangyu](https://github.com/shilangyu) created another command-line search tool called [scoop-search](https://github.com/shilangyu/scoop-search) which can be installed via `scoop install scoop-search` which searches the buckets installed locally via `scoop bucket add [bucketname]`.
+
+## Notes
+
+A few buckets are [excluded](https://github.com/rasa/scoop-directory/blob/master/maintenance/github-crawler.py#L135) as they duplicate other buckets.
