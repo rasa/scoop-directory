@@ -3,7 +3,7 @@
 
 View the Scoop Directory sorted by:
 
-[bucket name](https://rasa.github.io/scoop-directory/by-bucket) | [number of apps](https://rasa.github.io/scoop-directory/by-apps) | [number of stars](https://rasa.github.io/scoop-directory/by-stars) | [number of forks](https://rasa.github.io/scoop-directory/by-forks) | [last updated](https://rasa.github.io/scoop-directory/by-date-updated) | [GitHub score](https://rasa.github.io/scoop-directory/by-score) ([deprecated](#Deprecated-pages) | 
+[bucket name](https://rasa.github.io/scoop-directory/by-bucket) | [number of apps](https://rasa.github.io/scoop-directory/by-apps) | [number of stars](https://rasa.github.io/scoop-directory/by-stars) | [number of forks](https://rasa.github.io/scoop-directory/by-forks) | [last updated](https://rasa.github.io/scoop-directory/by-date-updated) | [GitHub score](https://rasa.github.io/scoop-directory/by-score) ([deprecated](#Deprecated-pages)) | 
 
 The above pages are updated daily.
 
