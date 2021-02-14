@@ -137,6 +137,7 @@ done = [
     'kkzzhizhou/scoop-apps',
     'nueko/scoop-php-ext',
     'pavanbijja/scoop-bucket',
+    'Psychopovt/open-scoop',
     'Ranjizamadhu/scoop-bear',
     'rivy/scoop.bucket.scoop-main',
     "se35710/scoop-java",
