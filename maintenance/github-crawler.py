@@ -250,6 +250,7 @@ searches.append({
         'pastleo/scoop-bucket',
         'pcrama/scoop-buckets',
         'pgollangi/scoop-bucket',
+        'pigsflew/scoop-arbitrariae',
         'prezesp/scoop-viewer-bucket',
         'rasa/scoops',
         'rcqls/scoop-extras',
