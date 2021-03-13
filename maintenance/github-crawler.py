@@ -218,6 +218,7 @@ searches.append({
         'iainsgillis/isg-bucket',
         'idursun/my-bucket',
         'jamesgecko/scoop-packages',
+        'jat001/scoop-ox',
         'javageek/scoop-bucket',
         'jfut/scoop-jfut',
         'jfut/scoop-pleiades',
