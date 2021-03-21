@@ -212,6 +212,7 @@ searches.append({
         'ghchinoy/scoop-ce',
         'ghchinoy/scoop-roguewave',
         'goreleaser/scoop-bucket',
+        'guitarrapc/scoop-bucket',
         'h404bi/dorado',
         'hermanjustnu/scoop-emulators',
         'huangnauh/carrot',
