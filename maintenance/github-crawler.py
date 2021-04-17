@@ -176,6 +176,7 @@ searches.append({
         'Doublemine/scoops',
         'ErnWong/scoop-bucket',
         'Guard13007/ScoopBucket',
+        'Jeddunk/scoop-bucket',
         'Jokler/scoop-bucket',
         'Lomeli12/ScoopBucket',
         'MCOfficer/scoop-bucket',
