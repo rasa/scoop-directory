@@ -261,7 +261,7 @@ searches.append({
         'se35710/scoop-ibm',
         'siddarthasagar/scoopbucket',
         'simonwjackson/my-bucket',
-        'starise/Scoop-Confetti'
+        'starise/Scoop-Confetti',
         'stlhrt/steel-buckets',
         'svkoh/scoop-bucket',
         'systemexitzero/scoop-bucket',
