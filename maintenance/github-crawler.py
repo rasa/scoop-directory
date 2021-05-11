@@ -133,6 +133,7 @@ lmap = {
 
 # skip these as they are dups of other buckets
 done = [
+    'go2sun/scoop-bucket-1', # dup of https://github.com/dodorz/scoop
     'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
     'kkzzhizhou/scoop-apps',
     'nueko/scoop-php-ext',
