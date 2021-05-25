@@ -259,6 +259,7 @@ searches.append({
         'rasa/scoops',
         'rcqls/scoop-extras',
         'rivy/scoop.bucket-scoop.main',
+        'rkolka/rk-scoop-bucket',
         'se35710/scoop-ibm',
         'siddarthasagar/scoopbucket',
         'simonwjackson/my-bucket',
