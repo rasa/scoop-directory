@@ -173,7 +173,7 @@ searches.append({
         'BjoernPetersen/scoop-misc-bucket',
         'Callidin/ragnar-scoop',
         'Congee/barrel',
-        'DimiG/dgBucket',      
+        'DimiG/dgBucket',
         'Doublemine/scoops',
         'ErnWong/scoop-bucket',
         'Guard13007/ScoopBucket',
@@ -259,7 +259,7 @@ searches.append({
         'rasa/scoops',
         'rcqls/scoop-extras',
         'rivy/scoop.bucket-scoop.main',
-        'rkolka/rk-scoop-bucket',
+        'rkolka/scoop-manifold',
         'se35710/scoop-ibm',
         'siddarthasagar/scoopbucket',
         'simonwjackson/my-bucket',
@@ -722,7 +722,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                     nl = False
                 print('    %s: no version' % f)
                 break
-            
+
             try:
                 row['url'] = get_url(j)
             except Exception as e:
@@ -732,7 +732,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 print(f)
                 print(e)
                 break
-            
+
             # @todo Use github API to determine the default branch
             default_branch = 'master'
             if not row['url']:
