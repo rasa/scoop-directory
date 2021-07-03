@@ -9,7 +9,7 @@ The above pages are updated daily.
 
 To search the [known](https://github.com/lukesampson/scoop#known-application-buckets) scoop buckets for apps (as well as other well known buckets), please visit scoop-docs.now.sh's [search page](https://scoop-docs.now.sh/apps/).
 
-[@mertd](https://github.com/mertd) created another search page at [shovel.sh](https://shovel.sh/search).
+[@mertd](https://github.com/mertd) created another search page at [shovel.sh](https://shovel.sh/search) which also searches the [known](https://github.com/mertd/shovel-data/blob/ad6133a10cd9f9f2d6e4a674542c429c5ce70209/shovel.go#L45) buckets.
 
 [@zhoujin7](https://github.com/zhoujin7) created the command-line search tool [scoop-search](https://github.com/zhoujin7/scoop-search) which searches the above pages. The search tool works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a [Sqlite3 database](https://github.com/zhoujin7/crawl-scoop-directory/blob/master/scoop_directory.db) which can be downloaded from [here](https://github.com/zhoujin7/crawl-scoop-directory/raw/master/scoop_directory.db).
 
