@@ -7,13 +7,15 @@ View the Scoop Directory sorted by:
 
 The above pages are updated daily.
 
-To search the [known](https://github.com/lukesampson/scoop#known-application-buckets) scoop buckets for apps (as well as other well known buckets), please visit scoop-docs.now.sh's [search page](https://scoop-docs.now.sh/apps/).
+There are several Scoop application manifest search tools:
 
-[@mertd](https://github.com/mertd) created another search page at [shovel.sh](https://shovel.sh/search) which also searches the [known](https://github.com/mertd/shovel-data/blob/ad6133a10cd9f9f2d6e4a674542c429c5ce70209/shovel.go#L45) buckets.
+1. [scoop-docs.now.sh](https://scoop-docs.now.sh/apps/) searches the [known](https://github.com/lukesampson/scoop#known-application-buckets) Scoop buckets for apps (as well as other well known buckets). Created by [@kidonng](https://github.com/kidonng).
 
-[@zhoujin7](https://github.com/zhoujin7) created the command-line search tool [scoop-search](https://github.com/zhoujin7/scoop-search) which searches the above pages. The search tool works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a [Sqlite3 database](https://github.com/zhoujin7/crawl-scoop-directory/blob/master/scoop_directory.db) which can be downloaded from [here](https://github.com/zhoujin7/crawl-scoop-directory/raw/master/scoop_directory.db).
+2. [shovel.sh](https://shovel.sh/search) searches just the [known](https://github.com/mertd/shovel-data/blob/ad6133a10cd9f9f2d6e4a674542c429c5ce70209/shovel.go#L45) buckets. Created by [@mertd](https://github.com/mertd).
 
-[@shilangyu](https://github.com/shilangyu) created another command-line search tool called [scoop-search](https://github.com/shilangyu/scoop-search) which can be installed via `scoop install scoop-search` which searches the buckets installed locally via `scoop bucket add [bucketname]`.
+3. [scoop-search](https://github.com/zhoujin7/scoop-search) is a command line utility that searches the buckets found by scoop-directory. It works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a [Sqlite3 database](https://github.com/zhoujin7/crawl-scoop-directory/blob/master/scoop_directory.db) which can be downloaded from [here](https://github.com/zhoujin7/crawl-scoop-directory/raw/master/scoop_directory.db). Created by [@zhoujin7](https://github.com/zhoujin7).
+
+4. [scoop-search](https://github.com/shilangyu/scoop-search) is another command line search utility utility. It can be installed via `scoop install scoop-search` It  searches the buckets installed locally via `scoop bucket add [bucketname]`. Created by [@shilangyu](https://github.com/shilangyu).
 
 ## Notes
 
