@@ -6,6 +6,8 @@
 # https://www.appveyor.com/docs/appveyor-yml
 # see also https://www.appveyor.com/docs/windows-images-software/#python
 
+image: Visual Studio 2019
+
 build: false
 
 environment:
