@@ -169,7 +169,6 @@ searches.append({
         '82p/scoop-yubico-bucket',
         'Aaike/scoop',
         'Alxandr/scoop-bucket',
-        'Ash258/Scoop-Ash258',
         'AStupidBear/scoop-bear',
         'BjoernPetersen/scoop-misc-bucket',
         'Callidin/ragnar-scoop',
@@ -425,8 +424,7 @@ def get_builtins():
         "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts",
         "nonportable": "https://github.com/TheRandomLabs/scoop-nonportable",
         "java": "https://github.com/ScoopInstaller/Java",
-        "games": "https://github.com/Calinou/scoop-games",
-        "jetbrains": "https://github.com/Ash258/Scoop-JetBrains"
+        "games": "https://github.com/Calinou/scoop-games"
     }
     for key in bucket_list:
         url = bucket_list[key]
@@ -568,6 +566,9 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     if full_name.lower() in done:
         print('Skipping (done)')
+        return 0
+    
+    if full_name.startswith('shovel-org/') || full_name.startswith('Ash258/'):
         return 0
 
     done.append(full_name.lower())
