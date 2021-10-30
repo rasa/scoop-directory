@@ -4,8 +4,8 @@ name: update-index
 
 on:
   schedule:
-    # run at 17:30 UTC everyday
-    - cron: '30 17 * * *' 
+    # run at 15:00 UTC every day (8am PDT/UTC-7)
+    - cron: '0 15 * * *' 
 
 jobs:
   build:
@@ -18,7 +18,7 @@ jobs:
       - name: run actions/setup-python@v2
         uses: actions/setup-python@v2
         with:
-          python-version: '3.7.7'
+          python-version: '3.9'
           
       - name: run pip install -r maintenance/requirements.txt
         run: |
