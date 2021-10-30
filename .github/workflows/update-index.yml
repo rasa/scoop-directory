@@ -4,37 +4,38 @@ name: update-index
 
 on:
   schedule:
-    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
+    # run at 17:30 UTC everyday
+    - cron: '30 17 * * *' 
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
 
-      - name: checkout repo content
+      - name: run actions/checkout@v2
         uses: actions/checkout@v2
 
-      - name: setup python
+      - name: run actions/setup-python@v2
         uses: actions/setup-python@v2
         with:
           python-version: '3.7.7'
           
-      - name: install python packages
+      - name: run pip install -r maintenance/requirements.txt
         run: |
           python -m pip install --upgrade pip
           pip install -r maintenance/requirements.txt
           
-      - name: execute py script
+      - name: run python maintenance/github-crawler.py
         run: python maintenance/github-crawler.py
           
-      - name: commit files
+      - name: run git commit -am "update index [ci skip]" 
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m "update data [ci skip]" -a
+          git commit -am "update index [ci skip]" 
           
-      - name: push changes
+      - name: run ad-m/github-push-action@v0.6.0
         uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
