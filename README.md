@@ -1,4 +1,4 @@
-# [Scoop](https://scoop.sh/) buckets
+# [Scoop](https://scoop.sh/) Directory
 
 [![update-index](https://github.com/rasa/scoop-directory/actions/workflows/update-index.yml/badge.svg)](https://github.com/rasa/scoop-directory/actions/workflows/update-index.yml) <!--
 [![Build Status](https://app.travis-ci.com/rasa/scoop-directory.svg?branch=master)](https://travis-ci.com/rasa/scoop-directory "Build status")
