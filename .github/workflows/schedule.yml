@@ -1,0 +1,42 @@
+# https://canovasjm.netlify.app/2020/11/29/github-actions-run-a-python-script-on-schedule-and-commit-changes/
+
+name: schedule
+
+on:
+  schedule:
+    - cron: '0 12 * * *' # runs at 12:00 UTC everyday
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: checkout repo content
+        uses: actions/checkout@v2
+
+      - name: setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.7.7'
+          
+      - name: install python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r maintenance/requirements.txt
+          
+      - name: execute py script
+        run: python maintenance/github-crawler.py
+          
+      - name: commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "update data [ci skip]" -a
+          
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: master
+  
