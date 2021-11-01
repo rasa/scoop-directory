@@ -414,10 +414,10 @@ def fetchjson(urlstr):
 def get_builtins():
     """ @todo """
     # @todo load from
-    # https://raw.githubusercontent.com/lukesampson/scoop/master/buckets.json
+    # https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/buckets.json
     bucket_list = {
         "main": "https://github.com/ScoopInstaller/Main",
-        "extras": "https://github.com/lukesampson/scoop-extras",
+        "extras": "https://github.com/ScoopInstaller/Extras",
         "versions": "https://github.com/ScoopInstaller/Versions",
         "nightlies": "https://github.com/ScoopInstaller/Nightlies",
         "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
@@ -562,8 +562,8 @@ def do_repo(repo, i, num_repos, do_score=True):
     print('  %3d/%3d: %-50s: ' % (i, num_repos, full_name), end='')
     nl = True
 
-    if full_name == 'lukesampson/scoop':
-        print('Skipping lukesampson/scoop (no apps)')
+    if full_name == 'ScoopInstaller/Scoop':
+        print('Skipping ScoopInstaller/Scoop (no apps)')
         return 0
 
     if full_name.lower() in done:
@@ -615,8 +615,6 @@ def do_repo(repo, i, num_repos, do_score=True):
         builtin_text = ''
         if full_name in builtins:
             builtin_text = "scoop's built-in bucket '%s'" % builtins[full_name]
-        #if full_name in 'lukesampson/scoop':
-        #    builtin_text = "scoop's original main bucket (superseded by https://github.com/scoopinstaller/scoop-main)"
         if builtin_text:
             description += " (%s)" % builtin_text
 
@@ -678,9 +676,6 @@ def do_repo(repo, i, num_repos, do_score=True):
     if os.path.isdir(bucket_path + '/bucket'):
         bucket = '/bucket'
         bucket_path = bucket_path + '/bucket'
-
-    #if full_name == 'lukesampson/scoop' and bucket == '':
-    #    return 0
 
     rows = {}
 
