@@ -374,12 +374,9 @@ def get_link(js):
 def do_version(js):
     """ @todo """
     version = js['version']
-    url = get_url(js)
     if 'checkver' not in js:
         version = '*%s*' % str(version).strip()
-    if url == '':
-        return version
-    return '[%s](%s)' % (version, url)
+    return version
 
 
 def fetchjson(urlstr):
@@ -655,6 +652,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             'updated_at': repo['updated_at'].replace('-', '&#x2011;'),
             'updated_url': html_url + '/commits',
             'url': html_url,
+            'default_branch': repo['default_branch'],
         }
 
     elif repofoldername in cache and (last_updated > last_run):
@@ -734,12 +732,12 @@ def do_repo(repo, i, num_repos, do_score=True):
                 print(e)
                 break
 
-            # @todo Use github API to determine the default branch
-            default_branch = 'master'
+            default_branch = cache[repofoldername]['default_branch']
+            row['manifest_url'] = '%s/blob/%s%s/%s' % (
+                html_url, default_branch, bucket, f
+            )
             if not row['url']:
-                row['url'] = '%s/blob/%s%s/%s' % (
-                    html_url, default_branch, bucket, f
-                )
+                row['url'] = row['manifest_url']
             for key in keys:
                 if key not in j:
                     continue
@@ -752,7 +750,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 if key == 'license':
                     v = do_license(v)
                 if key == 'version':
-                    v = do_version(j)
+                    v = '[%s](%s)' % (do_version(j), row['manifest_url'])
 
                 try:
                     if isinstance(v, list):
