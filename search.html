@@ -78,6 +78,7 @@
       <th style="text-align: left">Version</th>
       <th style="text-align: left">Description</th>
       <th style="text-align: left">Bucket</th>
+      <th style="text-align: left">License</th>
     </tr>
   </thead>
   <tbody id="searchresults">
@@ -117,7 +118,7 @@
 
         var stmt = db.prepare(`
           SELECT * FROM (
-            SELECT name,version,bucket_url,description,manifest_url,homepage
+            SELECT name,version,bucket_url,description,manifest_url,homepage,license
             FROM apps
             WHERE name LIKE "%${query}%"
             ORDER BY
@@ -130,7 +131,7 @@
           ) ALIAS1
           UNION ALL
           SELECT * FROM (
-            SELECT name,version,bucket_url,description,manifest_url,homepage
+            SELECT name,version,bucket_url,description,manifest_url,homepage,license
             FROM apps
             WHERE description LIKE "%${query}%"
           ) ALIAS2
@@ -156,6 +157,7 @@
               </td>
               <td style="text-align: left">${i.description}</td>
               <td style="text-align: left"><a href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '')}</a></td>
+              <td style="text-align: left">${i.license}</td> 
             </tr>
           `);
       };
