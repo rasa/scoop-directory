@@ -3,6 +3,7 @@
 name: update-index
 
 on:
+  workflow_dispatch:
   schedule:
     # run at 15:00 UTC every day (8am PDT/UTC-7)
     - cron: '0 15 * * *' 
