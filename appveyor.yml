@@ -11,13 +11,10 @@ image: Visual Studio 2019
 build: false
 
 environment:
-  matrix:
-    - PYTHON: "C:\\Python39"
+  PY_DIR: C:/Python39
 
-matrix:
-  fast_finish: false
-
-init:
+init: |
+  - cmd: set "PATH=%PY_DIR%;%PY_DIR%\Scripts;%PATH%"
   - "python -V"
 
 install:
