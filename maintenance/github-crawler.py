@@ -16,6 +16,7 @@ import stat
 import sys
 import tempfile
 import time
+import sqlite3
 
 from datetime import datetime
 
@@ -914,6 +915,54 @@ def do_readme(sort_field, output_file, sort_order_description, sort_in_reverse):
     do_render(filename, sort_order_description)
     return True
 
+def do_db():
+    """ @todo """
+    scoop_directory_db = os.path.join(dir_path, '..', 'scoop_directory.db')
+    conn = sqlite3.connect(scoop_directory_db)
+
+    cur = conn.cursor()
+    cur.execute('drop table if exists apps')
+    cur.execute('''create table apps (
+                    name text,
+                    version text,
+                    description text,
+                    license text,
+                    homepage text,
+                    manifest_url text,
+                    bucket_url text)''')
+
+    cur.execute('drop table if exists buckets')
+    cur.execute('''create table buckets (
+                    bucket_url text,
+                    description text,
+                    packages integer,
+                    stars integer,
+                    updated text)''')
+
+    for bucket in cache:
+        if bucket == 'last_run':
+            continue
+
+        cur.execute("insert into buckets values (?, ?, ?, ?, ?)", (
+            cache[bucket]['url'],
+            cache[bucket]['description'],
+            cache[bucket]['packages'],
+            cache[bucket]['stars'],
+            cache[bucket]['updated']))
+
+        for manifest in cache[bucket]['entries']:
+            cur.execute("insert into apps values (?, ?, ?, ?, ?, ?, ?)", (
+                manifest['json'],
+                manifest['version'].split('[', 1)[1].split(']')[0] if manifest['version'] != '' else '',
+                manifest['description'],
+                manifest['license'],
+                manifest['url'] if 'url' in manifest else '',
+                manifest['manifest_url'] if 'manifest_url' in manifest else '',
+                cache[bucket]['url']))
+
+    conn.commit()
+    conn.close()
+    return 0
 
 def main():
     """ @todo """
@@ -929,6 +978,7 @@ def main():
     do_readme('stars', 'by-stars.md', 'number of stars', True)
     do_readme('forks', 'by-forks.md', 'number of forks', True)
     do_readme('epoch', 'by-date-updated.md', 'date last updated', True)
+    do_db()
     return 0
 
 
