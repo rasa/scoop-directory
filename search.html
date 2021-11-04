@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Search The Scoop Directory | scoop-directory</title>
+<meta name="generator" content="Jekyll v3.9.0" />
+<meta property="og:title" content="Search The Scoop Directory" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="A directory of buckets for the scoop package manager for Windows" />
+<meta property="og:description" content="A directory of buckets for the scoop package manager for Windows" />
+<link rel="canonical" href="https://rasa.github.io/scoop-directory/search.html" />
+<meta property="og:url" content="https://rasa.github.io/scoop-directory/search.html" />
+<meta property="og:site_name" content="scoop-directory" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Search The Scoop Directory" />
+<script type="application/ld+json">
+{"headline":"Search The Scoop Directory","description":"A directory of buckets for the scoop package manager for Windows","url":"https://rasa.github.io/scoop-directory/search.html","@type":"WebSite","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/scoop-directory/assets/css/style.css?v=17d74c33c1c67535584302df3f57840c463f2aec">
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/scoop-directory/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="https://rasa.github.io/scoop-directory/">scoop-directory</a></h1>
+
+        
+
+        <p>A directory of buckets for the scoop package manager for Windows</p>
+
+        
+        <p class="view"><a href="https://github.com/rasa/scoop-directory">View the Project on GitHub <small>rasa/scoop-directory</small></a></p>
+        
+
+        
+
+        
+      </header>
+      <section>
+
+      <h1 id="scoop-directory"><a href="https://scoop.sh/">Scoop</a> Directory</h1>
+
+<p><a href="https://github.com/rasa/scoop-directory/actions/workflows/update-index.yml"><img src="https://github.com/rasa/scoop-directory/actions/workflows/update-index.yml/badge.svg" alt="update-index" /></a> <!--
+--> <a href="https://ci.appveyor.com/project/rasa/scoop-directory" title="Build Status"><img src="https://ci.appveyor.com/api/projects/status/github/rasa/scoop-directory?svg=true" alt="Build Status" /></a> <!--
+--> <a href="https://gitter.im/lukesampson/scoop"><img src="https://badges.gitter.im/lukesampson/scoop.svg" alt="Chat on Gitter" /></a> <!--
+--> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License" /></a> <!--
+--> <a href="https://github.com/h404bi/awesome-scoop/blob/master/README.md" title="Awesome Scoop"><img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome Scoop" /></a></p>
+
+<p>Search the Scoop Directory:</p>
+
+<input id="searchbox-name" type="text" placeholder="Start typing a keyword" style="width: 100%;" autofocus />
+<br>
+<br>
+<p><em id="metainfotext"></em></p>
+<br>
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Name</th>
+      <th style="text-align: left">Version</th>
+      <th style="text-align: left">Description</th>
+      <th style="text-align: left">Bucket</th>
+    </tr>
+  </thead>
+  <tbody id="searchresults">
+  </tbody>
+</table>
+
+
+      </section>
+      <footer>
+        
+        <p>This project is maintained by <a href="https://github.com/rasa">rasa</a></p>
+        
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+      </footer>
+    </div>
+    <script src="/scoop-directory/assets/js/scale.fix.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.1/sql-wasm.js" integrity="sha512-14M7CqWNUr6fzrgs9ncNWKdBtLu69HwEWq7J3/dPMUL+za3fBRLJvK6egAu4SSlxCM1apqsbVJHArGLl5fjldw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+      var db, mancount, bukcount;
+      var nameInput = document.getElementById('searchbox-name');
+      var reqdiv = document.getElementById('searchresults');
+      var metainfo = document.getElementById('metainfotext');
+
+      nameInput.addEventListener('input', function (e) {
+        const query = nameInput.value.trim();
+        if (query.length >= 2)
+          runQuery(query);
+        else {
+          reqdiv.innerHTML = '';
+          metainfo.innerHTML = `Query ${mancount} manifests among ${bukcount} buckets`;
+        }
+      });
+
+      const runQuery = async query => {
+        var results = [];
+
+        var stmt = db.prepare(`
+          SELECT * FROM (
+            SELECT name,version,bucket_url,description,manifest_url,homepage
+            FROM apps
+            WHERE name LIKE "%${query}%"
+            ORDER BY
+              CASE
+                WHEN name LIKE "${query}" THEN 1
+                WHEN name LIKE "${query}%" THEN 2
+                WHEN name LIKE "%${query}" THEN 3
+                ELSE 4
+              END
+          ) ALIAS1
+          UNION ALL
+          SELECT * FROM (
+            SELECT name,version,bucket_url,description,manifest_url,homepage
+            FROM apps
+            WHERE description LIKE "%${query}%"
+          ) ALIAS2
+        `);
+        while(stmt.step())
+          results.push(stmt.getAsObject());
+        stmt.free();
+
+        // console.log(results);
+
+        metainfo.innerHTML = `${results.length} result(s)`;
+        reqdiv.innerHTML = '';
+        for (var i of results)
+          reqdiv.insertAdjacentHTML('beforeend', `
+            <tr>
+              <td style="text-align: left"><a href="${i.homepage}">${i.name}</a></td>
+              <td style="text-align: left">
+                <a href="${i.manifest_url}">
+                  ${i.version.split("*").length - 1 === 2
+                    ? `<em>${i.version.replaceAll('*', '')}</em>`
+                    : i.version}
+                </a>
+              </td>
+              <td style="text-align: left">${i.description}</td>
+              <td style="text-align: left"><a href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '')}</a></td>
+            </tr>
+          `);
+      };
+
+      (async () => {
+        const sqlPromise = initSqlJs({
+          locateFile: filename => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.1/${filename}`
+        });
+        const dataPromise = fetch("/scoop-directory/scoop_directory.db").then(res => res.arrayBuffer());
+        const [SQL, buf] = await Promise.all([sqlPromise, dataPromise])
+        db = new SQL.Database(new Uint8Array(buf));
+
+        var cntst = db.prepare(`
+          SELECT (
+            SELECT COUNT(*) FROM apps
+          ) AS appc, (
+            SELECT COUNT(*) FROM buckets
+          ) AS bukc
+        `);
+        cntst.step();
+        mancount = cntst.getAsObject()['appc'];
+        bukcount = cntst.getAsObject()['bukc'];
+        cntst.free();
+        metainfo.innerHTML = `Query ${mancount} manifests among ${bukcount} buckets`;
+      })();
+    </script>
+  </body>
+</html>
