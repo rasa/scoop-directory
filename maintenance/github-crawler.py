@@ -955,7 +955,7 @@ def do_db():
                 manifest['json'],
                 manifest['version'].split('[', 1)[1].split(']')[0] if manifest['version'] != '' else '',
                 manifest['description'],
-                manifest['license'],
+                manifest['license'].split('[', 1)[1].split(']')[0] if manifest['license'] != '' else '',
                 manifest['url'] if 'url' in manifest else '',
                 manifest['manifest_url'] if 'manifest_url' in manifest else '',
                 cache[bucket]['url']))
