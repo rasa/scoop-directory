@@ -6,13 +6,16 @@
 --> [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE) <!--
 --> [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/h404bi/awesome-scoop/blob/master/README.md "Awesome Scoop")
 
-View the Scoop Directory sorted by:
+To [search](https://rasa.github.io/scoop-directory/search) the Scoop Directory click [here](https://rasa.github.io/scoop-directory/search) (put together by [@rashil2000](https://github.com/rashil2000)).
 
-[bucket name](https://rasa.github.io/scoop-directory/by-bucket) | [number of apps](https://rasa.github.io/scoop-directory/by-apps) | [number of stars](https://rasa.github.io/scoop-directory/by-stars) | [number of forks](https://rasa.github.io/scoop-directory/by-forks) | [last updated](https://rasa.github.io/scoop-directory/by-date-updated) | [GitHub score](https://rasa.github.io/scoop-directory/by-score) ([deprecated](#Deprecated-pages)) | 
+The search index is updated daily at 15:00 UTC.
 
-You can also [Search](https://rasa.github.io/scoop-directory/search) the Scoop Directory (put together by [@rashil2000](https://github.com/rashil2000)).
+You can view the Scoop Directory sorted by:
 
-The above pages are updated daily.
+[bucket name](https://rasa.github.io/scoop-directory/by-bucket) | [number of apps](https://rasa.github.io/scoop-directory/by-apps) | [number of stars](https://rasa.github.io/scoop-directory/by-stars) | [number of forks](https://rasa.github.io/scoop-directory/by-forks) | [last updated](https://rasa.github.io/scoop-directory/by-date-updated) 
+<-- 
+| [GitHub score](https://rasa.github.io/scoop-directory/by-score) ([deprecated](#Deprecated-pages)) | 
+-->
 
 There are several other Scoop application manifest search tools too:
 
