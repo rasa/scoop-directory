@@ -17,6 +17,7 @@ import stat
 import sys
 import time
 from datetime import datetime
+from typing import List, Dict  # , Set, Tuple, Optional
 
 import chardet
 import git
