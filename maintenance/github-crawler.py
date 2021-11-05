@@ -25,122 +25,434 @@ import jsoncomment
 import requests
 
 OSI = [
-    '0BSD', 'AAL', 'Abstyles', 'Adobe-2006', 'Adobe-Glyph', 'ADSL', 'AFL-1.1',
-    'AFL-1.2', 'AFL-2.0', 'AFL-2.1', 'AFL-3.0', 'Afmparse', 'AGPL-1.0',
-    'AGPL-1.0-only', 'AGPL-1.0-or-later', 'AGPL-3.0', 'AGPL-3.0-only',
-    'AGPL-3.0-or-later', 'Aladdin', 'AMDPLPA', 'AML', 'AMPAS', 'ANTLR-PD',
-    'Apache-1.0', 'Apache-1.1', 'Apache-2.0', 'APAFML', 'APL-1.0', 'APSL-1.0',
-    'APSL-1.1', 'APSL-1.2', 'APSL-2.0', 'Artistic-1.0', 'Artistic-1.0-cl8',
-    'Artistic-1.0-Perl', 'Artistic-2.0', 'Bahyph', 'Barr', 'Beerware',
-    'BitTorrent-1.0', 'BitTorrent-1.1', 'Borceux', 'BSD-1-Clause',
-    'BSD-2-Clause', 'BSD-2-Clause-FreeBSD', 'BSD-2-Clause-NetBSD',
-    'BSD-2-Clause-Patent', 'BSD-3-Clause', 'BSD-3-Clause-Attribution',
-    'BSD-3-Clause-Clear', 'BSD-3-Clause-LBNL',
-    'BSD-3-Clause-No-Nuclear-License', 'BSD-3-Clause-No-Nuclear-License-2014',
-    'BSD-3-Clause-No-Nuclear-Warranty', 'BSD-4-Clause', 'BSD-4-Clause-UC',
-    'BSD-Protection', 'BSD-Source-Code', 'BSL-1.0', 'bzip2-1.0.5',
-    'bzip2-1.0.6', 'Caldera', 'CATOSL-1.1', 'CC-BY-1.0', 'CC-BY-2.0',
-    'CC-BY-2.5', 'CC-BY-3.0', 'CC-BY-4.0', 'CC-BY-NC-1.0', 'CC-BY-NC-2.0',
-    'CC-BY-NC-2.5', 'CC-BY-NC-3.0', 'CC-BY-NC-4.0', 'CC-BY-NC-ND-1.0',
-    'CC-BY-NC-ND-2.0', 'CC-BY-NC-ND-2.5', 'CC-BY-NC-ND-3.0', 'CC-BY-NC-ND-4.0',
-    'CC-BY-NC-SA-1.0', 'CC-BY-NC-SA-2.0', 'CC-BY-NC-SA-2.5', 'CC-BY-NC-SA-3.0',
-    'CC-BY-NC-SA-4.0', 'CC-BY-ND-1.0', 'CC-BY-ND-2.0', 'CC-BY-ND-2.5',
-    'CC-BY-ND-3.0', 'CC-BY-ND-4.0', 'CC-BY-SA-1.0', 'CC-BY-SA-2.0',
-    'CC-BY-SA-2.5', 'CC-BY-SA-3.0', 'CC-BY-SA-4.0', 'CC0-1.0', 'CDDL-1.0',
-    'CDDL-1.1', 'CDLA-Permissive-1.0', 'CDLA-Sharing-1.0', 'CECILL-1.0',
-    'CECILL-1.1', 'CECILL-2.0', 'CECILL-2.1', 'CECILL-B', 'CECILL-C',
-    'ClArtistic', 'CNRI-Jython', 'CNRI-Python', 'CNRI-Python-GPL-Compatible',
-    'Condor-1.1', 'CPAL-1.0', 'CPL-1.0', 'CPOL-1.02', 'Crossword',
-    'CrystalStacker', 'CUA-OPL-1.0', 'Cube', 'curl', 'D-FSL-1.0', 'diffmark',
-    'DOC', 'Dotseqn', 'DSDP', 'dvipdfm', 'ECL-1.0', 'ECL-2.0', 'eCos-2.0',
-    'EFL-1.0', 'EFL-2.0', 'eGenix', 'Entessa', 'EPL-1.0', 'EPL-2.0',
-    'ErlPL-1.1', 'EUDatagrid', 'EUPL-1.0', 'EUPL-1.1', 'EUPL-1.2', 'Eurosym',
-    'Fair', 'Frameworx-1.0', 'FreeImage', 'FSFAP', 'FSFUL', 'FSFULLR', 'FTL',
-    'GFDL-1.1', 'GFDL-1.1-only', 'GFDL-1.1-or-later', 'GFDL-1.2',
-    'GFDL-1.2-only', 'GFDL-1.2-or-later', 'GFDL-1.3', 'GFDL-1.3-only',
-    'GFDL-1.3-or-later', 'Giftware', 'GL2PS', 'Glide', 'Glulxe', 'gnuplot',
-    'GPL-1.0', 'GPL-1.0+', 'GPL-1.0-only', 'GPL-1.0-or-later', 'GPL-2.0',
-    'GPL-2.0+', 'GPL-2.0-only', 'GPL-2.0-or-later',
-    'GPL-2.0-with-autoconf-exception', 'GPL-2.0-with-bison-exception',
-    'GPL-2.0-with-classpath-exception', 'GPL-2.0-with-font-exception',
-    'GPL-2.0-with-GCC-exception', 'GPL-3.0', 'GPL-3.0+', 'GPL-3.0-only',
-    'GPL-3.0-or-later', 'GPL-3.0-with-autoconf-exception',
-    'GPL-3.0-with-GCC-exception', 'gSOAP-1.3b', 'HaskellReport', 'HPND',
-    'IBM-pibs', 'ICU', 'IJG', 'ImageMagick', 'iMatix', 'Imlib2', 'Info-ZIP',
-    'Intel', 'Intel-ACPI', 'Interbase-1.0', 'IPA', 'IPL-1.0', 'ISC',
-    'JasPer-2.0', 'JSON', 'LAL-1.2', 'LAL-1.3', 'Latex2e', 'Leptonica',
-    'LGPL-2.0', 'LGPL-2.0+', 'LGPL-2.0-only', 'LGPL-2.0-or-later', 'LGPL-2.1',
-    'LGPL-2.1+', 'LGPL-2.1-only', 'LGPL-2.1-or-later', 'LGPL-3.0', 'LGPL-3.0+',
-    'LGPL-3.0-only', 'LGPL-3.0-or-later', 'LGPLLR', 'Libpng', 'libtiff',
-    'LiLiQ-P-1.1', 'LiLiQ-R-1.1', 'LiLiQ-Rplus-1.1', 'Linux-OpenIB', 'LPL-1.0',
-    'LPL-1.02', 'LPPL-1.0', 'LPPL-1.1', 'LPPL-1.2', 'LPPL-1.3a', 'LPPL-1.3c',
-    'MakeIndex', 'MirOS', 'MIT', 'MIT-0', 'MIT-advertising', 'MIT-CMU',
-    'MIT-enna', 'MIT-feh', 'MITNFA', 'Motosoto', 'mpich2', 'MPL-1.0', 'MPL-1.1',
-    'MPL-2.0', 'MPL-2.0-no-copyleft-exception', 'MS-PL', 'MS-RL', 'MTLL',
-    'Multics', 'Mup', 'NASA-1.3', 'Naumen', 'NBPL-1.0', 'NCSA', 'Net-SNMP',
-    'NetCDF', 'Newsletr', 'NGPL', 'NLOD-1.0', 'NLPL', 'Nokia', 'NOSL', 'Noweb',
-    'NPL-1.0', 'NPL-1.1', 'NPOSL-3.0', 'NRL', 'NTP', 'Nunit', 'OCCT-PL',
-    'OCLC-2.0', 'ODbL-1.0', 'OFL-1.0', 'OFL-1.1', 'OGTSL', 'OLDAP-1.1',
-    'OLDAP-1.2', 'OLDAP-1.3', 'OLDAP-1.4', 'OLDAP-2.0', 'OLDAP-2.0.1',
-    'OLDAP-2.1', 'OLDAP-2.2', 'OLDAP-2.2.1', 'OLDAP-2.2.2', 'OLDAP-2.3',
-    'OLDAP-2.4', 'OLDAP-2.5', 'OLDAP-2.6', 'OLDAP-2.7', 'OLDAP-2.8', 'OML',
-    'OpenSSL', 'OPL-1.0', 'OSET-PL-2.1', 'OSL-1.0', 'OSL-1.1', 'OSL-2.0',
-    'OSL-2.1', 'OSL-3.0', 'PDDL-1.0', 'PHP-3.0', 'PHP-3.01', 'Plexus',
-    'PostgreSQL', 'psfrag', 'psutils', 'Python-2.0', 'Qhull', 'QPL-1.0',
-    'Rdisc', 'RHeCos-1.1', 'RPL-1.1', 'RPL-1.5', 'RPSL-1.0', 'RSA-MD', 'RSCPL',
-    'Ruby', 'SAX-PD', 'Saxpath', 'SCEA', 'Sendmail', 'SGI-B-1.0', 'SGI-B-1.1',
-    'SGI-B-2.0', 'SimPL-2.0', 'SISSL', 'SISSL-1.2', 'Sleepycat', 'SMLNJ',
-    'SMPPL', 'SNIA', 'Spencer-86', 'Spencer-94', 'Spencer-99', 'SPL-1.0',
-    'StandardML-NJ', 'SugarCRM-1.1.3', 'SWL', 'TCL', 'TCP-wrappers', 'TMate',
-    'TORQUE-1.1', 'TOSL', 'Unicode-DFS-2015', 'Unicode-DFS-2016', 'Unicode-TOU',
-    'Unlicense', 'UPL-1.0', 'Vim', 'VOSTROM', 'VSL-1.0', 'W3C', 'W3C-19980720',
-    'W3C-20150513', 'Watcom-1.0', 'Wsuipa', 'WTFPL', 'wxWindows', 'X11',
-    'Xerox', 'XFree86-1.1', 'xinetd', 'Xnet', 'xpp', 'XSkat', 'YPL-1.0',
-    'YPL-1.1', 'Zed', 'Zend-2.0', 'Zimbra-1.3', 'Zimbra-1.4', 'Zlib',
-    'zlib-acknowledgement', 'ZPL-1.1', 'ZPL-2.0', 'ZPL-2.1', '389-exception',
-    'Autoconf-exception-2.0', 'Autoconf-exception-3.0', 'Bison-exception-2.2',
-    'Bootloader-exception', 'Classpath-exception-2.0', 'CLISP-exception-2.0',
-    'DigiRule-FOSS-exception', 'eCos-exception-2.0', 'Fawkes-Runtime-exception',
-    'FLTK-exception', 'Font-exception-2.0', 'freertos-exception-2.0',
-    'GCC-exception-2.0', 'GCC-exception-3.1', 'gnu-javamail-exception',
-    'i2p-gpl-java-exception', 'Libtool-exception', 'Linux-syscall-note',
-    'LLVM-exception', 'LZMA-exception', 'mif-exception',
-    'Nokia-Qt-exception-1.1', 'OCCT-exception-1.0',
-    'OpenJDK-assembly-exception-1.0', 'openvpn-openssl-exception',
-    'Qt-GPL-exception-1.0', 'Qt-LGPL-exception-1.1', 'Qwt-exception-1.0',
-    'u-boot-exception-2.0', 'sWxWindows-exception-3.1'
+    "0BSD",
+    "AAL",
+    "Abstyles",
+    "Adobe-2006",
+    "Adobe-Glyph",
+    "ADSL",
+    "AFL-1.1",
+    "AFL-1.2",
+    "AFL-2.0",
+    "AFL-2.1",
+    "AFL-3.0",
+    "Afmparse",
+    "AGPL-1.0",
+    "AGPL-1.0-only",
+    "AGPL-1.0-or-later",
+    "AGPL-3.0",
+    "AGPL-3.0-only",
+    "AGPL-3.0-or-later",
+    "Aladdin",
+    "AMDPLPA",
+    "AML",
+    "AMPAS",
+    "ANTLR-PD",
+    "Apache-1.0",
+    "Apache-1.1",
+    "Apache-2.0",
+    "APAFML",
+    "APL-1.0",
+    "APSL-1.0",
+    "APSL-1.1",
+    "APSL-1.2",
+    "APSL-2.0",
+    "Artistic-1.0",
+    "Artistic-1.0-cl8",
+    "Artistic-1.0-Perl",
+    "Artistic-2.0",
+    "Bahyph",
+    "Barr",
+    "Beerware",
+    "BitTorrent-1.0",
+    "BitTorrent-1.1",
+    "Borceux",
+    "BSD-1-Clause",
+    "BSD-2-Clause",
+    "BSD-2-Clause-FreeBSD",
+    "BSD-2-Clause-NetBSD",
+    "BSD-2-Clause-Patent",
+    "BSD-3-Clause",
+    "BSD-3-Clause-Attribution",
+    "BSD-3-Clause-Clear",
+    "BSD-3-Clause-LBNL",
+    "BSD-3-Clause-No-Nuclear-License",
+    "BSD-3-Clause-No-Nuclear-License-2014",
+    "BSD-3-Clause-No-Nuclear-Warranty",
+    "BSD-4-Clause",
+    "BSD-4-Clause-UC",
+    "BSD-Protection",
+    "BSD-Source-Code",
+    "BSL-1.0",
+    "bzip2-1.0.5",
+    "bzip2-1.0.6",
+    "Caldera",
+    "CATOSL-1.1",
+    "CC-BY-1.0",
+    "CC-BY-2.0",
+    "CC-BY-2.5",
+    "CC-BY-3.0",
+    "CC-BY-4.0",
+    "CC-BY-NC-1.0",
+    "CC-BY-NC-2.0",
+    "CC-BY-NC-2.5",
+    "CC-BY-NC-3.0",
+    "CC-BY-NC-4.0",
+    "CC-BY-NC-ND-1.0",
+    "CC-BY-NC-ND-2.0",
+    "CC-BY-NC-ND-2.5",
+    "CC-BY-NC-ND-3.0",
+    "CC-BY-NC-ND-4.0",
+    "CC-BY-NC-SA-1.0",
+    "CC-BY-NC-SA-2.0",
+    "CC-BY-NC-SA-2.5",
+    "CC-BY-NC-SA-3.0",
+    "CC-BY-NC-SA-4.0",
+    "CC-BY-ND-1.0",
+    "CC-BY-ND-2.0",
+    "CC-BY-ND-2.5",
+    "CC-BY-ND-3.0",
+    "CC-BY-ND-4.0",
+    "CC-BY-SA-1.0",
+    "CC-BY-SA-2.0",
+    "CC-BY-SA-2.5",
+    "CC-BY-SA-3.0",
+    "CC-BY-SA-4.0",
+    "CC0-1.0",
+    "CDDL-1.0",
+    "CDDL-1.1",
+    "CDLA-Permissive-1.0",
+    "CDLA-Sharing-1.0",
+    "CECILL-1.0",
+    "CECILL-1.1",
+    "CECILL-2.0",
+    "CECILL-2.1",
+    "CECILL-B",
+    "CECILL-C",
+    "ClArtistic",
+    "CNRI-Jython",
+    "CNRI-Python",
+    "CNRI-Python-GPL-Compatible",
+    "Condor-1.1",
+    "CPAL-1.0",
+    "CPL-1.0",
+    "CPOL-1.02",
+    "Crossword",
+    "CrystalStacker",
+    "CUA-OPL-1.0",
+    "Cube",
+    "curl",
+    "D-FSL-1.0",
+    "diffmark",
+    "DOC",
+    "Dotseqn",
+    "DSDP",
+    "dvipdfm",
+    "ECL-1.0",
+    "ECL-2.0",
+    "eCos-2.0",
+    "EFL-1.0",
+    "EFL-2.0",
+    "eGenix",
+    "Entessa",
+    "EPL-1.0",
+    "EPL-2.0",
+    "ErlPL-1.1",
+    "EUDatagrid",
+    "EUPL-1.0",
+    "EUPL-1.1",
+    "EUPL-1.2",
+    "Eurosym",
+    "Fair",
+    "Frameworx-1.0",
+    "FreeImage",
+    "FSFAP",
+    "FSFUL",
+    "FSFULLR",
+    "FTL",
+    "GFDL-1.1",
+    "GFDL-1.1-only",
+    "GFDL-1.1-or-later",
+    "GFDL-1.2",
+    "GFDL-1.2-only",
+    "GFDL-1.2-or-later",
+    "GFDL-1.3",
+    "GFDL-1.3-only",
+    "GFDL-1.3-or-later",
+    "Giftware",
+    "GL2PS",
+    "Glide",
+    "Glulxe",
+    "gnuplot",
+    "GPL-1.0",
+    "GPL-1.0+",
+    "GPL-1.0-only",
+    "GPL-1.0-or-later",
+    "GPL-2.0",
+    "GPL-2.0+",
+    "GPL-2.0-only",
+    "GPL-2.0-or-later",
+    "GPL-2.0-with-autoconf-exception",
+    "GPL-2.0-with-bison-exception",
+    "GPL-2.0-with-classpath-exception",
+    "GPL-2.0-with-font-exception",
+    "GPL-2.0-with-GCC-exception",
+    "GPL-3.0",
+    "GPL-3.0+",
+    "GPL-3.0-only",
+    "GPL-3.0-or-later",
+    "GPL-3.0-with-autoconf-exception",
+    "GPL-3.0-with-GCC-exception",
+    "gSOAP-1.3b",
+    "HaskellReport",
+    "HPND",
+    "IBM-pibs",
+    "ICU",
+    "IJG",
+    "ImageMagick",
+    "iMatix",
+    "Imlib2",
+    "Info-ZIP",
+    "Intel",
+    "Intel-ACPI",
+    "Interbase-1.0",
+    "IPA",
+    "IPL-1.0",
+    "ISC",
+    "JasPer-2.0",
+    "JSON",
+    "LAL-1.2",
+    "LAL-1.3",
+    "Latex2e",
+    "Leptonica",
+    "LGPL-2.0",
+    "LGPL-2.0+",
+    "LGPL-2.0-only",
+    "LGPL-2.0-or-later",
+    "LGPL-2.1",
+    "LGPL-2.1+",
+    "LGPL-2.1-only",
+    "LGPL-2.1-or-later",
+    "LGPL-3.0",
+    "LGPL-3.0+",
+    "LGPL-3.0-only",
+    "LGPL-3.0-or-later",
+    "LGPLLR",
+    "Libpng",
+    "libtiff",
+    "LiLiQ-P-1.1",
+    "LiLiQ-R-1.1",
+    "LiLiQ-Rplus-1.1",
+    "Linux-OpenIB",
+    "LPL-1.0",
+    "LPL-1.02",
+    "LPPL-1.0",
+    "LPPL-1.1",
+    "LPPL-1.2",
+    "LPPL-1.3a",
+    "LPPL-1.3c",
+    "MakeIndex",
+    "MirOS",
+    "MIT",
+    "MIT-0",
+    "MIT-advertising",
+    "MIT-CMU",
+    "MIT-enna",
+    "MIT-feh",
+    "MITNFA",
+    "Motosoto",
+    "mpich2",
+    "MPL-1.0",
+    "MPL-1.1",
+    "MPL-2.0",
+    "MPL-2.0-no-copyleft-exception",
+    "MS-PL",
+    "MS-RL",
+    "MTLL",
+    "Multics",
+    "Mup",
+    "NASA-1.3",
+    "Naumen",
+    "NBPL-1.0",
+    "NCSA",
+    "Net-SNMP",
+    "NetCDF",
+    "Newsletr",
+    "NGPL",
+    "NLOD-1.0",
+    "NLPL",
+    "Nokia",
+    "NOSL",
+    "Noweb",
+    "NPL-1.0",
+    "NPL-1.1",
+    "NPOSL-3.0",
+    "NRL",
+    "NTP",
+    "Nunit",
+    "OCCT-PL",
+    "OCLC-2.0",
+    "ODbL-1.0",
+    "OFL-1.0",
+    "OFL-1.1",
+    "OGTSL",
+    "OLDAP-1.1",
+    "OLDAP-1.2",
+    "OLDAP-1.3",
+    "OLDAP-1.4",
+    "OLDAP-2.0",
+    "OLDAP-2.0.1",
+    "OLDAP-2.1",
+    "OLDAP-2.2",
+    "OLDAP-2.2.1",
+    "OLDAP-2.2.2",
+    "OLDAP-2.3",
+    "OLDAP-2.4",
+    "OLDAP-2.5",
+    "OLDAP-2.6",
+    "OLDAP-2.7",
+    "OLDAP-2.8",
+    "OML",
+    "OpenSSL",
+    "OPL-1.0",
+    "OSET-PL-2.1",
+    "OSL-1.0",
+    "OSL-1.1",
+    "OSL-2.0",
+    "OSL-2.1",
+    "OSL-3.0",
+    "PDDL-1.0",
+    "PHP-3.0",
+    "PHP-3.01",
+    "Plexus",
+    "PostgreSQL",
+    "psfrag",
+    "psutils",
+    "Python-2.0",
+    "Qhull",
+    "QPL-1.0",
+    "Rdisc",
+    "RHeCos-1.1",
+    "RPL-1.1",
+    "RPL-1.5",
+    "RPSL-1.0",
+    "RSA-MD",
+    "RSCPL",
+    "Ruby",
+    "SAX-PD",
+    "Saxpath",
+    "SCEA",
+    "Sendmail",
+    "SGI-B-1.0",
+    "SGI-B-1.1",
+    "SGI-B-2.0",
+    "SimPL-2.0",
+    "SISSL",
+    "SISSL-1.2",
+    "Sleepycat",
+    "SMLNJ",
+    "SMPPL",
+    "SNIA",
+    "Spencer-86",
+    "Spencer-94",
+    "Spencer-99",
+    "SPL-1.0",
+    "StandardML-NJ",
+    "SugarCRM-1.1.3",
+    "SWL",
+    "TCL",
+    "TCP-wrappers",
+    "TMate",
+    "TORQUE-1.1",
+    "TOSL",
+    "Unicode-DFS-2015",
+    "Unicode-DFS-2016",
+    "Unicode-TOU",
+    "Unlicense",
+    "UPL-1.0",
+    "Vim",
+    "VOSTROM",
+    "VSL-1.0",
+    "W3C",
+    "W3C-19980720",
+    "W3C-20150513",
+    "Watcom-1.0",
+    "Wsuipa",
+    "WTFPL",
+    "wxWindows",
+    "X11",
+    "Xerox",
+    "XFree86-1.1",
+    "xinetd",
+    "Xnet",
+    "xpp",
+    "XSkat",
+    "YPL-1.0",
+    "YPL-1.1",
+    "Zed",
+    "Zend-2.0",
+    "Zimbra-1.3",
+    "Zimbra-1.4",
+    "Zlib",
+    "zlib-acknowledgement",
+    "ZPL-1.1",
+    "ZPL-2.0",
+    "ZPL-2.1",
+    "389-exception",
+    "Autoconf-exception-2.0",
+    "Autoconf-exception-3.0",
+    "Bison-exception-2.2",
+    "Bootloader-exception",
+    "Classpath-exception-2.0",
+    "CLISP-exception-2.0",
+    "DigiRule-FOSS-exception",
+    "eCos-exception-2.0",
+    "Fawkes-Runtime-exception",
+    "FLTK-exception",
+    "Font-exception-2.0",
+    "freertos-exception-2.0",
+    "GCC-exception-2.0",
+    "GCC-exception-3.1",
+    "gnu-javamail-exception",
+    "i2p-gpl-java-exception",
+    "Libtool-exception",
+    "Linux-syscall-note",
+    "LLVM-exception",
+    "LZMA-exception",
+    "mif-exception",
+    "Nokia-Qt-exception-1.1",
+    "OCCT-exception-1.0",
+    "OpenJDK-assembly-exception-1.0",
+    "openvpn-openssl-exception",
+    "Qt-GPL-exception-1.0",
+    "Qt-LGPL-exception-1.1",
+    "Qwt-exception-1.0",
+    "u-boot-exception-2.0",
+    "sWxWindows-exception-3.1",
 ]
 
 lmap = {
-    'commercial':
-        'https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses',
-    'freeware':
-        'https://en.wikipedia.org/wiki/Freeware',
-    'proprietary':
-        'https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses',
-    'public_domain':
-        'https://wiki.creativecommons.org/wiki/Public_domain',
-    'public domain':
-        'https://wiki.creativecommons.org/wiki/Public_domain',
-    'public-domain':
-        'https://wiki.creativecommons.org/wiki/Public_domain',
-    'publicdomain':
-        'https://wiki.creativecommons.org/wiki/Public_domain',
-    'shareware':
-        'https://en.wikipedia.org/wiki/Shareware',
+    "commercial": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
+    "freeware": "https://en.wikipedia.org/wiki/Freeware",
+    "proprietary": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
+    "public_domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "public domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "public-domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "publicdomain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "shareware": "https://en.wikipedia.org/wiki/Shareware",
 }
 
 # skip these as they are dups of other buckets
 done = [
-    '01walid/it-scoop',
-    'go2sun/scoop-bucket-1',  # dup of https://github.com/dodorz/scoop
-    'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
-    'kkzzhizhou/scoop-apps',
-    'nueko/scoop-php-ext',
-    'pavanbijja/scoop-bucket',
-    'Psychopovt/open-scoop',
-    'Ranjizamadhu/scoop-bear',
-    'rivy/scoop.bucket.scoop-main',
+    "01walid/it-scoop",
+    "go2sun/scoop-bucket-1",  # dup of https://github.com/dodorz/scoop
+    "Kiedtl/open-scoop",  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
+    "kkzzhizhou/scoop-apps",
+    "nueko/scoop-php-ext",
+    "pavanbijja/scoop-bucket",
+    "Psychopovt/open-scoop",
+    "Ranjizamadhu/scoop-bear",
+    "rivy/scoop.bucket.scoop-main",
     "se35710/scoop-java",
 ]
 
@@ -148,182 +460,184 @@ max_pages = 2
 
 searches = []
 
-searches.append({
-    'pages': max_pages,
-    'score': True,
-    'searches': [
-        'scoop-bucket',
-        'scoop+bucket',
-    ]
-})
+searches.append(
+    {
+        "pages": max_pages,
+        "score": True,
+        "searches": [
+            "scoop-bucket",
+            "scoop+bucket",
+        ],
+    }
+)
 
-searches.append({
-    'pages':
-        max_pages,
-    'score':
-        True,
-    'searches': [
-        'scoop',
-        # @todo regen this list
-        '82p/scoop-yubico-bucket',
-        'Aaike/scoop',
-        'Alxandr/scoop-bucket',
-        'Ash258/Scoop-Ash258',
-        'AStupidBear/scoop-bear',
-        'BjoernPetersen/scoop-misc-bucket',
-        'Callidin/ragnar-scoop',
-        'Congee/barrel',
-        'DimiG/dgBucket',
-        'Doublemine/scoops',
-        'ErnWong/scoop-bucket',
-        'Guard13007/ScoopBucket',
-        'Jeddunk/scoop-bucket',
-        'Jokler/scoop-bucket',
-        'Lomeli12/ScoopBucket',
-        'MCOfficer/scoop-bucket',
-        'MCOfficer/scoop-nirsoft',
-        'Sandex/scoop-supernova',
-        'Southclaws/scoops',
-        'TheLastZombie/scoop-bucket',
-        'TheRandomLabs/Scoop-Bucket',
-        'TheRandomLabs/Scoop-Python',
-        'TheRandomLabs/Scoop-Spotify',
-        'TnmkFan/my-bucket',
-        'TorrentKatten/torrentkatten-scoop-bucket',
-        'Utdanningsdirektoratet/PAS-scoop-public',
-        'Vngdv/another-useless-scoop-bucket',
-        'anurse/scoop-bucket',
-        'bitrvmpd/scoop-wuff',
-        'broovy/scoop-bucket',
-        'comp500/scoop-browser',
-        'comp500/scoop-comp500',
-        'cprecioso/scoop-lektor',
-        'deevus/scoop-games',
-        'demas/demas-scoop',
-        'dennislloydjr/scoop-bucket-devbox',
-        'divanvisagie/scoop-bucket',
-        'dooteeen/scoop-for-jp',
-        'edgardmessias/scoop-pentaho',
-        'excitoon/scoop-user',
-        'ezhikov/scoop-bucket',
-        'follnoob/follnoob-bucket',
-        'fredjoseph/scoop-bucket',
-        'furyfire/my-bucket',
-        'galbro/my-bucket',
-        'gexclaude/scoop-bucket',
-        'ghchinoy/scoop-ce',
-        'ghchinoy/scoop-roguewave',
-        'goreleaser/scoop-bucket',
-        'guitarrapc/scoop-bucket',
-        'h404bi/dorado',
-        'hermanjustnu/scoop-emulators',
-        'huangnauh/carrot',
-        'iainsgillis/isg-bucket',
-        'idursun/my-bucket',
-        'jamesgecko/scoop-packages',
-        'jat001/scoop-ox',
-        'javageek/scoop-bucket',
-        'jfut/scoop-jfut',
-        'jfut/scoop-pleiades',
-        'jmcarbo/scoopbucket',
-        'kentork/scoop-leaky-bucket',
-        'klaidliadon/scoop-buckets',
-        'klauern/trackello-bucket',
-        'liaoya/scoop-bucket',
-        'lillicoder/scoop-openjdk6',
-        'littleli/scoop-clojure',
-        'littleli/Scoop-littleli',
-        'lptstr/open-scoop',
-        'lzimd/lzimd-scoop-bucket',
-        'maman/scoop-bucket',
-        'masaeedu/scoop-growlnotify',
-        'masonm12/scoop-personal',
-        'mattkang/scoop-bucket',
-        'michaelxmcbride/scoop-michaelxmcbride',
-        'mko-x/bucket',
-        'mmichaelis/scoop-bucket',
-        'monotykamary/toms-scoop-bucket',
-        'narnaud/scoop-bucket',
-        'nikolasd/scoop-bucket',
-        'noquierouser/nqu-scoop',
-        'nrakochy/scoop-solidity',
-        'nsstrunks/scoop-bucket',
-        'nueko/scoop-php',
-        'nueko/scoop-php-ext',
-        'ondr3j/scoop-misc',
-        'pastleo/scoop-bucket',
-        'pcrama/scoop-buckets',
-        'pgollangi/scoop-bucket',
-        'pigsflew/scoop-arbitrariae',
-        'prezesp/scoop-viewer-bucket',
-        'rasa/scoops',
-        'rcqls/scoop-extras',
-        'rivy/scoop.bucket-scoop.main',
-        'rkolka/scoop-manifold',
-        'se35710/scoop-ibm',
-        'siddarthasagar/scoopbucket',
-        'simonwjackson/my-bucket',
-        'starise/Scoop-Confetti',
-        'stlhrt/steel-buckets',
-        'svkoh/scoop-bucket',
-        'systemexitzero/scoop-bucket',
-        'tapanchandra/scoop-personal',
-        'thushan/scoop-devtools',
-        'tditlu/scoop-amiga',
-        'themrhead/scoop-bucket-apps',
-        'toburger/scoop-buckets',
-        'twxs/scoop-buckets',
-        'vidarkongsli/vidars-scoop-bucket',
-        'wangzq/scoop-bucket',
-        'webwesen/webwesen-scoop-bucket',
-        'wrokred/phpdev-scoop-bucket',
-        'yt3r/test-bucket',
-        'yuanying1199/scoopbucket',
-        'yutahaga/scoop-bucket',
-        'zhoujin7/tomato',
-        'GreatGodApollo/trough',
-    ]
-})
+searches.append(
+    {
+        "pages": max_pages,
+        "score": True,
+        "searches": [
+            "scoop",
+            # @todo regen this list
+            "82p/scoop-yubico-bucket",
+            "Aaike/scoop",
+            "Alxandr/scoop-bucket",
+            "Ash258/Scoop-Ash258",
+            "AStupidBear/scoop-bear",
+            "BjoernPetersen/scoop-misc-bucket",
+            "Callidin/ragnar-scoop",
+            "Congee/barrel",
+            "DimiG/dgBucket",
+            "Doublemine/scoops",
+            "ErnWong/scoop-bucket",
+            "Guard13007/ScoopBucket",
+            "Jeddunk/scoop-bucket",
+            "Jokler/scoop-bucket",
+            "Lomeli12/ScoopBucket",
+            "MCOfficer/scoop-bucket",
+            "MCOfficer/scoop-nirsoft",
+            "Sandex/scoop-supernova",
+            "Southclaws/scoops",
+            "TheLastZombie/scoop-bucket",
+            "TheRandomLabs/Scoop-Bucket",
+            "TheRandomLabs/Scoop-Python",
+            "TheRandomLabs/Scoop-Spotify",
+            "TnmkFan/my-bucket",
+            "TorrentKatten/torrentkatten-scoop-bucket",
+            "Utdanningsdirektoratet/PAS-scoop-public",
+            "Vngdv/another-useless-scoop-bucket",
+            "anurse/scoop-bucket",
+            "bitrvmpd/scoop-wuff",
+            "broovy/scoop-bucket",
+            "comp500/scoop-browser",
+            "comp500/scoop-comp500",
+            "cprecioso/scoop-lektor",
+            "deevus/scoop-games",
+            "demas/demas-scoop",
+            "dennislloydjr/scoop-bucket-devbox",
+            "divanvisagie/scoop-bucket",
+            "dooteeen/scoop-for-jp",
+            "edgardmessias/scoop-pentaho",
+            "excitoon/scoop-user",
+            "ezhikov/scoop-bucket",
+            "follnoob/follnoob-bucket",
+            "fredjoseph/scoop-bucket",
+            "furyfire/my-bucket",
+            "galbro/my-bucket",
+            "gexclaude/scoop-bucket",
+            "ghchinoy/scoop-ce",
+            "ghchinoy/scoop-roguewave",
+            "goreleaser/scoop-bucket",
+            "guitarrapc/scoop-bucket",
+            "h404bi/dorado",
+            "hermanjustnu/scoop-emulators",
+            "huangnauh/carrot",
+            "iainsgillis/isg-bucket",
+            "idursun/my-bucket",
+            "jamesgecko/scoop-packages",
+            "jat001/scoop-ox",
+            "javageek/scoop-bucket",
+            "jfut/scoop-jfut",
+            "jfut/scoop-pleiades",
+            "jmcarbo/scoopbucket",
+            "kentork/scoop-leaky-bucket",
+            "klaidliadon/scoop-buckets",
+            "klauern/trackello-bucket",
+            "liaoya/scoop-bucket",
+            "lillicoder/scoop-openjdk6",
+            "littleli/scoop-clojure",
+            "littleli/Scoop-littleli",
+            "lptstr/open-scoop",
+            "lzimd/lzimd-scoop-bucket",
+            "maman/scoop-bucket",
+            "masaeedu/scoop-growlnotify",
+            "masonm12/scoop-personal",
+            "mattkang/scoop-bucket",
+            "michaelxmcbride/scoop-michaelxmcbride",
+            "mko-x/bucket",
+            "mmichaelis/scoop-bucket",
+            "monotykamary/toms-scoop-bucket",
+            "narnaud/scoop-bucket",
+            "nikolasd/scoop-bucket",
+            "noquierouser/nqu-scoop",
+            "nrakochy/scoop-solidity",
+            "nsstrunks/scoop-bucket",
+            "nueko/scoop-php",
+            "nueko/scoop-php-ext",
+            "ondr3j/scoop-misc",
+            "pastleo/scoop-bucket",
+            "pcrama/scoop-buckets",
+            "pgollangi/scoop-bucket",
+            "pigsflew/scoop-arbitrariae",
+            "prezesp/scoop-viewer-bucket",
+            "rasa/scoops",
+            "rcqls/scoop-extras",
+            "rivy/scoop.bucket-scoop.main",
+            "rkolka/scoop-manifold",
+            "se35710/scoop-ibm",
+            "siddarthasagar/scoopbucket",
+            "simonwjackson/my-bucket",
+            "starise/Scoop-Confetti",
+            "stlhrt/steel-buckets",
+            "svkoh/scoop-bucket",
+            "systemexitzero/scoop-bucket",
+            "tapanchandra/scoop-personal",
+            "thushan/scoop-devtools",
+            "tditlu/scoop-amiga",
+            "themrhead/scoop-bucket-apps",
+            "toburger/scoop-buckets",
+            "twxs/scoop-buckets",
+            "vidarkongsli/vidars-scoop-bucket",
+            "wangzq/scoop-bucket",
+            "webwesen/webwesen-scoop-bucket",
+            "wrokred/phpdev-scoop-bucket",
+            "yt3r/test-bucket",
+            "yuanying1199/scoopbucket",
+            "yutahaga/scoop-bucket",
+            "zhoujin7/tomato",
+            "GreatGodApollo/trough",
+        ],
+    }
+)
 
 
 def fix_license(s):
-    """ @todo """
-    s = re.sub(r'-only', '', s, re.I)
-    s = re.sub(r'-or-later', '+', s, re.I)
-    s = re.sub(r'-Clause', '', s, re.I)
+    """@todo"""
+    s = re.sub(r"-only", "", s, re.I)
+    s = re.sub(r"-or-later", "+", s, re.I)
+    s = re.sub(r"-Clause", "", s, re.I)
     return s
 
 
 def do_license(v):
-    """ @todo """
-    url = ''
-    identifier = ''
-    if type(v).__name__ in ['unicode', 'str']:
+    """@todo"""
+    url = ""
+    identifier = ""
+    if type(v).__name__ in ["unicode", "str"]:
         url = v
     if isinstance(v, dict):
-        if 'identifier' in v:
-            identifier = fix_license(v['identifier'])
-            url = ''
-        if 'url' in v:
-            url = v['url']
-    if re.search(r'^(http|ftp)', url):
+        if "identifier" in v:
+            identifier = fix_license(v["identifier"])
+            url = ""
+        if "url" in v:
+            url = v["url"]
+    if re.search(r"^(http|ftp)", url):
         if not identifier:
-            identifier = 'Link'
+            identifier = "Link"
         return do_license_identifier(identifier, url)
 
     if not identifier:
         identifier = url
 
-    return do_license_identifier(identifier, '')
+    return do_license_identifier(identifier, "")
 
 
 def do_license_identifier(identifier, url):
-    """ @todo """
-    parts = re.split(r'[,\|]+', identifier)
-    v = ''
+    """@todo"""
+    parts = re.split(r"[,\|]+", identifier)
+    v = ""
     for part in parts:
-        if v > '':
-            v += '/'
+        if v > "":
+            v += "/"
         part = part.strip()
         if not url:
             k = part.lower()
@@ -331,32 +645,32 @@ def do_license_identifier(identifier, url):
                 url = OSImap[k]
             elif k in lmap:
                 url = lmap[k]
-        if url > '':
-            v += '[%s](%s)' % (fix_license(part), url)
+        if url > "":
+            v += "[%s](%s)" % (fix_license(part), url)
         else:
             v += part
         break
 
     if len(parts) > 1:
-        v += '&hellip;'
+        v += "&hellip;"
 
     return v
 
 
 def get_license_id(v):
-    """ @todo """
-    url = ''
-    identifier = ''
-    if type(v).__name__ in ['unicode', 'str']:
+    """@todo"""
+    url = ""
+    identifier = ""
+    if type(v).__name__ in ["unicode", "str"]:
         url = v
     if isinstance(v, dict):
-        if 'identifier' in v:
-            identifier = fix_license(v['identifier'])
-            url = ''
-        if 'url' in v:
-            url = v['url']
+        if "identifier" in v:
+            identifier = fix_license(v["identifier"])
+            url = ""
+        if "url" in v:
+            url = v["url"]
 
-    if re.search(r'^(http|ftp)', url):
+    if re.search(r"^(http|ftp)", url):
         return identifier
 
     if identifier:
@@ -366,64 +680,64 @@ def get_license_id(v):
 
 
 def get_license_url(v):
-    """ @todo """
-    url = ''
-    if type(v).__name__ in ['unicode', 'str']:
+    """@todo"""
+    url = ""
+    if type(v).__name__ in ["unicode", "str"]:
         url = v
     if isinstance(v, dict):
-        if 'url' in v:
-            url = v['url']
+        if "url" in v:
+            url = v["url"]
 
-    if re.search(r'^(http|ftp)', url):
+    if re.search(r"^(http|ftp)", url):
         return url
-    return ''
+    return ""
 
 
 def get_url(js):
-    """ @todo """
-    if 'homepage' in js:
-        return js['homepage']
-    if 'checkver' in js:
-        if 'url' in js['checkver']:
-            return js['checkver']['url']
-        if 'github' in js['checkver']:
-            return js['checkver']['github']
-    return ''
+    """@todo"""
+    if "homepage" in js:
+        return js["homepage"]
+    if "checkver" in js:
+        if "url" in js["checkver"]:
+            return js["checkver"]["url"]
+        if "github" in js["checkver"]:
+            return js["checkver"]["github"]
+    return ""
 
 
 def get_link(js):
-    """ @todo """
-    if 'url' in js:
-        return js['url']
-    if 'architecture' not in js:
+    """@todo"""
+    if "url" in js:
+        return js["url"]
+    if "architecture" not in js:
         return None
-    for bits in ['64bit', '32bit']:
-        if bits not in js['architecture']:
+    for bits in ["64bit", "32bit"]:
+        if bits not in js["architecture"]:
             continue
-        if 'url' not in js['architecture'][bits]:
+        if "url" not in js["architecture"][bits]:
             continue
-        return js['architecture'][bits]['url']
+        return js["architecture"][bits]["url"]
     return None
 
 
 def do_version(js):
-    """ @todo """
-    version = js['version']
-    if 'checkver' not in js:
-        version = '*%s*' % str(version).strip()
+    """@todo"""
+    version = js["version"]
+    if "checkver" not in js:
+        version = "*%s*" % str(version).strip()
     return version
 
 
 def fetchjson(urlstr):
-    """ @todo """
+    """@todo"""
     try_ = 0
     while try_ < MAX_TRIES:
         try_ += 1
         secs = 0
         response = requests.get(url=urlstr)
-        if 'X-RateLimit-Remaining' in response.headers:
-            if int(response.headers['X-RateLimit-Remaining']) < 1:
-                reset = int(response.headers['X-RateLimit-Reset'])
+        if "X-RateLimit-Remaining" in response.headers:
+            if int(response.headers["X-RateLimit-Remaining"]) < 1:
+                reset = int(response.headers["X-RateLimit-Reset"])
                 secs = float(reset) - time.time()
                 if secs > -MAX_CLOCK_SKEW_SECONDS:
                     time.sleep(secs + MAX_CLOCK_SKEW_SECONDS)
@@ -432,7 +746,7 @@ def fetchjson(urlstr):
             return response.json()
 
         if secs == 0:
-            print('Sleeping %d seconds to avoid 403 errors' % SLEEP_SECONDS)
+            print("Sleeping %d seconds to avoid 403 errors" % SLEEP_SECONDS)
             time.sleep(SLEEP_SECONDS)
 
         # print("Try %d of %d:" % (try_, MAX_TRIES))
@@ -444,7 +758,7 @@ def fetchjson(urlstr):
 
 
 def get_builtins():
-    """ @todo """
+    """@todo"""
     # @todo load from
     # https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/buckets.json
     bucket_list = {
@@ -458,14 +772,14 @@ def get_builtins():
         "nonportable": "https://github.com/TheRandomLabs/scoop-nonportable",
         "java": "https://github.com/ScoopInstaller/Java",
         "games": "https://github.com/Calinou/scoop-games",
-        "jetbrains": "https://github.com/Ash258/Scoop-JetBrains"
+        "jetbrains": "https://github.com/Ash258/Scoop-JetBrains",
     }
     for key in bucket_list:
         url = bucket_list[key]
-        m = re.search(r'github\.com/(.*)$', url, re.I)
+        m = re.search(r"github\.com/(.*)$", url, re.I)
         if m:
             name = m.group(1)
-            m = re.search(r'^(.*)\.git$', name, re.I)
+            m = re.search(r"^(.*)\.git$", name, re.I)
             if m:
                 name = m.group(1)
             builtins[name] = key
@@ -473,7 +787,7 @@ def get_builtins():
 
 
 def rmdir(dir):
-    """ @todo """
+    """@todo"""
 
     # https://stackoverflow.com/a/4829285/1432614
 
@@ -505,7 +819,7 @@ def rmdir(dir):
     if not os.path.isdir(cache_dir):
         return True
 
-    if os.name == 'nt':
+    if os.name == "nt":
         print('rmdir /s /q "%s"' % cache_dir)
         os.system('cmd.exe /c rmdir /s /q "%s"' % cache_dir)
 
@@ -513,7 +827,7 @@ def rmdir(dir):
 
 
 def initialize_cache():
-    """ @todo """
+    """@todo"""
     global cache
     global last_run
 
@@ -521,19 +835,19 @@ def initialize_cache():
     os.makedirs(cache_dir)
 
     try:
-        with open(os.path.join(cache_dir, 'cache.pickle'), "rb") as input_file:
+        with open(os.path.join(cache_dir, "cache.pickle"), "rb") as input_file:
             cache = pickle.load(input_file)
     except (EnvironmentError, EOFError):
-        cache['last_run'] = datetime(2000, 1, 1).strftime('%Y-%m-%dT%H:%M:%SZ')
+        cache["last_run"] = datetime(2000, 1, 1).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    last_run = datetime.strptime(cache['last_run'], '%Y-%m-%dT%H:%M:%SZ')
+    last_run = datetime.strptime(cache["last_run"], "%Y-%m-%dT%H:%M:%SZ")
     return 0
 
 
 def do_parse(file_path):
-    """ @todo """
+    """@todo"""
     try:
-        with io.open(file_path, 'rb') as fp:
+        with io.open(file_path, "rb") as fp:
             s = fp.read()
     except Exception as e:
         return (str(e), None)
@@ -541,13 +855,13 @@ def do_parse(file_path):
     try:
         h = chardet.detect(s)
         try:
-            with io.open(file_path, 'r', encoding=h['encoding']) as fp:
+            with io.open(file_path, "r", encoding=h["encoding"]) as fp:
                 s = fp.read()
         except Exception as e:
             return (str(e), None)
     except Exception:
         try:
-            with io.open(file_path, 'r') as fp:
+            with io.open(file_path, "r") as fp:
                 s = fp.read()
         except Exception as e:
             return (str(e), None)
@@ -556,136 +870,132 @@ def do_parse(file_path):
 
     try:
         j = parser.loads(s)
-        return ('', j)
+        return ("", j)
     except Exception as e:
         # Strip out single line comments
         lines = s.splitlines()
-        s = ''
+        s = ""
         for line in lines:
-            line = re.sub(r'^\s*//.*$', '', line)
+            line = re.sub(r"^\s*//.*$", "", line)
             s += line + "\n"
         try:
             j = parser.loads(s)
         except Exception:
             j = None
 
-        rv = '%s (%s)' % (str(e), h['encoding'])
+        rv = "%s (%s)" % (str(e), h["encoding"])
         return (rv, j)
 
 
 def do_repo(repo, i, num_repos, do_score=True):
-    """ @todo """
+    """@todo"""
     global last_run
 
     keys = [
         # 'checkver',
-        'description',
+        "description",
         # 'homepage',
-        'license',
-        'version',
+        "license",
+        "version",
     ]
 
-    if 'name' not in repo:
+    if "name" not in repo:
         pprint.pprint(dict(repo), width=1)
         return 0
 
-    full_name = repo['full_name']
+    full_name = repo["full_name"]
 
-    print('  %3d/%3d: %-50s: ' % (i, num_repos, full_name), end='')
+    print("  %3d/%3d: %-50s: " % (i, num_repos, full_name), end="")
     nl = True
 
-    if full_name == 'ScoopInstaller/Scoop':
-        print('Skipping ScoopInstaller/Scoop (no apps)')
+    if full_name == "ScoopInstaller/Scoop":
+        print("Skipping ScoopInstaller/Scoop (no apps)")
         return 0
 
     if full_name.lower() in done:
-        print('Skipping (done)')
+        print("Skipping (done)")
         return 0
 
     done.append(full_name.lower())
 
-    if repo['fork']:
-        print('Skipping (fork)')
+    if repo["fork"]:
+        print("Skipping (fork)")
         return 0
 
     # pprint.pprint(dict(repo), width=1)
     # sys.exit()
 
-    repofoldername = full_name.replace('/', '+')
-    git_clone_url = repo['git_url']
-    html_url = repo['html_url']
-    score = float(repo['score'])
+    repofoldername = full_name.replace("/", "+")
+    git_clone_url = repo["git_url"]
+    html_url = repo["html_url"]
+    score = float(repo["score"])
     if not do_score:
         score = 0
-    last_updated = datetime.strptime(repo['updated_at'], '%Y-%m-%dT%H:%M:%SZ')
+    last_updated = datetime.strptime(repo["updated_at"], "%Y-%m-%dT%H:%M:%SZ")
 
-    id_ = full_name.replace('/', '_')
-    id_ = re.sub(r'[^0-9a-zA-Z_:.-]+', '-', id_)
-    if not re.match(r'^[a-zA-Z]', id_[0]):
-        id_ = 'a' + id_
+    id_ = full_name.replace("/", "_")
+    id_ = re.sub(r"[^0-9a-zA-Z_:.-]+", "-", id_)
+    if not re.match(r"^[a-zA-Z]", id_[0]):
+        id_ = "a" + id_
 
     if repofoldername not in cache:
         try:
-            git.Repo.clone_from(
-                git_clone_url, os.path.join(cache_dir, repofoldername)
-            )
+            git.Repo.clone_from(git_clone_url, os.path.join(cache_dir, repofoldername))
         except Exception as e:
             if nl:
-                print('')
+                print("")
                 nl = False
             print(e)
             return 0
 
         try:
-            description = repo['description']
+            description = repo["description"]
             if isinstance(description, list):
-                description = ' \n'.join(description)
+                description = " \n".join(description)
             description = description.strip()
         except Exception:
-            description = ''
+            description = ""
 
-        builtin_text = ''
+        builtin_text = ""
         if full_name in builtins:
             builtin_text = "scoop's built-in bucket '%s'" % builtins[full_name]
         if builtin_text:
             description += " (%s)" % builtin_text
 
         if description:
-            idescription = ' *%s*' % description
-            cdescription = ': ' + idescription
+            idescription = " *%s*" % description
+            cdescription = ": " + idescription
         else:
-            idescription = ''
-            cdescription = ''
+            idescription = ""
+            cdescription = ""
 
-        pattern = '%Y-%m-%dT%H:%M:%S'
+        pattern = "%Y-%m-%dT%H:%M:%S"
         try:
-            epoch = int(
-                time.mktime(time.strptime(repo['updated_at'][:-1], pattern))
-            )
+            epoch = int(time.mktime(time.strptime(repo["updated_at"][:-1], pattern)))
         except Exception:
             epoch = 0
 
         cache[repofoldername] = {
-            'cdescription': cdescription,
-            'description': description,
-            'entries': [],
-            'epoch': epoch,
-            'forks': int(repo['forks']),
-            'forks_url': html_url + '/network',
-            'full_name': full_name,
-            'id': id_,
-            'idescription': idescription,
-            'packages': 0,
-            'score': score,
-            'score5': round(score, 2),
-            'size': int(repo['size']),
-            'stars': int(repo['stargazers_count']),
-            'stars_url': html_url + '/stargazers',
-            'updated': repo['updated_at'][2:10].replace('-', '&#x2011;'),
-            'updated_at': repo['updated_at'].replace('-', '&#x2011;'),
-            'updated_url': html_url + '/commits',
-            'url': html_url,
-            'default_branch': repo['default_branch'],
+            "cdescription": cdescription,
+            "description": description,
+            "entries": [],
+            "epoch": epoch,
+            "forks": int(repo["forks"]),
+            "forks_url": html_url + "/network",
+            "full_name": full_name,
+            "id": id_,
+            "idescription": idescription,
+            "packages": 0,
+            "score": score,
+            "score5": round(score, 2),
+            "size": int(repo["size"]),
+            "stars": int(repo["stargazers_count"]),
+            "stars_url": html_url + "/stargazers",
+            "updated": repo["updated_at"][2:10].replace("-", "&#x2011;"),
+            "updated_at": repo["updated_at"].replace("-", "&#x2011;"),
+            "updated_url": html_url + "/commits",
+            "url": html_url,
+            "default_branch": repo["default_branch"],
         }
 
     elif repofoldername in cache and (last_updated > last_run):
@@ -695,20 +1005,20 @@ def do_repo(repo, i, num_repos, do_score=True):
             o.pull()
         except Exception as e:
             if nl:
-                print('')
+                print("")
                 nl = False
             print(e)
 
     if not os.path.isdir(os.path.join(cache_dir, repofoldername)):
         return 0
 
-    cache[repofoldername]['entries'] = []
+    cache[repofoldername]["entries"] = []
 
-    bucket = ''
+    bucket = ""
     bucket_path = os.path.join(cache_dir, repofoldername)
-    if os.path.isdir(bucket_path + '/bucket'):
-        bucket = '/bucket'
-        bucket_path = bucket_path + '/bucket'
+    if os.path.isdir(bucket_path + "/bucket"):
+        bucket = "/bucket"
+        bucket_path = bucket_path + "/bucket"
 
     rows = {}
 
@@ -718,87 +1028,85 @@ def do_repo(repo, i, num_repos, do_score=True):
         file_path = os.path.join(bucket_path, f)
         if not os.path.isfile(file_path):
             continue
-        if os.path.splitext(file_path)[1] != '.json':
+        if os.path.splitext(file_path)[1] != ".json":
             continue
 
         jsons += 1
         row = {}
         for key in keys:
-            row[key] = ''
-        row['json'] = os.path.splitext(f)[0]
+            row[key] = ""
+        row["json"] = os.path.splitext(f)[0]
 
         while True:
             (parse_error, j) = do_parse(file_path)
 
             if len(parse_error) > 0:
                 if nl:
-                    print('')
+                    print("")
                     nl = False
-                print('    %s: %s' % (f, parse_error))
+                print("    %s: %s" % (f, parse_error))
                 if not j:
                     break
 
             if not get_link(j):
                 if nl:
-                    print('')
+                    print("")
                     nl = False
-                print('    %s: no url' % f)
+                print("    %s: no url" % f)
                 break
 
-            if 'version' not in j:
+            if "version" not in j:
                 if nl:
-                    print('')
+                    print("")
                     nl = False
-                print('    %s: no version' % f)
+                print("    %s: no version" % f)
                 break
 
             try:
-                row['url'] = get_url(j)
+                row["url"] = get_url(j)
             except Exception as e:
                 if nl:
-                    print('')
+                    print("")
                     nl = False
                 print(f)
                 print(e)
                 break
 
-            default_branch = cache[repofoldername]['default_branch']
-            manifest_url = '%s/blob/%s%s/%s' % (
-                html_url, default_branch, bucket, f
-            )
-            row['manifest_url'] = manifest_url
-            if not row['url']:
-                row['url'] = row['manifest_url']
-            row['license_id'] = ''
-            row['license_url'] = '#'
+            default_branch = cache[repofoldername]["default_branch"]
+            manifest_url = "%s/blob/%s%s/%s" % (html_url, default_branch, bucket, f)
+            row["manifest_url"] = manifest_url
+            if not row["url"]:
+                row["url"] = row["manifest_url"]
+            row["license_id"] = ""
+            row["license_url"] = "#"
             for key in keys:
                 if key not in j:
                     continue
 
                 v = j[key]
-                is_string = isinstance(v, str) or type(v).__name__ == 'unicode'
+                is_string = isinstance(v, str) or type(v).__name__ == "unicode"
                 if is_string:
                     v = v.strip()
-                    v = re.sub(r'[\r\n]+', ' ', v)
-                if key == 'license':
-                    row['license_id'] = get_license_id(v)
-                    row['license_url'] = get_license_url(v)
+                    v = re.sub(r"[\r\n]+", " ", v)
+                if key == "license":
+                    row["license_id"] = get_license_id(v)
+                    row["license_url"] = get_license_url(v)
                     v = do_license(v)
-                if key == 'version':
+                if key == "version":
                     v = do_version(j)
-                    if row['manifest_url']:
-                        v = '[%s](%s)' % (v, row['manifest_url'])
+                    if row["manifest_url"]:
+                        v = "[%s](%s)" % (v, row["manifest_url"])
 
                 try:
                     if isinstance(v, list):
-                        if key == 'description':
-                            v = ' \n'.join(v)
+                        if key == "description":
+                            v = " \n".join(v)
                     v = v.strip()
-                    v = re.sub(r'[\r\n]+', ' ', v)
+                    v = re.sub(r"[\r\n]+", " ", v)
                     row[key] = v
                 except Exception as e:
                     if nl:
-                        print('')
+                        print("")
                         nl = False
                     print(f)
                     print(e)
@@ -810,42 +1118,39 @@ def do_repo(repo, i, num_repos, do_score=True):
                 # exes
                 # shortcuts
             if len(parse_error) > 0:
-                row['description'] += " (**%s**)" % parse_error
+                row["description"] += " (**%s**)" % parse_error
                 break
             good_jsons += 1
             break
 
-        rows[row['json']] = row
+        rows[row["json"]] = row
 
     for k in sorted(rows.keys(), key=lambda s: s.lower()):
-        cache[repofoldername]['entries'].append(rows[k])
+        cache[repofoldername]["entries"].append(rows[k])
 
     if good_jsons == 0:
-        cache[repofoldername]['entries'] = []
+        cache[repofoldername]["entries"] = []
 
-    cache[repofoldername]['packages'] = len(cache[repofoldername]['entries'])
+    cache[repofoldername]["packages"] = len(cache[repofoldername]["entries"])
     if not nl:
-        print('%-61s: ' % '', end='')
+        print("%-61s: " % "", end="")
 
-    print(
-        '%3d (score:%10.6f)' %
-        (len(cache[repofoldername]['entries']), repo['score'])
-    )
-    return len(cache[repofoldername]['entries'])
+    print("%3d (score:%10.6f)" % (len(cache[repofoldername]["entries"]), repo["score"]))
+    return len(cache[repofoldername]["entries"])
 
 
 def do_page(search, page, do_score=True):
-    """ @todo """
-    api = 'https://api.github.com/search/repositories?q=%s&per_page=%d'
+    """@todo"""
+    api = "https://api.github.com/search/repositories?q=%s&per_page=%d"
 
     url = api % (search, per_page)
     if page > 1:
-        url += '&page=%d' % page
+        url += "&page=%d" % page
     rv = fetchjson(url)
-    if 'items' not in rv:
-        print('items not found in search results')
+    if "items" not in rv:
+        print("items not found in search results")
         return 0
-    repos = rv['items']
+    repos = rv["items"]
     i = 0
     hits = 0
     for repo in repos:
@@ -858,9 +1163,9 @@ def do_page(search, page, do_score=True):
 
 
 def do_search(search, pages=1, do_score=True):
-    """ @todo """
+    """@todo"""
     for page in range(1, pages + 1):
-        print('q: %s (page %s of %s)' % (search, page, pages))
+        print("q: %s (page %s of %s)" % (search, page, pages))
         hits = do_page(search, page, do_score)
         if hits == 0:
             break
@@ -870,13 +1175,13 @@ def do_search(search, pages=1, do_score=True):
 
 
 def do_searches():
-    """ @todo """
-    searches[1]['searches'].extend(builtins)
+    """@todo"""
+    searches[1]["searches"].extend(builtins)
     for h in searches:
-        for search in h['searches']:
+        for search in h["searches"]:
             if search.lower() in done:
                 continue
-            do_search(search, h['pages'], h['score'])
+            do_search(search, h["pages"], h["score"])
             if SHORT_CIRCUIT:
                 return 0
 
@@ -884,16 +1189,16 @@ def do_searches():
 
 
 def save_cache():
-    """ @todo """
+    """@todo"""
     global cache
 
     print("Saving cache")
-    cache['last_run'] = datetime.strftime(
-        datetime.now().replace(hour=0, minute=0, second=0), '%Y-%m-%dT%H:%M:%SZ'
+    cache["last_run"] = datetime.strftime(
+        datetime.now().replace(hour=0, minute=0, second=0), "%Y-%m-%dT%H:%M:%SZ"
     )
 
     try:
-        with open(os.path.join(cache_dir, 'cache.pickle'), "wb") as input_file:
+        with open(os.path.join(cache_dir, "cache.pickle"), "wb") as input_file:
             pickle.dump(cache, input_file)
     except EnvironmentError:
         pass
@@ -902,50 +1207,52 @@ def save_cache():
 
 
 def sort_repos(first_sort_key, sort_in_reverse):
-    """ @todo """
+    """@todo"""
     global repos_by_score
     global repos_by_name
 
     print("Sorting output")
     repos = [repo for repo in cache.keys()]
     repos_by_score = [
-        repo for repo in repos
-        if repo != 'last_run' and len(cache[repo]['entries']) > 0
+        repo for repo in repos if repo != "last_run" and len(cache[repo]["entries"]) > 0
     ]
     repos_by_score = sorted(
         repos_by_score,
         key=lambda repo: (
-            cache[repo][first_sort_key], cache[repo]['score'], cache[repo][
-                'stars'], cache[repo]['forks'], cache[repo]['packages'], cache[
-                    repo]['full_name'].lower()
+            cache[repo][first_sort_key],
+            cache[repo]["score"],
+            cache[repo]["stars"],
+            cache[repo]["forks"],
+            cache[repo]["packages"],
+            cache[repo]["full_name"].lower(),
         ),
-        reverse=sort_in_reverse
+        reverse=sort_in_reverse,
     )
 
     repos_by_name = copy.deepcopy(repos_by_score)
     repos_by_name = sorted(
-        repos_by_name, key=lambda repo: cache[repo]['full_name'].lower()
+        repos_by_name, key=lambda repo: cache[repo]["full_name"].lower()
     )
     return True
 
 
 def do_render(filename, sort_order_description):
-    """ @todo """
+    """@todo"""
     print("Generating %s" % filename)
     TEMPLATE_ENVIRONMENT = jinja2.Environment(
         autoescape=False,
-        loader=jinja2.FileSystemLoader(os.path.join(dir_path, 'template')),
-        trim_blocks=False
+        loader=jinja2.FileSystemLoader(os.path.join(dir_path, "template")),
+        trim_blocks=False,
     )
     context = {
-        'repos_by_score': repos_by_score,
-        'repos_by_name': repos_by_name,
-        'cache': cache,
-        'sort_order_description': sort_order_description
+        "repos_by_score": repos_by_score,
+        "repos_by_name": repos_by_name,
+        "cache": cache,
+        "sort_order_description": sort_order_description,
     }
-    tpl = 'ReadmeTemplate.md'
+    tpl = "ReadmeTemplate.md"
     markdown_content = TEMPLATE_ENVIRONMENT.get_template(tpl).render(context)
-    with io.open(filename, 'w+', encoding='utf-8', newline="\n") as f:
+    with io.open(filename, "w+", encoding="utf-8", newline="\n") as f:
         written = f.write(markdown_content)
         lines = len(markdown_content.splitlines())
         print("Wrote %d bytes (%s lines) to %s" % (written, lines, filename))
@@ -953,8 +1260,8 @@ def do_render(filename, sort_order_description):
 
 
 def do_readme(sort_field, output_file, sort_order_description, sort_in_reverse):
-    """ @todo """
-    filename = os.path.realpath(os.path.join(dir_path, '..', output_file))
+    """@todo"""
+    filename = os.path.realpath(os.path.join(dir_path, "..", output_file))
     # if not os.path.isfile(filename):
     #    print("File not found: %s" % filename)
     #    return False
@@ -964,17 +1271,17 @@ def do_readme(sort_field, output_file, sort_order_description, sort_in_reverse):
 
 
 def do_db():
-    """ @todo """
-    scoop_directory_db = os.path.join(dir_path, '..', 'scoop_directory.db')
+    """@todo"""
+    scoop_directory_db = os.path.join(dir_path, "..", "scoop_directory.db")
     print("Regenerating ", scoop_directory_db)
     conn = sqlite3.connect(scoop_directory_db)
 
     cur = conn.cursor()
 
     sqls = [
-        'drop table if exists apps',
-        'drop table if exists buckets',
-        '''create table apps (
+        "drop table if exists apps",
+        "drop table if exists buckets",
+        """create table apps (
                     name text,
                     version text,
                     description text,
@@ -982,48 +1289,54 @@ def do_db():
                     homepage text,
                     manifest_url text,
                     bucket_url text,
-                    license_url text)''',
-        '''create table buckets (
+                    license_url text)""",
+        """create table buckets (
                     bucket_url text,
                     description text,
                     packages integer,
                     stars integer,
-                    updated text)'''
+                    updated text)""",
     ]
     for sql in sqls:
-        print('Executing ', sql)
+        print("Executing ", sql)
         cur.execute(sql)
 
     for bucket in cache:
-        if bucket == 'last_run':
+        if bucket == "last_run":
             continue
-        print('Inserting bucket ', cache[bucket]['url'])
+        print("Inserting bucket ", cache[bucket]["url"])
         cur.execute(
-            'insert into buckets values (?, ?, ?, ?, ?)', (
-                cache[bucket]['url'], cache[bucket]['description'],
-                cache[bucket]['packages'], cache[bucket]['stars'],
-                cache[bucket]['updated']
-            )
+            "insert into buckets values (?, ?, ?, ?, ?)",
+            (
+                cache[bucket]["url"],
+                cache[bucket]["description"],
+                cache[bucket]["packages"],
+                cache[bucket]["stars"],
+                cache[bucket]["updated"],
+            ),
         )
 
         n = 0
-        for manifest in cache[bucket]['entries']:
+        for manifest in cache[bucket]["entries"]:
             n += 1
             try:
                 cur.execute(
-                    'insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)', (
-                        manifest['json'],
-                        manifest['version'].split('[', 1)[1].split(']')[0] if manifest['version'] != '' else '',
-                        manifest['description'],
-                        manifest['license_id'],
-                        manifest['url'] if 'url' in manifest else '',
-                        manifest['manifest_url'] if 'manifest_url' in manifest else '',
-                        cache[bucket]['url'],
-                        manifest['license_url']
-                    )
+                    "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)",
+                    (
+                        manifest["json"],
+                        manifest["version"].split("[", 1)[1].split("]")[0]
+                        if manifest["version"] != ""
+                        else "",
+                        manifest["description"],
+                        manifest["license_id"],
+                        manifest["url"] if "url" in manifest else "",
+                        manifest["manifest_url"] if "manifest_url" in manifest else "",
+                        cache[bucket]["url"],
+                        manifest["license_url"],
+                    ),
                 )
             except Exception as e:
-                print('Error inserting manifest %d: %s:' % (n, manifest['json']))
+                print("Error inserting manifest %d: %s:" % (n, manifest["json"]))
                 print(e)
 
     print("Committing changes")
@@ -1034,7 +1347,7 @@ def do_db():
 
 
 def main():
-    """ @todo """
+    """@todo"""
     get_builtins()
     initialize_cache()
     do_searches()
@@ -1042,11 +1355,11 @@ def main():
     # GitHub truncates the readme
     # do_readme('score', 'README.md', 'Github score', True)
     # do_readme('score', 'by-score.md', 'Github score', True)
-    do_readme('full_name', 'by-bucket.md', 'bucket name', False)
-    do_readme('packages', 'by-apps.md', 'number of apps', True)
-    do_readme('stars', 'by-stars.md', 'number of stars', True)
-    do_readme('forks', 'by-forks.md', 'number of forks', True)
-    do_readme('epoch', 'by-date-updated.md', 'date last updated', True)
+    do_readme("full_name", "by-bucket.md", "bucket name", False)
+    do_readme("packages", "by-apps.md", "number of apps", True)
+    do_readme("stars", "by-stars.md", "number of stars", True)
+    do_readme("forks", "by-forks.md", "number of forks", True)
+    do_readme("epoch", "by-date-updated.md", "date last updated", True)
     do_db()
     return 0
 
@@ -1058,7 +1371,7 @@ SHORT_CIRCUIT = False
 
 OSImap = {}
 for k_ in OSI:
-    OSImap[k_.lower()] = 'https://opensource.org/licenses/%s' % k_
+    OSImap[k_.lower()] = "https://opensource.org/licenses/%s" % k_
 
 builtins = {}  # type: Dict[str]
 cache = {}  # type: Dict[str]
@@ -1069,14 +1382,14 @@ per_page = 100  # Max is 100
 repos_by_score = []  # type: List[str]
 repos_by_name = []  # type: List[str]
 
-cache_dir = os.path.join(dir_path, 'cache')
-if 'CACHE_ROOT' in os.environ:
-    cache_root = os.environ['CACHE_ROOT']
+cache_dir = os.path.join(dir_path, "cache")
+if "CACHE_ROOT" in os.environ:
+    cache_root = os.environ["CACHE_ROOT"]
 else:
     cache_root = dir_path
 
-if not re.search(r'cache$', cache_root):
-    cache_dir = os.path.join(cache_root, 'cache')
+if not re.search(r"cache$", cache_root):
+    cache_dir = os.path.join(cache_root, "cache")
 
 # @todo change to startup option
 if len(sys.argv) > 1:
@@ -1085,9 +1398,9 @@ if len(sys.argv) > 1:
 if SHORT_CIRCUIT:
     per_page = 1
     max_pages = 1
-    searches[0]['pages'] = max_pages
-    searches[1]['pages'] = max_pages
-    searches[1]['searches'] = ['scoop']
+    searches[0]["pages"] = max_pages
+    searches[1]["pages"] = max_pages
+    searches[1]["searches"] = ["scoop"]
 
 sys.exit(main())
 """
