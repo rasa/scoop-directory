@@ -1321,23 +1321,34 @@ def do_db():
         for manifest in cache[bucket]["entries"]:
             n += 1
             try:
+                version = manifest["version"].split("[", 1)[1].split("]")[0]
+                if manifest["version"] != ""
+                else ""
+                url = manifest["url"] if "url" in manifest else ""
+                manifest_url = manifest["manifest_url"] if "manifest_url" in manifest else ""
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)",
                     (
                         manifest["json"],
-                        manifest["version"].split("[", 1)[1].split("]")[0]
-                        if manifest["version"] != ""
-                        else "",
+                        version,
                         manifest["description"],
                         manifest["license_id"],
-                        manifest["url"] if "url" in manifest else "",
-                        manifest["manifest_url"] if "manifest_url" in manifest else "",
+                        url,
+                        manifest_url,
                         cache[bucket]["url"],
                         manifest["license_url"],
                     ),
                 )
             except Exception as e:
-                print("Error inserting manifest %d: %s:" % (n, manifest["json"]))
+                print("Error inserting manifest %d: " % n)
+                print("%-12s: %s" % ("json", manifest["json"]))
+                print("%-12s: %s" % ("version", version))
+                print("%-12s: %s" % ("description", manifest["description"]))
+                print("%-12s: %s" % ("license_id", manifest["license_id"]))
+                print("%-12s: %s" % ("url", url))
+                print("%-12s: %s" % ("manifest_url", manifest_url))
+                print("%-12s: %s" % ("bucket_url", cache[bucket]["url"]))
+                print("%-12s: %s" % ("license_url", manifest["license_url"]))
                 print(e)
 
     print("Committing changes")
