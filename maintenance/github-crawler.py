@@ -12,10 +12,10 @@ import pickle
 import pprint
 import re
 import shutil
+import sqlite3
 import stat
 import sys
 import time
-import sqlite3
 
 from datetime import datetime
 
