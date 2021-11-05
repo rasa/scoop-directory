@@ -918,6 +918,7 @@ def do_readme(sort_field, output_file, sort_order_description, sort_in_reverse):
 def do_db():
     """ @todo """
     scoop_directory_db = os.path.join(dir_path, '..', 'scoop_directory.db')
+    print("Regenerating ", scoop_directory_db)
     conn = sqlite3.connect(scoop_directory_db)
 
     cur = conn.cursor()
@@ -960,7 +961,9 @@ def do_db():
                 manifest['manifest_url'] if 'manifest_url' in manifest else '',
                 cache[bucket]['url']))
 
+    print("Committing changes")
     conn.commit()
+    print("Closing connection")
     conn.close()
     return 0
 
@@ -972,7 +975,7 @@ def main():
     save_cache()
     # GitHub truncates the readme
     # do_readme('score', 'README.md', 'Github score', True)
-    do_readme('score', 'by-score.md', 'Github score', True)
+    # do_readme('score', 'by-score.md', 'Github score', True)
     do_readme('full_name', 'by-bucket.md', 'bucket name', False)
     do_readme('packages', 'by-apps.md', 'number of apps', True)
     do_readme('stars', 'by-stars.md', 'number of stars', True)
