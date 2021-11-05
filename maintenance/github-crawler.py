@@ -967,8 +967,10 @@ def do_db():
     conn = sqlite3.connect(scoop_directory_db)
 
     cur = conn.cursor()
-    cur.execute('drop table if exists apps')
-    cur.execute(
+    
+    sqls = [
+        'drop table if exists apps',
+        'drop table if exists buckets',
         '''create table apps (
                     name text,
                     version text,
@@ -977,25 +979,24 @@ def do_db():
                     homepage text,
                     manifest_url text,
                     bucket_url text,
-                    license_url text)'''
-    )
-
-    cur.execute('drop table if exists buckets')
-    cur.execute(
+                    license_url text)''',
         '''create table buckets (
                     bucket_url text,
                     description text,
                     packages integer,
                     stars integer,
                     updated text)'''
-    )
+    ]
+    for sql in sqls:
+        print('Executing ', sql)
+        cur.execute(sql)
 
     for bucket in cache:
         if bucket == 'last_run':
             continue
-
+        print('Inserting bucket ', cache[bucket]['url'])
         cur.execute(
-            "insert into buckets values (?, ?, ?, ?, ?)", (
+            'insert into buckets values (?, ?, ?, ?, ?)', (
                 cache[bucket]['url'], cache[bucket]['description'],
                 cache[bucket]['packages'], cache[bucket]['stars'],
                 cache[bucket]['updated']
@@ -1003,8 +1004,9 @@ def do_db():
         )
 
         for manifest in cache[bucket]['entries']:
+            print('Inserting manifest ', manifest['json'])
             cur.execute(
-                "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)", (
+                'insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)', (
                     manifest['json'],
                     manifest['version'].split('[', 1)[1].split(']')[0] if manifest['version'] != '' else '',
                     manifest['description'],
