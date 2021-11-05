@@ -1006,8 +1006,9 @@ def do_db():
             )
         )
 
+        n = 0
         for manifest in cache[bucket]['entries']:
-            print('Inserting manifest ', manifest['json'])
+            n += 1
             try:
                 cur.execute(
                     'insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)', (
@@ -1022,6 +1023,7 @@ def do_db():
                     )
                 )
             except Exception as e:
+                print('Error inserting manifest %d: %s:' % (n, manifest['json']))
                 print(e)
 
     print("Committing changes")
