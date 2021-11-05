@@ -1058,14 +1058,14 @@ OSImap = {}
 for k_ in OSI:
     OSImap[k_.lower()] = 'https://opensource.org/licenses/%s' % k_
 
-builtins = {}
-cache = {}
+builtins = {}  # type: Dict[str]
+cache = {}  # type: Dict[str]
 dir_path = os.path.dirname(os.path.realpath(__file__))
 last_run = None
 # https://docs.github.com/en/free-pro-team@latest/rest/overview/resources-in-the-rest-api#pagination
 per_page = 100  # Max is 100
-repos_by_score = []
-repos_by_name = []
+repos_by_score = []  # type: List[str]
+repos_by_name = []  # type: List[str]
 
 cache_dir = os.path.join(dir_path, 'cache')
 if 'CACHE_ROOT' in os.environ:
