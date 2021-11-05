@@ -769,7 +769,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             if not row['url']:
                 row['url'] = row['manifest_url']
             row['license_id'] = ''
-            row['license_url'] = ''
+            row['license_url'] = '#'
             for key in keys:
                 if key not in j:
                     continue
@@ -784,7 +784,9 @@ def do_repo(repo, i, num_repos, do_score=True):
                     row['license_url'] = get_license_url(v)
                     v = do_license(v)
                 if key == 'version':
-                    v = '[%s](%s)' % (do_version(j), row['manifest_url'])
+                    v = do_version(j)
+                    if row['manifest_url']:
+                       v = '[%s](%s)' % (v, row['manifest_url'])
 
                 try:
                     if isinstance(v, list):
