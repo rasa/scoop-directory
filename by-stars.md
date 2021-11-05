@@ -12,14 +12,14 @@
 -->|[1258](#ScoopInstaller_Extras)<!--
 -->|[1152](https://github.com/ScoopInstaller/Extras/stargazers)<!--
 -->|[845](https://github.com/ScoopInstaller/Extras/network)<!--
--->|[21&#x2011;11&#x2011;05](https://github.com/ScoopInstaller/Extras/commits "2021&#x2011;11&#x2011;05T17:11:17Z")|
+-->|[21&#x2011;11&#x2011;05](https://github.com/ScoopInstaller/Extras/commits "2021&#x2011;11&#x2011;05T19:10:39Z")|
 <!--
 -->|<a name="back_ScoopInstaller_Main" id="back_ScoopInstaller_Main"></a>[2.](#back_ScoopInstaller_Main)&nbsp;1.0<!--
 -->|[__ScoopInstaller/Main__](https://github.com/ScoopInstaller/Main):  *📦 The default bucket for Scoop. (scoop's built-in bucket 'main')*<!--
 -->|[881](#ScoopInstaller_Main)<!--
 -->|[796](https://github.com/ScoopInstaller/Main/stargazers)<!--
 -->|[511](https://github.com/ScoopInstaller/Main/network)<!--
--->|[21&#x2011;11&#x2011;05](https://github.com/ScoopInstaller/Main/commits "2021&#x2011;11&#x2011;05T18:00:39Z")|
+-->|[21&#x2011;11&#x2011;05](https://github.com/ScoopInstaller/Main/commits "2021&#x2011;11&#x2011;05T19:04:51Z")|
 <!--
 -->|<a name="back_chawyehsu_dorado" id="back_chawyehsu_dorado"></a>[3.](#back_chawyehsu_dorado)&nbsp;1.0<!--
 -->|[__chawyehsu/dorado__](https://github.com/chawyehsu/dorado):  *🐟 Yet Another bucket for lovely Scoop*<!--
@@ -33,7 +33,7 @@
 -->|[307](#Ash258_Shovel-Ash258)<!--
 -->|[189](https://github.com/Ash258/Shovel-Ash258/stargazers)<!--
 -->|[24](https://github.com/Ash258/Shovel-Ash258/network)<!--
--->|[21&#x2011;11&#x2011;05](https://github.com/Ash258/Shovel-Ash258/commits "2021&#x2011;11&#x2011;05T14:02:23Z")|
+-->|[21&#x2011;11&#x2011;05](https://github.com/Ash258/Shovel-Ash258/commits "2021&#x2011;11&#x2011;05T19:01:57Z")|
 <!--
 -->|<a name="back_matthewjberger_scoop-nerd-fonts" id="back_matthewjberger_scoop-nerd-fonts"></a>[5.](#back_matthewjberger_scoop-nerd-fonts)&nbsp;1.0<!--
 -->|[__matthewjberger/scoop-nerd-fonts__](https://github.com/matthewjberger/scoop-nerd-fonts):  *A scoop bucket for installing nerd fonts (scoop's built-in bucket 'nerd-fonts')*<!--
@@ -109,7 +109,7 @@
 -->|[__ScoopInstaller/Versions__](https://github.com/ScoopInstaller/Versions):  *📦 A Scoop bucket for alternative versions of apps. (scoop's built-in bucket 'versions')*<!--
 -->|[134](#ScoopInstaller_Versions)<!--
 -->|[68](https://github.com/ScoopInstaller/Versions/stargazers)<!--
--->|[80](https://github.com/ScoopInstaller/Versions/network)<!--
+-->|[79](https://github.com/ScoopInstaller/Versions/network)<!--
 -->|[21&#x2011;11&#x2011;05](https://github.com/ScoopInstaller/Versions/commits "2021&#x2011;11&#x2011;05T04:44:41Z")|
 <!--
 -->|<a name="back_Moeologist_scoop-completion" id="back_Moeologist_scoop-completion"></a>[16.](#back_Moeologist_scoop-completion)&nbsp;1.0<!--
@@ -313,7 +313,7 @@
 -->|[64](#Paxxs_Cluttered-bucket)<!--
 -->|[12](https://github.com/Paxxs/Cluttered-bucket/stargazers)<!--
 -->|[0](https://github.com/Paxxs/Cluttered-bucket/network)<!--
--->|[21&#x2011;11&#x2011;05](https://github.com/Paxxs/Cluttered-bucket/commits "2021&#x2011;11&#x2011;05T09:06:39Z")|
+-->|[21&#x2011;11&#x2011;05](https://github.com/Paxxs/Cluttered-bucket/commits "2021&#x2011;11&#x2011;05T19:05:26Z")|
 <!--
 -->|<a name="back_dooteeen_scoop-for-jp" id="back_dooteeen_scoop-for-jp"></a>[45.](#back_dooteeen_scoop-for-jp)&nbsp;1.0<!--
 -->|[__dooteeen/scoop-for-jp__](https://github.com/dooteeen/scoop-for-jp):  *Scoop bucket for ALL Japanese users.*<!--
@@ -530,7 +530,7 @@
 -->|[145](#batkiz_backit)<!--
 -->|[4](https://github.com/batkiz/backit/stargazers)<!--
 -->|[2](https://github.com/batkiz/backit/network)<!--
--->|[21&#x2011;11&#x2011;04](https://github.com/batkiz/backit/commits "2021&#x2011;11&#x2011;04T18:11:01Z")|
+-->|[21&#x2011;11&#x2011;05](https://github.com/batkiz/backit/commits "2021&#x2011;11&#x2011;05T19:08:18Z")|
 <!--
 -->|<a name="back_hulucc_bucket" id="back_hulucc_bucket"></a>[76.](#back_hulucc_bucket)&nbsp;1.0<!--
 -->|[__hulucc/bucket__](https://github.com/hulucc/bucket):  *my scoop bucket*<!--
@@ -6632,7 +6632,7 @@
 -->| [Freeware](https://www.sordum.org/eula/) |
 <!--
 -->| [oh-my-posh](https://ohmyposh.dev) <!--
--->| [5.19.0](https://github.com/Ash258/Shovel-Ash258/blob/main/bucket/oh-my-posh.json) <!--
+-->| [5.19.1](https://github.com/Ash258/Shovel-Ash258/blob/main/bucket/oh-my-posh.json) <!--
 -->| A prompt theme engine for any shell <!--
 -->| [GPL-3.0](https://github.com/JanDeDobbeleer/oh-my-posh/blob/main/COPYING) |
 <!--
@@ -8211,7 +8211,7 @@
 -->| [EUPL-1.2](https://opensource.org/licenses/EUPL-1.2) |
 <!--
 -->| [dolt](https://github.com/dolthub/dolt) <!--
--->| [0.32.2](https://github.com/batkiz/backit/blob/master/bucket/dolt.json) <!--
+-->| [0.33.0](https://github.com/batkiz/backit/blob/master/bucket/dolt.json) <!--
 -->| Dolt is a SQL database that you can fork, clone, branch, merge, push and pull just like a git repository. <!--
 -->| [Apache-2.0](https://opensource.org/licenses/Apache-2.0) |
 <!--
@@ -33170,7 +33170,7 @@
 -->| [MIT](https://opensource.org/licenses/MIT) |
 <!--
 -->| [oh-my-posh-and-wsl](https://ohmyposh.dev) <!--
--->| [5.19.0](https://github.com/Paxxs/Cluttered-bucket/blob/master/bucket/oh-my-posh-and-wsl.json) <!--
+-->| [5.19.1](https://github.com/Paxxs/Cluttered-bucket/blob/master/bucket/oh-my-posh-and-wsl.json) <!--
 -->| A prompt theme engine for any shell <!--
 -->| [GPL-3.0](https://github.com/JanDeDobbeleer/oh-my-posh3/blob/main/COPYING) |
 <!--
@@ -38432,12 +38432,12 @@
 -->| [GPL-2.0+](https://opensource.org/licenses/GPL-2.0-or-later) |
 <!--
 -->| [godot](https://godotengine.org/) <!--
--->| [3.3.4](https://github.com/ScoopInstaller/Extras/blob/master/bucket/godot.json) <!--
+-->| [3.4](https://github.com/ScoopInstaller/Extras/blob/master/bucket/godot.json) <!--
 -->| A feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. <!--
 -->| [MIT](https://opensource.org/licenses/MIT) |
 <!--
 -->| [godot-mono](https://godotengine.org/) <!--
--->| [3.3.4](https://github.com/ScoopInstaller/Extras/blob/master/bucket/godot-mono.json) <!--
+-->| [3.4](https://github.com/ScoopInstaller/Extras/blob/master/bucket/godot-mono.json) <!--
 -->| a feature-packed, cross-platform game engine to create 2D and 3D games from a unified interface. <!--
 -->| [MIT](https://opensource.org/licenses/MIT) |
 <!--
