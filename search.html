@@ -42,17 +42,17 @@
       <header>
         <h1><a href="https://rasa.github.io/scoop-directory/">scoop-directory</a></h1>
 
-        
+
 
         <p>A directory of buckets for the scoop package manager for Windows</p>
 
-        
+
         <p class="view"><a href="https://github.com/rasa/scoop-directory">View the Project on GitHub <small>rasa/scoop-directory</small></a></p>
-        
 
-        
 
-        
+
+
+
       </header>
       <section>
 
@@ -75,10 +75,8 @@
   <thead>
     <tr>
       <th style="text-align: left">Name</th>
-      <th style="text-align: left">Version</th>
       <th style="text-align: left">Description</th>
-      <th style="text-align: left">Bucket</th>
-      <th style="text-align: left">License</th>
+      <th style="text-align: left">Bucket/License</th>
     </tr>
   </thead>
   <tbody id="searchresults">
@@ -88,9 +86,9 @@
 
       </section>
       <footer>
-        
+
         <p>This project is maintained by <a href="https://github.com/rasa">rasa</a></p>
-        
+
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
@@ -117,24 +115,17 @@
         var results = [];
 
         var stmt = db.prepare(`
-          SELECT * FROM (
-            SELECT name,version,bucket_url,description,manifest_url,homepage,license
-            FROM apps
-            WHERE name LIKE "%${query}%"
-            ORDER BY
-              CASE
-                WHEN name LIKE "${query}" THEN 1
-                WHEN name LIKE "${query}%" THEN 2
-                WHEN name LIKE "%${query}" THEN 3
-                ELSE 4
-              END
-          ) ALIAS1
-          UNION ALL
-          SELECT * FROM (
-            SELECT name,version,bucket_url,description,manifest_url,homepage,license
-            FROM apps
-            WHERE description LIKE "%${query}%"
-          ) ALIAS2
+          SELECT name,version,bucket_url,description,manifest_url,homepage,license
+          FROM apps
+          WHERE name LIKE "%${query}%" OR description LIKE "%${query}%"
+          ORDER BY CASE
+            WHEN name LIKE "${query}" THEN 1
+            WHEN name LIKE "${query}%" THEN 2
+            WHEN name LIKE "%${query}" THEN 3
+            WHEN name LIKE "%${query}%" THEN 4
+            ELSE 5
+          END, name
+          LIMIT 100
         `);
         while(stmt.step())
           results.push(stmt.getAsObject());
@@ -147,8 +138,7 @@
         for (var i of results)
           reqdiv.insertAdjacentHTML('beforeend', `
             <tr>
-              <td style="text-align: left"><a href="${i.homepage}">${i.name}</a></td>
-              <td style="text-align: left">
+              <td style="text-align: left"><a href="${i.homepage}">${i.name}</a>
                 <a href="${i.manifest_url}">
                   ${i.version.split("*").length - 1 === 2
                     ? `<em>${i.version.replaceAll('*', '')}</em>`
@@ -156,8 +146,8 @@
                 </a>
               </td>
               <td style="text-align: left">${i.description}</td>
-              <td style="text-align: left"><a href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '')}</a></td>
-              <td style="text-align: left">${i.license}</td> 
+              <td style="text-align: left"><a href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '')}</a><br/>
+              ${i.license}</td>
             </tr>
           `);
       };

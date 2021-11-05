@@ -14,7 +14,6 @@ import re
 import shutil
 import stat
 import sys
-import tempfile
 import time
 import sqlite3
 
@@ -135,7 +134,7 @@ lmap = {
 # skip these as they are dups of other buckets
 done = [
     '01walid/it-scoop',
-    'go2sun/scoop-bucket-1', # dup of https://github.com/dodorz/scoop
+    'go2sun/scoop-bucket-1',  # dup of https://github.com/dodorz/scoop
     'Kiedtl/open-scoop',  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
     'kkzzhizhou/scoop-apps',
     'nueko/scoop-php-ext',
@@ -345,6 +344,40 @@ def do_license_identifier(identifier, url):
     return v
 
 
+def get_license_id(v):
+    """ @todo """
+    url = ''
+    identifier = ''
+    if type(v).__name__ in ['unicode', 'str']:
+        url = v
+    if isinstance(v, dict):
+        if 'identifier' in v:
+            identifier = fix_license(v['identifier'])
+            url = ''
+        if 'url' in v:
+            url = v['url']
+
+    if re.search(r'^(http|ftp)', url):
+        return identifier
+
+    if identifier:
+        return fix_license(identifier)
+
+    return fix_license(url)
+
+def get_license_url(v):
+    """ @todo """
+    url = ''
+    if type(v).__name__ in ['unicode', 'str']:
+        url = v
+    if isinstance(v, dict):
+        if 'url' in v:
+            url = v['url']
+
+    if re.search(r'^(http|ftp)', url):
+        return url
+    return ''
+
 def get_url(js):
     """ @todo """
     if 'homepage' in js:
@@ -449,7 +482,7 @@ def rmdir(dir):
         # let's just assume that it's read-only and unlink it.
         try:
             os.chmod(path, stat.S_IWRITE)
-        except Exception as e:
+        except Exception:
             pass
 
         try:
@@ -458,7 +491,7 @@ def rmdir(dir):
             if os.path.isfile(path):
                 return os.unlink(path)
             return 0
-        except Exception as e:
+        except Exception:
             return 1
 
     if not os.path.isdir(cache_dir):
@@ -511,7 +544,7 @@ def do_parse(file_path):
                 s = fp.read()
         except Exception as e:
             return (str(e), None)
-    except Exception as e:
+    except Exception:
         try:
             with io.open(file_path, 'r') as fp:
                 s = fp.read()
@@ -532,7 +565,7 @@ def do_parse(file_path):
             s += line + "\n"
         try:
             j = parser.loads(s)
-        except Exception as e2:
+        except Exception:
             j = None
 
         rv = '%s (%s)' % (str(e), h['encoding'])
@@ -628,7 +661,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             epoch = int(
                 time.mktime(time.strptime(repo['updated_at'][:-1], pattern))
             )
-        except:
+        except Exception:
             epoch = 0
 
         cache[repofoldername] = {
@@ -729,11 +762,14 @@ def do_repo(repo, i, num_repos, do_score=True):
                 break
 
             default_branch = cache[repofoldername]['default_branch']
-            row['manifest_url'] = '%s/blob/%s%s/%s' % (
+            manifest_url = '%s/blob/%s%s/%s' % (
                 html_url, default_branch, bucket, f
             )
+            row['manifest_url'] = manifest_url
             if not row['url']:
                 row['url'] = row['manifest_url']
+            row['license_id'] = ''
+            row['license_url'] = ''
             for key in keys:
                 if key not in j:
                     continue
@@ -744,6 +780,8 @@ def do_repo(repo, i, num_repos, do_score=True):
                     v = v.strip()
                     v = re.sub(r'[\r\n]+', ' ', v)
                 if key == 'license':
+                    row['license_id'] = get_license_id(v)
+                    row['license_url'] = get_license_url(v)
                     v = do_license(v)
                 if key == 'version':
                     v = '[%s](%s)' % (do_version(j), row['manifest_url'])
@@ -810,6 +848,8 @@ def do_page(search, page, do_score=True):
     for repo in repos:
         i += 1
         hits += do_repo(repo, i, len(repos), do_score)
+        if SHORT_CIRCUIT:
+            break
 
     return hits
 
@@ -821,6 +861,8 @@ def do_search(search, pages=1, do_score=True):
         hits = do_page(search, page, do_score)
         if hits == 0:
             break
+        if SHORT_CIRCUIT:
+            return 0
     return 0
 
 
@@ -832,6 +874,8 @@ def do_searches():
             if search.lower() in done:
                 continue
             do_search(search, h['pages'], h['score'])
+            if SHORT_CIRCUIT:
+                return 0
 
     return 0
 
@@ -908,12 +952,13 @@ def do_render(filename, sort_order_description):
 def do_readme(sort_field, output_file, sort_order_description, sort_in_reverse):
     """ @todo """
     filename = os.path.realpath(os.path.join(dir_path, '..', output_file))
-    #if not os.path.isfile(filename):
+    # if not os.path.isfile(filename):
     #    print("File not found: %s" % filename)
     #    return False
     sort_repos(sort_field, sort_in_reverse)
     do_render(filename, sort_order_description)
     return True
+
 
 def do_db():
     """ @todo """
@@ -923,49 +968,60 @@ def do_db():
 
     cur = conn.cursor()
     cur.execute('drop table if exists apps')
-    cur.execute('''create table apps (
+    cur.execute(
+        '''create table apps (
                     name text,
                     version text,
                     description text,
                     license text,
                     homepage text,
                     manifest_url text,
-                    bucket_url text)''')
+                    bucket_url text,
+                    license_url text)'''
+    )
 
     cur.execute('drop table if exists buckets')
-    cur.execute('''create table buckets (
+    cur.execute(
+        '''create table buckets (
                     bucket_url text,
                     description text,
                     packages integer,
                     stars integer,
-                    updated text)''')
+                    updated text)'''
+    )
 
     for bucket in cache:
         if bucket == 'last_run':
             continue
 
-        cur.execute("insert into buckets values (?, ?, ?, ?, ?)", (
-            cache[bucket]['url'],
-            cache[bucket]['description'],
-            cache[bucket]['packages'],
-            cache[bucket]['stars'],
-            cache[bucket]['updated']))
+        cur.execute(
+            "insert into buckets values (?, ?, ?, ?, ?)", (
+                cache[bucket]['url'], cache[bucket]['description'],
+                cache[bucket]['packages'], cache[bucket]['stars'],
+                cache[bucket]['updated']
+            )
+        )
 
         for manifest in cache[bucket]['entries']:
-            cur.execute("insert into apps values (?, ?, ?, ?, ?, ?, ?)", (
-                manifest['json'],
-                manifest['version'].split('[', 1)[1].split(']')[0] if manifest['version'] != '' else '',
-                manifest['description'],
-                manifest['license'].split('[', 1)[1].split(']')[0] if manifest['license'] != '' else '',
-                manifest['url'] if 'url' in manifest else '',
-                manifest['manifest_url'] if 'manifest_url' in manifest else '',
-                cache[bucket]['url']))
+            cur.execute(
+                "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)", (
+                    manifest['json'],
+                    manifest['version'].split('[', 1)[1].split(']')[0] if manifest['version'] != '' else '',
+                    manifest['description'],
+                    manifest['license_id'],
+                    manifest['url'] if 'url' in manifest else '',
+                    manifest['manifest_url'] if 'manifest_url' in manifest else '',
+                    cache[bucket]['url'],
+                    manifest['license_url']
+                )
+            )
 
     print("Committing changes")
     conn.commit()
     print("Closing connection")
     conn.close()
     return 0
+
 
 def main():
     """ @todo """
@@ -988,6 +1044,7 @@ def main():
 MAX_CLOCK_SKEW_SECONDS = 10
 MAX_TRIES = 3
 SLEEP_SECONDS = 75
+SHORT_CIRCUIT = False
 
 OSImap = {}
 for k_ in OSI:
@@ -998,7 +1055,7 @@ cache = {}
 dir_path = os.path.dirname(os.path.realpath(__file__))
 last_run = None
 # https://docs.github.com/en/free-pro-team@latest/rest/overview/resources-in-the-rest-api#pagination
-per_page = 100 # Max is 100
+per_page = 100  # Max is 100
 repos_by_score = []
 repos_by_name = []
 
@@ -1013,6 +1070,9 @@ if not re.search(r'cache$', cache_root):
 
 # @todo change to startup option
 if len(sys.argv) > 1:
+    SHORT_CIRCUIT = True
+
+if SHORT_CIRCUIT:
     per_page = 1
     max_pages = 1
     searches[0]['pages'] = max_pages
