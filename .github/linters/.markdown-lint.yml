@@ -27,6 +27,7 @@ MD026:
   punctuation: ".,;:!。，；:"  # List of not allowed
 MD029: false                  # Ordered list item prefix
 MD033: false                  # Allow inline HTML
+MD034: true                   # Allow bare URLs
 MD036: false                  # Emphasis used instead of a heading
 
 #################
