@@ -14,8 +14,7 @@
 -->|[{{cache[repo]['forks']}}]({{cache[repo]['forks_url']}})<!--
 -->|[{{cache[repo]['updated']}}]({{cache[repo]['updated_url']}} "{{cache[repo]['updated_at']}}")|
 {% endfor -%}
-**[Bucket&#x25b2;](by-bucket.md)** | **[Apps&#x25b2;](by-apps.md)** | **[&#x2605;&#x25b2;](by-stars.md)<!--
--->| **[&#x2442;&#x25b2;](by-forks.md) | **[Updated&#x25b2;](by-updated.md) |
+**[Bucket&#x25b2;](by-bucket.md)** | **[Apps&#x25b2;](by-apps.md)** | **[&#x2605;&#x25b2;](by-stars.md)** | **[&#x2442;&#x25b2;](by-forks.md)** | **[Updated&#x25b2;](by-updated.md)** |
 
 {% for repo in repos_by_name %}
 ## <a name="{{cache[repo]['id']}}" id="{{cache[repo]['id']}}"></a>[{{cache[repo]['full_name']}}]({{cache[repo]['url']}}) [&#x2934;](#back_{{cache[repo]['id']}})
