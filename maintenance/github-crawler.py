@@ -365,6 +365,7 @@ def get_license_id(v):
 
     return fix_license(url)
 
+
 def get_license_url(v):
     """ @todo """
     url = ''
@@ -377,6 +378,7 @@ def get_license_url(v):
     if re.search(r'^(http|ftp)', url):
         return url
     return ''
+
 
 def get_url(js):
     """ @todo """
@@ -1007,18 +1009,21 @@ def do_db():
 
         for manifest in cache[bucket]['entries']:
             print('Inserting manifest ', manifest['json'])
-            cur.execute(
-                'insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)', (
-                    manifest['json'],
-                    manifest['version'].split('[', 1)[1].split(']')[0] if manifest['version'] != '' else '',
-                    manifest['description'],
-                    manifest['license_id'],
-                    manifest['url'] if 'url' in manifest else '',
-                    manifest['manifest_url'] if 'manifest_url' in manifest else '',
-                    cache[bucket]['url'],
-                    manifest['license_url']
+            try:
+                cur.execute(
+                    'insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)', (
+                        manifest['json'],
+                        manifest['version'].split('[', 1)[1].split(']')[0] if manifest['version'] != '' else '',
+                        manifest['description'],
+                        manifest['license_id'],
+                        manifest['url'] if 'url' in manifest else '',
+                        manifest['manifest_url'] if 'manifest_url' in manifest else '',
+                        cache[bucket]['url'],
+                        manifest['license_url']
+                    )
                 )
-            )
+        except Exception as e:
+            print(e)
 
     print("Committing changes")
     conn.commit()
