@@ -22,13 +22,16 @@ MD004: false                  # Unordered list style
 MD007:
   indent: 2                   # Unordered list indentation
 MD013:
-  line_length: 1023            # Line length 80 is far to short
+  # @TODO FIXME
+  line_length: 2047            # Line length 80 is far to short
 MD026:
   punctuation: ".,;:!。，；:"  # List of not allowed
 MD029: false                  # Ordered list item prefix
 MD033: false                  # Allow inline HTML
+# @TODO FIXME
 MD034: false                  # Allow bare URLs
 MD036: false                  # Emphasis used instead of a heading
+# @TODO FIXME
 MD042: false                  # Allow empty links
 
 #################
