@@ -787,7 +787,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 if key == 'version':
                     v = do_version(j)
                     if row['manifest_url']:
-                       v = '[%s](%s)' % (v, row['manifest_url'])
+                        v = '[%s](%s)' % (v, row['manifest_url'])
 
                 try:
                     if isinstance(v, list):
@@ -970,7 +970,7 @@ def do_db():
     conn = sqlite3.connect(scoop_directory_db)
 
     cur = conn.cursor()
-    
+
     sqls = [
         'drop table if exists apps',
         'drop table if exists buckets',
@@ -1021,8 +1021,8 @@ def do_db():
                         manifest['license_url']
                     )
                 )
-        except Exception as e:
-            print(e)
+            except Exception as e:
+                print(e)
 
     print("Committing changes")
     conn.commit()
