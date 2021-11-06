@@ -135,7 +135,7 @@
       var metainfo = document.getElementById('metainfotext');
 
       nameInput.addEventListener('input', function (e) {
-        const query = nameInput.value.trim();
+        const query = nameInput.value.trim().toLowerCase();
         if (query.length >= 2)
           runQuery(query);
         else {
