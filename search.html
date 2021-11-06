@@ -138,16 +138,15 @@
         for (var i of results)
           reqdiv.insertAdjacentHTML('beforeend', `
             <tr>
-              <td style="text-align: left"><a href="${i.homepage}">${i.name}</a><br/>
-                <a target="_blank" href="${i.manifest_url}">
+              <td><span style="text-align: left"><a target="_blank" href="${i.homepage}">${i.name}</a></span>
+                <span style="text-align: right"><a target="_blank" href="${i.manifest_url}">
                   ${i.version.split("*").length - 1 === 2
                     ? `<em>${i.version.replaceAll('*', '')}</em>`
-                    : i.version}
-                </a>
+                    : i.version}</a></span>
               </td>
               <td style="text-align: left">${i.description}</td>
               <td style="text-align: left"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;')}</a><br/>
-              <a target="_blank" href="${i.license_url}'><em>${i.license}</em></a></td>
+              <a target="_blank" href="${i.license_url}"><em>${i.license}</em></a></td>
             </tr>
           `);
       };
