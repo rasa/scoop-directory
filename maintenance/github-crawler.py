@@ -1322,13 +1322,21 @@ def do_db():
             n += 1
             try:
                 json = manifest["json"]
-                version = manifest["version"].split("[", 1)[1].split("]")[0] if manifest["version"] != "" else ""
+                version = (
+                    manifest["version"].split("[", 1)[1].split("]")[0]
+                    if manifest["version"] != ""
+                    else ""
+                )
                 description = manifest["description"]
                 license_id = manifest["license_id"] if "license_id" in manifest else ""
                 url = manifest["url"] if "url" in manifest else ""
-                manifest_url = manifest["manifest_url"] if "manifest_url" in manifest else ""
+                manifest_url = (
+                    manifest["manifest_url"] if "manifest_url" in manifest else ""
+                )
                 bucket_url = cache[bucket]["url"]
-                license_url = manifest["license_url"] if "license_url" in manifest else ""
+                license_url = (
+                    manifest["license_url"] if "license_url" in manifest else ""
+                )
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)",
                     (
