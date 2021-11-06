@@ -152,7 +152,8 @@
           FROM apps
           WHERE name LIKE "%${query}%" OR 
             description LIKE "%${query}%" OR
-            bucket LIKE "%${query}" OR bucket LIKE "%${query}/"
+            bucket_url LIKE "%${query}" OR 
+            bucket_url LIKE "%${query}/"
           ORDER BY CASE
             WHEN name LIKE "${query}" THEN 1
             WHEN name LIKE "${query}%" THEN 2
