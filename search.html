@@ -165,7 +165,7 @@
               </td>
               <td style="style="text-align: left; display: table-cell; vertical-align: top;">${i.description}</td>
               <td style="style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;').replace('-', '&#8209;')}</a><br/>
-              <span class="bottomright"><a target="_blank" href="${i.license_url}"><em>${i.license.length === 0 ? `Undefined` : i.license}</em></a></span></td>
+              <a target="_blank" href="${i.license_url}"><em>${i.license.length === 0 ? `Undefined` : i.license}</em></a></td>
             </tr>
           `);
       };
