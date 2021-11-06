@@ -155,7 +155,7 @@
           manifest_url,
           homepage,
           license,
-          REPLACE(REPLACE(REPLACE(REPLACE(bucket_url, "https://github.com/", ""), "${query}", "<b>${query}</b>"), "/", "/&#8203;"), "-", "&#8209;") AS bucket
+          REPLACE(REPLACE(REPLACE(REPLACE(bucket_url, "https://github.com/", ""), "/", "/&#8203;"), "-", "&#8209;"), "${query}", "<b>${query}</b>") AS bucket
           FROM apps
           WHERE name LIKE "%${query}%" OR 
             description LIKE "%${query}%" OR
