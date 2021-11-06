@@ -1285,13 +1285,13 @@ def do_db():
         "drop table if exists apps",
         "drop table if exists buckets",
         """create table apps (
-                    name text,
+                    name text COLLATE NOCASE,
                     version text,
-                    description text,
+                    description text COLLATE NOCASE,
                     license text,
                     homepage text,
                     manifest_url text,
-                    bucket_url text,
+                    bucket_url text COLLATE NOCASE,
                     license_url text)""",
         """create table buckets (
                     bucket_url text,
