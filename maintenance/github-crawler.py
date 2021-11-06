@@ -1385,6 +1385,7 @@ def main():
     do_readme("stars", "by-stars.md", "number of stars", True)
     do_readme("forks", "by-forks.md", "number of forks", True)
     do_readme("epoch", "by-date-updated.md", "date last updated", True)
+    do_readme('score', 'by-score.md', 'Github score', True)
     do_db()
     return 0
 
