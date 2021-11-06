@@ -1091,6 +1091,8 @@ def do_repo(repo, i, num_repos, do_score=True):
                     v = re.sub(r"[\r\n]+", " ", v)
                 if key == "license":
                     row["license_id"] = get_license_id(v)
+                    if row["license_id"] == "":
+                        row["license_id"] = "Undefined"
                     row["license_url"] = get_license_url(v)
                     v = do_license(v)
                 if key == "version":
