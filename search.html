@@ -148,7 +148,14 @@
         var results = [];
 
         var stmt = db.prepare(`
-          SELECT name,version,bucket_url,description,manifest_url,homepage,license
+          SELECT REPLACE(name, "${query}", "<b>${query}</b>") AS name,
+          version,
+          bucket_url,
+          REPLACE(description, "${query}", "<b>${query}</b>") AS description,
+          manifest_url,
+          homepage,
+          license,
+          REPLACE(REPLACE(REPLACE(REPLACE(bucket_url, "https://github.com/", ""), "${query}", "<b>${query}</b>"), "/", "/&#8203;"), "-", "&#8209;") AS bucket
           FROM apps
           WHERE name LIKE "%${query}%" OR 
             description LIKE "%${query}%" OR
@@ -184,7 +191,7 @@
                 </span>
               </td>
               <td style="text-align: left; display: table-cell; vertical-align: top;">${i.description}</td>
-              <td style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;').replace('-', '&#8209;')}</a><br/>
+              <td style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket}</a><br/>
                 <em>${i.license.length < 2 ? `Undefined` : i.license}</em></td>
             </tr>
           `);
