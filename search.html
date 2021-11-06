@@ -35,7 +35,17 @@
 <!-- link rel="shortcut icon" type="image/x-icon" href="/scoop-directory/favicon.ico" -->
 
 <!-- end custom head snippets -->
-
+  <style>
+    table td {
+      text-align: left;
+      display: table-cell;
+      vertical-align: top; 
+    }
+    span.leftright {
+      display: flex;
+      justify-content: space-between;
+    }
+  </style>
   </head>
   <body>
     <div class="wrapper">
@@ -67,14 +77,14 @@
 <p>Search the Scoop Directory:</p>
 
 <input id="searchbox-name" type="text" placeholder="Start typing a keyword" style="width: 100%;" autofocus />
-<br>
-<br>
+<br/>
+<br/>
 <p><em id="metainfotext"></em></p>
-<br>
+<br/>
 <table>
   <thead>
     <tr>
-      <th style="text-align: left">Name</th>
+      <th style="text-align: left">Name/Version</th>
       <th style="text-align: left">Description</th>
       <th style="text-align: left">Bucket/License</th>
     </tr>
@@ -124,7 +134,7 @@
             WHEN name LIKE "%${query}" THEN 3
             WHEN name LIKE "%${query}%" THEN 4
             ELSE 5
-          END, name
+          END, name, version DESC
           LIMIT 100
         `);
         while(stmt.step())
@@ -138,16 +148,18 @@
         for (var i of results)
           reqdiv.insertAdjacentHTML('beforeend', `
             <tr>
-              <td style="text-align: left"><a href="${i.homepage}">${i.name}</a>
-                <a href="${i.manifest_url}">
+              <td style="text-align: left; display: table-cell; vertical-align: top;">
+                <span class="leftright">
+                  <span><a target="_blank" href="${i.homepage}">${i.name}</a></span>
+                  <span><a target="_blank" href="${i.manifest_url}">
                   ${i.version.split("*").length - 1 === 2
                     ? `<em>${i.version.replaceAll('*', '')}</em>`
-                    : i.version}
-                </a>
+                    : i.version}</a></span>
+                </span>
               </td>
-              <td style="text-align: left">${i.description}</td>
-              <td style="text-align: left"><a href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '')}</a><br/>
-              ${i.license}</td>
+              <td style="style="text-align: left; display: table-cell; vertical-align: top;">${i.description}</td>
+              <td style="style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;').replace('-', '&#8209;')}</a><br/>
+              <a target="_blank" href="${i.license_url}"><em>${i.license.length === 0 ? `Undefined` : i.license}</em></a></td>
             </tr>
           `);
       };

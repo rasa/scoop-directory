@@ -17,9 +17,6 @@ You can also view the full list of all discovered applications sorted by:
 3. [Stars](https://rasa.github.io/scoop-directory/by-stars)
 4. [Forks](https://rasa.github.io/scoop-directory/by-forks)
 5. [Last updated](https://rasa.github.io/scoop-directory/by-date-updated)
-<!--
-6. [GitHub score](https://rasa.github.io/scoop-directory/by-score) ([deprecated](#Deprecated-pages)) |
--->
 
 There are several other Scoop application manifest search tools too:
 
@@ -34,8 +31,3 @@ Created by [@zhoujin7](https://github.com/zhoujin7).
 ## Notes
 
 A few buckets are excluded as they duplicate other buckets. The list of excluded buckets is [here](https://github.com/rasa/scoop-directory/blob/master/maintenance/github-crawler.py#L135).
-
-## Deprecated pages
-
-The [GitHub score](https://rasa.github.io/scoop-directory/by-score) page is deprecated as the GitHub API returns a score of `1` for every search result.
-
