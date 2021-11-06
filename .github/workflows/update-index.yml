@@ -39,7 +39,7 @@ jobs:
           python-version: '3.9'
 
       - name: run pip install -r maintenance/requirements.txt
-        if: steps.cache.outputs.cache-hit != 'true'
+        # if: steps.cache.outputs.cache-hit != 'true'
         run: |
           python -m pip install --upgrade pip
           pip install -r maintenance/requirements.txt
