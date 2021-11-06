@@ -153,7 +153,7 @@ span.leftright {
                 </span>
               </td>
               <td style="text-align: left">${i.description}</td>
-              <td style="text-align: left"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;')}</a><br/>
+              <td style="text-align: left"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;').replace('-', '&#8209;')}</a><br/>
               <a target="_blank" href="${i.license_url}"><em>${i.license}</em></a></td>
             </tr>
           `);
