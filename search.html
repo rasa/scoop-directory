@@ -51,6 +51,23 @@
       right: 0;
       bottom: 0;
     }
+    
+    .top { 
+      display: inline-block;
+      vertical-align:top;
+      width: 100%;
+    }
+    .bot {
+      text-align: right;
+      display: inline-block;
+      vertical-align:bottom;
+      width: 100%;
+    }
+    .bot:before{
+      content: '';
+      display: inline-block;
+      height: 100px;
+    }
   </style>
   </head>
   <body>
@@ -164,8 +181,8 @@
                 </span>
               </td>
               <td style="style="text-align: left; display: table-cell; vertical-align: top;">${i.description}</td>
-              <td style="style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;').replace('-', '&#8209;')}</a><br/>
-              <a target="_blank" href="${i.license_url}"><em>${i.license.length < 2 ? `Undefined` : i.license}</em></a></td>
+              <td style="style="text-align: left; display: table-cell; vertical-align: top;"><span class="top"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;').replace('-', '&#8209;')}</a></span><br/>
+              <span class="bot"><a target="_blank" href="${i.license_url}"><em>${i.license.length < 2 ? `Undefined` : i.license}</em></a></span></td>
             </tr>
           `);
       };
