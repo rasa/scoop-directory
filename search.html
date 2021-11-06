@@ -107,9 +107,9 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align: left"><span class="leftright"><span>Name</span><span>Version</span></span></th>
+      <th style="text-align: left"><span class="leftright"><span>Name</span><span>Version/License</span></span></th>
       <th style="text-align: left">Description</th>
-      <th style="text-align: left">Bucket/License</th>
+      <th style="text-align: left">Bucket</th>
     </tr>
   </thead>
   <tbody id="searchresults">
@@ -177,12 +177,12 @@
                   <span><a target="_blank" href="${i.manifest_url}">
                   ${i.version.split("*").length - 1 === 2
                     ? `<em>${i.version.replaceAll('*', '')}</em>`
-                    : i.version}</a></span>
+                    : i.version}</a><br/>
+                  <a target="_blank" href="${i.license_url}"><em>${i.license.length < 2 ? `Undefined` : i.license}</em></a></span>
                 </span>
               </td>
               <td style="text-align: left; display: table-cell; vertical-align: top;">${i.description}</td>
-              <td style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;').replace('-', '&#8209;')}</a><br/>
-              <a target="_blank" href="${i.license_url}"><em>${i.license.length < 2 ? `Undefined` : i.license}</em></a></td>
+              <td style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket_url.replace('https://github.com/', '').replace('/', '/&#8203;').replace('-', '&#8209;')}</a></td>
             </tr>
           `);
       };
