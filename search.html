@@ -35,7 +35,12 @@
 <!-- link rel="shortcut icon" type="image/x-icon" href="/scoop-directory/favicon.ico" -->
 
 <!-- end custom head snippets -->
-
+  <style>
+td {
+  display: flex;
+  justify-content: space-between;
+}
+  </style>
   </head>
   <body>
     <div class="wrapper">
@@ -76,7 +81,7 @@
     <tr>
       <th style="text-align: left">Name/Version</th>
       <th style="text-align: left">Description</th>
-      <th style="text-align: left">Bucket</th>
+      <th style="text-align: left">Bucket/License</th>
     </tr>
   </thead>
   <tbody id="searchresults">
@@ -138,8 +143,8 @@
         for (var i of results)
           reqdiv.insertAdjacentHTML('beforeend', `
             <tr>
-              <td><span style="text-align: left"><a target="_blank" href="${i.homepage}">${i.name}</a></span>
-                <span style="text-align: right"><a target="_blank" href="${i.manifest_url}">
+              <td><span><a target="_blank" href="${i.homepage}">${i.name}</a></span>
+                <span><a target="_blank" href="${i.manifest_url}">
                   ${i.version.split("*").length - 1 === 2
                     ? `<em>${i.version.replaceAll('*', '')}</em>`
                     : i.version}</a></span>
