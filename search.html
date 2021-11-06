@@ -150,7 +150,9 @@
         var stmt = db.prepare(`
           SELECT name,version,bucket_url,description,manifest_url,homepage,license
           FROM apps
-          WHERE name LIKE "%${query}%" OR description LIKE "%${query}%"
+          WHERE name LIKE "%${query}%" OR 
+            description LIKE "%${query}%" OR
+            bucket LIKE "%${query}" OR bucket LIKE "%${query}/"
           ORDER BY CASE
             WHEN name LIKE "${query}" THEN 1
             WHEN name LIKE "${query}%" THEN 2
@@ -158,7 +160,6 @@
             WHEN name LIKE "%${query}%" THEN 4
             ELSE 5
           END, name, version DESC
-          LIMIT 100
         `);
         while(stmt.step())
           results.push(stmt.getAsObject());
