@@ -130,7 +130,7 @@
             WHEN name LIKE "%${query}" THEN 3
             WHEN name LIKE "%${query}%" THEN 4
             ELSE 5
-          END, name
+          END, name, version DESC
           LIMIT 100
         `);
         while(stmt.step())
