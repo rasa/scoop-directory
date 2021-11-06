@@ -36,7 +36,7 @@
 
 <!-- end custom head snippets -->
   <style>
-div {
+.leftright {
   display: flex;
   justify-content: space-between;
 }
@@ -143,7 +143,7 @@ div {
         for (var i of results)
           reqdiv.insertAdjacentHTML('beforeend', `
             <tr>
-              <td><div><span><a target="_blank" href="${i.homepage}">${i.name}</a></span>
+              <td><div class="leftright"><span><a target="_blank" href="${i.homepage}">${i.name}</a></span>
                 <span><a target="_blank" href="${i.manifest_url}">
                   ${i.version.split("*").length - 1 === 2
                     ? `<em>${i.version.replaceAll('*', '')}</em>`
