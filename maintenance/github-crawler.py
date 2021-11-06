@@ -1389,8 +1389,8 @@ OSImap = {}
 for k_ in OSI:
     OSImap[k_.lower()] = "https://opensource.org/licenses/%s" % k_
 
-builtins = {}  # type: Dict[str]
-cache = {}  # type: Dict[str]
+builtins = {}  # type: Dict[str, str]
+cache = {}  # type: Dict[str, Any]
 dir_path = os.path.dirname(os.path.realpath(__file__))
 last_run = None
 # https://docs.github.com/en/free-pro-team@latest/rest/overview/resources-in-the-rest-api#pagination
