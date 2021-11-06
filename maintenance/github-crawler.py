@@ -1321,9 +1321,15 @@ def do_db():
         for manifest in cache[bucket]["entries"]:
             n += 1
             try:
-                version = manifest["version"].split("[", 1)[1].split("]")[0] if manifest["version"] != "" else ""
+                version = (
+                    manifest["version"].split("[", 1)[1].split("]")[0]
+                    if manifest["version"] != ""
+                    else ""
+                )
                 url = manifest["url"] if "url" in manifest else ""
-                manifest_url = manifest["manifest_url"] if "manifest_url" in manifest else ""
+                manifest_url = (
+                    manifest["manifest_url"] if "manifest_url" in manifest else ""
+                )
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)",
                     (
