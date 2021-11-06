@@ -1321,39 +1321,38 @@ def do_db():
         for manifest in cache[bucket]["entries"]:
             n += 1
             try:
-                version = (
-                    manifest["version"].split("[", 1)[1].split("]")[0]
-                    if manifest["version"] != ""
-                    else ""
-                )
+                json = manifest["json"]
+                version = manifest["version"].split("[", 1)[1].split("]")[0] if manifest["version"] != "" else ""
+                description = manifest["description"]
+                license_id = manifest["license_id"] if "license_id" in manifest else ""
                 url = manifest["url"] if "url" in manifest else ""
-                manifest_url = (
-                    manifest["manifest_url"] if "manifest_url" in manifest else ""
-                )
+                manifest_url = manifest["manifest_url"] if "manifest_url" in manifest else ""
+                bucket_url = cache[bucket]["url"]
+                license_url = manifest["license_url"] if "license_url" in manifest else ""
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)",
                     (
-                        manifest["json"],
+                        json,
                         version,
-                        manifest["description"],
-                        manifest["license_id"],
+                        description,
+                        license_id,
                         url,
                         manifest_url,
-                        cache[bucket]["url"],
-                        manifest["license_url"],
+                        bucket_url,
+                        license_url,
                     ),
                 )
             except Exception as e:
                 print("Error inserting manifest %d: " % n)
-                print("%-12s: %s" % ("json", manifest["json"]))
+                print(e)
+                print("%-12s: %s" % ("json", json))
                 print("%-12s: %s" % ("version", version))
-                print("%-12s: %s" % ("description", manifest["description"]))
-                print("%-12s: %s" % ("license_id", manifest["license_id"]))
+                print("%-12s: %s" % ("description", description))
+                print("%-12s: %s" % ("license_id", license_id))
                 print("%-12s: %s" % ("url", url))
                 print("%-12s: %s" % ("manifest_url", manifest_url))
-                print("%-12s: %s" % ("bucket_url", cache[bucket]["url"]))
-                print("%-12s: %s" % ("license_url", manifest["license_url"]))
-                print(e)
+                print("%-12s: %s" % ("bucket_url", bucket_url))
+                print("%-12s: %s" % ("license_url", license_url))
 
     print("Committing changes")
     conn.commit()
