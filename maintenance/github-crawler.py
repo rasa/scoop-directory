@@ -1342,7 +1342,7 @@ def do_db():
                 )
                 bucket_name = re.sub(bucket_url, "https://[^/]+/", "")
                 cur.execute(
-                    "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)",
+                    "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?, ?)",
                     (
                         json,
                         version,
