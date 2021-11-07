@@ -146,7 +146,6 @@
 
       const runQuery = async query => {
         var results = [];
-
         var stmt = db.prepare(`
           SELECT REPLACE(name, "${query}", "<b>${query}</b>") AS name,
           version,
@@ -155,13 +154,13 @@
           manifest_url,
           homepage,
           license,
-          REPLACE(REPLACE(REPLACE(REPLACE(bucket_url, "https://github.com/", ""), "/", "/&#8203;"), "-", "&#8209;"), "${query}", "<b>${query}</b>") AS bucket
+          REPLACE(REPLACE(REPLACE(bucket, "/", "/&#8203;"), "-", "&#8209;"), "${query}", "<b>${query}</b>") AS bucket
           FROM apps
           WHERE name LIKE "%${query}%" OR 
             description LIKE "%${query}%" OR
-            bucket_url LIKE "%/${query}/%" OR 
-            bucket_url LIKE "%/${query}" OR
-            bucket_url LIKE "%/${query}/"
+            bucket LIKE "${query}" OR 
+            bucket LIKE "${query}/%" OR 
+            bucket LIKE "%/${query}"
           ORDER BY CASE
             WHEN name LIKE "${query}" THEN 1
             WHEN name LIKE "${query}%" THEN 2
