@@ -1292,7 +1292,8 @@ def do_db():
                     homepage text,
                     manifest_url text,
                     bucket_url text COLLATE NOCASE,
-                    license_url text)""",
+                    license_url text,
+                    bucket text COLLATE NOCASE)""",
         """create table buckets (
                     bucket_url text,
                     description text,
@@ -1339,6 +1340,7 @@ def do_db():
                 license_url = (
                     manifest["license_url"] if "license_url" in manifest else ""
                 )
+                bucket_name = re.sub(bucket_url, "https://[^/]+/", "")
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?)",
                     (
@@ -1350,6 +1352,7 @@ def do_db():
                         manifest_url,
                         bucket_url,
                         license_url,
+                        bucket_name,
                     ),
                 )
             except Exception as e:
