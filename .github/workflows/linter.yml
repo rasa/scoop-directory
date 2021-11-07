@@ -19,13 +19,13 @@ jobs:
   run-lint:
     runs-on: ubuntu-latest
     steps:
-      - name: Run: actions/checkout@v2
+      - name: Run actions/checkout@v2
         uses: actions/checkout@v2
         with:
           # Full git history is needed to get a proper list of changed files within `super-linter`
           fetch-depth: 0
 
-      - name: Run: github/super-linter@v4
+      - name: Run github/super-linter@v4
         uses: github/super-linter@v4
         env:
           IGNORE_GENERATED_FILES: true
