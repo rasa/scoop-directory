@@ -39,20 +39,20 @@
     table td {
       text-align: left;
       display: table-cell;
-      vertical-align: top; 
+      vertical-align: top;
     }
     span.leftright {
       display: flex;
       justify-content: space-between;
     }
-    
+
     span.bottomright {
-      position: absolute; 
+      position: absolute;
       right: 0;
       bottom: 0;
     }
-    
-    .top { 
+
+    .top {
       display: inline-block;
       vertical-align:top;
       width: 100%;
@@ -136,9 +136,9 @@
 
       const urlParams = new URLSearchParams(window.location.search);
       const q = urlParams.get('q');
-      // if nameInput.value.trim() == '' && q.trim().length >= 2 {
-      //     nameInput.value = q;
-      // }
+      if (nameInput.value.trim() == '' && q.trim().length >= 2) {
+          nameInput.value = q;
+      }
 
       nameInput.addEventListener('input', function (e) {
         const query = nameInput.value.trim().toLowerCase();
@@ -151,21 +151,35 @@
       });
 
       const runQuery = async query => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const q = urlParams.get('q');
+        if (q.length > 0) {
+          var compile_options = [];
+          var stmt0 = db.prepare(`PRAGMA compile_options`);
+          while(stmt0.step())
+          compile_options.push(stmt0.getAsObject());
+          stmt0.free();
+          console.log(compile_options);
+        }
+
         var results = [];
         var stmt = db.prepare(`
-          SELECT REPLACE(name, "${query}", "<b>${query}</b>") AS name,
-          version,
-          bucket_url,
-          REPLACE(description, "${query}", "<b>${query}</b>") AS description,
-          manifest_url,
-          homepage,
-          license,
-          REPLACE(REPLACE(REPLACE(bucket, "/", "/&#8203;"), "-", "&#8209;"), "${query}", "<b>${query}</b>") AS bucket
-          FROM apps
-          WHERE name LIKE "%${query}%" OR 
+          SELECT
+            REPLACE(name, "${query}", "<b>${query}</b>") AS name,
+            version,
+            bucket_url,
+            REPLACE(description, "${query}", "<b>${query}</b>") AS description,
+            manifest_url,
+            homepage,
+            license,
+            REPLACE(REPLACE(REPLACE(bucket, "/", "/&#8203;"), "-", "&#8209;"), "${query}", "<b>${query}</b>") AS bucket
+          FROM
+            apps
+          WHERE
+            name LIKE "%${query}%" OR
             description LIKE "%${query}%" OR
-            bucket LIKE "${query}" OR 
-            bucket LIKE "${query}/%" OR 
+            bucket LIKE "${query}" OR
+            bucket LIKE "${query}/%" OR
             bucket LIKE "%/${query}"
           ORDER BY CASE
             WHEN name LIKE "${query}" THEN 1
@@ -173,7 +187,9 @@
             WHEN name LIKE "%${query}" THEN 3
             WHEN name LIKE "%${query}%" THEN 4
             ELSE 5
-          END, name, version DESC
+          END,
+          name,
+          version DESC
         `);
         while(stmt.step())
           results.push(stmt.getAsObject());
