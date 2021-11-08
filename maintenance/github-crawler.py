@@ -1305,10 +1305,14 @@ def do_db():
         print("Executing ", sql)
         cur.execute(sql)
 
+    buckets = 0
+    total_manifests = 0
+
     for bucket in cache:
         if bucket == "last_run":
             continue
-        print("Inserting bucket ", cache[bucket]["url"])
+        buckets += 1
+        print("Inserting bucket %d: %s" % (buckets, cache[bucket]["url"]))
         cur.execute(
             "insert into buckets values (?, ?, ?, ?, ?)",
             (
@@ -1320,9 +1324,9 @@ def do_db():
             ),
         )
 
-        n = 0
+        manifests = 0
         for manifest in cache[bucket]["entries"]:
-            n += 1
+            manifests += 1
             try:
                 json = manifest["json"]
                 version = (
@@ -1340,7 +1344,7 @@ def do_db():
                 license_url = (
                     manifest["license_url"] if "license_url" in manifest else ""
                 )
-                bucket_name = re.sub(bucket_url, "https://[^/]+/", "")
+                bucket_name = re.sub("^https?://[a-z0-9.-]+/", "", bucket_url, re.I)
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?, ?)",
                     (
@@ -1367,7 +1371,10 @@ def do_db():
                 print("%-12s: %s" % ("bucket_url", bucket_url))
                 print("%-12s: %s" % ("license_url", license_url))
 
-    print("Committing changes")
+            print("Added %d manifests" % manifests)
+            total_manifests += manifests
+
+    print("Inserted %d manifests in %d buckets" % (total_manifests, buckets))
     conn.commit()
     print("Closing connection")
     conn.close()
