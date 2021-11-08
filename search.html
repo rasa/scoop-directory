@@ -136,9 +136,9 @@
 
       const urlParams = new URLSearchParams(window.location.search);
       const q = urlParams.get('q');
-      if nameInput.value.trim() == '' && q.trim().length >= 2 {
-          nameInput.value = q;
-      }
+      // if nameInput.value.trim() == '' && q.trim().length >= 2 {
+      //     nameInput.value = q;
+      // }
 
       nameInput.addEventListener('input', function (e) {
         const query = nameInput.value.trim().toLowerCase();
