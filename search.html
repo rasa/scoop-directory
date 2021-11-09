@@ -165,20 +165,14 @@
         var results = [];
         var stmt = db.prepare(`
           SELECT
-            IIF(INSTR(LOWER(name), "${query}") > 0, SUBSTR(name, 0, INSTR(LOWER(name), "${query}")) || "<b>" ||
-            SUBSTR(name, INSTR(LOWER(name), "${query}"), LENGTH("${query}")) || "</b>" ||
-            SUBSTR(name, INSTR(LOWER(name), "${query}") + LENGTH("${query}"), 255), name) AS name,
+            REPLACE(name, "${query}", "<b>${query}</b>") AS name,
             version,
             bucket_url,
-            IIF(INSTR(LOWER(description), "${query}") > 0, SUBSTR(description, 0, INSTR(LOWER(description), "${query}")) || "<b>" ||
-            SUBSTR(description, INSTR(LOWER(description), "${query}"), LENGTH("${query}")) || "</b>" ||
-            SUBSTR(description, INSTR(LOWER(description), "${query}") + LENGTH("${query}"), 65535), description) AS description,
+            REPLACE(description, "${query}", "<b>${query}</b>") AS description,
             manifest_url,
             homepage,
             license,
-            REPLACE(REPLACE(IIF(INSTR(LOWER(bucket), "${query}") > 0, SUBSTR(bucket, 0, INSTR(LOWER(bucket), "${query}")) || "<b>" ||
-            SUBSTR(bucket, INSTR(LOWER(bucket), "${query}"), LENGTH("${query}")) || "</b>" ||
-            SUBSTR(bucket, INSTR(LOWER(bucket), "${query}") + LENGTH("${query}"), 255), bucket), "/", "/&#8203;"), "-", "&#8209;") AS bucket
+            REPLACE(REPLACE(REPLACE(bucket, "/", "/&#8203;"), "-", "&#8209;"), "${query}", "<b>${query}</b>") AS bucket
           FROM
             apps
           WHERE
