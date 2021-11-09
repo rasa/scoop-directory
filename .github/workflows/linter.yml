@@ -23,6 +23,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           # Full git history is needed to get a proper list of changed files within `super-linter`
+          # default is 1 per https://github.com/actions/checkout#usage
           fetch-depth: 0
 
       - name: Run github/super-linter@v4
