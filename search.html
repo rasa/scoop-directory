@@ -134,11 +134,11 @@
       var reqdiv = document.getElementById('searchresults');
       var metainfo = document.getElementById('metainfotext');
 
-      const urlParams = new URLSearchParams(window.location.search);
-      const q = urlParams.get('q');
-      if (nameInput.value.trim() == '' && q.trim().length >= 2) {
-          nameInput.value = q;
-      }
+      //const urlParams = new URLSearchParams(window.location.search);
+      //const q = urlParams.get('q');
+      //if (nameInput.value.trim() == '' && q.trim().length >= 2) {
+      //    nameInput.value = q;
+      //}
 
       nameInput.addEventListener('input', function (e) {
         const query = nameInput.value.trim().toLowerCase();
@@ -151,28 +151,23 @@
       });
 
       const runQuery = async query => {
-        const urlParams = new URLSearchParams(window.location.search);
-        const q = urlParams.get('q');
-        if (q.length > 0) {
-          var compile_options = [];
-          var stmt0 = db.prepare(`PRAGMA compile_options`);
-          while(stmt0.step())
-          compile_options.push(stmt0.getAsObject());
-          stmt0.free();
-          console.log(compile_options);
-        }
-
         var results = [];
         var stmt = db.prepare(`
           SELECT
-            REPLACE(name, "${query}", "<b>${query}</b>") AS name,
+            IIF(INSTR(LOWER(name), "${query}") > 0, SUBSTR(name, 0, INSTR(LOWER(name), "${query}")) || "<b>" ||
+            SUBSTR(name, INSTR(LOWER(name), "${query}"), LENGTH("${query}")) || "</b>" ||
+            SUBSTR(name, INSTR(LOWER(name), "${query}") + LENGTH("${query}"), 255), name) AS name,
             version,
             bucket_url,
-            REPLACE(description, "${query}", "<b>${query}</b>") AS description,
+            IIF(INSTR(LOWER(description), "${query}") > 0, SUBSTR(description, 0, INSTR(LOWER(description), "${query}")) || "<b>" ||
+            SUBSTR(description, INSTR(LOWER(description), "${query}"), LENGTH("${query}")) || "</b>" ||
+            SUBSTR(description, INSTR(LOWER(description), "${query}") + LENGTH("${query}"), 65535), description) AS description,
             manifest_url,
             homepage,
             license,
-            REPLACE(REPLACE(REPLACE(bucket, "/", "/&#8203;"), "-", "&#8209;"), "${query}", "<b>${query}</b>") AS bucket
+            REPLACE(REPLACE(IIF(INSTR(LOWER(bucket), "${query}") > 0, SUBSTR(bucket, 0, INSTR(LOWER(bucket), "${query}")) || "<b>" ||
+            SUBSTR(bucket, INSTR(LOWER(bucket), "${query}"), LENGTH("${query}")) || "</b>" ||
+            SUBSTR(bucket, INSTR(LOWER(bucket), "${query}") + LENGTH("${query}"), 255), bucket), "/", "/&#8203;"), "-", "&#8209;") AS bucket
           FROM
             apps
           WHERE
