@@ -1,0 +1,699 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/APSL-1.0">
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; APPLE PUBLIC SOURCE LICENSE
+
+Version 1.0 - March 16, 1999
+
+&lt;&lt;endOptional&gt;&gt;&lt;&lt;beginOptional&gt;&gt; Please read this License carefully before downloading this software. By downloading and using this software, you are agreeing to be bound by the terms of this License. If you do not or cannot agree to the terms of this License, please do not download or use the software.
+
+&lt;&lt;endOptional&gt;&gt;
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; General; Definitions. This License applies to any program or other work which Apple Computer, Inc. ("Apple") publicly announces as subject to this Apple Public Source License and which contains a notice placed by Apple identifying such program or work as "Original Code" and stating that it is subject to the terms of this Apple Public Source License version 1.0 (or subsequent version thereof), as it may be revised from time to time by Apple ("License"). As used in this License:
+
+      &lt;&lt;var;name="bullet";original="1.1";match=".{0,20}"&gt;&gt; "Applicable Patents" mean: (a) in the case where Apple is the grantor of rights, (i) patents or patent applications that are now or hereafter acquired, owned by or assigned to Apple and (ii) whose claims cover subject matter contained in the Original Code, but only to the extent necessary to use, reproduce and/or distribute the Original Code without infringement; and (b) in the case where You are the grantor of rights, (i) patents and patent applications that are now or hereafter acquired, owned by or assigned to You and (ii) whose claims cover subject matter in Your Modifications, taken alone or in combination with Original Code.
+
+      &lt;&lt;var;name="bullet";original="1.2";match=".{0,20}"&gt;&gt; "Covered Code" means the Original Code, Modifications, the combination of Original Code and any Modifications, and/or any respective portions thereof.
+
+      &lt;&lt;var;name="bullet";original="1.3";match=".{0,20}"&gt;&gt; "Deploy" means to use, sublicense or distribute Covered Code other than for Your internal research and development (R&amp;D), and includes without limitation, any and all internal use or distribution of Covered Code within Your business or organization except for R&amp;D use, as well as direct or indirect sublicensing or distribution of Covered Code by You to any third party in any form or manner.
+
+      &lt;&lt;var;name="bullet";original="1.4";match=".{0,20}"&gt;&gt; "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
+
+      &lt;&lt;var;name="bullet";original="1.5";match=".{0,20}"&gt;&gt; "Modifications" mean any addition to, deletion from, and/or change to, the substance and/or structure of Covered Code. When code is released as a series of files, a Modification is: (a) any addition to or deletion from the contents of a file containing Covered Code; and/or (b) any new file or other representation of computer program statements that contains any part of Covered Code.
+
+      &lt;&lt;var;name="bullet";original="1.6";match=".{0,20}"&gt;&gt; "Original Code" means the Source Code of a program or other work as originally made available by Apple under this License, including the Source Code of any updates or upgrades to such programs or works made available by Apple under this License, and that has been expressly identified by Apple as such in the header file(s) of such work.
+
+      &lt;&lt;var;name="bullet";original="1.7";match=".{0,20}"&gt;&gt; "Source Code" means the human readable form of a program or other work that is suitable for making modifications to it, including all modules it contains, plus any associated interface definition files, scripts used to control compilation and installation of an executable (object code).
+
+      &lt;&lt;var;name="bullet";original="1.8";match=".{0,20}"&gt;&gt; "You" or "Your" means an individual or a legal entity exercising rights under this License. For legal entities, "You" or "Your" includes any entity which controls, is controlled by, or is under common control with, You, where "control" means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Permitted Uses; Conditions &amp; Restrictions. Subject to the terms and conditions of this License, Apple hereby grants You, effective on the date You accept this License and download the Original Code, a world-wide, royalty-free, non-exclusive license, to the extent of Apple's Applicable Patents and copyrights covering the Original Code, to do the following:
+
+      &lt;&lt;var;name="bullet";original="2.1";match=".{0,20}"&gt;&gt; You may use, copy, modify and distribute Original Code, with or without Modifications, solely for Your internal research and development, provided that You must in each instance:
+
+         &lt;&lt;var;name="bullet";original="(a)";match=".{0,20}"&gt;&gt; retain and reproduce in all copies of Original Code the copyright and other proprietary notices and disclaimers of Apple as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License;
+
+         &lt;&lt;var;name="bullet";original="(b)";match=".{0,20}"&gt;&gt; include a copy of this License with every copy of Source Code of Covered Code and documentation You distribute, and You may not offer or impose any terms on such Source Code that alter or restrict this License or the recipients' rights hereunder, except as permitted under Section 6; and
+
+         &lt;&lt;var;name="bullet";original="(c)";match=".{0,20}"&gt;&gt; completely and accurately document all Modifications that you have made and the date of each such Modification, designate the version of the Original Code you used, prominently include a file carrying such information with the Modifications, and duplicate the notice in Exhibit A in each file of the Source Code of all such Modifications.
+
+      &lt;&lt;var;name="bullet";original="2.2";match=".{0,20}"&gt;&gt; You may Deploy Covered Code, provided that You must in each instance:
+
+         &lt;&lt;var;name="bullet";original="(a)";match=".{0,20}"&gt;&gt; satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code;
+
+         &lt;&lt;var;name="bullet";original="(b)";match=".{0,20}"&gt;&gt; make all Your Deployed Modifications publicly available in Source Code form via electronic distribution (e.g. download from a web site) under the terms of this License and subject to the license grants set forth in Section 3 below, and any additional terms You may choose to offer under Section 6. You must continue to make the Source Code of Your Deployed Modifications available for as long as you Deploy the Covered Code or twelve (12) months from the date of initial Deployment, whichever is longer;
+
+         &lt;&lt;var;name="bullet";original="(c)";match=".{0,20}"&gt;&gt; must notify Apple and other third parties of how to obtain Your Deployed Modifications by filling out and submitting the required information found at http://www.apple.com/publicsource/modifications.html; and
+
+         &lt;&lt;var;name="bullet";original="(d)";match=".{0,20}"&gt;&gt; if you Deploy Covered Code in object code, executable form only, include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source Code.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; Your Grants. In consideration of, and as a condition to, the licenses granted to You under this License:
+
+         &lt;&lt;var;name="bullet";original="(a)";match=".{0,20}"&gt;&gt; You hereby grant to Apple and all third parties a non-exclusive, royalty-free license, under Your Applicable Patents and other intellectual property rights owned or controlled by You, to use, reproduce, modify, distribute and Deploy Your Modifications of the same scope and extent as Apple's licenses under Sections 2.1 and 2.2; and
+
+         &lt;&lt;var;name="bullet";original="(b)";match=".{0,20}"&gt;&gt; You hereby grant to Apple and its subsidiaries a non-exclusive, worldwide, royalty-free, perpetual and irrevocable license, under Your Applicable Patents and other intellectual property rights owned or controlled by You, to use, reproduce, execute, compile, display, perform, modify or have modified (for Apple and/or its subsidiaries), sublicense and distribute Your Modifications, in any form, through multiple tiers of distribution.
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; Larger Works. You may create a Larger Work by combining Covered Code with other code not governed by the terms of this License and distribute the Larger Work as a single product. In each such instance, You must make sure the requirements of this License are fulfilled for the Covered Code or any portion thereof.
+
+   &lt;&lt;var;name="bullet";original="5.";match=".{0,20}"&gt;&gt; Limitations on Patent License. Except as expressly stated in Section 2, no other patent rights, express or implied, are granted by Apple herein. Modifications and/or Larger Works may require additional patent licenses from Apple which Apple may grant in its sole discretion.
+
+   &lt;&lt;var;name="bullet";original="6.";match=".{0,20}"&gt;&gt; Additional Terms. You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations and/or other rights consistent with the scope of the license granted herein ("Additional Terms") to one or more recipients of Covered Code. However, You may do so only on Your own behalf and as Your sole responsibility, and not on behalf of Apple. You must obtain the recipient's agreement that any such Additional Terms are offered by You alone, and You hereby agree to indemnify, defend and hold Apple harmless for any liability incurred by or claims asserted against Apple by reason of any such Additional Terms.
+
+   &lt;&lt;var;name="bullet";original="7.";match=".{0,20}"&gt;&gt; Versions of the License. Apple may publish revised and/or new versions of this License from time to time. Each version will be given a distinguishing version number. Once Original Code has been published under a particular version of this License, You may continue to use it under the terms of that version. You may also choose to use such Original Code under the terms of any subsequent version of this License published by Apple. No one other than Apple has the right to modify the terms applicable to Covered Code created under this License.
+
+   &lt;&lt;var;name="bullet";original="8.";match=".{0,20}"&gt;&gt; NO WARRANTY OR SUPPORT. The Original Code may contain in whole or in part pre-release, untested, or not fully tested works. The Original Code may contain errors that could cause failures or loss of data, and may be incomplete or contain inaccuracies. You expressly acknowledge and agree that use of the Original Code, or any portion thereof, is at Your sole and entire risk. THE ORIGINAL CODE IS PROVIDED "AS IS" AND WITHOUT WARRANTY, UPGRADES OR SUPPORT OF ANY KIND AND APPLE AND APPLE'S LICENSOR(S) (FOR THE PURPOSES OF SECTIONS 8 AND 9, APPLE AND APPLE'S LICENSOR(S) ARE COLLECTIVELY REFERRED TO AS "APPLE") EXPRESSLY DISCLAIM ALL WARRANTIES AND/OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY OR SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. APPLE DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE ORIGINAL CODE WILL MEET YOUR REQUIREMENTS, OR THAT THE OPERATION OF THE ORIGINAL CODE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE ORIGINAL CODE WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY APPLE OR AN APPLE AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY. You acknowledge that the Original Code is not intended for use in the operation of nuclear facilities, aircraft navigation, communication systems, or air traffic control machines in which case the failure of the Original Code could lead to death, personal injury, or severe physical or environmental damage.
+
+   &lt;&lt;var;name="bullet";original="9.";match=".{0,20}"&gt;&gt; Liability.
+
+      &lt;&lt;var;name="bullet";original="9.1";match=".{0,20}"&gt;&gt; Infringement. If any of the Original Code becomes the subject ofa claim of infringement ("Affected Original Code"), Apple may, at its sole discretion and option: (a) attempt to procure the rights necessary for You to continue using the Affected Original Code; (b) modify the Affected Original Code so that it is no longer infringing; or (c) terminate Your rights to use the Affected Original Code, effective immediately upon Apple's posting of a notice to such effect on the Apple web site that is used for implementation of this License.
+
+      &lt;&lt;var;name="bullet";original="9.2";match=".{0,20}"&gt;&gt; LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES SHALL APPLE BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS LICENSE OR YOUR USE OR INABILITY TO USE THE ORIGINAL CODE, OR ANY PORTION THEREOF, WHETHER UNDER A THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCTS LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. In no event shall Apple's total liability to You for all damages under this License exceed the amount of fifty dollars ($50.00).
+
+   &lt;&lt;var;name="bullet";original="10.";match=".{0,20}"&gt;&gt; Trademarks. This License does not grant any rights to use the trademarks or trade names "Apple", "Apple Computer", "Mac OS X", "Mac OS X Server" or any other trademarks or trade names belonging to Apple (collectively "Apple Marks") and no Apple Marks may be used to endorse or promote products derived from the Original Code
+
+   other than as permitted by and in strict compliance at all times with Apple's third party trademark usage guidelines which are posted at http://www.apple.com/legal/guidelinesfor3rdparties.html.
+
+   &lt;&lt;var;name="bullet";original="11.";match=".{0,20}"&gt;&gt; Ownership. Apple retains all rights, title and interest in and to the Original Code and any Modifications made by or on behalf of Apple ("Apple Modifications"), and such Apple Modifications will not be automatically subject to this License. Apple may, at its sole discretion, choose to license such Apple Modifications under this License, or on different terms from those contained in this License or may choose not to license them at all. Apple's development, use, reproduction, modification, sublicensing and distribution of Covered Code will not be subject to this License.
+
+   &lt;&lt;var;name="bullet";original="12.";match=".{0,20}"&gt;&gt; Termination.
+
+      &lt;&lt;var;name="bullet";original="12.1";match=".{0,20}"&gt;&gt; Termination. This License and the rights granted hereunder will terminate:
+
+         &lt;&lt;var;name="bullet";original="(a)";match=".{0,20}"&gt;&gt; automatically without notice from Apple if You fail to comply with any term(s) of this License and fail to cure such breach within 30 days of becoming aware of such breach;
+
+         &lt;&lt;var;name="bullet";original="(b)";match=".{0,20}"&gt;&gt; immediately in the event of the circumstances described in Sections 9.1 and/or 13.6(b); or
+
+         &lt;&lt;var;name="bullet";original="(c)";match=".{0,20}"&gt;&gt; automatically without notice from Apple if You, at any time during the term of this License, commence an action for patent infringement against Apple.
+
+      &lt;&lt;var;name="bullet";original="12.2";match=".{0,20}"&gt;&gt; Effect of Termination. Upon termination, You agree to immediately stop any further use, reproduction, modification and distribution of the Covered Code, or Affected Original Code in the case of termination under Section 9.1, and to destroy all copies of the Covered Code or Affected Original Code (in the case of
+
+      termination under Section 9.1) that are in your possession or control. All sublicenses to the Covered Code which have been properly granted prior to termination shall survive any termination of this License. Provisions which, by their nature, should remain in effect beyond the termination of this License shall survive, including but not limited to Sections 3, 5, 8, 9, 10, 11, 12.2 and 13. Neither party will be liable to the other for compensation, indemnity or damages of any sort solely as a result of terminating this License in accordance with its terms, and termination of this License will be without prejudice to any other right or remedy of either party.
+
+   &lt;&lt;var;name="bullet";original="13.";match=".{0,20}"&gt;&gt; Miscellaneous.
+
+      &lt;&lt;var;name="bullet";original="13.1";match=".{0,20}"&gt;&gt; Export Law Assurances. You may not use or otherwise export or re-export the Original Code except as authorized by United States law and the laws of the jurisdiction in which the Original Code was obtained. In particular, but without limitation, the Original Code may not be exported or re-exported (a) into (or to a national or resident of) any U.S. embargoed country or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Department of Commerce's Table of Denial Orders. By using the Original Code, You represent and warrant that You are not located in, under control of, or a national or resident of any such country or on any such list.
+
+      &lt;&lt;var;name="bullet";original="13.2";match=".{0,20}"&gt;&gt; Government End Users. The Covered Code is a "commercial item" as defined in FAR 2.101. Government software and technical data rights in the Covered Code include only those rights customarily provided to the public as defined in this License. This customary commercial license in technical data and software is provided in
+
+      accordance with FAR 12.211 (Technical Data) and 12.212 (Computer Software) and, for Department of Defense purchases, DFAR 252.227-7015 (Technical Data -- Commercial Items) and 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation). Accordingly, all U.S. Government End Users acquire Covered Code with only those rights set forth herein.
+
+      &lt;&lt;var;name="bullet";original="13.3";match=".{0,20}"&gt;&gt; Relationship of Parties. This License will not be construed as creating an agency, partnership, joint venture or any other form of legal association between You and Apple, and You will not represent to the contrary, whether expressly, by implication, appearance or otherwise.
+
+      &lt;&lt;var;name="bullet";original="13.4";match=".{0,20}"&gt;&gt; Independent Development. Nothing in this License will impair Apple's right to acquire, license, develop, have others develop for it, market and/or distribute technology or products that perform the same or similar functions as, or otherwise compete with, Modifications, Larger Works, technology or products that You may develop, produce, market or distribute.
+
+      &lt;&lt;var;name="bullet";original="13.5";match=".{0,20}"&gt;&gt; Waiver; Construction. Failure by Apple to enforce any provision of this License will not be deemed a waiver of future enforcement of that or any other provision. Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this License.
+
+      &lt;&lt;var;name="bullet";original="13.6";match=".{0,20}"&gt;&gt; Severability. (a) If for any reason a court of competent jurisdiction finds any provision of this License, or portion thereof, to be unenforceable, that provision of the License will be enforced to the maximum extent permissible so as to effect the economic benefits and intent of the parties, and the remainder of this License will continue in full force and effect. (b) Notwithstanding the foregoing, if applicable law prohibits or restricts You from fully and/or specifically complying with Sections 2 and/or 3 or prevents the enforceability of either of those Sections, this License will immediately terminate and You must immediately discontinue any use of the Covered Code and destroy all copies of it that are in your possession or control.
+
+      &lt;&lt;var;name="bullet";original="13.7";match=".{0,20}"&gt;&gt; Dispute Resolution. Any litigation or other dispute resolution between You and Apple relating to this License shall take place in the Northern District of California, and You and Apple hereby consent to the personal jurisdiction of, and venue in, the state and federal courts within that District with respect to this License. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded.
+
+      &lt;&lt;var;name="bullet";original="13.8";match=".{0,20}"&gt;&gt; Entire Agreement; Governing Law. This License constitutes the entire agreement between the parties with respect to the subject matter hereof. This License shall be governed by the laws of the United States and the State of California, except that body of California law concerning conflicts of law.
+
+      Where You are located in the province of Quebec, Canada, the following clause applies: The parties hereby confirm that they have requested that this License and all related documents be drafted in English. Les parties ont exige que le present contrat et tous les documents connexes soient rediges en anglais.
+
+      &lt;&lt;beginOptional&gt;&gt; EXHIBIT A.
+
+"Portions Copyright (c) 1999 Apple Computer, Inc. All Rights Reserved. This file contains Original Code and/or Modifications of Original Code as defined in and that are subject to the Apple Public Source License Version 1.0 (the 'License'). You may not use this file except in compliance with the License. Please obtain a copy of the License at http://www.apple.com/publicsource and read it before using this file.
+
+The Original Code and all software distributed under the License are distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. Please see the License for the specific language governing rights and limitations under the License."
+
+&lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:54:15</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/Apple_Public_Source_License_1.0</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/Apple_Public_Source_License_1.0</rdfs:seeAlso>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
+    <spdx:name>Apple Public Source License 1.0</spdx:name>
+    <spdx:licenseText>APPLE PUBLIC SOURCE LICENSE
+Version 1.0 - March 16, 1999
+
+Please read this License carefully before downloading this software. By downloading and using this software, you are agreeing to be bound by the terms of this License. If you do not or cannot agree to the terms of this License, please do not download or use the software.
+
+1. General; Definitions. This License applies to any program or other work which Apple Computer, Inc. ("Apple") publicly announces as subject to this Apple Public Source License and which contains a notice placed by Apple identifying such program or work as "Original Code" and stating that it is subject to the terms of this Apple Public Source License version 1.0 (or subsequent version thereof), as it may be revised from time to time by Apple ("License"). As used in this License:
+
+     1.1 "Applicable Patents" mean: (a) in the case where Apple is the grantor of rights, (i) patents or patent applications that are now or hereafter acquired, owned by or assigned to Apple and (ii) whose claims cover subject matter contained in the Original Code, but only to the extent necessary to use, reproduce and/or distribute the Original Code without infringement; and (b) in the case where You are the grantor of rights, (i) patents and patent applications that are now or hereafter acquired, owned by or assigned to You and (ii) whose claims cover subject matter in Your Modifications, taken alone or in combination with Original Code.
+
+     1.2 "Covered Code" means the Original Code, Modifications, the combination of Original Code and any Modifications, and/or any respective portions thereof.
+
+     1.3 "Deploy" means to use, sublicense or distribute Covered Code other than for Your internal research and development (R&amp;D), and includes without limitation, any and all internal use or distribution of Covered Code within Your business or organization except for R&amp;D use, as well as direct or indirect sublicensing or distribution of Covered Code by You to any third party in any form or manner.
+
+     1.4 "Larger Work" means a work which combines Covered Code or portions thereof with code not governed by the terms of this License.
+
+     1.5 "Modifications" mean any addition to, deletion from, and/or change to, the substance and/or structure of Covered Code. When code is released as a series of files, a Modification is: (a) any addition to or deletion from the contents of a file containing Covered Code; and/or (b) any new file or other representation of computer program statements that contains any part of Covered Code.
+
+     1.6 "Original Code" means the Source Code of a program or other work as originally made available by Apple under this License, including the Source Code of any updates or upgrades to such programs or works made available by Apple under this License, and that has been expressly identified by Apple as such in the header file(s) of such work.
+
+     1.7 "Source Code" means the human readable form of a program or other work that is suitable for making modifications to it, including all modules it contains, plus any associated interface definition files, scripts used to control compilation and installation of an executable (object code).
+
+     1.8 "You" or "Your" means an individual or a legal entity exercising rights under this License. For legal entities, "You" or "Your" includes any entity which controls, is controlled by, or is under common control with, You, where "control" means (a) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+
+2. Permitted Uses; Conditions &amp; Restrictions. Subject to the terms and conditions of this License, Apple hereby grants You, effective on the date You accept this License and download the Original Code, a world-wide, royalty-free, non-exclusive license, to the extent of Apple's Applicable Patents and copyrights covering the Original Code, to do the following:
+
+     2.1 You may use, copy, modify and distribute Original Code, with or without Modifications, solely for Your internal research and development, provided that You must in each instance:
+
+          (a) retain and reproduce in all copies of Original Code the copyright and other proprietary notices and disclaimers of Apple as they appear in the Original Code, and keep intact all notices in the Original Code that refer to this License;
+
+          (b) include a copy of this License with every copy of Source Code of Covered Code and documentation You distribute, and You may not offer or impose any terms on such Source Code that alter or restrict this License or the recipients' rights hereunder, except as permitted under Section 6; and
+
+          (c) completely and accurately document all Modifications that you have made and the date of each such Modification, designate the version of the Original Code you used, prominently include a file carrying such information with the Modifications, and duplicate the notice in Exhibit A in each file of the Source Code of all such Modifications.
+
+     2.2 You may Deploy Covered Code, provided that You must in each instance:
+
+          (a) satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code;
+
+          (b) make all Your Deployed Modifications publicly available in Source Code form via electronic distribution (e.g. download from a web site) under the terms of this License and subject to the license grants set forth in Section 3 below, and any additional terms You may choose to offer under Section 6. You must continue to make the Source Code of Your Deployed Modifications available for as long as you Deploy the Covered Code or twelve (12) months from the date of initial Deployment, whichever is longer;
+
+          (c) must notify Apple and other third parties of how to obtain Your Deployed Modifications by filling out and submitting the required information found at http://www.apple.com/publicsource/modifications.html; and
+
+          (d) if you Deploy Covered Code in object code, executable form only, include a prominent notice, in the code itself as well as in related documentation, stating that Source Code of the Covered Code is available under the terms of this License with information on how and where to obtain such Source Code.
+
+3. Your Grants. In consideration of, and as a condition to, the licenses granted to You under this License:
+
+          (a) You hereby grant to Apple and all third parties a non-exclusive, royalty-free license, under Your Applicable Patents and other intellectual property rights owned or controlled by You, to use, reproduce, modify, distribute and Deploy Your Modifications of the same scope and extent as Apple's licenses under Sections 2.1 and 2.2; and
+
+          (b) You hereby grant to Apple and its subsidiaries a non-exclusive, worldwide, royalty-free, perpetual and irrevocable license, under Your Applicable Patents and other intellectual property rights owned or controlled by You, to use, reproduce, execute, compile, display, perform, modify or have modified (for Apple and/or its subsidiaries), sublicense and distribute Your Modifications, in any form, through multiple tiers of distribution.
+
+4. Larger Works. You may create a Larger Work by combining Covered Code with other code not governed by the terms of this License and distribute the Larger Work as a single product. In each such instance, You must make sure the requirements of this License are fulfilled for the Covered Code or any portion thereof.
+
+5. Limitations on Patent License. Except as expressly stated in Section 2, no other patent rights, express or implied, are granted by Apple herein. Modifications and/or Larger Works may require additional patent licenses from Apple which Apple may grant in its sole discretion.
+
+6. Additional Terms. You may choose to offer, and to charge a fee for, warranty, support, indemnity or liability obligations and/or other rights consistent with the scope of the license granted herein ("Additional Terms") to one or more recipients of Covered Code. However, You may do so only on Your own behalf and as Your sole responsibility, and not on behalf of Apple. You must obtain the recipient's agreement that any such Additional Terms are offered by You alone, and You hereby agree to indemnify, defend and hold Apple harmless for any liability incurred by or claims asserted against Apple by reason of any such Additional Terms.
+
+7. Versions of the License. Apple may publish revised and/or new versions of this License from time to time. Each version will be given a distinguishing version number. Once Original Code has been published under a particular version of this License, You may continue to use it under the terms of that version. You may also choose to use such Original Code under the terms of any subsequent version of this License published by Apple. No one other than Apple has the right to modify the terms applicable to Covered Code created under this License.
+
+8. NO WARRANTY OR SUPPORT. The Original Code may contain in whole or in part pre-release, untested, or not fully tested works. The Original Code may contain errors that could cause failures or loss of data, and may be incomplete or contain inaccuracies. You expressly acknowledge and agree that use of the Original Code, or any portion thereof, is at Your sole and entire risk. THE ORIGINAL CODE IS PROVIDED "AS IS" AND WITHOUT WARRANTY, UPGRADES OR SUPPORT OF ANY KIND AND APPLE AND APPLE'S LICENSOR(S) (FOR THE PURPOSES OF SECTIONS 8 AND 9, APPLE AND APPLE'S LICENSOR(S) ARE COLLECTIVELY REFERRED TO AS "APPLE") EXPRESSLY DISCLAIM ALL WARRANTIES AND/OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY OR SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. APPLE DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE ORIGINAL CODE WILL MEET YOUR REQUIREMENTS, OR THAT THE OPERATION OF THE ORIGINAL CODE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE ORIGINAL CODE WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY APPLE OR AN APPLE AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY. You acknowledge that the Original Code is not intended for use in the operation of nuclear facilities, aircraft navigation, communication systems, or air traffic control machines in which case the failure of the Original Code could lead to death, personal injury, or severe physical or environmental damage.
+
+9. Liability.
+
+     9.1 Infringement. If any of the Original Code becomes the subject ofa claim of infringement ("Affected Original Code"), Apple may, at its sole discretion and option: (a) attempt to procure the rights necessary for You to continue using the Affected Original Code; (b) modify the Affected Original Code so that it is no longer infringing; or (c) terminate Your rights to use the Affected Original Code, effective immediately upon Apple's posting of a notice to such effect on the Apple web site that is used for implementation of this License.
+
+     9.2 LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES SHALL APPLE BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS LICENSE OR YOUR USE OR INABILITY TO USE THE ORIGINAL CODE, OR ANY PORTION THEREOF, WHETHER UNDER A THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCTS LIABILITY OR OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. In no event shall Apple's total liability to You for all damages under this License exceed the amount of fifty dollars ($50.00).
+
+10. Trademarks. This License does not grant any rights to use the trademarks or trade names "Apple", "Apple Computer", "Mac OS X", "Mac OS X Server" or any other trademarks or trade names belonging to Apple (collectively "Apple Marks") and no Apple Marks may be used to endorse or promote products derived from the Original Code
+other than as permitted by and in strict compliance at all times with Apple's third party trademark usage guidelines which are posted at http://www.apple.com/legal/guidelinesfor3rdparties.html.
+
+11. Ownership. Apple retains all rights, title and interest in and to the Original Code and any Modifications made by or on behalf of Apple ("Apple Modifications"), and such Apple Modifications will not be automatically subject to this License. Apple may, at its sole discretion, choose to license such Apple Modifications under this License, or on different terms from those contained in this License or may choose not to license them at all. Apple's development, use, reproduction, modification, sublicensing and distribution of Covered Code will not be subject to this License.
+
+12. Termination.
+
+     12.1 Termination. This License and the rights granted hereunder will terminate:
+
+          (a) automatically without notice from Apple if You fail to comply with any term(s) of this License and fail to cure such breach within 30 days of becoming aware of such breach;
+
+          (b) immediately in the event of the circumstances described in Sections 9.1 and/or 13.6(b); or
+
+          (c) automatically without notice from Apple if You, at any time during the term of this License, commence an action for patent infringement against Apple.
+
+     12.2 Effect of Termination. Upon termination, You agree to immediately stop any further use, reproduction, modification and distribution of the Covered Code, or Affected Original Code in the case of termination under Section 9.1, and to destroy all copies of the Covered Code or Affected Original Code (in the case of
+termination under Section 9.1) that are in your possession or control. All sublicenses to the Covered Code which have been properly granted prior to termination shall survive any termination of this License. Provisions which, by their nature, should remain in effect beyond the termination of this License shall survive, including but not limited to Sections 3, 5, 8, 9, 10, 11, 12.2 and 13. Neither party will be liable to the other for compensation, indemnity or damages of any sort solely as a result of terminating this License in accordance with its terms, and termination of this License will be without prejudice to any other right or remedy of either party.
+
+13. Miscellaneous.
+
+     13.1 Export Law Assurances. You may not use or otherwise export or re-export the Original Code except as authorized by United States law and the laws of the jurisdiction in which the Original Code was obtained. In particular, but without limitation, the Original Code may not be exported or re-exported (a) into (or to a national or resident of) any U.S. embargoed country or (b) to anyone on the U.S. Treasury Department's list of Specially Designated Nationals or the U.S. Department of Commerce's Table of Denial Orders. By using the Original Code, You represent and warrant that You are not located in, under control of, or a national or resident of any such country or on any such list.
+
+     13.2 Government End Users. The Covered Code is a "commercial item" as defined in FAR 2.101. Government software and technical data rights in the Covered Code include only those rights customarily provided to the public as defined in this License. This customary commercial license in technical data and software is provided in
+accordance with FAR 12.211 (Technical Data) and 12.212 (Computer Software) and, for Department of Defense purchases, DFAR 252.227-7015 (Technical Data -- Commercial Items) and 227.7202-3 (Rights in Commercial Computer Software or Computer Software Documentation). Accordingly, all U.S. Government End Users acquire Covered Code with only those rights set forth herein.
+
+     13.3 Relationship of Parties. This License will not be construed as creating an agency, partnership, joint venture or any other form of legal association between You and Apple, and You will not represent to the contrary, whether expressly, by implication, appearance or otherwise.
+
+     13.4 Independent Development. Nothing in this License will impair Apple's right to acquire, license, develop, have others develop for it, market and/or distribute technology or products that perform the same or similar functions as, or otherwise compete with, Modifications, Larger Works, technology or products that You may develop, produce, market or distribute.
+
+     13.5 Waiver; Construction. Failure by Apple to enforce any provision of this License will not be deemed a waiver of future enforcement of that or any other provision. Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this License.
+
+     13.6 Severability. (a) If for any reason a court of competent jurisdiction finds any provision of this License, or portion thereof, to be unenforceable, that provision of the License will be enforced to the maximum extent permissible so as to effect the economic benefits and intent of the parties, and the remainder of this License will continue in full force and effect. (b) Notwithstanding the foregoing, if applicable law prohibits or restricts You from fully and/or specifically complying with Sections 2 and/or 3 or prevents the enforceability of either of those Sections, this License will immediately terminate and You must immediately discontinue any use of the Covered Code and destroy all copies of it that are in your possession or control.
+
+     13.7 Dispute Resolution. Any litigation or other dispute resolution between You and Apple relating to this License shall take place in the Northern District of California, and You and Apple hereby consent to the personal jurisdiction of, and venue in, the state and federal courts within that District with respect to this License. The application of the United Nations Convention on Contracts for the International Sale of Goods is expressly excluded.
+
+     13.8 Entire Agreement; Governing Law. This License constitutes the entire agreement between the parties with respect to the subject matter hereof. This License shall be governed by the laws of the United States and the State of California, except that body of California law concerning conflicts of law.
+
+     Where You are located in the province of Quebec, Canada, the following clause applies: The parties hereby confirm that they have requested that this License and all related documents be drafted in English. Les parties ont exige que le present contrat et tous les documents connexes soient rediges en anglais.
+
+EXHIBIT A.
+
+"Portions Copyright (c) 1999 Apple Computer, Inc. All Rights Reserved. This file contains Original Code and/or Modifications of Original Code as defined in and that are subject to the Apple Public Source License Version 1.0 (the 'License'). You may not use this file except in compliance with the License. Please obtain a copy of the License at http://www.apple.com/publicsource and read it before using this file.
+
+The Original Code and all software distributed under the License are distributed on an 'AS IS' basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT. Please see the License for the specific language governing rights and limitations under the License."
+</spdx:licenseText>
+    <rdfs:comment>This license was released 16 March 1999.</rdfs:comment>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;APPLE PUBLIC SOURCE LICENSE
+        &lt;br /&gt;
+
+Version 1.0 - March 16, 1999
+      &lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;Please read this License carefully before downloading this software. By downloading and using this
+         software, you are agreeing to be bound by the terms of this License. If you do not or cannot agree to
+         the terms of this License, please do not download or use the software.&lt;/p&gt;
+
+      &lt;/div&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          General; Definitions. This License applies to any program or other work which Apple Computer,
+             Inc. (&amp;quot;Apple&amp;quot;) publicly announces as subject to this Apple Public Source License and
+             which contains a notice placed by Apple identifying such program or work as &amp;quot;Original
+             Code&amp;quot; and stating that it is subject to the terms of this Apple Public Source License
+             version 1.0 (or subsequent version thereof), as it may be revised from time to time by Apple
+             (&amp;quot;License&amp;quot;). As used in this License:
+        &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;1.1&lt;/var&gt;
+            &amp;quot;Applicable Patents&amp;quot; mean: (a) in the case where Apple is the grantor of rights,
+               (i) patents or patent applications that are now or hereafter acquired, owned by or
+               assigned to Apple and (ii) whose claims cover subject matter contained in the Original
+               Code, but only to the extent necessary to use, reproduce and/or distribute the Original
+               Code without infringement; and (b) in the case where You are the grantor of rights, (i)
+               patents and patent applications that are now or hereafter acquired, owned by or assigned
+               to You and (ii) whose claims cover subject matter in Your Modifications, taken alone or in
+               combination with Original Code.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;1.2&lt;/var&gt;
+            &amp;quot;Covered Code&amp;quot; means the Original Code, Modifications, the combination of Original
+               Code and any Modifications, and/or any respective portions thereof.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;1.3&lt;/var&gt;
+            &amp;quot;Deploy&amp;quot; means to use, sublicense or distribute Covered Code other than for Your
+               internal research and development (R&amp;amp;D), and includes without limitation, any and all
+               internal use or distribution of Covered Code within Your business or organization except
+               for R&amp;amp;D use, as well as direct or indirect sublicensing or distribution of Covered
+               Code by You to any third party in any form or manner.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;1.4&lt;/var&gt;
+            &amp;quot;Larger Work&amp;quot; means a work which combines Covered Code or portions thereof with
+               code not governed by the terms of this License.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;1.5&lt;/var&gt;
+            &amp;quot;Modifications&amp;quot; mean any addition to, deletion from, and/or change to, the
+               substance and/or structure of Covered Code. When code is released as a series of files, a
+               Modification is: (a) any addition to or deletion from the contents of a file containing
+               Covered Code; and/or (b) any new file or other representation of computer program
+               statements that contains any part of Covered Code.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;1.6&lt;/var&gt;
+            &amp;quot;Original Code&amp;quot; means the Source Code of a program or other work as originally made
+               available by Apple under this License, including the Source Code of any updates or
+               upgrades to such programs or works made available by Apple under this License, and that
+               has been expressly identified by Apple as such in the header file(s) of such work.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;1.7&lt;/var&gt;
+            &amp;quot;Source Code&amp;quot; means the human readable form of a program or other work that is
+               suitable for making modifications to it, including all modules it contains, plus any
+               associated interface definition files, scripts used to control compilation and
+               installation of an executable (object code).
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;1.8&lt;/var&gt;
+            &amp;quot;You&amp;quot; or &amp;quot;Your&amp;quot; means an individual or a legal entity exercising rights
+               under this License. For legal entities, &amp;quot;You&amp;quot; or &amp;quot;Your&amp;quot; includes any
+               entity which controls, is controlled by, or is under common control with, You, where
+               &amp;quot;control&amp;quot; means (a) the power, direct or indirect, to cause the direction or
+               management of such entity, whether by contract or otherwise, or (b) ownership of fifty
+               percent (50%) or more of the outstanding shares or beneficial ownership of such
+               entity.
+          &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          Permitted Uses; Conditions &amp;amp; Restrictions. Subject to the terms and conditions of this
+             License, Apple hereby grants You, effective on the date You accept this License and download
+             the Original Code, a world-wide, royalty-free, non-exclusive license, to the extent of
+             Apple&amp;apos;s Applicable Patents and copyrights covering the Original Code, to do the
+             following:
+        &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;2.1&lt;/var&gt;
+            You may use, copy, modify and distribute Original Code, with or without Modifications, solely
+               for Your internal research and development, provided that You must in each instance:
+          &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(a)&lt;/var&gt;
+              retain and reproduce in all copies of Original Code the copyright and other proprietary
+                 notices and disclaimers of Apple as they appear in the Original Code, and keep intact
+                 all notices in the Original Code that refer to this License;
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(b)&lt;/var&gt;
+              include a copy of this License with every copy of Source Code of Covered Code and
+                 documentation You distribute, and You may not offer or impose any terms on such Source
+                 Code that alter or restrict this License or the recipients&amp;apos; rights hereunder,
+                 except as permitted under Section 6; and
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(c)&lt;/var&gt;
+              completely and accurately document all Modifications that you have made and the date of
+                 each such Modification, designate the version of the Original Code you used,
+                 prominently include a file carrying such information with the Modifications, and
+                 duplicate the notice in Exhibit A in each file of the Source Code of all such
+                 Modifications.
+            &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;2.2&lt;/var&gt;
+            You may Deploy Covered Code, provided that You must in each instance:
+          &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(a)&lt;/var&gt;
+              satisfy all the conditions of Section 2.1 with respect to the Source Code of the Covered Code;
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(b)&lt;/var&gt;
+              make all Your Deployed Modifications publicly available in Source Code form via
+                 electronic distribution (e.g. download from a web site) under the terms of this
+                 License and subject to the license grants set forth in Section 3 below, and any
+                 additional terms You may choose to offer under Section 6. You must continue to make
+                 the Source Code of Your Deployed Modifications available for as long as you Deploy the
+                 Covered Code or twelve (12) months from the date of initial Deployment, whichever is
+                 longer;
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(c)&lt;/var&gt;
+              must notify Apple and other third parties of how to obtain Your Deployed Modifications by
+                 filling out and submitting the required information found at
+                 http://www.apple.com/publicsource/modifications.html; and
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(d)&lt;/var&gt;
+              if you Deploy Covered Code in object code, executable form only, include a prominent
+                 notice, in the code itself as well as in related documentation, stating that Source
+                 Code of the Covered Code is available under the terms of this License with information
+                 on how and where to obtain such Source Code.
+            &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          Your Grants. In consideration of, and as a condition to, the licenses granted to You under this
+             License:
+        &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(a)&lt;/var&gt;
+              You hereby grant to Apple and all third parties a non-exclusive, royalty-free license,
+                 under Your Applicable Patents and other intellectual property rights owned or
+                 controlled by You, to use, reproduce, modify, distribute and Deploy Your Modifications
+                 of the same scope and extent as Apple&amp;apos;s licenses under Sections 2.1 and 2.2;
+                 and
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(b)&lt;/var&gt;
+              You hereby grant to Apple and its subsidiaries a non-exclusive, worldwide, royalty-free,
+                 perpetual and irrevocable license, under Your Applicable Patents and other
+                 intellectual property rights owned or controlled by You, to use, reproduce, execute,
+                 compile, display, perform, modify or have modified (for Apple and/or its
+                 subsidiaries), sublicense and distribute Your Modifications, in any form, through
+                 multiple tiers of distribution.
+            &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt;
+          Larger Works. You may create a Larger Work by combining Covered Code with other code not governed
+             by the terms of this License and distribute the Larger Work as a single product. In each such
+             instance, You must make sure the requirements of this License are fulfilled for the Covered
+             Code or any portion thereof.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;5.&lt;/var&gt;
+          Limitations on Patent License. Except as expressly stated in Section 2, no other patent rights,
+             express or implied, are granted by Apple herein. Modifications and/or Larger Works may require
+             additional patent licenses from Apple which Apple may grant in its sole discretion.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;6.&lt;/var&gt;
+          Additional Terms. You may choose to offer, and to charge a fee for, warranty, support, indemnity
+             or liability obligations and/or other rights consistent with the scope of the license granted
+             herein (&amp;quot;Additional Terms&amp;quot;) to one or more recipients of Covered Code. However, You
+             may do so only on Your own behalf and as Your sole responsibility, and not on behalf of Apple.
+             You must obtain the recipient&amp;apos;s agreement that any such Additional Terms are offered by
+             You alone, and You hereby agree to indemnify, defend and hold Apple harmless for any liability
+             incurred by or claims asserted against Apple by reason of any such Additional Terms.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;7.&lt;/var&gt;
+          Versions of the License. Apple may publish revised and/or new versions of this License from time
+             to time. Each version will be given a distinguishing version number. Once Original Code has
+             been published under a particular version of this License, You may continue to use it under
+             the terms of that version. You may also choose to use such Original Code under the terms of
+             any subsequent version of this License published by Apple. No one other than Apple has the
+             right to modify the terms applicable to Covered Code created under this License.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;8.&lt;/var&gt;
+          NO WARRANTY OR SUPPORT. The Original Code may contain in whole or in part pre-release, untested,
+             or not fully tested works. The Original Code may contain errors that could cause failures or
+             loss of data, and may be incomplete or contain inaccuracies. You expressly acknowledge and
+             agree that use of the Original Code, or any portion thereof, is at Your sole and entire risk.
+             THE ORIGINAL CODE IS PROVIDED &amp;quot;AS IS&amp;quot; AND WITHOUT WARRANTY, UPGRADES OR SUPPORT OF
+             ANY KIND AND APPLE AND APPLE&amp;apos;S LICENSOR(S) (FOR THE PURPOSES OF SECTIONS 8 AND 9, APPLE
+             AND APPLE&amp;apos;S LICENSOR(S) ARE COLLECTIVELY REFERRED TO AS &amp;quot;APPLE&amp;quot;) EXPRESSLY
+             DISCLAIM ALL WARRANTIES AND/OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO,
+             THE IMPLIED WARRANTIES AND/OR CONDITIONS OF MERCHANTABILITY OR SATISFACTORY QUALITY AND
+             FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. APPLE DOES NOT
+             WARRANT THAT THE FUNCTIONS CONTAINED IN THE ORIGINAL CODE WILL MEET YOUR REQUIREMENTS, OR THAT
+             THE OPERATION OF THE ORIGINAL CODE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE
+             ORIGINAL CODE WILL BE CORRECTED. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY APPLE OR AN
+             APPLE AUTHORIZED REPRESENTATIVE SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF
+             THIS WARRANTY. You acknowledge that the Original Code is not intended for use in the operation
+             of nuclear facilities, aircraft navigation, communication systems, or air traffic control
+             machines in which case the failure of the Original Code could lead to death, personal injury,
+             or severe physical or environmental damage.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;9.&lt;/var&gt;
+          Liability.
+        &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;9.1&lt;/var&gt;
+            Infringement. If any of the Original Code becomes the subject ofa claim of infringement
+               (&amp;quot;Affected Original Code&amp;quot;), Apple may, at its sole discretion and option: (a)
+               attempt to procure the rights necessary for You to continue using the Affected Original
+               Code; (b) modify the Affected Original Code so that it is no longer infringing; or (c)
+               terminate Your rights to use the Affected Original Code, effective immediately upon
+               Apple&amp;apos;s posting of a notice to such effect on the Apple web site that is used for
+               implementation of this License.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;9.2&lt;/var&gt;
+            LIMITATION OF LIABILITY. UNDER NO CIRCUMSTANCES SHALL APPLE BE LIABLE FOR ANY INCIDENTAL,
+               SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS LICENSE OR
+               YOUR USE OR INABILITY TO USE THE ORIGINAL CODE, OR ANY PORTION THEREOF, WHETHER UNDER A
+               THEORY OF CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE), PRODUCTS LIABILITY OR
+               OTHERWISE, EVEN IF APPLE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND
+               NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY REMEDY. In no event shall
+               Apple&amp;apos;s total liability to You for all damages under this License exceed the amount
+               of fifty dollars ($50.00).
+          &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;10.&lt;/var&gt;
+          Trademarks. This License does not grant any rights to use the trademarks or trade names
+             &amp;quot;Apple&amp;quot;, &amp;quot;Apple Computer&amp;quot;, &amp;quot;Mac OS X&amp;quot;, &amp;quot;Mac OS X
+             Server&amp;quot; or any other trademarks or trade names belonging to Apple (collectively
+             &amp;quot;Apple Marks&amp;quot;) and no Apple Marks may be used to endorse or promote products derived
+             from the Original Code
+            &lt;br /&gt;
+
+   other than as permitted by and in strict compliance at all times with Apple&amp;apos;s third
+                 party trademark usage guidelines which are posted at
+                 http://www.apple.com/legal/guidelinesfor3rdparties.html.
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;11.&lt;/var&gt;
+          Ownership. Apple retains all rights, title and interest in and to the Original Code and any
+             Modifications made by or on behalf of Apple (&amp;quot;Apple Modifications&amp;quot;), and such Apple
+             Modifications will not be automatically subject to this License. Apple may, at its sole
+             discretion, choose to license such Apple Modifications under this License, or on different
+             terms from those contained in this License or may choose not to license them at all.
+             Apple&amp;apos;s development, use, reproduction, modification, sublicensing and distribution of
+             Covered Code will not be subject to this License.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;12.&lt;/var&gt;
+          Termination.
+        &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;12.1&lt;/var&gt;
+            Termination. This License and the rights granted hereunder will terminate:
+          &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(a)&lt;/var&gt;
+              automatically without notice from Apple if You fail to comply with any term(s) of this
+                 License and fail to cure such breach within 30 days of becoming aware of such
+                 breach;
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(b)&lt;/var&gt;
+              immediately in the event of the circumstances described in Sections 9.1 and/or 13.6(b); or
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(c)&lt;/var&gt;
+              automatically without notice from Apple if You, at any time during the term of this
+                 License, commence an action for patent infringement against Apple.
+            &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;12.2&lt;/var&gt;
+            Effect of Termination. Upon termination, You agree to immediately stop any further use,
+               reproduction, modification and distribution of the Covered Code, or Affected Original Code
+               in the case of termination under Section 9.1, and to destroy all copies of the Covered
+               Code or Affected Original Code (in the case of
+              &lt;br /&gt;
+
+      termination under Section 9.1) that are in your possession or control. All sublicenses
+                   to the Covered Code which have been properly granted prior to termination shall
+                   survive any termination of this License. Provisions which, by their nature, should
+                   remain in effect beyond the termination of this License shall survive, including
+                   but not limited to Sections 3, 5, 8, 9, 10, 11, 12.2 and 13. Neither party will be
+                   liable to the other for compensation, indemnity or damages of any sort solely as a
+                   result of terminating this License in accordance with its terms, and termination
+                   of this License will be without prejudice to any other right or remedy of either
+                   party.
+
+          &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;13.&lt;/var&gt;
+          Miscellaneous.
+        &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;13.1&lt;/var&gt;
+            Export Law Assurances. You may not use or otherwise export or re-export the Original Code
+               except as authorized by United States law and the laws of the jurisdiction in which the
+               Original Code was obtained. In particular, but without limitation, the Original Code may
+               not be exported or re-exported (a) into (or to a national or resident of) any U.S.
+               embargoed country or (b) to anyone on the U.S. Treasury Department&amp;apos;s list of
+               Specially Designated Nationals or the U.S. Department of Commerce&amp;apos;s Table of Denial
+               Orders. By using the Original Code, You represent and warrant that You are not located in,
+               under control of, or a national or resident of any such country or on any such list.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;13.2&lt;/var&gt;
+            Government End Users. The Covered Code is a &amp;quot;commercial item&amp;quot; as defined in FAR
+               2.101. Government software and technical data rights in the Covered Code include only
+               those rights customarily provided to the public as defined in this License. This customary
+               commercial license in technical data and software is provided in
+              &lt;br /&gt;
+
+      accordance with FAR 12.211 (Technical Data) and 12.212 (Computer Software) and, for
+                   Department of Defense purchases, DFAR 252.227-7015 (Technical Data -- Commercial
+                   Items) and 227.7202-3 (Rights in Commercial Computer Software or Computer Software
+                   Documentation). Accordingly, all U.S. Government End Users acquire Covered Code
+                   with only those rights set forth herein.
+
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;13.3&lt;/var&gt;
+            Relationship of Parties. This License will not be construed as creating an agency,
+               partnership, joint venture or any other form of legal association between You and Apple,
+               and You will not represent to the contrary, whether expressly, by implication, appearance
+               or otherwise.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;13.4&lt;/var&gt;
+            Independent Development. Nothing in this License will impair Apple&amp;apos;s right to acquire,
+               license, develop, have others develop for it, market and/or distribute technology or
+               products that perform the same or similar functions as, or otherwise compete with,
+               Modifications, Larger Works, technology or products that You may develop, produce, market
+               or distribute.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;13.5&lt;/var&gt;
+            Waiver; Construction. Failure by Apple to enforce any provision of this License will not be
+               deemed a waiver of future enforcement of that or any other provision. Any law or
+               regulation which provides that the language of a contract shall be construed against the
+               drafter will not apply to this License.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;13.6&lt;/var&gt;
+            Severability. (a) If for any reason a court of competent jurisdiction finds any provision of
+               this License, or portion thereof, to be unenforceable, that provision of the License will
+               be enforced to the maximum extent permissible so as to effect the economic benefits and
+               intent of the parties, and the remainder of this License will continue in full force and
+               effect. (b) Notwithstanding the foregoing, if applicable law prohibits or restricts You
+               from fully and/or specifically complying with Sections 2 and/or 3 or prevents the
+               enforceability of either of those Sections, this License will immediately terminate and
+               You must immediately discontinue any use of the Covered Code and destroy all copies of it
+               that are in your possession or control.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;13.7&lt;/var&gt;
+            Dispute Resolution. Any litigation or other dispute resolution between You and Apple relating
+               to this License shall take place in the Northern District of California, and You and Apple
+               hereby consent to the personal jurisdiction of, and venue in, the state and federal courts
+               within that District with respect to this License. The application of the United Nations
+               Convention on Contracts for the International Sale of Goods is expressly excluded.
+          &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;13.8&lt;/var&gt;
+            Entire Agreement; Governing Law. This License constitutes the entire agreement between the
+               parties with respect to the subject matter hereof. This License shall be governed by the
+               laws of the United States and the State of California, except that body of California law
+               concerning conflicts of law.
+      &lt;p&gt;Where You are located in the province of Quebec, Canada, the following clause applies: The parties hereby
+         confirm that they have requested that this License and all related documents be drafted in English.
+         Les parties ont exige que le present contrat et tous les documents connexes soient rediges en
+         anglais.&lt;/p&gt;
+
+              &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;EXHIBIT A.&lt;/p&gt;
+
+         &lt;p&gt;&amp;quot;Portions Copyright (c) 1999 Apple Computer, Inc. All Rights Reserved. This file contains Original
+         Code and/or Modifications of Original Code as defined in and that are subject to the Apple Public
+         Source License Version 1.0 (the &amp;apos;License&amp;apos;). You may not use this file except in compliance
+         with the License. Please obtain a copy of the License at http://www.apple.com/publicsource and read it
+         before using this file.&lt;/p&gt;
+
+         &lt;p&gt;The Original Code and all software distributed under the License are distributed on an &amp;apos;AS IS&amp;apos;
+         basis, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, AND APPLE HEREBY DISCLAIMS ALL SUCH
+         WARRANTIES, INCLUDING WITHOUT LIMITATION, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+         PURPOSE OR NON-INFRINGEMENT. Please see the License for the specific language governing rights and
+         limitations under the License.&amp;quot;&lt;/p&gt;
+
+      &lt;/div&gt;
+    </spdx:licenseTextHtml>
+  </spdx:ListedLicense>
+</rdf:RDF>

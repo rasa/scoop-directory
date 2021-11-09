@@ -1,0 +1,72 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/MirOS">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://opensource.org/licenses/MirOS</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:08</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://opensource.org/licenses/MirOS</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>The MirOS Licence</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;The MirOS Licence&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;Copyright [YEAR] [NAME] [EMAIL]
+      &lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;Provided that these terms and disclaimer and all copyright notices are retained or reproduced in an
+         accompanying document, permission is granted to deal in this work without restriction, including
+         unlimited rights to use, publicly perform, distribute, sell, modify, merge, give away, or
+         sublicence.&lt;/p&gt;
+
+      &lt;p&gt;This work is provided &amp;quot;AS IS&amp;quot; and WITHOUT WARRANTY of any kind, to the utmost extent permitted by
+         applicable law, neither express nor implied; without malicious intent or gross negligence. In no event
+         may a licensor, author or contributor be held liable for indirect, direct, other damage, loss, or
+         other issues arising in any way out of dealing in the work, even if advised of the possibility of such
+         damage or existence of a defect, except proven that it results out of said person&amp;apos;s immediate fault
+         when using the work as intended.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; The MirOS Licence
+
+&lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="copyright";original="Copyright [YEAR] [NAME] [EMAIL]  ";match=".{0,5000}"&gt;&gt;
+
+Provided that these terms and disclaimer and all copyright notices are retained or reproduced in an accompanying document, permission is granted to deal in this work without restriction, including unlimited rights to use, publicly perform, distribute, sell, modify, merge, give away, or sublicence.
+
+This work is provided "AS IS" and WITHOUT WARRANTY of any kind, to the utmost extent permitted by applicable law, neither express nor implied; without malicious intent or gross negligence. In no event may a licensor, author or contributor be held liable for indirect, direct, other damage, loss, or other issues arising in any way out of dealing in the work, even if advised of the possibility of such damage or existence of a defect, except proven that it results out of said person's immediate fault when using the work as intended.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>The MirOS Licence
+
+Copyright [YEAR] [NAME] [EMAIL]
+
+Provided that these terms and disclaimer and all copyright notices are retained or reproduced in an accompanying document, permission is granted to deal in this work without restriction, including unlimited rights to use, publicly perform, distribute, sell, modify, merge, give away, or sublicence.
+
+This work is provided "AS IS" and WITHOUT WARRANTY of any kind, to the utmost extent permitted by applicable law, neither express nor implied; without malicious intent or gross negligence. In no event may a licensor, author or contributor be held liable for indirect, direct, other damage, loss, or other issues arising in any way out of dealing in the work, even if advised of the possibility of such damage or existence of a defect, except proven that it results out of said person's immediate fault when using the work as intended.
+
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

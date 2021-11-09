@@ -1,0 +1,81 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "false",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 17:02:24",
+    "url" : "https://fedoraproject.org/wiki/Licensing/Barr"
+  }, {
+    "@id" : "http://spdx.org/licenses/Barr",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "This is a package of commutative diagram macros built on top of Xy-pic  by Michael Barr (email: barr@barrs.org). Its use is unrestricted. It  may be freely distributed, unchanged, for non-commercial or commercial  use. If changed, it must be renamed. Inclusion in a commercial  software package is also permitted, but I would appreciate receiving a  free copy for my personal examination and use. There are no guarantees  that this package is good for anything. I have tested it with LaTeX 2e,  LaTeX 2.09 and Plain TeX. Although I know of no reason it will not work  with AMSTeX, I have not tested it.\n",
+    "licenseTextHtml" : "\n      <p>This is a package of commutative diagram macros built on top of Xy-pic by Michael Barr (email:\n         barr@barrs.org). Its use is unrestricted. It may be freely distributed, unchanged, for non-commercial\n         or commercial use. If changed, it must be renamed. Inclusion in a commercial software package is also\n         permitted, but I would appreciate receiving a free copy for my personal examination and use. There are\n         no guarantees that this package is good for anything. I have tested it with LaTeX 2e, LaTeX 2.09 and\n         Plain TeX. Although I know of no reason it will not work with AMSTeX, I have not tested it.</p>\n\n    ",
+    "name" : "Barr License",
+    "standardLicenseTemplate" : "This is a package of commutative diagram macros built on top of Xy-pic by Michael Barr (email: barr@barrs.org). Its use is unrestricted. It may be freely distributed, unchanged, for non-commercial or commercial use. If changed, it must be renamed. Inclusion in a commercial software package is also permitted, but I would appreciate receiving a free copy for my personal examination and use. There are no guarantees that this package is good for anything. I have tested it with LaTeX 2e, LaTeX 2.09 and Plain TeX. Although I know of no reason it will not work with AMSTeX, I have not tested it.\n\n",
+    "seeAlso" : "https://fedoraproject.org/wiki/Licensing/Barr"
+  } ],
+  "@context" : {
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

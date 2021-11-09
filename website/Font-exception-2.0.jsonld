@@ -1,0 +1,38 @@
+{
+  "@id" : "http://spdx.org/licenses/Font-exception-2.0",
+  "@type" : "spdx:LicenseException",
+  "exceptionTextHtml" : "\n      <p>As a special exception, if you create a document which uses this\n         font, and embed this font or unaltered portions of this font\n         into the document, this font does not by itself cause the\n         resulting document to be covered by the GNU General Public\n         License. This exception does not however invalidate any other\n         reasons why the document might be covered by the GNU General\n         Public License. If you modify this font, you may extend this\n         exception to your version of the font, but you are not\n         obligated to do so. If you do not wish to do so, delete this\n         exception statement from your version.</p>\n\n    ",
+  "spdx:isDeprecatedLicenseId" : false,
+  "licenseExceptionTemplate" : "As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.\n\n",
+  "licenseExceptionText" : "As a special exception, if you create a document which uses this font, and embed this font or unaltered portions of this font into the document, this font does not by itself cause the resulting document to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the document might be covered by the GNU General Public License. If you modify this font, you may extend this exception to your version of the font, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.\n",
+  "name" : "Font exception 2.0",
+  "comment" : "Typically used with GPL-2.0",
+  "seeAlso" : "http://www.gnu.org/licenses/gpl-faq.html#FontException",
+  "@context" : {
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "exceptionTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#exceptionTextHtml"
+    },
+    "licenseExceptionText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseExceptionText"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseExceptionTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseExceptionTemplate"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

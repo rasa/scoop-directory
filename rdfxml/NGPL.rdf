@@ -1,0 +1,209 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/NGPL">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://opensource.org/licenses/NGPL</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:49</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://opensource.org/licenses/NGPL</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>Nethack General Public License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;NETHACK GENERAL PUBLIC LICENSE&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;(Copyright 1989 M. Stephenson)&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;(Based on the BISON general public license, copyright 1988 Richard M. Stallman)&lt;/p&gt;
+
+      &lt;p&gt;Everyone is permitted to copy and distribute verbatim copies of this license, but changing it is not
+         allowed. You can also use this wording to make the terms for other programs.&lt;/p&gt;
+
+      &lt;p&gt;The license agreements of most software companies keep you at the mercy of those companies. By contrast,
+         our general public license is intended to give everyone the right to share NetHack. To make sure that
+         you get the rights we want you to have, we need to make restrictions that forbid anyone to deny you
+         these rights or to ask you to surrender the rights. Hence this license agreement.&lt;/p&gt;
+
+      &lt;p&gt;Specifically, we want to make sure that you have the right to give away copies of NetHack, that you
+         receive source code or else can get it if you want it, that you can change NetHack or use pieces of it
+         in new free programs, and that you know you can do these things.&lt;/p&gt;
+
+      &lt;p&gt;To make sure that everyone has such rights, we have to forbid you to deprive anyone else of these rights.
+         For example, if you distribute copies of NetHack, you must give the recipients all the rights that you
+         have. You must make sure that they, too, receive or can get the source code. And you must tell them
+         their rights.&lt;/p&gt;
+
+      &lt;p&gt;Also, for our own protection, we must make certain that everyone finds out that there is no warranty for
+         NetHack. If NetHack is modified by someone else and passed on, we want its recipients to know that
+         what they have is not what we distributed.&lt;/p&gt;
+
+      &lt;p&gt;Therefore we (Mike Stephenson and other holders of NetHack copyrights) make the following terms which say
+         what you must do to be allowed to distribute or change NetHack.&lt;/p&gt;
+
+      &lt;p&gt;COPYING POLICIES&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          You may copy and distribute verbatim copies of NetHack source code as you receive it, in any medium,
+             provided that you keep intact the notices on all files that refer to copyrights, to this License
+             Agreement, and to the absence of any warranty; and give any other recipients of the NetHack program a
+             copy of this License Agreement along with the program.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          You may modify your copy or copies of NetHack or any portion of it, and copy and distribute such
+            modifications under the terms of Paragraph 1 above (including distributing this License Agreement),
+            provided that you also do the following:
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;a)&lt;/var&gt;
+              cause the modified files to carry prominent notices stating that you changed the files and
+                 the date of any change; and
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;b)&lt;/var&gt;
+              cause the whole of any work that you distribute or publish, that in whole or in part contains
+                 or is a derivative of NetHack or any part thereof, to be licensed at no charge to all
+                 third parties on terms identical to those contained in this License Agreement (except that
+                 you may choose to grant more extensive warranty protection to some or all third parties,
+                 at your option)
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;c)&lt;/var&gt;
+              You may charge a distribution fee for the physical act of transferring a copy, and you may at
+                 your option offer warranty protection in exchange for a fee.
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          You may copy and distribute NetHack (or a portion or derivative of it, under Paragraph 2) in
+             object code or executable form under the terms of Paragraphs 1 and 2 above provided that
+             you also do one of the following:
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;a)&lt;/var&gt;
+              accompany it with the complete machine-readable source code, which must be distributed under
+                 the terms of Paragraphs 1 and 2 above; or,
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;b)&lt;/var&gt;
+              accompany it with full information as to how to obtain the complete machine-readable source
+                 code from an appropriate archive site. (This alternative is allowed only for noncommercial
+                 distribution.)
+            &lt;/li&gt;
+&lt;/ul&gt;
+           &lt;p&gt;For these purposes, complete source code means either the full source distribution as originally released
+              over Usenet or updated copies of the files in this distribution used to create the object code or
+              executable.&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt;
+          You may not copy, sublicense, distribute or transfer NetHack except as expressly provided under this
+             License Agreement. Any attempt otherwise to copy, sublicense, distribute or transfer NetHack is void
+             and your rights to use the program under this License agreement shall be automatically terminated.
+             However, parties who have received computer software programs from you with this License Agreement
+             will not have their licenses terminated so long as such parties remain in full compliance.
+        &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;p&gt;Stated plainly: You are permitted to modify NetHack, or otherwise use parts of NetHack, provided
+         that you comply with the conditions specified above; in particular, your modified NetHack or
+         program containing parts of NetHack must remain freely available as provided in this License
+         Agreement. In other words, go ahead and share NetHack, but don&amp;apos;t try to stop anyone else
+         from sharing it farther.
+      &lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; NETHACK GENERAL PUBLIC LICENSE
+
+&lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="copyright";original="(Copyright 1989 M. Stephenson)  ";match=".{0,5000}"&gt;&gt;
+
+(Based on the BISON general public license, copyright 1988 Richard M. Stallman)
+
+Everyone is permitted to copy and distribute verbatim copies of this license, but changing it is not allowed. You can also use this wording to make the terms for other programs.
+
+The license agreements of most software companies keep you at the mercy of those companies. By contrast, our general public license is intended to give everyone the right to share NetHack. To make sure that you get the rights we want you to have, we need to make restrictions that forbid anyone to deny you these rights or to ask you to surrender the rights. Hence this license agreement.
+
+Specifically, we want to make sure that you have the right to give away copies of NetHack, that you receive source code or else can get it if you want it, that you can change NetHack or use pieces of it in new free programs, and that you know you can do these things.
+
+To make sure that everyone has such rights, we have to forbid you to deprive anyone else of these rights. For example, if you distribute copies of NetHack, you must give the recipients all the rights that you have. You must make sure that they, too, receive or can get the source code. And you must tell them their rights.
+
+Also, for our own protection, we must make certain that everyone finds out that there is no warranty for NetHack. If NetHack is modified by someone else and passed on, we want its recipients to know that what they have is not what we distributed.
+
+Therefore we (Mike Stephenson and other holders of NetHack copyrights) make the following terms which say what you must do to be allowed to distribute or change NetHack.
+
+COPYING POLICIES
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; You may copy and distribute verbatim copies of NetHack source code as you receive it, in any medium, provided that you keep intact the notices on all files that refer to copyrights, to this License Agreement, and to the absence of any warranty; and give any other recipients of the NetHack program a copy of this License Agreement along with the program.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; You may modify your copy or copies of NetHack or any portion of it, and copy and distribute such modifications under the terms of Paragraph 1 above (including distributing this License Agreement), provided that you also do the following:
+
+      &lt;&lt;var;name="bullet";original="a)";match=".{0,20}"&gt;&gt; cause the modified files to carry prominent notices stating that you changed the files and the date of any change; and
+
+      &lt;&lt;var;name="bullet";original="b)";match=".{0,20}"&gt;&gt; cause the whole of any work that you distribute or publish, that in whole or in part contains or is a derivative of NetHack or any part thereof, to be licensed at no charge to all third parties on terms identical to those contained in this License Agreement (except that you may choose to grant more extensive warranty protection to some or all third parties, at your option)
+
+      &lt;&lt;var;name="bullet";original="c)";match=".{0,20}"&gt;&gt; You may charge a distribution fee for the physical act of transferring a copy, and you may at your option offer warranty protection in exchange for a fee.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; You may copy and distribute NetHack (or a portion or derivative of it, under Paragraph 2) in object code or executable form under the terms of Paragraphs 1 and 2 above provided that you also do one of the following:
+
+      &lt;&lt;var;name="bullet";original="a)";match=".{0,20}"&gt;&gt; accompany it with the complete machine-readable source code, which must be distributed under the terms of Paragraphs 1 and 2 above; or,
+
+      &lt;&lt;var;name="bullet";original="b)";match=".{0,20}"&gt;&gt; accompany it with full information as to how to obtain the complete machine-readable source code from an appropriate archive site. (This alternative is allowed only for noncommercial distribution.)
+
+   For these purposes, complete source code means either the full source distribution as originally released over Usenet or updated copies of the files in this distribution used to create the object code or executable.
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; You may not copy, sublicense, distribute or transfer NetHack except as expressly provided under this License Agreement. Any attempt otherwise to copy, sublicense, distribute or transfer NetHack is void and your rights to use the program under this License agreement shall be automatically terminated. However, parties who have received computer software programs from you with this License Agreement will not have their licenses terminated so long as such parties remain in full compliance.
+
+Stated plainly: You are permitted to modify NetHack, or otherwise use parts of NetHack, provided that you comply with the conditions specified above; in particular, your modified NetHack or program containing parts of NetHack must remain freely available as provided in this License Agreement. In other words, go ahead and share NetHack, but don't try to stop anyone else from sharing it farther.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>NETHACK GENERAL PUBLIC LICENSE
+(Copyright 1989 M. Stephenson)
+(Based on the BISON general public license, copyright 1988 Richard M. Stallman)
+Everyone is permitted to copy and distribute verbatim copies of this license, but changing it is not allowed. You can also use this wording to make the terms for other programs.
+The license agreements of most software companies keep you at the mercy of those companies. By contrast, our general public license is intended to give everyone the right to share NetHack. To make sure that you get the rights we want you to have, we need to make restrictions that forbid anyone to deny you these rights or to ask you to surrender the rights. Hence this license agreement.
+Specifically, we want to make sure that you have the right to give away copies of NetHack, that you receive source code or else can get it if you want it, that you can change NetHack or use pieces of it in new free programs, and that you know you can do these things.
+To make sure that everyone has such rights, we have to forbid you to deprive anyone else of these rights. For example, if you distribute copies of NetHack, you must give the recipients all the rights that you have. You must make sure that they, too, receive or can get the source code. And you must tell them their rights.
+Also, for our own protection, we must make certain that everyone finds out that there is no warranty for NetHack. If NetHack is modified by someone else and passed on, we want its recipients to know that what they have is not what we distributed.
+Therefore we (Mike Stephenson and other holders of NetHack copyrights) make the following terms which say what you must do to be allowed to distribute or change NetHack.
+COPYING POLICIES
+   1. You may copy and distribute verbatim copies of NetHack source code as you receive it, in any medium, provided that you keep intact the notices on all files that refer to copyrights, to this License Agreement, and to the absence of any warranty; and give any other recipients of the NetHack program a copy of this License Agreement along with the program.
+   2. You may modify your copy or copies of NetHack or any portion of it, and copy and distribute such modifications under the terms of Paragraph 1 above (including distributing this License Agreement), provided that you also do the following:
+      a) cause the modified files to carry prominent notices stating that you changed the files and the date of any change; and
+      b) cause the whole of any work that you distribute or publish, that in whole or in part contains or is a derivative of NetHack or any part thereof, to be licensed at no charge to all third parties on terms identical to those contained in this License Agreement (except that you may choose to grant more extensive warranty protection to some or all third parties, at your option)
+      c) You may charge a distribution fee for the physical act of transferring a copy, and you may at your option offer warranty protection in exchange for a fee.
+   3. You may copy and distribute NetHack (or a portion or derivative of it, under Paragraph 2) in object code or executable form under the terms of Paragraphs 1 and 2 above provided that you also do one of the following:
+      a) accompany it with the complete machine-readable source code, which must be distributed under the terms of Paragraphs 1 and 2 above; or,
+      b) accompany it with full information as to how to obtain the complete machine-readable source code from an appropriate archive site. (This alternative is allowed only for noncommercial distribution.)
+   For these purposes, complete source code means either the full source distribution as originally released over Usenet or updated copies of the files in this distribution used to create the object code or executable.
+   4. You may not copy, sublicense, distribute or transfer NetHack except as expressly provided under this License Agreement. Any attempt otherwise to copy, sublicense, distribute or transfer NetHack is void and your rights to use the program under this License agreement shall be automatically terminated. However, parties who have received computer software programs from you with this License Agreement will not have their licenses terminated so long as such parties remain in full compliance.
+Stated plainly: You are permitted to modify NetHack, or otherwise use parts of NetHack, provided that you comply with the conditions specified above; in particular, your modified NetHack or program containing parts of NetHack must remain freely available as provided in this License Agreement. In other words, go ahead and share NetHack, but don't try to stop anyone else from sharing it farther.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

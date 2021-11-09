@@ -1,0 +1,85 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : false,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "N/A",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 16:53:18",
+    "url" : "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense"
+  }, {
+    "@id" : "http://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "\nCopyright © 2008, 2014 Oracle and/or its affiliates. All rights reserved.\n\nUse is subject to license terms.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n     * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n     * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n     * Neither the name of Oracle Corporation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nYou acknowledge that this software is not designed, licensed or intended for use in the design, construction, operation or maintenance of any nuclear facility.\n",
+    "licenseTextHtml" : "\n      <div class=\"replacable-license-text\">\n         <p>Copyright © 2008, 2014 Oracle and/or its affiliates. All rights\n         reserved.</p>\n\n      </div>\n      <p>Use is subject to license terms.</p>\n\n      <p>Redistribution and use in source and binary forms, with or\n         without modification, are permitted provided that the\n         following conditions are met:</p>\n\n<ul style=\"list-style:none\">\n<li>\n            <var class=\"replacable-license-text\">*</var>\n          Redistributions of source code must retain the above\n             copyright notice, this list of conditions and the\n             following disclaimer.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">*</var>\n          Redistributions in binary form must reproduce the above\n             copyright notice, this list of conditions and the\n             following disclaimer in the documentation and/or other\n             materials provided with the distribution.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">*</var>\n          Neither the name of Oracle Corporation nor the names of\n             its contributors may be used to endorse or promote\n             products derived from this software without specific\n             prior written permission.\n        </li>\n</ul>\n      <p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND\n         CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES,\n         INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF\n         MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE\n         DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR\n         CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,\n         SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT\n         NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;\n         LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\n         HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN\n         CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR\n         OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE,\n         EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>\n\n      <p>You acknowledge that this software is not designed, licensed or\n         intended for use in the design, construction, operation or\n         maintenance of any nuclear facility.</p>\n\n    ",
+    "name" : "BSD 3-Clause No Nuclear License 2014",
+    "standardLicenseTemplate" : "<<var;name=\"copyright\";original=\"Copyright © 2008, 2014 Oracle and/or its affiliates. All rights reserved.  \";match=\".{0,5000}\">>\n\nUse is subject to license terms.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n   <<var;name=\"bullet\";original=\"*\";match=\".{0,20}\">> Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n   <<var;name=\"bullet\";original=\"*\";match=\".{0,20}\">> Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n   <<var;name=\"bullet\";original=\"*\";match=\".{0,20}\">> Neither the name of Oracle Corporation nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nTHIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\nYou acknowledge that this software is not designed, licensed or intended for use in the design, construction, operation or maintenance of any nuclear facility.\n\n",
+    "comment" : "This license has a Oracle copyright notice. It is the same license as BSD-3-Clause-No-Nuclear-License, except it has a different entire disclaimer clause that is the same as BSD-3-Clause.",
+    "seeAlso" : "https://java.net/projects/javaeetutorial/pages/BerkeleyLicense"
+  } ],
+  "@context" : {
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

@@ -1,0 +1,39 @@
+_:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 <http://spdx.org/rdf/terms#timestamp> "2021-11-09 - 16:58:10" .
+_:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 <http://spdx.org/rdf/terms#url> "https://www.isc.org/downloads/software-support-policy/isc-license/" .
+_:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 <http://spdx.org/rdf/terms#match> "false" .
+_:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad <http://spdx.org/rdf/terms#timestamp> "2021-11-09 - 16:58:10" .
+_:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad <http://spdx.org/rdf/terms#url> "https://www.isc.org/licenses/" .
+_:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad <http://spdx.org/rdf/terms#match> "false" .
+_:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#isFsfLibre> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#crossRef> _:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 .
+<http://spdx.org/licenses/ISC> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.isc.org/licenses/" .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#licenseTextHtml> "\n      <div class=\"optional-license-text\">\n         <p><var class=\"replacable-license-text\">ISC License</var></p>\n\n      </div>\n      <div class=\"replacable-license-text\">\n         <p>&lt;copyright notice&gt;</p>\n\n      </div>\n\n      <p>Permission to use, copy, modify, and<var class=\"optional-license-text\">/or</var> distribute this software for any purpose with or without fee is\n         hereby granted, provided that the above copyright notice and this permission notice appear in all\n         copies.</p>\n\n      <p>THE SOFTWARE IS PROVIDED &quot;AS IS&quot; AND <var class=\"replacable-license-text\">THE AUTHOR</var> DISCLAIMS ALL\n         WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND\n         FITNESS. IN NO EVENT SHALL <var class=\"replacable-license-text\">THE AUTHOR</var> BE LIABLE FOR ANY\n         SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF\n         USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING\n         OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.</p>\n\n    " .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#standardLicenseTemplate> "<<beginOptional>> <<var;name=\"title\";original=\"ISC License\";match=\"(The )?ISC License( \\(ISC[L]?\\))?:?\">>\n\n<<endOptional>> <<var;name=\"copyright\";original=\"<copyright notice>  \";match=\".{0,5000}\">>\n\nPermission to use, copy, modify, and<<beginOptional>> /or<<endOptional>> distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND <<var;name=\"author\";original=\"THE AUTHOR\";match=\".+\">> DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL <<var;name=\"authorLiability\";original=\"THE AUTHOR\";match=\".+\">> BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n\n" .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#crossRef> _:B773020cdX2D1bb8X2D4ca3X2Db74aX2D2487945d5aad .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#isOsiApproved> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://spdx.org/licenses/ISC> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://www.isc.org/downloads/software-support-policy/isc-license/" .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#name> "ISC License" .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#crossRef> _:B5ca18752X2D6c79X2D4a56X2Daeb4X2Dbfd04c865689 .
+<http://spdx.org/licenses/ISC> <http://spdx.org/rdf/terms#licenseText> "ISC License:\n\nCopyright (c) 2004-2010 by Internet Systems Consortium, Inc. (\"ISC\")\nCopyright (c) 1995-2003 by Internet Software Consortium\n\nPermission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND ISC DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL ISC BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n" .
+<http://spdx.org/licenses/ISC> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://opensource.org/licenses/ISC" .
+<http://spdx.org/licenses/ISC> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
+<http://spdx.org/licenses/ISC> <http://www.w3.org/2000/01/rdf-schema#comment> "The ISC License text changed 'and' to 'and/or' in July 2007." .
+_:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 <http://spdx.org/rdf/terms#timestamp> "2021-11-09 - 16:58:10" .
+_:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 <http://spdx.org/rdf/terms#order> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 <http://spdx.org/rdf/terms#url> "https://opensource.org/licenses/ISC" .
+_:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 <http://spdx.org/rdf/terms#match> "false" .
+_:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B6804bf59X2D3fc6X2D4e98X2D91d4X2D6191025b1956 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .

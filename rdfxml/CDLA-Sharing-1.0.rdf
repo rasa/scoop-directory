@@ -1,0 +1,558 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/CDLA-Sharing-1.0">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://cdla.io/sharing-1-0</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:54:29</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://cdla.io/sharing-1-0</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>Community Data License Agreement Sharing 1.0</spdx:name>
+    <spdx:licenseTextHtml>
+    &lt;div class="optional-license-text"&gt;
+      &lt;p&gt;
+        Community Data License Agreement - Sharing - Version 1.0
+      &lt;/p&gt;
+
+    &lt;/div&gt;
+    &lt;p&gt;
+      This is the Community Data License Agreement - Sharing, Version
+      1.0 (&amp;quot;Agreement&amp;quot;). Data is provided to You under this Agreement
+      by each of the Data Providers. Your exercise of any of the rights
+      and permissions granted below constitutes Your acceptance and
+      agreement to be bound by the terms and conditions of this Agreement.
+    &lt;/p&gt;
+
+    &lt;p&gt;
+      The benefits that each Data Provider receives from making
+      Data available and that You receive from Data or otherwise
+      under these terms and conditions shall be deemed sufficient
+      consideration for the formation of this Agreement. Accordingly,
+      Data Provider(s) and You (the &amp;quot;Parties&amp;quot;) agree as follows:
+    &lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+        &lt;var class="replacable-license-text"&gt;Section 1.&lt;/var&gt;
+        Definitions
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.1&lt;/var&gt;
+            &amp;quot;Add&amp;quot; means to supplement Data with Your own or someone else&amp;apos;s Data,
+            resulting in Your &amp;quot;Additions.&amp;quot; Additions do not include Results.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.2&lt;/var&gt;
+            &amp;quot;Computational Use&amp;quot; means Your analysis (through the use of
+            computational devices or otherwise) or other interpretation
+            of Data. By way of example and not limitation, &amp;quot;Computational
+            Use&amp;quot; includes the application of any computational analytical
+            technique, the purpose of which is the analysis of any Data in
+            digital form to generate information about Data such as patterns,
+            trends, correlations, inferences, insights and attributes.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.3&lt;/var&gt;
+            &amp;quot;Data&amp;quot; means the information (including copyrightable information,
+            such as images or text), collectively or individually, whether
+            created or gathered by a Data Provider or an Entity acting on
+            its behalf, to which rights are granted under this Agreement.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.4&lt;/var&gt;
+            &amp;quot;Data Provider&amp;quot; means any Entity (including any
+            employee or contractor of such Entity authorized to
+            Publish Data on behalf of such Entity) that Publishes
+            Data under this Agreement prior to Your Receiving it.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.5&lt;/var&gt;
+            &amp;quot;Enhanced Data&amp;quot; means the subset of Data that You Publish
+            and that is composed of (a) Your Additions and/or (b)
+            Modifications to Data You have received under this Agreement.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.6&lt;/var&gt;
+            &amp;quot;Entity&amp;quot; means any natural person or organization that exists under
+            the laws of the jurisdiction in which it is organized, together
+            with all other entities that control, are controlled by, or are
+            under common control with that entity. For the purposes of this
+            definition, &amp;quot;control&amp;quot; means (a) the power, directly or indirectly,
+            to cause the direction or management of such entity, whether by
+            contract or otherwise, (b) the ownership of more than fifty percent
+            (50%) of the outstanding shares or securities, (c) the beneficial
+            ownership of such entity or, (d) the ability to appoint, whether
+            by agreement or right, the majority of directors of an Entity.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.7&lt;/var&gt;
+            &amp;quot;Ledger&amp;quot; means a digital record of Data or grants of rights
+            in Data governed by this Agreement, using any technology
+            having functionality to record and store Data or grants,
+            contributions, or licenses to Data governed by this Agreement.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.8&lt;/var&gt;
+            &amp;quot;Modify&amp;quot; means to delete, erase, correct or re-arrange Data,
+            resulting in &amp;quot;Modifications.&amp;quot; Modifications do not include Results.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.9&lt;/var&gt;
+            &amp;quot;Publish&amp;quot; means to make all or a subset of Data (including Your
+            Enhanced Data) available in any manner which enables its Use,
+            including by providing a copy on physical media or remote access.
+            For any form of Entity, that is to make the Data available to
+            any individual who is not employed by that Entity or engaged
+            as a contractor or agent to perform work on that Entity&amp;apos;s
+            behalf. A &amp;quot;Publication&amp;quot; occurs each time You Publish Data.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.10&lt;/var&gt;
+            &amp;quot;Receive&amp;quot; or &amp;quot;Receives&amp;quot; means to have been
+            given access to Data, locally or remotely.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.11&lt;/var&gt;
+            &amp;quot;Results&amp;quot; means the outcomes or outputs that You obtain from Your
+            Computational Use of Data. Results shall not include more than a de
+            minimis portion of the Data on which the Computational Use is based.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.12&lt;/var&gt;
+            &amp;quot;Sui Generis Database Rights&amp;quot; means rights, other than
+            copyright, resulting from Directive 96/9/EC of the European
+            Parliament and of the Council of 11 March 1996 on the legal
+            protection of databases, as amended and/or succeeded, as
+            well as other equivalent rights anywhere in the world.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.13&lt;/var&gt;
+            &amp;quot;Use&amp;quot; means using Data (including accessing, copying, studying,
+            reviewing, adapting, analyzing, evaluating, or making Computational
+            Use of it), either by machines or humans, or a combination of both.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.14&lt;/var&gt;
+            &amp;quot;You&amp;quot; or &amp;quot;Your&amp;quot; means any Entity that
+            Receives Data under this Agreement.
+          &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;/li&gt;
+&lt;li&gt;
+        &lt;var class="replacable-license-text"&gt;Section 2.&lt;/var&gt;
+        Right and License to Use and to Publish
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.1&lt;/var&gt;
+            Subject to the conditions set forth in Section 3 of this
+            Agreement, Data Provider(s) hereby grant(s) to You a
+            worldwide, non-exclusive, irrevocable (except as provided
+            in Section 5) right to: (a) Use Data; and (b) Publish Data.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.2&lt;/var&gt;
+            To the extent that the Data or the coordination, selection or
+            arrangement of Data is protected or protectable under copyright,
+            Sui Generis Database Rights, or other law, Data Provider(s)
+            further agree(s) that such Data or coordination, selection or
+            arrangement is hereby licensed to You and to anyone else who
+            Receives Data under this Agreement for Use and Publication,
+            subject to the conditions set forth in Section 3 of this Agreement.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.3&lt;/var&gt;
+            Except for these rights and licenses expressly granted, no other
+            intellectual property rights are granted or should be implied.
+          &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;/li&gt;
+&lt;li&gt;
+        &lt;var class="replacable-license-text"&gt;Section 3.&lt;/var&gt;
+        Conditions on Rights Granted
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.1&lt;/var&gt;
+            If You Publish Data You Receive or Enhanced Data:
+            
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;(a)&lt;/var&gt;
+                The Data (including the Enhanced Data) must be Published
+                under this Agreement in accordance with this Section 3; and
+              &lt;/li&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;(b)&lt;/var&gt;
+                You must cause any Data files containing Enhanced Data to
+                carry prominent notices that You have changed those files; and
+              &lt;/li&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;(c)&lt;/var&gt;
+                If You Publish Data You Receive, You must preserve all credit
+                or attribution to the Data Provider(s). Such retained credit
+                or attribution includes any of the following to the extent
+                they exist in Data as You have Received it: legal notices
+                or metadata; identification of the Data Provider(s); or
+                hyperlinks to Data to the extent it is practical to do so.
+              &lt;/li&gt;
+&lt;/ul&gt;
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.2&lt;/var&gt;
+            You may not restrict or deter the ability of anyone who Receives
+            the Data (a) to Publish the Data in a publicly-accessible manner
+            or (b) if the project has designated a Ledger for recording
+            Data or grants of rights in Data for purposes of this Agreement,
+            to record the Data or grants of rights in Data in the Ledger.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.3&lt;/var&gt;
+            If You Publish Data You Receive, You must do so under an unmodified
+            form of this Agreement and include the text of this Agreement, the
+            name of this Agreement and/or a hyperlink or other method reasonably
+            likely to provide a copy of the text of this Agreement. You may
+            not modify this Agreement or impose any further restrictions on the
+            exercise of the rights granted under this Agreement, including by
+            adding any restriction on commercial or non-commercial Use of Data
+            (including Your Enhanced Data) or by limiting permitted Use of such
+            Data to any particular platform, technology or field of endeavor.
+            Notices that purport to modify this Agreement shall be of no effect.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.4&lt;/var&gt;
+            You and each Data Provider agree that Enhanced Data shall not be
+            considered a work of joint authorship by virtue of its relationship
+            to Data licensed under this Agreement and shall not require either
+            any obligation of accounting to or the consent of any Data Provider.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.5&lt;/var&gt;
+            This Agreement imposes no obligations or
+            restrictions on Your Use or Publication of Results.
+          &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;/li&gt;
+&lt;li&gt;
+        &lt;var class="replacable-license-text"&gt;Section 4.&lt;/var&gt;
+        Data Provider(s)&amp;apos; Representations
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;4.1&lt;/var&gt;
+            Each Data Provider represents that the Data Provider has
+            exercised reasonable care, to assure that: (a) the Data it
+            Publishes was created or generated by it or was obtained from
+            others with the right to Publish the Data under this Agreement;
+            and (b) Publication of such Data does not violate any privacy
+            or confidentiality obligation undertaken by the Data Provider.
+          &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;/li&gt;
+&lt;li&gt;
+        &lt;var class="replacable-license-text"&gt;Section 5.&lt;/var&gt;
+        Termination
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;5.1&lt;/var&gt;
+            All of Your rights under this Agreement will terminate, and
+            Your right to Receive, Use or Publish the Data will be revoked
+            or modified if You materially fail to comply with the terms
+            and conditions of this Agreement and You do not cure such
+            failure in a reasonable period of time after becoming aware
+            of such noncompliance. If Your rights under this Agreement
+            terminate, You agree to cease Receipt, Use and Publication of
+            Data. However, Your obligations and any rights and permissions
+            granted by You under this Agreement relating to Data that You
+            Published prior to such termination will continue and survive.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;5.2&lt;/var&gt;
+            If You institute litigation against a Data Provider or anyone
+            else who Receives the Data (including a cross-claim in a
+            lawsuit) based on the Data, other than a claim asserting
+            breach of this Agreement, then any rights previously granted
+            to You to Receive, Use and Publish Data under this Agreement
+            will terminate as of the date such litigation is filed.
+          &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;/li&gt;
+&lt;li&gt;
+        &lt;var class="replacable-license-text"&gt;Section 6.&lt;/var&gt;
+        Disclaimer of Warranties and Limitation of Liability
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;6.1&lt;/var&gt;
+            EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE
+            DATA (INCLUDING ENHANCED DATA) IS PROVIDED ON AN &amp;quot;AS
+            IS&amp;quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND,
+            EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION,
+            ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT,
+            MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;6.2&lt;/var&gt;
+            NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY
+            FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+            OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST
+            PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+            WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+            NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR
+            DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED
+            HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+          &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;/li&gt;
+&lt;li&gt;
+        &lt;var class="replacable-license-text"&gt;Section 7.&lt;/var&gt;
+        Miscellaneous
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;7.1&lt;/var&gt;
+            You agree that it is solely Your responsibility to comply with all
+            applicable laws with regard to Your Use or Publication of Data,
+            including any applicable privacy, data protection, security and
+            export laws. You agree to take reasonable steps to assist a Data
+            Provider fulfilling responsibilities to comply with applicable
+            laws with regard to Use or Publication of Data Received hereunder.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;7.2&lt;/var&gt;
+            You and Data Provider(s), collectively and individually,
+            waive and/or agree not to assert, to the extent permitted
+            by law, any moral rights You or they hold in Data.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;7.3&lt;/var&gt;
+            This Agreement confers no rights or remedies upon
+            any person or entity other than the Parties and their
+            respective heirs, executors, successors and assigns.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;7.4&lt;/var&gt;
+            The Data Provider(s) reserve no right or expectation of privacy,
+            data protection or confidentiality in any Data that they Publish
+            under this Agreement. If You choose to Publish Data under this
+            Agreement, You similarly do so with no reservation or expectation
+            of any rights of privacy or confidentiality in that Data.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;7.5&lt;/var&gt;
+            The Community Data License Agreement workgroup under The Linux
+            Foundation is the steward of this Agreement (&amp;quot;Steward&amp;quot;). No
+            one other than the Steward has the right to modify or publish
+            new versions of this Agreement. Each version will be given a
+            distinguishing version number. You may Use and Publish Data
+            Received hereunder under the terms of the version of the
+            Agreement under which You originally Received the Data, or under
+            the terms of any subsequent version published by the Steward.
+          &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;/li&gt;
+&lt;/ul&gt;
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; Community Data License Agreement - Sharing - Version 1.0
+
+&lt;&lt;endOptional&gt;&gt;
+
+This is the Community Data License Agreement - Sharing, Version 1.0 ("Agreement"). Data is provided to You under this Agreement by each of the Data Providers. Your exercise of any of the rights and permissions granted below constitutes Your acceptance and agreement to be bound by the terms and conditions of this Agreement.
+
+The benefits that each Data Provider receives from making Data available and that You receive from Data or otherwise under these terms and conditions shall be deemed sufficient consideration for the formation of this Agreement. Accordingly, Data Provider(s) and You (the "Parties") agree as follows:
+
+   &lt;&lt;var;name="bullet";original="Section 1.";match=".{0,20}"&gt;&gt; Definitions
+
+      &lt;&lt;var;name="bullet";original="1.1";match=".{0,20}"&gt;&gt; "Add" means to supplement Data with Your own or someone else's Data, resulting in Your "Additions." Additions do not include Results.
+
+      &lt;&lt;var;name="bullet";original="1.2";match=".{0,20}"&gt;&gt; "Computational Use" means Your analysis (through the use of computational devices or otherwise) or other interpretation of Data. By way of example and not limitation, "Computational Use" includes the application of any computational analytical technique, the purpose of which is the analysis of any Data in digital form to generate information about Data such as patterns, trends, correlations, inferences, insights and attributes.
+
+      &lt;&lt;var;name="bullet";original="1.3";match=".{0,20}"&gt;&gt; "Data" means the information (including copyrightable information, such as images or text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.
+
+      &lt;&lt;var;name="bullet";original="1.4";match=".{0,20}"&gt;&gt; "Data Provider" means any Entity (including any employee or contractor of such Entity authorized to Publish Data on behalf of such Entity) that Publishes Data under this Agreement prior to Your Receiving it.
+
+      &lt;&lt;var;name="bullet";original="1.5";match=".{0,20}"&gt;&gt; "Enhanced Data" means the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.
+
+      &lt;&lt;var;name="bullet";original="1.6";match=".{0,20}"&gt;&gt; "Entity" means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.
+
+      &lt;&lt;var;name="bullet";original="1.7";match=".{0,20}"&gt;&gt; "Ledger" means a digital record of Data or grants of rights in Data governed by this Agreement, using any technology having functionality to record and store Data or grants, contributions, or licenses to Data governed by this Agreement.
+
+      &lt;&lt;var;name="bullet";original="1.8";match=".{0,20}"&gt;&gt; "Modify" means to delete, erase, correct or re-arrange Data, resulting in "Modifications." Modifications do not include Results.
+
+      &lt;&lt;var;name="bullet";original="1.9";match=".{0,20}"&gt;&gt; "Publish" means to make all or a subset of Data (including Your Enhanced Data) available in any manner which enables its Use, including by providing a copy on physical media or remote access. For any form of Entity, that is to make the Data available to any individual who is not employed by that Entity or engaged as a contractor or agent to perform work on that Entity's behalf. A "Publication" occurs each time You Publish Data.
+
+      &lt;&lt;var;name="bullet";original="1.10";match=".{0,20}"&gt;&gt; "Receive" or "Receives" means to have been given access to Data, locally or remotely.
+
+      &lt;&lt;var;name="bullet";original="1.11";match=".{0,20}"&gt;&gt; "Results" means the outcomes or outputs that You obtain from Your Computational Use of Data. Results shall not include more than a de minimis portion of the Data on which the Computational Use is based.
+
+      &lt;&lt;var;name="bullet";original="1.12";match=".{0,20}"&gt;&gt; "Sui Generis Database Rights" means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights anywhere in the world.
+
+      &lt;&lt;var;name="bullet";original="1.13";match=".{0,20}"&gt;&gt; "Use" means using Data (including accessing, copying, studying, reviewing, adapting, analyzing, evaluating, or making Computational Use of it), either by machines or humans, or a combination of both.
+
+      &lt;&lt;var;name="bullet";original="1.14";match=".{0,20}"&gt;&gt; "You" or "Your" means any Entity that Receives Data under this Agreement.
+
+   &lt;&lt;var;name="bullet";original="Section 2.";match=".{0,20}"&gt;&gt; Right and License to Use and to Publish
+
+      &lt;&lt;var;name="bullet";original="2.1";match=".{0,20}"&gt;&gt; Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s) to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.
+
+      &lt;&lt;var;name="bullet";original="2.2";match=".{0,20}"&gt;&gt; To the extent that the Data or the coordination, selection or arrangement of Data is protected or protectable under copyright, Sui Generis Database Rights, or other law, Data Provider(s) further agree(s) that such Data or coordination, selection or arrangement is hereby licensed to You and to anyone else who Receives Data under this Agreement for Use and Publication, subject to the conditions set forth in Section 3 of this Agreement.
+
+      &lt;&lt;var;name="bullet";original="2.3";match=".{0,20}"&gt;&gt; Except for these rights and licenses expressly granted, no other intellectual property rights are granted or should be implied.
+
+   &lt;&lt;var;name="bullet";original="Section 3.";match=".{0,20}"&gt;&gt; Conditions on Rights Granted
+
+      &lt;&lt;var;name="bullet";original="3.1";match=".{0,20}"&gt;&gt; If You Publish Data You Receive or Enhanced Data:
+
+         &lt;&lt;var;name="bullet";original="(a)";match=".{0,20}"&gt;&gt; The Data (including the Enhanced Data) must be Published under this Agreement in accordance with this Section 3; and
+
+         &lt;&lt;var;name="bullet";original="(b)";match=".{0,20}"&gt;&gt; You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those files; and
+
+         &lt;&lt;var;name="bullet";original="(c)";match=".{0,20}"&gt;&gt; If You Publish Data You Receive, You must preserve all credit or attribution to the Data Provider(s). Such retained credit or attribution includes any of the following to the extent they exist in Data as You have Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.
+
+      &lt;&lt;var;name="bullet";original="3.2";match=".{0,20}"&gt;&gt; You may not restrict or deter the ability of anyone who Receives the Data (a) to Publish the Data in a publicly-accessible manner or (b) if the project has designated a Ledger for recording Data or grants of rights in Data for purposes of this Agreement, to record the Data or grants of rights in Data in the Ledger.
+
+      &lt;&lt;var;name="bullet";original="3.3";match=".{0,20}"&gt;&gt; If You Publish Data You Receive, You must do so under an unmodified form of this Agreement and include the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement. You may not modify this Agreement or impose any further restrictions on the exercise of the rights granted under this Agreement, including by adding any restriction on commercial or non-commercial Use of Data (including Your Enhanced Data) or by limiting permitted Use of such Data to any particular platform, technology or field of endeavor. Notices that purport to modify this Agreement shall be of no effect.
+
+      &lt;&lt;var;name="bullet";original="3.4";match=".{0,20}"&gt;&gt; You and each Data Provider agree that Enhanced Data shall not be considered a work of joint authorship by virtue of its relationship to Data licensed under this Agreement and shall not require either any obligation of accounting to or the consent of any Data Provider.
+
+      &lt;&lt;var;name="bullet";original="3.5";match=".{0,20}"&gt;&gt; This Agreement imposes no obligations or restrictions on Your Use or Publication of Results.
+
+   &lt;&lt;var;name="bullet";original="Section 4.";match=".{0,20}"&gt;&gt; Data Provider(s)' Representations
+
+      &lt;&lt;var;name="bullet";original="4.1";match=".{0,20}"&gt;&gt; Each Data Provider represents that the Data Provider has exercised reasonable care, to assure that: (a) the Data it Publishes was created or generated by it or was obtained from others with the right to Publish the Data under this Agreement; and (b) Publication of such Data does not violate any privacy or confidentiality obligation undertaken by the Data Provider.
+
+   &lt;&lt;var;name="bullet";original="Section 5.";match=".{0,20}"&gt;&gt; Termination
+
+      &lt;&lt;var;name="bullet";original="5.1";match=".{0,20}"&gt;&gt; All of Your rights under this Agreement will terminate, and Your right to Receive, Use or Publish the Data will be revoked or modified if You materially fail to comply with the terms and conditions of this Agreement and You do not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If Your rights under this Agreement terminate, You agree to cease Receipt, Use and Publication of Data. However, Your obligations and any rights and permissions granted by You under this Agreement relating to Data that You Published prior to such termination will continue and survive.
+
+      &lt;&lt;var;name="bullet";original="5.2";match=".{0,20}"&gt;&gt; If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate as of the date such litigation is filed.
+
+   &lt;&lt;var;name="bullet";original="Section 6.";match=".{0,20}"&gt;&gt; Disclaimer of Warranties and Limitation of Liability
+
+      &lt;&lt;var;name="bullet";original="6.1";match=".{0,20}"&gt;&gt; EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA (INCLUDING ENHANCED DATA) IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+      &lt;&lt;var;name="bullet";original="6.2";match=".{0,20}"&gt;&gt; NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   &lt;&lt;var;name="bullet";original="Section 7.";match=".{0,20}"&gt;&gt; Miscellaneous
+
+      &lt;&lt;var;name="bullet";original="7.1";match=".{0,20}"&gt;&gt; You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication of Data, including any applicable privacy, data protection, security and export laws. You agree to take reasonable steps to assist a Data Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.
+
+      &lt;&lt;var;name="bullet";original="7.2";match=".{0,20}"&gt;&gt; You and Data Provider(s), collectively and individually, waive and/or agree not to assert, to the extent permitted by law, any moral rights You or they hold in Data.
+
+      &lt;&lt;var;name="bullet";original="7.3";match=".{0,20}"&gt;&gt; This Agreement confers no rights or remedies upon any person or entity other than the Parties and their respective heirs, executors, successors and assigns.
+
+      &lt;&lt;var;name="bullet";original="7.4";match=".{0,20}"&gt;&gt; The Data Provider(s) reserve no right or expectation of privacy, data protection or confidentiality in any Data that they Publish under this Agreement. If You choose to Publish Data under this Agreement, You similarly do so with no reservation or expectation of any rights of privacy or confidentiality in that Data.
+
+      &lt;&lt;var;name="bullet";original="7.5";match=".{0,20}"&gt;&gt; The Community Data License Agreement workgroup under The Linux Foundation is the steward of this Agreement ("Steward"). No one other than the Steward has the right to modify or publish new versions of this Agreement. Each version will be given a distinguishing version number. You may Use and Publish Data Received hereunder under the terms of the version of the Agreement under which You originally Received the Data, or under the terms of any subsequent version published by the Steward.</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Community Data License Agreement – Sharing – Version 1.0
+
+This is the Community Data License Agreement – Sharing, Version 1.0 (“Agreement”).  Data is provided to You under this Agreement by each of the Data Providers.  Your exercise of any of the rights and permissions granted below constitutes Your acceptance and agreement to be bound by the terms and conditions of this Agreement.
+
+The benefits that each Data Provider receives from making Data available and that You receive from Data or otherwise under these terms and conditions shall be deemed sufficient consideration for the formation of this Agreement.  Accordingly, Data Provider(s) and You (the “Parties”) agree as follows:
+
+Section 1.  Definitions
+
+1.1 “Add” means to supplement Data with Your own or someone else’s Data, resulting in Your “Additions.”  Additions do not include Results.
+
+1.2 “Computational Use” means Your analysis (through the use of computational devices or otherwise) or other interpretation of Data.  By way of example and not limitation, “Computational Use” includes the application of any computational analytical technique, the purpose of which is the analysis of any Data in digital form to generate information about Data such as patterns, trends, correlations, inferences, insights and attributes.
+
+1.3 “Data” means the information (including copyrightable information, such as images or text), collectively or individually, whether created or gathered by a Data Provider or an Entity acting on its behalf, to which rights are granted under this Agreement.
+
+1.4 “Data Provider” means any Entity (including any employee or contractor of such Entity authorized to Publish Data on behalf of such Entity) that Publishes Data under this Agreement prior to Your Receiving it.
+
+1.5 “Enhanced Data” means the subset of Data that You Publish and that is composed of (a) Your Additions and/or (b) Modifications to Data You have received under this Agreement.
+
+1.6 “Entity” means any natural person or organization that exists under the laws of the jurisdiction in which it is organized, together with all other entities that control, are controlled by, or are under common control with that entity.  For the purposes of this definition, “control” means (a) the power, directly or indirectly, to cause the direction or management of such entity, whether by contract or otherwise, (b) the ownership of more than fifty percent (50%) of the outstanding shares or securities, (c) the beneficial ownership of such entity or, (d) the ability to appoint, whether by agreement or right, the majority of directors of an Entity.
+
+1.7 “Ledger” means a digital record of Data or grants of rights in Data governed by this Agreement, using any technology having functionality to record and store Data or grants, contributions, or licenses to Data governed by this Agreement.
+
+1.8 “Modify” means to delete, erase, correct or re-arrange Data, resulting in “Modifications.”  Modifications do not include Results.
+
+1.9 “Publish” means to make all or a subset of Data (including Your Enhanced Data) available in any manner which enables its Use, including by providing a copy on physical media or remote access.  For any form of Entity, that is to make the Data available to any individual who is not employed by that Entity or engaged as a contractor or agent to perform work on that Entity’s behalf.  A “Publication” occurs each time You Publish Data.
+
+1.10 “Receive” or “Receives” means to have been given access to Data, locally or remotely.
+
+1.11 “Results” means the outcomes or outputs that You obtain from Your Computational Use of Data.  Results shall not include more than a de minimis portion of the Data on which the Computational Use is based.
+
+1.12 “Sui Generis Database Rights” means rights, other than copyright, resulting from Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, as amended and/or succeeded, as well as other equivalent rights anywhere in the world.
+
+1.13 “Use” means using Data (including accessing, copying, studying, reviewing, adapting, analyzing, evaluating, or making Computational Use of it), either by machines or humans, or a combination of both.
+
+1.14 “You” or “Your” means any Entity that Receives Data under this Agreement.
+
+Section 2.  Right and License to Use and to Publish
+
+2.1 Subject to the conditions set forth in Section 3 of this Agreement, Data Provider(s) hereby grant(s) to You a worldwide, non-exclusive, irrevocable (except as provided in Section 5) right to: (a) Use Data; and (b) Publish Data.
+
+2.2 To the extent that the Data or the coordination, selection or arrangement of Data is protected or protectable under copyright, Sui Generis Database Rights, or other law, Data Provider(s) further agree(s) that such Data or coordination, selection or arrangement is hereby licensed to You and to anyone else who Receives Data under this Agreement for Use and Publication, subject to the conditions set forth in Section 3 of this Agreement.
+
+2.3 Except for these rights and licenses expressly granted, no other intellectual property rights are granted or should be implied.
+
+Section 3.  Conditions on Rights Granted
+
+3.1 If You Publish Data You Receive or Enhanced Data:
+
+(a) The Data (including the Enhanced Data) must be Published under this Agreement in accordance with this Section 3; and
+
+(b) You must cause any Data files containing Enhanced Data to carry prominent notices that You have changed those files; and
+
+(c) If You Publish Data You Receive, You must preserve all credit or attribution to the Data Provider(s). Such retained credit or attribution includes any of the following to the extent they exist in Data as You have Received it: legal notices or metadata; identification of the Data Provider(s); or hyperlinks to Data to the extent it is practical to do so.
+
+3.2 You may not restrict or deter the ability of anyone who Receives the Data (a) to Publish the Data in a publicly-accessible manner or (b) if the project has designated a Ledger for recording Data or grants of rights in Data for purposes of this Agreement, to record the Data or grants of rights in Data in the Ledger.
+
+3.3 If You Publish Data You Receive, You must do so under an unmodified form of this Agreement and include the text of this Agreement, the name of this Agreement and/or a hyperlink or other method reasonably likely to provide a copy of the text of this Agreement.  You may not modify this Agreement or impose any further restrictions on the exercise of the rights granted under this Agreement, including by adding any restriction on commercial or non-commercial Use of Data (including Your Enhanced Data) or by limiting permitted Use of such Data to any particular platform, technology or field of endeavor.  Notices that purport to modify this Agreement shall be of no effect.
+
+3.4 You and each Data Provider agree that Enhanced Data shall not be considered a work of joint authorship by virtue of its relationship to Data licensed under this Agreement and shall not require either any obligation of accounting to or the consent of any Data Provider.
+
+3.5 This Agreement imposes no obligations or restrictions on Your Use or Publication of Results.
+
+Section 4.  Data Provider(s)’ Representations
+
+4.1 Each Data Provider represents that the Data Provider has exercised reasonable care, to assure that: (a) the Data it Publishes was created or generated by it or was obtained from others with the right to Publish the Data under this Agreement; and (b) Publication of such Data does not violate any privacy or confidentiality obligation undertaken by the Data Provider.
+
+Section 5.  Termination
+
+5.1 All of Your rights under this Agreement will terminate, and Your right to Receive, Use or Publish the Data will be revoked or modified if You materially fail to comply with the terms and conditions of this Agreement and You do not cure such failure in a reasonable period of time after becoming aware of such noncompliance.  If Your rights under this Agreement terminate, You agree to cease Receipt, Use and Publication of Data.  However, Your obligations and any rights and permissions granted by You under this Agreement relating to Data that You Published prior to such termination will continue and survive.
+
+5.2 If You institute litigation against a Data Provider or anyone else who Receives the Data (including a cross-claim in a lawsuit) based on the Data, other than a claim asserting breach of this Agreement, then any rights previously granted to You to Receive, Use and Publish Data under this Agreement will terminate as of the date such litigation is filed.
+
+Section 6.  Disclaimer of Warranties and Limitation of Liability
+
+6.1 EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE DATA (INCLUDING ENHANCED DATA) IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+6.2 NEITHER YOU NOR ANY DATA PROVIDERS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE DATA OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Section 7.  Miscellaneous
+
+7.1 You agree that it is solely Your responsibility to comply with all applicable laws with regard to Your Use or Publication of Data, including any applicable privacy, data protection, security and export laws.  You agree to take reasonable steps to assist a Data Provider fulfilling responsibilities to comply with applicable laws with regard to Use or Publication of Data Received hereunder.
+
+7.2 You and Data Provider(s), collectively and individually, waive and/or agree not to assert, to the extent permitted by law, any moral rights You or they hold in Data.
+
+7.3 This Agreement confers no rights or remedies upon any person or entity other than the Parties and their respective heirs, executors, successors and assigns.
+
+7.4 The Data Provider(s) reserve no right or expectation of privacy, data protection or confidentiality in any Data that they Publish under this Agreement.  If You choose to Publish Data under this Agreement, You similarly do so with no reservation or expectation of any rights of privacy or confidentiality in that Data.
+
+7.5 The Community Data License Agreement workgroup under The Linux Foundation is the steward of this Agreement (“Steward”).  No one other than the Steward has the right to modify or publish new versions of this Agreement.  Each version will be given a distinguishing version number.  You may Use and Publish Data Received hereunder under the terms of the version of the Agreement under which You originally Received the Data, or under the terms of any subsequent version published by the Steward.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

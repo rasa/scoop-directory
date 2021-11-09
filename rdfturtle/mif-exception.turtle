@@ -1,0 +1,15 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix ptr:   <http://www.w3.org/2009/pointers#> .
+
+<http://spdx.org/licenses/mif-exception>
+        a                              spdx:LicenseException ;
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "Typically used with GPL-2.0 for older versions of GCC. This is similar to the eCos Exception." ;
+        <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                "https://www.threadingbuildingblocks.org/licensing" , "http://dev.bertos.org/doxygen/" , "http://www.scs.stanford.edu/histar/src/lib/cppsup/exception" ;
+        spdx:exceptionTextHtml         "\n      <p>As a special exception, you may use this file as part of a free\n         software library without restriction. Specifically, if other\n         files instantiate templates or use macros or inline functions\n         from this file, or you compile this file and link it with\n         other files to produce an executable, this file does not by\n         itself cause the resulting executable to be covered by the GNU\n         General Public License. This exception does not however\n         invalidate any other reasons why the executable file might be\n         covered by the GNU General Public License.</p>\n\n    " ;
+        spdx:isDeprecatedLicenseId     false ;
+        spdx:licenseExceptionTemplate  "As a special exception, you may use this file as part of a free software library without restriction. Specifically, if other files instantiate templates or use macros or inline functions from this file, or you compile this file and link it with other files to produce an executable, this file does not by itself cause the resulting executable to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the executable file might be covered by the GNU General Public License.\n\n" ;
+        spdx:licenseExceptionText      "As a special exception, you may use this file as part of a free software library without restriction. Specifically, if other files instantiate templates or use macros or inline functions from this file, or you compile this file and link it with other files to produce an executable, this file does not by itself cause the resulting executable to be covered by the GNU General Public License. This exception does not however invalidate any other reasons why the executable file might be covered by the GNU General Public License.\n" ;
+        spdx:name                      "Macros and Inline Functions Exception" .

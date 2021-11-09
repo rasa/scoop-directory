@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:spdx="http://spdx.org/rdf/terms#">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="sites/all/themes/cpstandard/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Creative Commons Attribution Share Alike 2.0 England and Wales | Software Package Data Exchange (SPDX)</title>
+
+    <link rel="shortcut icon" href="sites/all/themes/cpstandard/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/cpstandard/css/style.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/cpstandard/css/colors.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+    <!-- GOOGLE FONTS -->
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,100italic,100,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css' />
+
+    <style type="text/css">
+
+      .page {
+        color: #58595b;
+      }
+
+      #header {
+        border-bottom: 3px solid #4597cb;
+        padding-bottom: 50px;
+      }
+
+      .breadcrumb {
+        margin-top: 25px;
+      }
+
+      #content-header h1 {
+        color: #58595b;
+      }
+
+      .page h2, h3, h4, h5 {
+        color: #4597cb;
+      }
+
+      .page h1 {
+      font-size: 2em;
+      }
+
+      .page h2 {
+      font-size: 1.5em;
+      }
+
+      a, a:visited, a:hover {
+        color: #4597cb;
+      }
+
+      #footer-copyright {
+        margin-top: 25px;
+      }
+
+      .replacable-license-text {
+      color: #CC0000;
+      }
+
+      .replacable-license-text p var {
+      color: #CC0000;
+      }
+
+      .optional-license-text {
+      color: #0000cc;
+      }
+
+      .optional-license-text p var {
+      color: #0000cc;
+      }
+      ul, ol, li {
+      margin: 10px 0 10px 0;
+	  }
+    </style>
+
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3676394-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+
+  </head>
+
+  <body typeof="spdx:License">
+
+  <div id="lf-header" class="collaborative-projects">
+    <div class="gray-diagonal">
+      <div class="container">
+        <a id="collaborative-projects-logo" href="http://collabprojects.linuxfoundation.org">Linux Foundation Collaborative Projects</a>
+      </div>
+    </div>
+  </div>
+
+  <div id="header">
+    <div id="header-inner">
+      <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://spdx.org/sites/cpstandard/files/logo_spdx_250.png" alt="Home" />
+      </a>
+
+      <div id="name-and-slogan">
+        <div id="site-name">
+          <h1><a href="/" title="Home" rel="home">Software Package Data Exchange (SPDX)</a></h1>
+        </div>
+      </div>
+
+    </div>
+  </div> <!-- /header -->
+
+  <div id="highlighted">
+      <div class="region region-highlighted">
+      </div>
+  </div>
+
+    <div id="page" class="page">
+
+      <div class="breadcrumb"><a href="/">Home</a> » <a href="/licenses">Licenses</a></div>
+
+      <h1 property="dc:title">Creative Commons Attribution Share Alike 2.0 England and Wales</h1>
+      <div style="display:none;"><code property="spdx:deprecated">false</code></div>
+      <h2>Full name</h2>
+          <p style="margin-left: 20px;"><code property="spdx:name">Creative Commons Attribution Share Alike 2.0 England and Wales</code></p>
+
+      <h2>Short identifier</h2>
+          <p style="margin-left: 20px;"><code property="spdx:licenseId">CC-BY-SA-2.0-UK</code></p>
+
+      <h2>Other web pages for this license</h2>
+          <div style="margin-left: 20px;">
+            <ul>
+             <li>
+               <a href="https://creativecommons.org/licenses/by-sa/2.0/uk/legalcode" rel="rdfs:seeAlso" isValid=true isLive=true isWayBackLink=false match=true timestamp=2021-11-09 - 16:58:03>https://creativecommons.org/licenses/by-sa/2.0/uk/legalcode</a>
+               <!--Tentative way of displaying information <p>isValid: true, isLive: true, isWayBackLink: false, match: true, timestamp: 2021-11-09 - 16:58:03</p> -->
+             </li>
+           </ul>
+          </div>
+
+      <div property="spdx:isOsiApproved" style="display: none;">false</div>
+
+      <h2 id="notes">Notes</h2>
+          <p style="margin-left: 20px;">None</p>
+
+      <h2 id="licenseText">Text</h2>
+
+      <div property="spdx:licenseText" class="license-text">
+      
+            <div class="optional-license-text">
+                <p>Creative Commons Attribution - Share-Alike 2.0 England and Wales</p>
+
+            </div>
+            <div class="optional-license-text">
+                <p>CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF
+                    THIS LICENCE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
+                    INFORMATION ON AN &quot;AS-IS&quot; BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION
+                    PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.</p>
+
+                <p>Licence</p>
+
+            </div>
+
+            <p>THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENCE (&quot;CCPL&quot;
+                OR &quot;LICENCE&quot;). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER
+                THAN AS AUTHORIZED UNDER THIS LICENCE OR COPYRIGHT LAW IS PROHIBITED. BY EXERCISING ANY RIGHTS TO THE
+                WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENCE. THE LICENSOR GRANTS
+                YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.</p>
+
+                <p>This Creative Commons England and Wales Public Licence enables You (all capitalised terms defined below)
+                to view, edit, modify, translate and distribute Works worldwide, under the terms of this licence,
+                provided that You credit the Original Author.</p>
+
+            <p>&apos;The Licensor&apos; [one or more legally recognised persons or entities offering the Work under the terms and
+                conditions of this Licence]</p>
+
+            <p>and</p>
+
+            <p>&apos;You&apos;</p>
+
+            <p>agree as follows:</p>
+
+<ul style="list-style:none">
+<li>
+                    <var class="replacable-license-text">1.</var> Definitions
+                    
+<ul style="list-style:none">
+<li>
+                            <var class="replacable-license-text">a.</var> &quot;Attribution&quot; means acknowledging all the parties who have contributed to and have rights in the Work
+                            or Collective Work under this Licence.
+                        </li>
+<li>
+                            <var class="replacable-license-text">b.</var> &quot;Collective Work&quot; means the Work in its entirety in unmodified form along with a number of other
+                            separate and independent works, assembled into a collective whole.
+                        </li>
+<li>
+                            <var class="replacable-license-text">c.</var> &quot;Derivative Work&quot; means any work created by the editing, modification, adaptation or translation of the
+                            Work in any media (however a work that constitutes a Collective Work will not be considered a
+                            Derivative Work for the purpose of this Licence). For the avoidance of doubt, where the Work is a
+                            musical composition or sound recording, the synchronization of the Work in timed-relation with a
+                            moving image (&quot;synching&quot;) will be considered a Derivative Work for the purpose of this Licence.
+                        </li>
+<li>
+                            <var class="replacable-license-text">d.</var> &quot;Licence&quot; means this Creative Commons England and Wales Public Licence agreement.
+                        </li>
+<li>
+                            <var class="replacable-license-text">e.</var> &quot;Licence Elements&quot; means the following high-level licence attributes indicated in the title of this Licence:
+                            Attribution, Share-Alike.
+                        </li>
+<li>
+                            <var class="replacable-license-text">f.</var> &quot;Original Author&quot; means the individual (or entity) who created the Work.
+                        </li>
+<li>
+                            <var class="replacable-license-text">g.</var> &quot;Work&quot; means the work protected by copyright which is offered under the terms of this Licence.
+                        </li>
+<li>
+                            <var class="replacable-license-text">h.</var> For the purpose of this Licence, when not inconsistent with the context, words in the singular number
+                            include the plural number.
+                        </li>
+</ul>
+                </li>
+<li>
+                    <var class="replacable-license-text">2.</var> Licence Terms
+
+<ul style="list-style:none">
+<li>
+                            <var class="replacable-license-text">2.1.</var> The Licensor hereby grants to You a worldwide, royalty-free, non-exclusive, Licence for use and for the
+                                duration of copyright in the Work.
+
+                            <p>You may:</p>
+
+<ul style="list-style:none">
+<li>
+                                    <var class="replacable-license-text">*</var> copy the Work;
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> create one or more derivative Works;
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> incorporate the Work into one or more Collective Works;
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> copy Derivative Works or the Work as incorporated in any Collective Work; and
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> publish, distribute, archive, perform or otherwise disseminate the Work or the
+                                    Work as incorporated in any Collective Work, to the public in any material form in any media whether
+                                    now known or hereafter created.
+                                </li>
+</ul>
+
+                            <p>HOWEVER,</p>
+
+                            <p>You must not:</p>
+
+<ul style="list-style:none">
+<li>
+                                    <var class="replacable-license-text">*</var> impose any terms on the use to be made of the Work, the Derivative Work or the
+                                    Work as incorporated in a Collective Work that alter or restrict the terms of this Licence or any
+                                    rights granted under it or has the effect or intent of restricting the ability to exercise those
+                                    rights;
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> impose any digital rights management technology on the Work or the Work as
+                                    incorporated in a Collective Work that alters or restricts the terms of this Licence or any rights
+                                    granted under it or has the effect or intent of restricting the ability to exercise those rights;
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> sublicense the Work;
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> subject the Work to any derogatory treatment as defined in the Copyright,
+                                    Designs and Patents Act 1988.
+                                </li>
+</ul>
+
+                            <p>FINALLY,</p>
+
+                            <p>You must:</p>
+
+<ul style="list-style:none">
+<li>
+                                    <var class="replacable-license-text">*</var> make reference to this Licence (by Uniform Resource Identifier (URI), spoken
+                                    word or as appropriate to the media used) on all copies of the Work and Collective Works published,
+                                    distributed, performed or otherwise disseminated or made available to the public by You;
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> recognise the Licensor&apos;s / Original Author&apos;s right of attribution in any Work and
+                                    Collective Work that You publish, distribute, perform or otherwise disseminate to the public and
+                                    ensure that You credit the Licensor / Original Author as appropriate to the media used; and
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> to the extent reasonably practicable, keep intact all notices that refer to this
+                                    Licence, in particular the URI, if any, that the Licensor specifies to be associated with the Work,
+                                    unless such URI does not refer to the copyright notice or licensing information for the Work.
+                                </li>
+</ul>
+                        </li>
+<li>
+                            <p>Additional Provisions for third parties making use of the Work</p>
+
+                            <var class="replacable-license-text">2.2.</var> Further licence from the Licensor
+
+                            <p>Each time You publish, distribute, perform or otherwise disseminate</p>
+
+<ul style="list-style:none">
+<li>
+                                    <var class="replacable-license-text">*</var> the Work; or
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> any Derivative Work; or
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> the Work as incorporated in a Collective Work
+                                </li>
+</ul>
+
+                            <p>the Licensor agrees to offer to the relevant third party making use of the Work (in any of the
+                            alternatives set out above) a licence to use the Work on the same terms and conditions as granted to You
+                            hereunder.</p>
+
+                        </li>
+<li>
+                            <var class="replacable-license-text">2.3.</var> Further licence from You
+
+                            <p>Each time You publish, distribute, perform or otherwise disseminate</p>
+
+<ul style="list-style:none">
+<li>
+                                    <var class="replacable-license-text">*</var> a Derivative Work; or
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> a Derivative Work as incorporated in a Collective Work
+                                </li>
+</ul>
+
+                            <p>You agree to offer to the relevant third party making use of the Work (in either of the alternatives
+                            set out above) a licence to use the Derivative Work on any of the following premises:</p>
+
+<ul style="list-style:none">
+<li>
+                                    <var class="replacable-license-text">*</var> a licence to the Derivative Work on the same terms and conditions as the
+                                    licence granted to You hereunder; or
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> a later version of the licence granted to You hereunder; or
+                                </li>
+<li>
+                                    <var class="replacable-license-text">*</var> any other Creative Commons licence with the same Licence Elements.
+                                </li>
+</ul>
+                        </li>
+<li>
+                            <var class="replacable-license-text">2.4.</var> This Licence does not affect any rights that the User may have under any applicable
+                            law, including fair use, fair dealing or any other legally recognised limitation or exception to
+                            copyright infringement.
+                        </li>
+<li>
+                            <var class="replacable-license-text">2.5.</var> All rights not expressly granted by the Licensor are hereby reserved, including but
+                            not limited to, the exclusive right to collect, whether individually or via a licensing body, such as a
+                            collecting society, royalties for any use of the Work which results in commercial advantage or private
+                            monetary compensation.
+                        </li>
+</ul>
+                </li>
+<li>
+                    <var class="replacable-license-text">3.</var> Warranties and Disclaimer
+
+                    <p>Except as required by law, the Work is licensed by the Licensor on an &quot;as is&quot; and &quot;as available&quot; basis and
+                        without any warranty of any kind, either express or implied.</p>
+
+                </li>
+<li>
+                    <var class="replacable-license-text">4.</var> Limit of Liability
+
+                    <p>Subject to any liability which may not be excluded or limited by law the Licensor shall not be liable and
+                        hereby expressly excludes all liability for loss or damage howsoever and whenever caused to You.</p>
+
+                </li>
+<li>
+                    <var class="replacable-license-text">5.</var> Termination
+
+                    <p>The rights granted to You under this Licence shall terminate automatically upon any breach by You of the
+                        terms of this Licence. Individuals or entities who have received Collective Works from You under this
+                        Licence, however, will not have their Licences terminated provided such individuals or entities remain in
+                        full compliance with those Licences.</p>
+
+                </li>
+<li>
+                    <var class="replacable-license-text">6.</var> General
+
+<ul style="list-style:none">
+<li>
+                            <var class="replacable-license-text">6.1. </var>The validity or enforceability of the remaining terms of this agreement is not
+                             affected by the holding of any provision of it to be invalid or unenforceable.
+                        </li>
+<li>
+                            <var class="replacable-license-text">6.2. </var>This Licence constitutes the entire Licence Agreement between the parties with
+                            respect to the Work licensed here. There are no understandings, agreements or representations with
+                            respect to the Work not specified here. The Licensor shall not be bound by any additional provisions
+                            that may appear in any communication in any form.
+                        </li>
+<li>
+                            <var class="replacable-license-text">6.3. </var>A person who is not a party to this Licence shall have no rights under the
+                            Contracts (Rights of Third Parties) Act 1999 to enforce any of its terms.
+                        </li>
+<li>
+                            <var class="replacable-license-text">6.4. </var>This Licence shall be governed by the law of England and Wales and the parties
+                            irrevocably submit to the exclusive jurisdiction of the Courts of England and Wales.
+                        </li>
+</ul>
+                </li>
+<li>
+                    <var class="replacable-license-text">7.</var> On the role of Creative Commons
+
+<ul style="list-style:none">
+<li>
+                            <var class="replacable-license-text">7.1. </var>Neither the Licensor nor the User may use the Creative Commons logo except to
+                            indicate that the Work is licensed under a Creative Commons Licence. Any permitted use has to be in
+                            compliance with the Creative Commons trade mark usage guidelines at the time of use of the Creative
+                            Commons trade mark. These guidelines may be found on the Creative Commons website or be otherwise
+                            available upon request from time to time.
+                        </li>
+<li>
+                            <var class="replacable-license-text">7.2. </var>Creative Commons Corporation does not profit financially from its role in
+                            providing this Licence and will not investigate the claims of any Licensor or user of the Licence.
+                        </li>
+<li>
+                            <var class="replacable-license-text">7.3. </var>One of the conditions that Creative Commons Corporation requires of the Licensor
+                            and You is an acknowledgement of its limited role and agreement by all who use the Licence that the
+                            Corporation is not responsible to anyone for the statements and actions of You or the Licensor or
+                            anyone else attempting to use or using this Licence.
+                        </li>
+<li>
+                            <var class="replacable-license-text">7.4. </var>Creative Commons Corporation is not a party to this Licence, and makes no
+                            warranty whatsoever in connection to the Work or in connection to the Licence, and in all events is not
+                            liable for any loss or damage resulting from the Licensor&apos;s or Your reliance on this Licence or on its
+                            enforceability.
+                        </li>
+<li>
+                            <var class="replacable-license-text">7.5. </var>USE OF THIS LICENCE MEANS THAT YOU AND THE LICENSOR EACH ACCEPTS THESE CONDITIONS
+                            IN SECTION 7.1, 7.2, 7.3, 7.4 AND EACH ACKNOWLEDGES CREATIVE COMMONS CORPORATION&apos;S VERY LIMITED ROLE AS
+                            A FACILITATOR OF THE LICENCE FROM THE LICENSOR TO YOU.
+                        </li>
+</ul>
+                </li>
+</ul>
+
+            <p>Creative Commons is not a party to this Licence, and makes no warranty whatsoever in connection with the Work.
+                Creative Commons will not be liable to You or any party on any legal theory for any damages whatsoever, including
+                without limitation any general, special, incidental or consequential damages arising in connection to this licence.
+                Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly identified itself as the Licensor
+                hereunder, it shall have all rights and obligations of Licensor.</p>
+
+            <p>Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will
+                use the trademark &quot;Creative Commons&quot; or any related trademark or logo of Creative Commons without the prior written
+                consent of Creative Commons. Any permitted use will be in compliance with Creative Commons&apos; then-current trademark
+                usage guidelines, as may be published on its website or otherwise made available upon request from time to time.</p>
+
+            <p>Creative Commons may be contacted at https://creativecommons.org/.</p>
+
+        
+      </div>
+
+      <h2  id="licenseHeader">Standard License Header</h2>
+      <div property="spdx:standardLicenseHeader" class="license-text">
+        <p style="font-style: italic">There is no standard license header for the license</p>
+        
+      </div>
+      <div property="spdx:standardLicenseTemplate" style="display: none;">
+      &lt;&lt;beginOptional&gt;&gt; Creative Commons Attribution - Share-Alike 2.0 England and Wales&#10;&#10;&lt;&lt;endOptional&gt;&gt;&lt;&lt;beginOptional&gt;&gt; CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENCE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN &quot;AS-IS&quot; BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.&#10;&#10;Licence&#10;&#10;&lt;&lt;endOptional&gt;&gt;&#10;&#10;THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENCE (&quot;CCPL&quot; OR &quot;LICENCE&quot;). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENCE OR COPYRIGHT LAW IS PROHIBITED. BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENCE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.&#10;&#10;This Creative Commons England and Wales Public Licence enables You (all capitalised terms defined below) to view, edit, modify, translate and distribute Works worldwide, under the terms of this licence, provided that You credit the Original Author.&#10;&#10;'The Licensor' [one or more legally recognised persons or entities offering the Work under the terms and conditions of this Licence]&#10;&#10;and&#10;&#10;'You'&#10;&#10;agree as follows:&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Definitions&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;a.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; &quot;Attribution&quot; means acknowledging all the parties who have contributed to and have rights in the Work or Collective Work under this Licence.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;b.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; &quot;Collective Work&quot; means the Work in its entirety in unmodified form along with a number of other separate and independent works, assembled into a collective whole.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;c.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; &quot;Derivative Work&quot; means any work created by the editing, modification, adaptation or translation of the Work in any media (however a work that constitutes a Collective Work will not be considered a Derivative Work for the purpose of this Licence). For the avoidance of doubt, where the Work is a musical composition or sound recording, the synchronization of the Work in timed-relation with a moving image (&quot;synching&quot;) will be considered a Derivative Work for the purpose of this Licence.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;d.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; &quot;Licence&quot; means this Creative Commons England and Wales Public Licence agreement.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;e.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; &quot;Licence Elements&quot; means the following high-level licence attributes indicated in the title of this Licence: Attribution, Share-Alike.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;f.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; &quot;Original Author&quot; means the individual (or entity) who created the Work.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;g.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; &quot;Work&quot; means the work protected by copyright which is offered under the terms of this Licence.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;h.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; For the purpose of this Licence, when not inconsistent with the context, words in the singular number include the plural number.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Licence Terms&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.1.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; The Licensor hereby grants to You a worldwide, royalty-free, non-exclusive, Licence for use and for the duration of copyright in the Work.&#10;&#10;      You may:&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; copy the Work;&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; create one or more derivative Works;&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; incorporate the Work into one or more Collective Works;&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; copy Derivative Works or the Work as incorporated in any Collective Work; and&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; publish, distribute, archive, perform or otherwise disseminate the Work or the Work as incorporated in any Collective Work, to the public in any material form in any media whether now known or hereafter created.&#10;&#10;      HOWEVER,&#10;&#10;      You must not:&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; impose any terms on the use to be made of the Work, the Derivative Work or the Work as incorporated in a Collective Work that alter or restrict the terms of this Licence or any rights granted under it or has the effect or intent of restricting the ability to exercise those rights;&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; impose any digital rights management technology on the Work or the Work as incorporated in a Collective Work that alters or restricts the terms of this Licence or any rights granted under it or has the effect or intent of restricting the ability to exercise those rights;&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; sublicense the Work;&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; subject the Work to any derogatory treatment as defined in the Copyright, Designs and Patents Act 1988.&#10;&#10;      FINALLY,&#10;&#10;      You must:&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; make reference to this Licence (by Uniform Resource Identifier (URI), spoken word or as appropriate to the media used) on all copies of the Work and Collective Works published, distributed, performed or otherwise disseminated or made available to the public by You;&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; recognise the Licensor's / Original Author's right of attribution in any Work and Collective Work that You publish, distribute, perform or otherwise disseminate to the public and ensure that You credit the Licensor / Original Author as appropriate to the media used; and&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; to the extent reasonably practicable, keep intact all notices that refer to this Licence, in particular the URI, if any, that the Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work.&#10;&#10;      Additional Provisions for third parties making use of the Work&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.2.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Further licence from the Licensor&#10;&#10;      Each time You publish, distribute, perform or otherwise disseminate&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; the Work; or&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; any Derivative Work; or&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; the Work as incorporated in a Collective Work&#10;&#10;      the Licensor agrees to offer to the relevant third party making use of the Work (in any of the alternatives set out above) a licence to use the Work on the same terms and conditions as granted to You hereunder.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.3.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Further licence from You&#10;&#10;      Each time You publish, distribute, perform or otherwise disseminate&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; a Derivative Work; or&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; a Derivative Work as incorporated in a Collective Work&#10;&#10;      You agree to offer to the relevant third party making use of the Work (in either of the alternatives set out above) a licence to use the Derivative Work on any of the following premises:&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; a licence to the Derivative Work on the same terms and conditions as the licence granted to You hereunder; or&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; a later version of the licence granted to You hereunder; or&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;*&quot;;match=&quot;.{0,20}&quot;&gt;&gt; any other Creative Commons licence with the same Licence Elements.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.4.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; This Licence does not affect any rights that the User may have under any applicable law, including fair use, fair dealing or any other legally recognised limitation or exception to copyright infringement.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.5.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; All rights not expressly granted by the Licensor are hereby reserved, including but not limited to, the exclusive right to collect, whether individually or via a licensing body, such as a collecting society, royalties for any use of the Work which results in commercial advantage or private monetary compensation.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Warranties and Disclaimer&#10;&#10;   Except as required by law, the Work is licensed by the Licensor on an &quot;as is&quot; and &quot;as available&quot; basis and without any warranty of any kind, either express or implied.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;4.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Limit of Liability&#10;&#10;   Subject to any liability which may not be excluded or limited by law the Licensor shall not be liable and hereby expressly excludes all liability for loss or damage howsoever and whenever caused to You.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;5.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Termination&#10;&#10;   The rights granted to You under this Licence shall terminate automatically upon any breach by You of the terms of this Licence. Individuals or entities who have received Collective Works from You under this Licence, however, will not have their Licences terminated provided such individuals or entities remain in full compliance with those Licences.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; General&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6.1.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; The validity or enforceability of the remaining terms of this agreement is not affected by the holding of any provision of it to be invalid or unenforceable.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6.2.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; This Licence constitutes the entire Licence Agreement between the parties with respect to the Work licensed here. There are no understandings, agreements or representations with respect to the Work not specified here. The Licensor shall not be bound by any additional provisions that may appear in any communication in any form.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6.3.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; A person who is not a party to this Licence shall have no rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any of its terms.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6.4.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; This Licence shall be governed by the law of England and Wales and the parties irrevocably submit to the exclusive jurisdiction of the Courts of England and Wales.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; On the role of Creative Commons&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.1.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Neither the Licensor nor the User may use the Creative Commons logo except to indicate that the Work is licensed under a Creative Commons Licence. Any permitted use has to be in compliance with the Creative Commons trade mark usage guidelines at the time of use of the Creative Commons trade mark. These guidelines may be found on the Creative Commons website or be otherwise available upon request from time to time.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.2.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Creative Commons Corporation does not profit financially from its role in providing this Licence and will not investigate the claims of any Licensor or user of the Licence.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.3.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; One of the conditions that Creative Commons Corporation requires of the Licensor and You is an acknowledgement of its limited role and agreement by all who use the Licence that the Corporation is not responsible to anyone for the statements and actions of You or the Licensor or anyone else attempting to use or using this Licence.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.4.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Creative Commons Corporation is not a party to this Licence, and makes no warranty whatsoever in connection to the Work or in connection to the Licence, and in all events is not liable for any loss or damage resulting from the Licensor's or Your reliance on this Licence or on its enforceability.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.5.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; USE OF THIS LICENCE MEANS THAT YOU AND THE LICENSOR EACH ACCEPTS THESE CONDITIONS IN SECTION 7.1, 7.2, 7.3, 7.4 AND EACH ACKNOWLEDGES CREATIVE COMMONS CORPORATION'S VERY LIMITED ROLE AS A FACILITATOR OF THE LICENCE FROM THE LICENSOR TO YOU.&#10;&#10;Creative Commons is not a party to this Licence, and makes no warranty whatsoever in connection with the Work. Creative Commons will not be liable to You or any party on any legal theory for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this licence. Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly identified itself as the Licensor hereunder, it shall have all rights and obligations of Licensor.&#10;&#10;Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark &quot;Creative Commons&quot; or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time.&#10;&#10;Creative Commons may be contacted at https://creativecommons.org/.&#10;&#10;
+      </div>
+
+    </div> <!-- /page -->
+
+    <div class="collaborative-projects">
+      <div class="gray-diagonal">
+        <div class="container">
+          <div id="footer-copyright">
+            <p>&#169; 2018          SPDX Workgroup a Linux Foundation Project. All Rights Reserved.        </p>
+            <p>Linux Foundation is a registered trademark of The Linux Foundation. Linux is a registered <a href="http://www.linuxfoundation.org/programs/legal/trademark" title="Linux Mark Institute">trademark</a> of Linus Torvalds.</p>
+            <p>Please see our <a href="http://www.linuxfoundation.org/privacy">privacy policy</a> and <a href="http://www.linuxfoundation.org/terms">terms of use</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="top-page-link">
+      <a href="#"><i class="fa fa-arrow-circle-up"></i><span>top of page</span></a>
+    </div>
+
+  </body>
+</html>

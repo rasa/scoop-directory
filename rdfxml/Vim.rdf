@@ -1,0 +1,218 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/Vim">
+    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isFsfLibre>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; VIM LICENSE
+
+&lt;&lt;endOptional&gt;&gt;
+
+   &lt;&lt;var;name="bullet";original="I)";match=".{0,20}"&gt;&gt; There are no restrictions on distributing unmodified copies of &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; except that they must include this license text. You can also distribute unmodified parts of &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; , likewise unrestricted except that they must include this license text. You are also allowed to include executables that you made from the unmodified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; sources, plus your own usage examples and Vim scripts.
+
+   &lt;&lt;var;name="bullet";original="II)";match=".{0,20}"&gt;&gt; It is allowed to distribute a modified (or extended) version of &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; , including executables and/or source code, when the following four conditions are met:
+
+      &lt;&lt;var;name="bullet";original="1)";match=".{0,20}"&gt;&gt; This license text must be included unmodified.
+
+      &lt;&lt;var;name="bullet";original="2)";match=".{0,20}"&gt;&gt; The modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; must be distributed in one of the following five ways:
+
+         &lt;&lt;var;name="bullet";original="a)";match=".{0,20}"&gt;&gt; If you make changes to &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; yourself, you must clearly describe in the distribution how to contact you. When the maintainer asks you (in any way) for a copy of the modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; you distributed, you must make your changes, including source code, available to the maintainer without fee. The maintainer reserves the right to include your changes in the official version of &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; . What the maintainer will do with your changes and under what license they will be distributed is negotiable. If there has been no negotiation then this license, or a later version, also applies to your changes. The current maintainer is Bram Moolenaar &lt;Bram@vim.org&gt;. If this changes it will be announced in appropriate places (most likely vim.sf.net, www.vim.org and/or comp.editors). When it is completely impossible to contact the maintainer, the obligation to send him your changes ceases. Once the maintainer has confirmed that he has received your changes they will not have to be sent again.
+
+         &lt;&lt;var;name="bullet";original="b)";match=".{0,20}"&gt;&gt; If you have received a modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; that was distributed as mentioned under a) you are allowed to further distribute it unmodified, as mentioned at I). If you make additional changes the text under a) applies to those changes.
+
+         &lt;&lt;var;name="bullet";original="c)";match=".{0,20}"&gt;&gt; Provide all the changes, including source code, with every copy of the modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; you distribute. This may be done in the form of a context diff. You can choose what license to use for new code you add. The changes and their license must not restrict others from making their own changes to the official version of &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; .
+
+         &lt;&lt;var;name="bullet";original="d)";match=".{0,20}"&gt;&gt; When you have a modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; which includes changes as mentioned under c), you can distribute it without the source code for the changes if the following three conditions are met:
+
+            &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; The license that applies to the changes permits you to distribute the changes to the Vim maintainer without fee or restriction, and permits the Vim maintainer to include the changes in the official version of &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; without fee or restriction.
+
+            &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; You keep the changes for at least three years after last distributing the corresponding modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; . When the maintainer or someone who you distributed the modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; to asks you (in any way) for the changes within this period, you must make them available to him.
+
+            &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; You clearly describe in the distribution how to contact you. This contact information must remain valid for at least three years after last distributing the corresponding modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; , or as long as possible.
+
+         &lt;&lt;var;name="bullet";original="e)";match=".{0,20}"&gt;&gt; When the GNU General Public License (GPL) applies to the changes, you can distribute the modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; under the GNU GPL version 2 or any later version.
+
+      &lt;&lt;var;name="bullet";original="3)";match=".{0,20}"&gt;&gt; A message must be added, at least in the output of the ":version" command and in the intro screen, such that the user of the modified &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; is able to see that it was modified. When distributing as mentioned under 2)e) adding the message is only required for as far as this does not conflict with the license used for the changes.
+
+      &lt;&lt;var;name="bullet";original="4)";match=".{0,20}"&gt;&gt; The contact information as required under 2)a) and 2)d) must not be removed or changed, except that the person himself can make corrections.
+
+   &lt;&lt;var;name="bullet";original="III)";match=".{0,20}"&gt;&gt; If you distribute a modified version of &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; , you are encouraged to use the Vim license for your changes and make them available to the maintainer, including the source code. The preferred way to do this is by e-mail or by uploading the files to a server and e-mailing the URL. If the number of changes is small (e.g., a modified Makefile) e-mailing a context diff will do. The e-mail address to be used is &lt;maintainer@vim.org&gt;
+
+   &lt;&lt;var;name="bullet";original="IV)";match=".{0,20}"&gt;&gt; It is not allowed to remove this license from the distribution of the &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; sources, parts of it or from a modified version. You may use this license for previous &lt;&lt;var;name="softwareName";original="Vim";match=".+"&gt;&gt; releases instead of the license that they came with, at your option.</spdx:standardLicenseTemplate>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;VIM LICENSE&lt;/p&gt;
+
+      &lt;/div&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;I)&lt;/var&gt;
+          There are no restrictions on distributing unmodified copies of &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; except that they must include
+             this license text. You can also distribute unmodified parts of &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt;, likewise unrestricted
+             except that they must include this license text. You are also allowed to include executables
+             that you made from the unmodified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; sources, plus your own usage examples and Vim
+             scripts.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;II)&lt;/var&gt;
+          It is allowed to distribute a modified (or extended) version of &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt;, including executables and/or
+             source code, when the following four conditions are met:
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;1)&lt;/var&gt;
+              This license text must be included unmodified.
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;2)&lt;/var&gt;
+              The modified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; must be distributed in one of the following five ways:
+              
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;a)&lt;/var&gt;
+                  If you make changes to &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; yourself, you must clearly describe in the distribution how to contact
+                    you. When the maintainer asks you (in any way) for a copy of the modified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; you distributed,
+                    you must make your changes, including source code, available to the maintainer without fee.
+                    The maintainer reserves the right to include your changes in the official version of &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt;. What
+                    the maintainer will do with your changes and under what license they will be distributed is
+                    negotiable. If there has been no negotiation then this license, or a later version, also
+                    applies to your changes. The current maintainer is Bram Moolenaar &amp;lt;Bram@vim.org&amp;gt;. If
+                    this changes it will be announced in appropriate places (most likely vim.sf.net, www.vim.org
+                    and/or comp.editors). When it is completely impossible to contact the maintainer, the
+                    obligation to send him your changes ceases. Once the maintainer has confirmed that he has
+                    received your changes they will not have to be sent again.
+                &lt;/li&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;b)&lt;/var&gt;
+                  If you have received a modified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; that was distributed as mentioned under a) you are allowed to
+                    further distribute it unmodified, as mentioned at I). If you make additional changes the text
+                    under a) applies to those changes.
+                &lt;/li&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;c)&lt;/var&gt;
+                  Provide all the changes, including source code, with every copy of the modified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; you
+                    distribute. This may be done in the form of a context diff. You can choose what license to use
+                    for new code you add. The changes and their license must not restrict others from making their
+                    own changes to the official version of &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt;.
+                &lt;/li&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;d)&lt;/var&gt;
+                  When you have a modified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; which includes changes as mentioned under c), you can distribute it
+                    without the source code for the changes if the following three conditions are met:
+                  
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                              &lt;var class="replacable-license-text"&gt;-&lt;/var&gt;
+                      The license that applies to the changes permits you to distribute the changes to the Vim
+                        maintainer without fee or restriction, and permits the Vim maintainer to include the changes
+                        in the official version of &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; without fee or restriction.
+                    &lt;/li&gt;
+&lt;li&gt;
+                              &lt;var class="replacable-license-text"&gt;-&lt;/var&gt;
+                      You keep the changes for at least three years after last distributing the corresponding modified
+                        &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt;. When the maintainer or someone who you distributed the modified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; to asks you (in any
+                        way) for the changes within this period, you must make them available to him.
+                    &lt;/li&gt;
+&lt;li&gt;
+                              &lt;var class="replacable-license-text"&gt;-&lt;/var&gt;
+                      You clearly describe in the distribution how to contact you. This contact information must remain
+                        valid for at least three years after last distributing the corresponding modified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt;, or as
+                        long as possible.
+                    &lt;/li&gt;
+&lt;/ul&gt;
+                     &lt;/li&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;e)&lt;/var&gt;
+                  When the GNU General Public License (GPL) applies to the changes, you can distribute the modified
+                    &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; under the GNU GPL version 2 or any later version.
+                &lt;/li&gt;
+&lt;/ul&gt;
+               &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;3)&lt;/var&gt;
+              A message must be added, at least in the output of the &amp;quot;:version&amp;quot; command and in the intro
+                screen, such that the user of the modified &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; is able to see that it was modified. When
+                distributing as mentioned under 2)e) adding the message is only required for as far as this
+                does not conflict with the license used for the changes.
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;4)&lt;/var&gt;
+              The contact information as required under 2)a) and 2)d) must not be removed or changed, except
+                that the person himself can make corrections.
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;III)&lt;/var&gt;
+          If you distribute a modified version of &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt;, you are encouraged to use the Vim license for your
+             changes and make them available to the maintainer, including the source code. The preferred
+             way to do this is by e-mail or by uploading the files to a server and e-mailing the URL. If
+             the number of changes is small (e.g., a modified Makefile) e-mailing a context diff will do.
+             The e-mail address to be used is &amp;lt;maintainer@vim.org&amp;gt;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;IV)&lt;/var&gt;
+          It is not allowed to remove this license from the distribution of the &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; sources, parts of it or
+             from a modified version. You may use this license for previous &lt;var class="replacable-license-text"&gt;Vim&lt;/var&gt; releases instead of the
+             license that they came with, at your option.
+        &lt;/li&gt;
+&lt;/ul&gt;
+    </spdx:licenseTextHtml>
+    <rdfs:seeAlso>http://vimdoc.sourceforge.net/htmldoc/uganda.html</rdfs:seeAlso>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:name>Vim License</spdx:name>
+    <spdx:licenseText>VIM LICENSE
+
+I) There are no restrictions on distributing unmodified copies of Vim except that they must include this license text. You can also distribute unmodified parts of Vim, likewise unrestricted except that they must include this license text. You are also allowed to include executables that you made from the unmodified Vim sources, plus your own usage examples and Vim scripts.
+
+II) It is allowed to distribute a modified (or extended) version of Vim, including executables and/or source code, when the following four conditions are met:
+
+     1) This license text must be included unmodified.
+
+     2) The modified Vim must be distributed in one of the following five ways:
+
+          a) If you make changes to Vim yourself, you must clearly describe in the distribution how to contact you. When the maintainer asks you (in any way) for a copy of the modified Vim you distributed, you must make your changes, including source code, available to the maintainer without fee. The maintainer reserves the right to include your changes in the official version of Vim. What the maintainer will do with your changes and under what license they will be distributed is negotiable. If there has been no negotiation then this license, or a later version, also applies to your changes. The current maintainer is Bram Moolenaar &lt;Bram@vim.org&gt;. If this changes it will be announced in appropriate places (most likely vim.sf.net, www.vim.org and/or comp.editors). When it is completely impossible to contact the maintainer, the obligation to send him your changes ceases. Once the maintainer has confirmed that he has received your changes they will not have to be sent again.
+
+          b) If you have received a modified Vim that was distributed as mentioned under a) you are allowed to further distribute it unmodified, as mentioned at I). If you make additional changes the text under a) applies to those changes.
+
+          c) Provide all the changes, including source code, with every copy of the modified Vim you distribute. This may be done in the form of a context diff. You can choose what license to use for new code you add. The changes and their license must not restrict others from making their own changes to the official version of Vim.
+
+          d) When you have a modified Vim which includes changes as mentioned under c), you can distribute it without the source code for the changes if the following three conditions are met:
+          - The license that applies to the changes permits you to distribute the changes to the Vim maintainer without fee or restriction, and permits the Vim maintainer to include the changes in the official version of Vim without fee or restriction.
+          - You keep the changes for at least three years after last distributing the corresponding modified Vim. When the maintainer or someone who you distributed the modified Vim to asks you (in any way) for the changes within this period, you must make them available to him.
+          - You clearly describe in the distribution how to contact you. This contact information must remain valid for at least three years after last distributing the corresponding modified Vim, or as long as possible.
+
+          e) When the GNU General Public License (GPL) applies to the changes, you can distribute the modified Vim under the GNU GPL version 2 or any later version.
+
+     3) A message must be added, at least in the output of the ":version" command and in the intro screen, such that the user of the modified Vim is able to see that it was modified. When distributing as mentioned under 2)e) adding the message is only required for as far as this does not conflict with the license used for the changes.
+
+     4) The contact information as required under 2)a) and 2)d) must not be removed or changed, except that the person himself can make corrections.
+
+III) If you distribute a modified version of Vim, you are encouraged to use the Vim license for your changes and make them available to the maintainer, including the source code. The preferred way to do this is by e-mail or by uploading the files to a server and e-mailing the URL. If the number of changes is small (e.g., a modified Makefile) e-mailing a context diff will do. The e-mail address to be used is &lt;maintainer@vim.org&gt;
+
+IV) It is not allowed to remove this license from the distribution of the Vim sources, parts of it or from a modified version. You may use this license for previous Vim releases instead of the license that they came with, at your option.
+</spdx:licenseText>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:55:42</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>http://vimdoc.sourceforge.net/htmldoc/uganda.html</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+  </spdx:ListedLicense>
+</rdf:RDF>

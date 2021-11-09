@@ -1,0 +1,184 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/MS-PL">
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; Microsoft Public License (Ms-PL)
+
+&lt;&lt;endOptional&gt;&gt;
+
+This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; Definitions
+
+   The terms "reproduce," "reproduction," "derivative works," and "distribution" have the same meaning here as under U.S. copyright law. A "contribution" is the original software, or any additions or changes to the software. A "contributor" is any person that distributes its contribution under this license. "Licensed patents" are a contributor's patent claims that read directly on its contribution.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Grant of Rights
+
+      &lt;&lt;var;name="bullet";original="(A)";match=".{0,20}"&gt;&gt; Copyright Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+
+      &lt;&lt;var;name="bullet";original="(B)";match=".{0,20}"&gt;&gt; Patent Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works of the contribution in the software.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; Conditions and Limitations
+
+      &lt;&lt;var;name="bullet";original="(A)";match=".{0,20}"&gt;&gt; No Trademark License- This license does not grant you rights to use any contributors' name, logo, or trademarks.
+
+      &lt;&lt;var;name="bullet";original="(B)";match=".{0,20}"&gt;&gt; If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.
+
+      &lt;&lt;var;name="bullet";original="(C)";match=".{0,20}"&gt;&gt; If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution notices that are present in the software.
+
+      &lt;&lt;var;name="bullet";original="(D)";match=".{0,20}"&gt;&gt; If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. If you distribute any portion of the software in compiled or object code form, you may only do so under a license that complies with this license.
+
+      &lt;&lt;var;name="bullet";original="(E)";match=".{0,20}"&gt;&gt; The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees, or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Microsoft Public License (Ms-PL)
+
+This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
+
+1.  Definitions
+The terms "reproduce," "reproduction," "derivative works," and "distribution" have the same meaning here as under U.S. copyright law. A "contribution" is the original software, or any additions or changes to the software. A "contributor" is any person that distributes its contribution under this license. "Licensed patents" are a contributor's patent claims that read directly on its contribution.
+
+2.  Grant of Rights
+     (A) Copyright Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+
+     (B) Patent Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works of the contribution in the software.
+
+3.  Conditions and Limitations
+     (A) No Trademark License- This license does not grant you rights to use any contributors' name, logo, or trademarks.
+
+     (B) If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.
+
+     (C) If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution notices that are present in the software.
+
+     (D) If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. If you distribute any portion of the software in compiled or object code form, you may only do so under a license that complies with this license.
+
+     (E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees, or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:55:23</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>http://www.microsoft.com/opensource/licenses.mspx</spdx:url>
+        <spdx:match>N/A</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:seeAlso>https://opensource.org/licenses/MS-PL</rdfs:seeAlso>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;Microsoft Public License (Ms-PL)&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;This license governs use of the accompanying software. If you use the software, you accept this license.
+         If you do not accept the license, do not use the software.&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          Definitions
+            &lt;br /&gt;
+
+   The terms &amp;quot;reproduce,&amp;quot; &amp;quot;reproduction,&amp;quot; &amp;quot;derivative works,&amp;quot;
+                 and &amp;quot;distribution&amp;quot; have the same meaning here as under U.S. copyright law. A
+                 &amp;quot;contribution&amp;quot; is the original software, or any additions or changes to the
+                 software. A &amp;quot;contributor&amp;quot; is any person that distributes its contribution
+                 under this license. &amp;quot;Licensed patents&amp;quot; are a contributor&amp;apos;s patent
+                 claims that read directly on its contribution.
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          Grant of Rights
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(A)&lt;/var&gt;
+              Copyright Grant- Subject to the terms of this license, including the license conditions and
+                 limitations in section 3, each contributor grants you a non-exclusive, worldwide,
+                 royalty-free copyright license to reproduce its contribution, prepare derivative works of
+                 its contribution, and distribute its contribution or any derivative works that you
+                 create.
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(B)&lt;/var&gt;
+              Patent Grant- Subject to the terms of this license, including the license conditions and
+                 limitations in section 3, each contributor grants you a non-exclusive, worldwide,
+                 royalty-free license under its licensed patents to make, have made, use, sell, offer for
+                 sale, import, and/or otherwise dispose of its contribution in the software or derivative
+                 works of the contribution in the software.
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          Conditions and Limitations
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(A)&lt;/var&gt;
+              No Trademark License- This license does not grant you rights to use any contributors&amp;apos;
+                 name, logo, or trademarks.
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(B)&lt;/var&gt;
+              If you bring a patent claim against any contributor over patents that you claim are infringed
+                 by the software, your patent license from such contributor to the software ends
+                 automatically.
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(C)&lt;/var&gt;
+              If you distribute any portion of the software, you must retain all copyright, patent,
+                 trademark, and attribution notices that are present in the software.
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(D)&lt;/var&gt;
+              If you distribute any portion of the software in source code form, you may do so only under
+                 this license by including a complete copy of this license with your distribution. If you
+                 distribute any portion of the software in compiled or object code form, you may only do so
+                 under a license that complies with this license.
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;(E)&lt;/var&gt;
+              The software is licensed &amp;quot;as-is.&amp;quot; You bear the risk of using it. The contributors
+                 give no express warranties, guarantees, or conditions. You may have additional consumer
+                 rights under your local laws which this license cannot change. To the extent permitted
+                 under your local laws, the contributors exclude the implied warranties of merchantability,
+                 fitness for a particular purpose and non-infringement.
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;/ul&gt;
+    </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:55:23</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:url>https://opensource.org/licenses/MS-PL</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:seeAlso>http://www.microsoft.com/opensource/licenses.mspx</rdfs:seeAlso>
+    <spdx:name>Microsoft Public License</spdx:name>
+    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isFsfLibre>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
+  </spdx:ListedLicense>
+</rdf:RDF>

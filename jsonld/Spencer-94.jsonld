@@ -1,0 +1,81 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "true",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 16:58:30",
+    "url" : "https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License"
+  }, {
+    "@id" : "http://spdx.org/licenses/Spencer-94",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "Copyright 1992, 1993, 1994 Henry Spencer.  All rights reserved.\nThis software is not subject to any license of the American Telephone and Telegraph Company or of the Regents of the University of California.\n\nPermission is granted to anyone to use this software for any purpose on any computer system, and to alter it and redistribute it, subject to the following restrictions:\n\n1. The author is not responsible for the consequences of use of this software, no matter how awful, even if they arise from flaws in it.\n\n2. The origin of this software must not be misrepresented, either by explicit claim or by omission.  Since few users ever read sources, credits must appear in the documentation.\n\n3. Altered versions must be plainly marked as such, and must not be misrepresented as being the original software.  Since few users ever read sources, credits must appear in the documentation.\n\n4. This notice may not be removed or altered.\n",
+    "licenseTextHtml" : "\n      <div class=\"optional-license-text\">\n         <p>Copyright 1992, 1993, 1994 Henry Spencer. All rights reserved.</p>\n\n      </div>\n\n      <p>This software is not subject to any license of the American Telephone and Telegraph Company or of the\n         Regents of the University of California.\n      <br />\n\nPermission is granted to anyone to use this software for any purpose on any computer system, and to alter it\n         and redistribute it, subject to the following restrictions:</p>\n\n<ul style=\"list-style:none\">\n<li>\n            <var class=\"replacable-license-text\">1.</var>\n          The author is not responsible for the consequences of use of this software, no matter how awful, even\n             if they arise from flaws in it.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">2.</var>\n          The origin of this software must not be misrepresented, either by explicit claim or by omission.\n             Since few users ever read sources, credits must appear in the documentation.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">3.</var>\n          Altered versions must be plainly marked as such, and must not be misrepresented as being the original\n             software. Since few users ever read sources, credits must appear in the documentation.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">4.</var>\n          This notice may not be removed or altered.\n        </li>\n</ul>\n    ",
+    "name" : "Spencer License 94",
+    "standardLicenseTemplate" : "<<beginOptional>> Copyright 1992, 1993, 1994 Henry Spencer. All rights reserved.\n\n<<endOptional>>\n\nThis software is not subject to any license of the American Telephone and Telegraph Company or of the Regents of the University of California.\n\nPermission is granted to anyone to use this software for any purpose on any computer system, and to alter it and redistribute it, subject to the following restrictions:\n\n   <<var;name=\"bullet\";original=\"1.\";match=\".{0,20}\">> The author is not responsible for the consequences of use of this software, no matter how awful, even if they arise from flaws in it.\n\n   <<var;name=\"bullet\";original=\"2.\";match=\".{0,20}\">> The origin of this software must not be misrepresented, either by explicit claim or by omission. Since few users ever read sources, credits must appear in the documentation.\n\n   <<var;name=\"bullet\";original=\"3.\";match=\".{0,20}\">> Altered versions must be plainly marked as such, and must not be misrepresented as being the original software. Since few users ever read sources, credits must appear in the documentation.\n\n   <<var;name=\"bullet\";original=\"4.\";match=\".{0,20}\">> This notice may not be removed or altered.",
+    "seeAlso" : "https://fedoraproject.org/wiki/Licensing/Henry_Spencer_Reg-Ex_Library_License"
+  } ],
+  "@context" : {
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

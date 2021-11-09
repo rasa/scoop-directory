@@ -1,0 +1,74 @@
+<<beginOptional>> <<beginOptional>> #<<endOptional>> The Parity Public License 7.0.0
+
+<<endOptional>>
+
+Contributor: <<var;name="copyright";original="name";match=".+">>
+
+Source Code: <<var;name="address";original="address";match=".+">>
+
+<<beginOptional>> ##<<endOptional>> Purpose
+
+This license allows you to use and share this software for free, but you have to share software that builds on it alike.
+
+<<beginOptional>> ##<<endOptional>> Agreement
+
+In order to receive this license, you have to agree to its rules. Those rules are both obligations under that agreement and conditions to your license. Don't do anything with this software that triggers a rule you can't or won't follow.
+
+<<beginOptional>> ##<<endOptional>> Notices
+
+Make sure everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license and the contributor and source code lines above.
+
+<<beginOptional>> ##<<endOptional>> Copyleft
+
+<<var;name="contributeRef";original="[Contribute](#contribute)";match="\[Contribute\]\(\#contribute\)|Contribute">> software you develop, operate, or analyze with this software, including changes or additions to this software. When in doubt, <<var;name="contributeRef";original="[contribute](#contribute)";match="\[contribute\]\(#contribute\)|contribute">> .
+
+<<beginOptional>> ##<<endOptional>> Prototypes
+
+You don't have to <<var;name="contributeRef";original="[contribute](#contribute)";match="\[contribute\]\(#contribute\)|contribute">> any change, addition, or other software that meets all these criteria:
+
+   <<var;name="bullet";original="1.";match=".{0,20}">> You don't use it for more than thirty days.
+
+   <<var;name="bullet";original="2.";match=".{0,20}">> You don't share it outside the team developing it, other than for non-production user testing.
+
+   <<var;name="bullet";original="3.";match=".{0,20}">> You don't develop, operate, or analyze other software with it for anyone outside the team developing it.
+
+<<beginOptional>> ##<<endOptional>> Reverse Engineering
+
+You may use this software to operate and analyze software you can't <<var;name="contributeRef";original="[contribute](#contribute)";match="\[contribute\]\(#contribute\)|contribute">> in order to develop alternatives you can and do <<var;name="contributeRef";original="[contribute](#contribute)";match="\[contribute\]\(#contribute\)|contribute">> .
+
+<<beginOptional>> ##<<endOptional>> Contribute
+
+To <<var;name="contributeRef";original="[contribute](#contribute)";match="\[contribute\]\(#contribute\)|contribute">> software:
+
+   <<var;name="bullet";original="1.";match=".{0,20}">> Publish all source code for the software in the preferred form for making changes through a freely accessible distribution system widely used for similar source code so the contributor and others can find and copy it.
+
+   <<var;name="bullet";original="2.";match=".{0,20}">> Make sure every part of the source code is available under this license or another license that allows everything this license does, such as <<var;name="licenseList";original="[the Blue Oak Model License 1.0.0](https://blueoakcouncil.org/license/1.0.0), [the Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html), [the MIT license](https://spdx.org/licenses/MIT.html), or [the two-clause BSD license](https://spdx.org/licenses/BSD-2-Clause.html).";match="\[the Blue Oak Model License 1\.0\.0\]\(https://blueoakcouncil\.org/license/1\.0\.0\), \[the Apache License 2\.0\]\(https://www\.apache\.org/licenses/LICENSE-2\.0\.html\), \[the MIT license\]\(https://spdx\.org/licenses/MIT\.html\), or \[the two-clause BSD license\]\(https://spdx\.org/licenses/BSD-2-Clause\.html\)\.|the Blue Oak Model License 1\.0\.0, the Apache License 2\.0, the MIT License, or the two-clause BSD License\.">>
+
+   <<var;name="bullet";original="3.";match=".{0,20}">> Take these steps within thirty days.
+
+   <<var;name="bullet";original="4.";match=".{0,20}">> Note that this license does <<var;name="emphasizedNot";original="_not_";match="_not_|not">> allow you to change the license terms for this software. You must follow <<var;name="noticesRef";original="[Notices](#notices)";match="\[Notices\]\(#notices\)|Notices">> .
+
+<<beginOptional>> ##<<endOptional>> Excuse
+
+You're excused for unknowingly breaking <<var;name="copyleftRef";original="[Copyleft](#copyleft)";match="\[Copyleft\]\(#copyleft\)|Copyleft">> if you <<var;name="contributeRef";original="[contribute](#contribute)";match="\[contribute\]\(#contribute\)|contribute">> as required, or stop doing anything requiring this license, within thirty days of learning you broke the rule. You're excused for unknowingly breaking <<var;name="noticesRef";original="[Notices](#notices)";match="\[Notices\]\(#notices\)|Notices">> if you take all practical steps to comply within thirty days of learning you broke the rule.
+
+<<beginOptional>> ##<<endOptional>> Defense
+
+Don't make any legal claim against anyone accusing this software, with or without changes, alone or with other technology, of infringing any patent.
+
+<<beginOptional>> ##<<endOptional>> Copyright
+
+The contributor licenses you to do everything with this software that would otherwise infringe their copyright in it.
+
+<<beginOptional>> ##<<endOptional>> Patent
+
+The contributor licenses you to do everything with this software that would otherwise infringe any patents they can license or become able to license.
+
+<<beginOptional>> ##<<endOptional>> Reliability
+
+The contributor can't revoke this license.
+
+<<beginOptional>> ##<<endOptional>> No Liability
+
+***As far as the law allows, this software comes as is, without any warranty or condition, and the contributor won't be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***
+

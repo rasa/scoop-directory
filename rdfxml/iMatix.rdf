@@ -1,0 +1,202 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/iMatix">
+    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isFsfLibre>
+    <spdx:name>iMatix Standard Function Library Agreement</spdx:name>
+    <rdfs:seeAlso>http://legacy.imatix.com/html/sfl/sfl4.htm#license</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:24</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>http://legacy.imatix.com/html/sfl/sfl4.htm#license</spdx:url>
+        <spdx:match>N/A</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:licenseText>The SFL License Agreement
+
+This license agreement covers your use of the iMatix STANDARD FUNCTION LIBRARY (SFL), its source code, documentation, and executable files, hereinafter referred to as "the Product".
+
+The Product is Copyright (c) 1991-2000 iMatix Corporation. You may use it and distribute it according to this following License Agreement. If you do not agree with these terms, please remove the Product from your system. By incorporating the Product in your work or distributing the Product to others you implicitly agree to these license terms.
+
+Statement Of Copyright
+
+The Product is, and remains, Copyright © 1991-2000 iMatix Corporation, with exception of specific copyrights as noted in the individual source files.
+
+Conditions Of Use
+
+You do not need to provide the source code for the Product as part of your product. However, you must do one of these things to comply with the Product License Agreement:
+
+     1.	Provide the source code for Product modules that you use, or
+     2.	Make your product freely available according to a license similar to the GNU General Public License, or the Perl Artistic License, or
+     3.	Add this phrase to the documentation for your product: "This product uses parts of the iMatix SFL, Copyright © 1991-2000 iMatix Corporation &lt;http://www.imatix.com&gt;".
+
+Rights Of Usage
+
+You may freely and at no cost use the Product in any project, commercial, academic, military, or private, so long as you respect the License Agreement. The License Agreement does not affect any software except the Product. In particular, any application that uses the Product does not itself fall under the License Agreement.
+
+You may modify any part of the Product, including sources and documentation, except this License Agreement, which you may not modify.
+
+You must clearly indicate any modifications at the start of each source file. The user of any modified Product code must know that the source file is not original.
+
+At your discretion, you may rewrite or reuse any part of the Product so that your derived code is not obviously part of the Product. This derived code does not fall under the Product License Agreement directly, but you must include a credit at the start of each source file indicating the original authorship and source of the code, and a statement of copyright as follows:"Parts copyright (c) 1991-2000 iMatix Corporation."
+
+Rights Of Distribution
+
+You may freely distribute the Product, or any subset of the Product, by any means. The License, in the form of the file called "LICENSE.TXT" must accompany any such distribution.
+
+You may charge a fee for distributing the Product, for providing a warranty on the Product, for making modifications to the Product, or for any other service provided in relation to the Product. You are not required to ask our permission for any of these activities.
+
+At no time will iMatix associate itself with any distribution of the Product except that supplied from the Internet site http://www.imatix.com.
+
+Disclaimer Of Warranty
+
+The Product is provided as free software, in the hope that it will be useful. It is provided "as-is", without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the Product is with you. Should the Product prove defective, the full cost of repair, servicing, or correction lies with you.
+</spdx:licenseText>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; The SFL License Agreement
+
+&lt;&lt;endOptional&gt;&gt;
+
+This license agreement covers your use of the iMatix STANDARD FUNCTION LIBRARY (SFL), its source code, documentation, and executable files, hereinafter referred to as "the Product".
+
+The Product is Copyright (c) 1991-2000 iMatix Corporation. You may use it and distribute it according to this following License Agreement. If you do not agree with these terms, please remove the Product from your system. By incorporating the Product in your work or distributing the Product to others you implicitly agree to these license terms.
+
+Statement Of Copyright
+
+The Product is, and remains, Copyright © 1991-2000 iMatix Corporation, with exception of specific copyrights as noted in the individual source files.
+
+Conditions Of Use
+
+   You do not need to provide the source code for the Product as part of your product. However, you must do one of these things to comply with the Product License Agreement:
+
+      &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; Provide the source code for Product modules that you use, or
+
+      &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Make your product freely available according to a license similar to the GNU General Public License, or the Perl Artistic License, or
+
+      &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; Add this phrase to the documentation for your product: "This product uses parts of the iMatix SFL, Copyright © 1991-2000 iMatix Corporation &lt;http://www.imatix.com&gt;".
+
+Rights Of Usage
+
+   You may freely and at no cost use the Product in any project, commercial, academic, military, or private, so long as you respect the License Agreement. The License Agreement does not affect any software except the Product. In particular, any application that uses the Product does not itself fall under the License Agreement.
+
+   You may modify any part of the Product, including sources and documentation, except this License Agreement, which you may not modify.
+
+   You must clearly indicate any modifications at the start of each source file. The user of any modified Product code must know that the source file is not original.
+
+   At your discretion, you may rewrite or reuse any part of the Product so that your derived code is not obviously part of the Product. This derived code does not fall under the Product License Agreement directly, but you must include a credit at the start of each source file indicating the original authorship and source of the code, and a statement of copyright as follows:
+
+   "Parts copyright (c) 1991-2000 iMatix Corporation."
+
+Rights Of Distribution
+
+   You may freely distribute the Product, or any subset of the Product, by any means. The License, in the form of the file called "LICENSE.TXT" must accompany any such distribution.
+
+   You may charge a fee for distributing the Product, for providing a warranty on the Product, for making modifications to the Product, or for any other service provided in relation to the Product. You are not required to ask our permission for any of these activities.
+
+   At no time will iMatix associate itself with any distribution of the Product except that supplied from the Internet site http://www.imatix.com.
+
+Disclaimer Of Warranty
+
+   The Product is provided as free software, in the hope that it will be useful. It is provided "as-is", without warranty of any kind, either expressed or implied, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose. The entire risk as to the quality and performance of the Product is with you. Should the Product prove defective, the full cost of repair, servicing, or correction lies with you.</spdx:standardLicenseTemplate>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;The SFL License Agreement&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;This license agreement covers your use of the iMatix STANDARD FUNCTION LIBRARY (SFL), its source code,
+         documentation, and executable files, hereinafter referred to as &amp;quot;the Product&amp;quot;.&lt;/p&gt;
+
+      &lt;p&gt;The Product is Copyright (c) 1991-2000 iMatix Corporation. You may use it and distribute it according to
+         this following License Agreement. If you do not agree with these terms, please remove the Product from
+         your system. By incorporating the Product in your work or distributing the Product to others you
+         implicitly agree to these license terms.&lt;/p&gt;
+
+      &lt;p&gt;Statement Of Copyright&lt;/p&gt;
+
+      &lt;p&gt;The Product is, and remains, Copyright © 1991-2000 iMatix Corporation, with exception of specific
+         copyrights as noted in the individual source files.&lt;/p&gt;
+
+      &lt;p&gt;Conditions Of Use&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;You do not need to provide the source code for the Product as part of your product. However, you must do
+         one of these things to comply with the Product License Agreement:
+      
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          Provide the source code for Product modules that you use, or
+        &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          Make your product freely available according to a license similar to the GNU General Public
+             License, or the Perl Artistic License, or
+        &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          Add this phrase to the documentation for your product: &amp;quot;This product uses parts of the iMatix
+             SFL, Copyright © 1991-2000 iMatix Corporation &amp;lt;http://www.imatix.com&amp;gt;&amp;quot;.
+        &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;p&gt;Rights Of Usage&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;You may freely and at no cost use the Product in any project, commercial, academic, military, or private,
+           so long as you respect the License Agreement. The License Agreement does not affect any software
+           except the Product. In particular, any application that uses the Product does not itself fall under
+           the License Agreement.&lt;/li&gt;
+&lt;li&gt;You may modify any part of the Product, including sources and documentation, except this License
+           Agreement, which you may not modify.&lt;/li&gt;
+&lt;li&gt;You must clearly indicate any modifications at the start of each source file. The user of any modified
+           Product code must know that the source file is not original.&lt;/li&gt;
+&lt;li&gt;
+            &lt;p&gt;At your discretion, you may rewrite or reuse any part of the Product so that your derived code is not
+           obviously part of the Product. This derived code does not fall under the Product License Agreement
+           directly, but you must include a credit at the start of each source file indicating the original
+           authorship and source of the code, and a statement of copyright as follows:&lt;/p&gt;
+
+            &lt;p&gt;&amp;quot;Parts copyright (c) 1991-2000 iMatix Corporation.&amp;quot;&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;Rights Of Distribution&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;You may freely distribute the Product, or any subset of the Product, by any means. The License, in
+             the form of the file called &amp;quot;LICENSE.TXT&amp;quot; must accompany any such distribution.&lt;/li&gt;
+&lt;li&gt;You may charge a fee for distributing the Product, for providing a warranty on the Product, for
+             making modifications to the Product, or for any other service provided in relation to the Product.
+             You are not required to ask our permission for any of these activities.&lt;/li&gt;
+&lt;li&gt;At no time will iMatix associate itself with any distribution of the Product except that supplied
+             from the Internet site http://www.imatix.com.&lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;Disclaimer Of Warranty&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;The Product is provided as free software, in the hope that it will be useful. It is provided &amp;quot;as-is&amp;quot;,
+             without warranty of any kind, either expressed or implied, including, but not limited to, the
+             implied warranties of merchantability and fitness for a particular purpose. The entire risk as to
+             the quality and performance of the Product is with you. Should the Product prove defective, the
+             full cost of repair, servicing, or correction lies with you.&lt;/li&gt;
+&lt;/ul&gt;
+    </spdx:licenseTextHtml>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+  </spdx:ListedLicense>
+</rdf:RDF>

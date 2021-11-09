@@ -1,0 +1,85 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "false",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 16:59:14",
+    "url" : "https://blueoakcouncil.org/license/1.0.0"
+  }, {
+    "@id" : "http://spdx.org/licenses/BlueOak-1.0.0",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "# Blue Oak Model License\n\nVersion 1.0.0\n\n## Purpose\n\nThis license gives everyone as much permission to work with\nthis software as possible, while protecting contributors\nfrom liability.\n\n## Acceptance\n\nIn order to receive this license, you must agree to its\nrules.  The rules of this license are both obligations\nunder that agreement and conditions to your license.\nYou must not do anything with this software that triggers\na rule that you cannot or will not follow.\n\n## Copyright\n\nEach contributor licenses you to do everything with this\nsoftware that would otherwise infringe that contributor's\ncopyright in it.\n\n## Notices\n\nYou must ensure that everyone who gets a copy of\nany part of this software from you, with or without\nchanges, also gets the text of this license or a link to\n<https://blueoakcouncil.org/license/1.0.0>.\n\n## Excuse\n\nIf anyone notifies you in writing that you have not\ncomplied with [Notices](#notices), you can keep your\nlicense by taking all practical steps to comply within 30\ndays after the notice.  If you do not do so, your license\nends immediately.\n\n## Patent\n\nEach contributor licenses you to do everything with this\nsoftware that would otherwise infringe any patent claims\nthey can license or become able to license.\n\n## Reliability\n\nNo contributor can revoke this license.\n\n## No Liability\n\n***As far as the law allows, this software comes as is,\nwithout any warranty or condition, and no contributor\nwill be liable to anyone for any damages related to this\nsoftware or this license, under any kind of legal claim.***\n",
+    "licenseTextHtml" : "\n      <div class=\"optional-license-text\">\n        <p><var class=\"optional-license-text\"># </var>Blue Oak Model License</p>\n\n      </div>\n      <p>Version 1.0.0</p>\n\n      <p><var class=\"optional-license-text\">## </var>Purpose</p>\n\n      <p>This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability.</p>\n\n      <p><var class=\"optional-license-text\">## </var>Acceptance</p>\n\n      <p>In order to receive this license, you must agree to its rules. The rules of this license are both obligations under that agreement and conditions to your license. You must not do anything with this software that triggers a rule that you cannot or will not follow.</p>\n\n      <p><var class=\"optional-license-text\">## </var>Copyright</p>\n\n      <p>Each contributor licenses you to do everything with this software that would otherwise infringe that contributor&apos;s copyright in it.</p>\n\n      <p><var class=\"optional-license-text\">## </var>Notices</p>\n\n      <p>You must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to &lt;https://blueoakcouncil.org/license/1.0.0&gt;.</p>\n\n      <p><var class=\"optional-license-text\">## </var>Excuse</p>\n\n      <p>If anyone notifies you in writing that you have not complied with <var class=\"replacable-license-text\">[Notices](#notices)</var>, you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.</p>\n\n      <p><var class=\"optional-license-text\">## </var>Patent</p>\n\n      <p>Each contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.</p>\n\n      <p><var class=\"optional-license-text\">## </var>Reliability</p>\n\n      <p>No contributor can revoke this license.</p>\n\n      <p><var class=\"optional-license-text\">## </var>No Liability</p>\n\n      <p>***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***</p>\n\n    ",
+    "name" : "Blue Oak Model License 1.0.0",
+    "standardLicenseTemplate" : "<<beginOptional>> <<beginOptional>> #<<endOptional>> Blue Oak Model License\n\n<<endOptional>>\n\nVersion 1.0.0\n\n<<beginOptional>> ##<<endOptional>> Purpose\n\nThis license gives everyone as much permission to work with this software as possible, while protecting contributors from liability.\n\n<<beginOptional>> ##<<endOptional>> Acceptance\n\nIn order to receive this license, you must agree to its rules. The rules of this license are both obligations under that agreement and conditions to your license. You must not do anything with this software that triggers a rule that you cannot or will not follow.\n\n<<beginOptional>> ##<<endOptional>> Copyright\n\nEach contributor licenses you to do everything with this software that would otherwise infringe that contributor's copyright in it.\n\n<<beginOptional>> ##<<endOptional>> Notices\n\nYou must ensure that everyone who gets a copy of any part of this software from you, with or without changes, also gets the text of this license or a link to <https://blueoakcouncil.org/license/1.0.0>.\n\n<<beginOptional>> ##<<endOptional>> Excuse\n\nIf anyone notifies you in writing that you have not complied with <<var;name=\"noticesRef\";original=\"[Notices](#notices)\";match=\"\\[Notices\\]\\(\\#notices\\)|Notices\">> , you can keep your license by taking all practical steps to comply within 30 days after the notice. If you do not do so, your license ends immediately.\n\n<<beginOptional>> ##<<endOptional>> Patent\n\nEach contributor licenses you to do everything with this software that would otherwise infringe any patent claims they can license or become able to license.\n\n<<beginOptional>> ##<<endOptional>> Reliability\n\nNo contributor can revoke this license.\n\n<<beginOptional>> ##<<endOptional>> No Liability\n\n***As far as the law allows, this software comes as is, without any warranty or condition, and no contributor will be liable to anyone for any damages related to this software or this license, under any kind of legal claim.***\n\n",
+    "comment" : "This license was released on March 6, 2019.",
+    "seeAlso" : "https://blueoakcouncil.org/license/1.0.0"
+  } ],
+  "@context" : {
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

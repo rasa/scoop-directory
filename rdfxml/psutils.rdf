@@ -1,0 +1,157 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/psutils">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/psutils</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:33</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/psutils</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>psutils License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;PS Utilities Package&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;The constituent files of this package listed below are copyright (C) 1991-1995 Angus J. C. Duggan.&lt;/p&gt;
+
+         &lt;p&gt;LICENSE Makefile.msc Makefile.nt Makefile.os2
+        &lt;br /&gt;
+
+Makefile.unix README config.h descrip.mms
+        &lt;br /&gt;
+
+epsffit.c epsffit.man extractres.man extractres.pl
+        &lt;br /&gt;
+
+fixdlsrps.man fixdlsrps.pl fixfmps.man fixfmps.pl
+        &lt;br /&gt;
+
+fixmacps.man fixmacps.pl fixpsditps.man fixpsditps.pl
+        &lt;br /&gt;
+
+fixpspps.man fixpspps.pl fixscribeps.man fixscribeps.pl
+        &lt;br /&gt;
+
+fixtpps.man fixtpps.pl fixwfwps.man fixwfwps.pl
+        &lt;br /&gt;
+
+fixwpps.man fixwpps.pl fixwwps.man fixwwps.pl
+        &lt;br /&gt;
+
+getafm getafm.man includeres.man includeres.pl
+        &lt;br /&gt;
+
+maketext patchlev.h psbook.c psbook.man
+        &lt;br /&gt;
+
+pserror.c pserror.h psmerge.man psmerge.pl
+        &lt;br /&gt;
+
+psnup.c psnup.man psresize.c psresize.man
+        &lt;br /&gt;
+
+psselect.c psselect.man psspec.c psspec.h
+        &lt;br /&gt;
+
+pstops.c pstops.man psutil.c psutil.h
+        &lt;br /&gt;
+
+showchar
+      &lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;They may be copied and used for any purpose (including distribution as part of a for-profit product),
+         provided:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1)&lt;/var&gt;
+          The original attribution of the programs is clearly displayed in the product and/or
+             documentation, even if the programs are modified and/or renamed as part of the product.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2)&lt;/var&gt;
+          The original source code of the programs is provided free of charge (except for reasonable
+             distribution costs). For a definition of reasonable distribution costs, see the Gnu General
+             Public License or Larry Wall&amp;apos;s Artistic License (provided with the Perl 4 kit). The GPL and
+             Artistic License in NO WAY affect this license; they are merely used as examples of the spirit
+             in which it is intended.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3)&lt;/var&gt;
+          These programs are provided &amp;quot;as-is&amp;quot;. No warranty or guarantee of their fitness for any particular
+             task is provided. Use of these programs is completely at your own risk.
+        &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;p&gt;Basically, I don&amp;apos;t mind how you use the programs so long as you acknowledge the author, and give people
+         the originals if they want them.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; PS Utilities Package
+
+&lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="copyright";original="The constituent files of this package listed below are copyright (C) 1991-1995 Angus J. C. Duggan.    LICENSE Makefile.msc Makefile.nt Makefile.os2  Makefile.unix README config.h descrip.mms  epsffit.c epsffit.man extractres.man extractres.pl  fixdlsrps.man fixdlsrps.pl fixfmps.man fixfmps.pl  fixmacps.man fixmacps.pl fixpsditps.man fixpsditps.pl  fixpspps.man fixpspps.pl fixscribeps.man fixscribeps.pl  fixtpps.man fixtpps.pl fixwfwps.man fixwfwps.pl  fixwpps.man fixwpps.pl fixwwps.man fixwwps.pl  getafm getafm.man includeres.man includeres.pl  maketext patchlev.h psbook.c psbook.man  pserror.c pserror.h psmerge.man psmerge.pl  psnup.c psnup.man psresize.c psresize.man  psselect.c psselect.man psspec.c psspec.h  pstops.c pstops.man psutil.c psutil.h  showchar  ";match=".{0,5000}"&gt;&gt;
+
+They may be copied and used for any purpose (including distribution as part of a for-profit product), provided:
+
+   &lt;&lt;var;name="bullet";original="1)";match=".{0,20}"&gt;&gt; The original attribution of the programs is clearly displayed in the product and/or documentation, even if the programs are modified and/or renamed as part of the product.
+
+   &lt;&lt;var;name="bullet";original="2)";match=".{0,20}"&gt;&gt; The original source code of the programs is provided free of charge (except for reasonable distribution costs). For a definition of reasonable distribution costs, see the Gnu General Public License or Larry Wall's Artistic License (provided with the Perl 4 kit). The GPL and Artistic License in NO WAY affect this license; they are merely used as examples of the spirit in which it is intended.
+
+   &lt;&lt;var;name="bullet";original="3)";match=".{0,20}"&gt;&gt; These programs are provided "as-is". No warranty or guarantee of their fitness for any particular task is provided. Use of these programs is completely at your own risk.
+
+Basically, I don't mind how you use the programs so long as you acknowledge the author, and give people the originals if they want them.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>PS Utilities Package
+
+The constituent files of this package listed below are copyright (C) 1991-1995 Angus J. C. Duggan.
+
+LICENSE          Makefile.msc     Makefile.nt	   Makefile.os2
+Makefile.unix    README           config.h         descrip.mms
+epsffit.c        epsffit.man	  extractres.man   extractres.pl
+fixdlsrps.man    fixdlsrps.pl     fixfmps.man	   fixfmps.pl
+fixmacps.man     fixmacps.pl	  fixpsditps.man   fixpsditps.pl
+fixpspps.man     fixpspps.pl	  fixscribeps.man  fixscribeps.pl
+fixtpps.man	 fixtpps.pl	  fixwfwps.man     fixwfwps.pl
+fixwpps.man	 fixwpps.pl	  fixwwps.man	   fixwwps.pl
+getafm           getafm.man	  includeres.man   includeres.pl
+maketext         patchlev.h	  psbook.c         psbook.man
+pserror.c        pserror.h        psmerge.man	   psmerge.pl
+psnup.c          psnup.man        psresize.c	   psresize.man
+psselect.c	 psselect.man     psspec.c         psspec.h
+pstops.c         pstops.man	  psutil.c         psutil.h
+showchar
+
+They may be copied and used for any purpose (including distribution as part of a for-profit product), provided:
+
+1) The original attribution of the programs is clearly displayed in the product and/or documentation, even if the programs are modified and/or renamed as part of the product.
+
+2) The original source code of the programs is provided free of charge (except for reasonable distribution costs). For a definition of reasonable distribution costs, see the Gnu General Public License or Larry Wall's Artistic License (provided with the Perl 4 kit). The GPL and Artistic License in NO WAY affect this license; they are merely used as examples of the spirit in which it is intended.
+
+3) These programs are provided "as-is". No warranty or guarantee of their fitness for any particular task is provided. Use of these programs is completely at your own risk.
+
+Basically, I don't mind how you use the programs so long as you acknowledge the author, and give people the originals if they want them.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

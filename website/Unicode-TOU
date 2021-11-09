@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:spdx="http://spdx.org/rdf/terms#">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="sites/all/themes/cpstandard/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Unicode Terms of Use | Software Package Data Exchange (SPDX)</title>
+
+    <link rel="shortcut icon" href="sites/all/themes/cpstandard/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/cpstandard/css/style.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/cpstandard/css/colors.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+    <!-- GOOGLE FONTS -->
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,100italic,100,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css' />
+
+    <style type="text/css">
+
+      .page {
+        color: #58595b;
+      }
+
+      #header {
+        border-bottom: 3px solid #4597cb;
+        padding-bottom: 50px;
+      }
+
+      .breadcrumb {
+        margin-top: 25px;
+      }
+
+      #content-header h1 {
+        color: #58595b;
+      }
+
+      .page h2, h3, h4, h5 {
+        color: #4597cb;
+      }
+
+      .page h1 {
+      font-size: 2em;
+      }
+
+      .page h2 {
+      font-size: 1.5em;
+      }
+
+      a, a:visited, a:hover {
+        color: #4597cb;
+      }
+
+      #footer-copyright {
+        margin-top: 25px;
+      }
+
+      .replacable-license-text {
+      color: #CC0000;
+      }
+
+      .replacable-license-text p var {
+      color: #CC0000;
+      }
+
+      .optional-license-text {
+      color: #0000cc;
+      }
+
+      .optional-license-text p var {
+      color: #0000cc;
+      }
+      ul, ol, li {
+      margin: 10px 0 10px 0;
+	  }
+    </style>
+
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3676394-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+
+  </head>
+
+  <body typeof="spdx:License">
+
+  <div id="lf-header" class="collaborative-projects">
+    <div class="gray-diagonal">
+      <div class="container">
+        <a id="collaborative-projects-logo" href="http://collabprojects.linuxfoundation.org">Linux Foundation Collaborative Projects</a>
+      </div>
+    </div>
+  </div>
+
+  <div id="header">
+    <div id="header-inner">
+      <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://spdx.org/sites/cpstandard/files/logo_spdx_250.png" alt="Home" />
+      </a>
+
+      <div id="name-and-slogan">
+        <div id="site-name">
+          <h1><a href="/" title="Home" rel="home">Software Package Data Exchange (SPDX)</a></h1>
+        </div>
+      </div>
+
+    </div>
+  </div> <!-- /header -->
+
+  <div id="highlighted">
+      <div class="region region-highlighted">
+      </div>
+  </div>
+
+    <div id="page" class="page">
+
+      <div class="breadcrumb"><a href="/">Home</a> » <a href="/licenses">Licenses</a></div>
+
+      <h1 property="dc:title">Unicode Terms of Use</h1>
+      <div style="display:none;"><code property="spdx:deprecated">false</code></div>
+      <h2>Full name</h2>
+          <p style="margin-left: 20px;"><code property="spdx:name">Unicode Terms of Use</code></p>
+
+      <h2>Short identifier</h2>
+          <p style="margin-left: 20px;"><code property="spdx:licenseId">Unicode-TOU</code></p>
+
+      <h2>Other web pages for this license</h2>
+          <div style="margin-left: 20px;">
+            <ul>
+             <li>
+               <a href="http://www.unicode.org/copyright.html" rel="rdfs:seeAlso" isValid=true isLive=true isWayBackLink=false match=false timestamp=2021-11-09 - 16:54:18>http://www.unicode.org/copyright.html</a>
+               <!--Tentative way of displaying information <p>isValid: true, isLive: true, isWayBackLink: false, match: false, timestamp: 2021-11-09 - 16:54:18</p> -->
+             </li>
+           </ul>
+          </div>
+
+      <div property="spdx:isOsiApproved" style="display: none;">false</div>
+
+      <h2 id="notes">Notes</h2>
+          <p style="margin-left: 20px;">None</p>
+
+      <h2 id="licenseText">Text</h2>
+
+      <div property="spdx:licenseText" class="license-text">
+      
+      <div class="optional-license-text">
+         <p>Unicode Terms of Use</p>
+
+      </div>
+
+      <p>For the general privacy policy governing access to this site, see the Unicode Privacy Policy. For
+         trademark usage, see the Unicode® Consortium Name and Trademark Usage Policy.</p>
+
+<ul style="list-style:none">
+<li>
+            <var class="replacable-license-text">A.</var>
+          Unicode Copyright.
+          
+<ul style="list-style:none">
+<li>
+                  <var class="replacable-license-text">1.</var>
+              Copyright © 1991-2014 Unicode, Inc. All rights reserved.
+            </li>
+<li>
+                  <var class="replacable-license-text">2.</var>
+              Certain documents and files on this website contain a legend indicating that &quot;Modification is
+                 permitted.&quot; Any person is hereby authorized, without fee, to modify such documents and files
+                 to create derivative works conforming to the Unicode® Standard, subject to Terms and
+                 Conditions herein.
+            </li>
+<li>
+                  <var class="replacable-license-text">3.</var>
+              Any person is hereby authorized, without fee, to view, use, reproduce, and distribute all
+                 documents and files solely for informational purposes in the creation of products supporting
+                 the Unicode Standard, subject to the Terms and Conditions herein.
+            </li>
+<li>
+                  <var class="replacable-license-text">4.</var>
+              Further specifications of rights and restrictions pertaining to the use of the particular set of
+                 data files known as the &quot;Unicode Character Database&quot; can be found in Exhibit 1.
+            </li>
+<li>
+                  <var class="replacable-license-text">5.</var>
+              Each version of the Unicode Standard has further specifications of rights and restrictions of
+                 use. For the book editions (Unicode 5.0 and earlier), these are found on the back of the title
+                 page. The online code charts carry specific restrictions. All other files, including online
+                 documentation of the core specification for Unicode 6.0 and later, are covered under these
+                 general Terms of Use.
+            </li>
+<li>
+                  <var class="replacable-license-text">6.</var>
+              No license is granted to &quot;mirror&quot; the Unicode website where a fee is charged for access to the
+                 &quot;mirror&quot; site.
+            </li>
+<li>
+                  <var class="replacable-license-text">7.</var>
+              Modification is not permitted with respect to this document. All copies of this document must be
+                 verbatim.
+            </li>
+</ul>
+        </li>
+<li>
+            <var class="replacable-license-text">B.</var>
+          Restricted Rights Legend. Any technical data or software which is licensed to the United States
+             of America, its agencies and/or instrumentalities under this Agreement is commercial technical
+             data or commercial computer software developed exclusively at private expense as defined in
+             FAR 2.101, or DFARS 252.227-7014 (June 1995), as applicable. For technical data, use,
+             duplication, or disclosure by the Government is subject to restrictions as set forth in DFARS
+             202.227-7015 Technical Data, Commercial and Items (Nov 1995) and this Agreement. For Software,
+             in accordance with FAR 12-212 or DFARS 227-7202, as applicable, use, duplication or disclosure
+             by the Government is subject to the restrictions set forth in this Agreement.
+        </li>
+<li>
+            <var class="replacable-license-text">C.</var>
+          Warranties and Disclaimers.
+          
+<ul style="list-style:none">
+<li>
+                  <var class="replacable-license-text">1.</var>
+              This publication and/or website may include technical or typographical errors or other
+                 inaccuracies . Changes are periodically added to the information herein; these changes will be
+                 incorporated in new editions of the publication and/or website. Unicode may make improvements
+                 and/or changes in the product(s) and/or program(s) described in this publication and/or
+                 website at any time.
+            </li>
+<li>
+                  <var class="replacable-license-text">2.</var>
+              If this file has been purchased on magnetic or optical media from Unicode, Inc. the sole and
+                 exclusive remedy for any claim will be exchange of the defective media within ninety (90) days
+                 of original purchase.
+            </li>
+<li>
+                  <var class="replacable-license-text">3.</var>
+              EXCEPT AS PROVIDED IN SECTION C.2, THIS PUBLICATION AND/OR SOFTWARE IS PROVIDED &quot;AS IS&quot; WITHOUT
+                 WARRANTY OF ANY KIND EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY
+                 WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. UNICODE
+                 AND ITS LICENSORS ASSUME NO RESPONSIBILITY FOR ERRORS OR OMISSIONS IN THIS PUBLICATION AND/OR
+                 SOFTWARE OR OTHER DOCUMENTS WHICH ARE REFERENCED BY OR LINKED TO THIS PUBLICATION OR THE
+                 UNICODE WEBSITE.
+            </li>
+</ul>
+        </li>
+<li>
+            <var class="replacable-license-text">D.</var>
+          Waiver of Damages. In no event shall Unicode or its licensors be liable for any special,
+             incidental, indirect or consequential damages of any kind, or any damages whatsoever, whether
+             or not Unicode was advised of the possibility of the damage, including, without limitation,
+             those resulting from the following: loss of use, data or profits, in connection with the use,
+             modification or distribution of this information or its derivatives.
+        </li>
+<li>
+            <var class="replacable-license-text">E.</var>
+          Trademarks &amp; Logos.
+          
+<ul style="list-style:none">
+<li>
+                  <var class="replacable-license-text">1.</var>
+              The Unicode Word Mark and the Unicode Logo are trademarks of Unicode, Inc. &quot;The Unicode
+                 Consortium&quot; and &quot;Unicode, Inc.&quot; are trade names of Unicode, Inc. Use of the information and
+                 materials found on this website indicates your acknowledgement of Unicode, Inc.&apos;s exclusive
+                 worldwide rights in the Unicode Word Mark, the Unicode Logo, and the Unicode trade names.
+            </li>
+<li>
+                  <var class="replacable-license-text">2.</var>
+              The Unicode Consortium Name and Trademark Usage Policy (&quot;Trademark Policy&quot;) are incorporated
+                 herein by reference and you agree to abide by the provisions of the Trademark Policy, which
+                 may be changed from time to time in the sole discretion of Unicode, Inc.
+            </li>
+<li>
+                  <var class="replacable-license-text">3.</var>
+              All third party trademarks referenced herein are the property of their respective owners.
+            </li>
+</ul>
+        </li>
+<li>
+            <var class="replacable-license-text">F.</var>
+          Miscellaneous.
+          
+<ul style="list-style:none">
+<li>
+                  <var class="replacable-license-text">1.</var>
+              Jurisdiction and Venue. This server is operated from a location in the State of California,
+                 United States of America. Unicode makes no representation that the materials are appropriate
+                 for use in other locations. If you access this server from other locations, you are
+                 responsible for compliance with local laws. This Agreement, all use of this site and any
+                 claims and damages resulting from use of this site are governed solely by the laws of the
+                 State of California without regard to any principles which would apply the laws of a different
+                 jurisdiction. The user agrees that any disputes regarding this site shall be resolved solely
+                 in the courts located in Santa Clara County, California. The user agrees said courts have
+                 personal jurisdiction and agree to waive any right to transfer the dispute to any other
+                 forum.
+            </li>
+<li>
+                  <var class="replacable-license-text">2.</var>
+              Modification by Unicode Unicode shall have the right to modify this Agreement at any time by
+                 posting it to this site. The user may not assign any part of this Agreement without Unicode&apos;s
+                 prior written consent.
+            </li>
+<li>
+                  <var class="replacable-license-text">3.</var>
+              Taxes. The user agrees to pay any taxes arising from access to this website or use of the
+                 information herein, except for those based on Unicode&apos;s net income.
+            </li>
+<li>
+                  <var class="replacable-license-text">4.</var>
+              Severability. If any provision of this Agreement is declared invalid or unenforceable, the
+                 remaining provisions of this Agreement shall remain in effect.
+            </li>
+<li>
+                  <var class="replacable-license-text">5.</var>
+              Entire Agreement. This Agreement constitutes the entire agreement between the parties.
+            </li>
+</ul>
+         </li>
+</ul>
+    
+      </div>
+
+      <h2  id="licenseHeader">Standard License Header</h2>
+      <div property="spdx:standardLicenseHeader" class="license-text">
+        <p style="font-style: italic">There is no standard license header for the license</p>
+        
+      </div>
+      <div property="spdx:standardLicenseTemplate" style="display: none;">
+      &lt;&lt;beginOptional&gt;&gt; Unicode Terms of Use&#10;&#10;&lt;&lt;endOptional&gt;&gt;&#10;&#10;For the general privacy policy governing access to this site, see the Unicode Privacy Policy. For trademark usage, see the Unicode® Consortium Name and Trademark Usage Policy.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;A.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Unicode Copyright.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Copyright © 1991-2014 Unicode, Inc. All rights reserved.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Certain documents and files on this website contain a legend indicating that &quot;Modification is permitted.&quot; Any person is hereby authorized, without fee, to modify such documents and files to create derivative works conforming to the Unicode® Standard, subject to Terms and Conditions herein.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Any person is hereby authorized, without fee, to view, use, reproduce, and distribute all documents and files solely for informational purposes in the creation of products supporting the Unicode Standard, subject to the Terms and Conditions herein.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;4.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Further specifications of rights and restrictions pertaining to the use of the particular set of data files known as the &quot;Unicode Character Database&quot; can be found in Exhibit 1.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;5.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Each version of the Unicode Standard has further specifications of rights and restrictions of use. For the book editions (Unicode 5.0 and earlier), these are found on the back of the title page. The online code charts carry specific restrictions. All other files, including online documentation of the core specification for Unicode 6.0 and later, are covered under these general Terms of Use.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; No license is granted to &quot;mirror&quot; the Unicode website where a fee is charged for access to the &quot;mirror&quot; site.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Modification is not permitted with respect to this document. All copies of this document must be verbatim.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;B.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Restricted Rights Legend. Any technical data or software which is licensed to the United States of America, its agencies and/or instrumentalities under this Agreement is commercial technical data or commercial computer software developed exclusively at private expense as defined in FAR 2.101, or DFARS 252.227-7014 (June 1995), as applicable. For technical data, use, duplication, or disclosure by the Government is subject to restrictions as set forth in DFARS 202.227-7015 Technical Data, Commercial and Items (Nov 1995) and this Agreement. For Software, in accordance with FAR 12-212 or DFARS 227-7202, as applicable, use, duplication or disclosure by the Government is subject to the restrictions set forth in this Agreement.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;C.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Warranties and Disclaimers.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; This publication and/or website may include technical or typographical errors or other inaccuracies . Changes are periodically added to the information herein; these changes will be incorporated in new editions of the publication and/or website. Unicode may make improvements and/or changes in the product(s) and/or program(s) described in this publication and/or website at any time.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; If this file has been purchased on magnetic or optical media from Unicode, Inc. the sole and exclusive remedy for any claim will be exchange of the defective media within ninety (90) days of original purchase.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; EXCEPT AS PROVIDED IN SECTION C.2, THIS PUBLICATION AND/OR SOFTWARE IS PROVIDED &quot;AS IS&quot; WITHOUT WARRANTY OF ANY KIND EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. UNICODE AND ITS LICENSORS ASSUME NO RESPONSIBILITY FOR ERRORS OR OMISSIONS IN THIS PUBLICATION AND/OR SOFTWARE OR OTHER DOCUMENTS WHICH ARE REFERENCED BY OR LINKED TO THIS PUBLICATION OR THE UNICODE WEBSITE.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;D.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Waiver of Damages. In no event shall Unicode or its licensors be liable for any special, incidental, indirect or consequential damages of any kind, or any damages whatsoever, whether or not Unicode was advised of the possibility of the damage, including, without limitation, those resulting from the following: loss of use, data or profits, in connection with the use, modification or distribution of this information or its derivatives.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;E.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Trademarks &amp; Logos.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; The Unicode Word Mark and the Unicode Logo are trademarks of Unicode, Inc. &quot;The Unicode Consortium&quot; and &quot;Unicode, Inc.&quot; are trade names of Unicode, Inc. Use of the information and materials found on this website indicates your acknowledgement of Unicode, Inc.'s exclusive worldwide rights in the Unicode Word Mark, the Unicode Logo, and the Unicode trade names.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; The Unicode Consortium Name and Trademark Usage Policy (&quot;Trademark Policy&quot;) are incorporated herein by reference and you agree to abide by the provisions of the Trademark Policy, which may be changed from time to time in the sole discretion of Unicode, Inc.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; All third party trademarks referenced herein are the property of their respective owners.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;F.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Miscellaneous.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Jurisdiction and Venue. This server is operated from a location in the State of California, United States of America. Unicode makes no representation that the materials are appropriate for use in other locations. If you access this server from other locations, you are responsible for compliance with local laws. This Agreement, all use of this site and any claims and damages resulting from use of this site are governed solely by the laws of the State of California without regard to any principles which would apply the laws of a different jurisdiction. The user agrees that any disputes regarding this site shall be resolved solely in the courts located in Santa Clara County, California. The user agrees said courts have personal jurisdiction and agree to waive any right to transfer the dispute to any other forum.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Modification by Unicode Unicode shall have the right to modify this Agreement at any time by posting it to this site. The user may not assign any part of this Agreement without Unicode's prior written consent.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Taxes. The user agrees to pay any taxes arising from access to this website or use of the information herein, except for those based on Unicode's net income.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;4.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Severability. If any provision of this Agreement is declared invalid or unenforceable, the remaining provisions of this Agreement shall remain in effect.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;5.&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Entire Agreement. This Agreement constitutes the entire agreement between the parties.
+      </div>
+
+    </div> <!-- /page -->
+
+    <div class="collaborative-projects">
+      <div class="gray-diagonal">
+        <div class="container">
+          <div id="footer-copyright">
+            <p>&#169; 2018          SPDX Workgroup a Linux Foundation Project. All Rights Reserved.        </p>
+            <p>Linux Foundation is a registered trademark of The Linux Foundation. Linux is a registered <a href="http://www.linuxfoundation.org/programs/legal/trademark" title="Linux Mark Institute">trademark</a> of Linus Torvalds.</p>
+            <p>Please see our <a href="http://www.linuxfoundation.org/privacy">privacy policy</a> and <a href="http://www.linuxfoundation.org/terms">terms of use</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="top-page-link">
+      <a href="#"><i class="fa fa-arrow-circle-up"></i><span>top of page</span></a>
+    </div>
+
+  </body>
+</html>

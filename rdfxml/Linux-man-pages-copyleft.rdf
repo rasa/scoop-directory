@@ -1,0 +1,82 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/Linux-man-pages-copyleft">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://www.kernel.org/doc/man-pages/licenses.html</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:14</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://www.kernel.org/doc/man-pages/licenses.html</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>Linux man-pages Copyleft</spdx:name>
+    <spdx:licenseTextHtml>
+         &lt;div class="replacable-license-text"&gt;
+            &lt;p&gt;Copyright (c) &amp;lt;year&amp;gt;, &amp;lt;owner&amp;gt;.&lt;/p&gt;
+
+         &lt;/div&gt;
+         &lt;p&gt;Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are preserved on all copies.&lt;/p&gt;
+
+         &lt;p&gt;Permission is granted to copy and distribute modified versions of this manual under the conditions for verbatim copying, provided that the entire resulting derived work is distributed under the terms of a permission notice identical to this one.&lt;/p&gt;
+
+         &lt;p&gt;Since the Linux kernel and libraries are constantly changing, this manual page may be incorrect or out-of-date. The author(s)
+         &lt;var class="replacable-license-text"&gt;assume&lt;/var&gt;no responsibility for errors or omissions, or for damages
+         &lt;var class="replacable-license-text"&gt;resulting&lt;/var&gt;from the use of the information contained herein. The author(s)
+         &lt;var class="replacable-license-text"&gt;may&lt;/var&gt;not have taken the same level of care in the production of
+         &lt;var class="replacable-license-text"&gt;this&lt;/var&gt;manual, which is licensed free of charge, as they might when
+         &lt;var class="replacable-license-text"&gt;working&lt;/var&gt;professionally.&lt;/p&gt;
+
+         &lt;p&gt;Formatted or processed versions of this manual, if unaccompanied by the source, must acknowledge the copyright and authors of this work.&lt;/p&gt;
+
+      </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright (c) &lt;year&gt;, &lt;owner&gt;.  ";match=".{0,5000}"&gt;&gt;
+
+Permission is granted to make and distribute verbatim copies of this manual provided the copyright notice and this permission notice are preserved on all copies.
+
+Permission is granted to copy and distribute modified versions of this manual under the conditions for verbatim copying, provided that the entire resulting derived work is distributed under the terms of a permission notice identical to this one.
+
+Since the Linux kernel and libraries are constantly changing, this manual page may be incorrect or out-of-date. The author(s) &lt;&lt;var;name="trailing-.-1";original="assume";match="assume\.?"&gt;&gt; no responsibility for errors or omissions, or for damages &lt;&lt;var;name="trailing-.-2";original="resulting";match="resulting\.?"&gt;&gt; from the use of the information contained herein. The author(s) &lt;&lt;var;name="trailing-.-3";original="may";match="may\.?"&gt;&gt; not have taken the same level of care in the production of &lt;&lt;var;name="trailing-.-4";original="this";match="this\.?"&gt;&gt; manual, which is licensed free of charge, as they might when &lt;&lt;var;name="trailing-.-5";original="working";match="working\.?"&gt;&gt; professionally.
+
+Formatted or processed versions of this manual, if unaccompanied by the source, must acknowledge the copyright and authors of this work.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Copyright (c) &lt;year&gt; &lt;owner&gt; All rights reserved.
+
+Permission is granted to make and distribute verbatim copies of this
+manual provided the copyright notice and this permission notice are
+preserved on all copies.
+
+Permission is granted to copy and distribute modified versions of
+this manual under the conditions for verbatim copying, provided that
+the entire resulting derived work is distributed under the terms of
+a permission notice identical to this one.
+
+Since the Linux kernel and libraries are constantly changing, this
+manual page may be incorrect or out-of-date.  The author(s) assume
+no responsibility for errors or omissions, or for damages resulting
+from the use of the information contained herein.  The author(s) may
+not have taken the same level of care in the production of this
+manual, which is licensed free of charge, as they might when working
+professionally.
+
+Formatted or processed versions of this manual, if unaccompanied by
+the source, must acknowledge the copyright and authors of this work.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

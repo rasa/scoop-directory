@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns:spdx="http://spdx.org/rdf/terms#">
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="shortcut icon" href="sites/all/themes/cpstandard/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>CERN Open Hardware Licence Version 2 - Permissive | Software Package Data Exchange (SPDX)</title>
+
+    <link rel="shortcut icon" href="sites/all/themes/cpstandard/favicon.ico" type="image/vnd.microsoft.icon" />
+    <link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/cpstandard/css/style.css" />
+    <link type="text/css" rel="stylesheet" media="all" href="sites/all/themes/cpstandard/css/colors.css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+    <!-- GOOGLE FONTS -->
+    <link href='//fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,100italic,100,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css' />
+
+    <style type="text/css">
+
+      .page {
+        color: #58595b;
+      }
+
+      #header {
+        border-bottom: 3px solid #4597cb;
+        padding-bottom: 50px;
+      }
+
+      .breadcrumb {
+        margin-top: 25px;
+      }
+
+      #content-header h1 {
+        color: #58595b;
+      }
+
+      .page h2, h3, h4, h5 {
+        color: #4597cb;
+      }
+
+      .page h1 {
+      font-size: 2em;
+      }
+
+      .page h2 {
+      font-size: 1.5em;
+      }
+
+      a, a:visited, a:hover {
+        color: #4597cb;
+      }
+
+      #footer-copyright {
+        margin-top: 25px;
+      }
+
+      .replacable-license-text {
+      color: #CC0000;
+      }
+
+      .replacable-license-text p var {
+      color: #CC0000;
+      }
+
+      .optional-license-text {
+      color: #0000cc;
+      }
+
+      .optional-license-text p var {
+      color: #0000cc;
+      }
+      ul, ol, li {
+      margin: 10px 0 10px 0;
+	  }
+    </style>
+
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-3676394-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+
+  </head>
+
+  <body typeof="spdx:License">
+
+  <div id="lf-header" class="collaborative-projects">
+    <div class="gray-diagonal">
+      <div class="container">
+        <a id="collaborative-projects-logo" href="http://collabprojects.linuxfoundation.org">Linux Foundation Collaborative Projects</a>
+      </div>
+    </div>
+  </div>
+
+  <div id="header">
+    <div id="header-inner">
+      <a href="/" title="Home" rel="home" id="logo">
+        <img src="https://spdx.org/sites/cpstandard/files/logo_spdx_250.png" alt="Home" />
+      </a>
+
+      <div id="name-and-slogan">
+        <div id="site-name">
+          <h1><a href="/" title="Home" rel="home">Software Package Data Exchange (SPDX)</a></h1>
+        </div>
+      </div>
+
+    </div>
+  </div> <!-- /header -->
+
+  <div id="highlighted">
+      <div class="region region-highlighted">
+      </div>
+  </div>
+
+    <div id="page" class="page">
+
+      <div class="breadcrumb"><a href="/">Home</a> » <a href="/licenses">Licenses</a></div>
+
+      <h1 property="dc:title">CERN Open Hardware Licence Version 2 - Permissive</h1>
+      <div style="display:none;"><code property="spdx:deprecated">false</code></div>
+      <h2>Full name</h2>
+          <p style="margin-left: 20px;"><code property="spdx:name">CERN Open Hardware Licence Version 2 - Permissive</code></p>
+
+      <h2>Short identifier</h2>
+          <p style="margin-left: 20px;"><code property="spdx:licenseId">CERN-OHL-P-2.0</code></p>
+
+      <h2>Other web pages for this license</h2>
+          <div style="margin-left: 20px;">
+            <ul>
+             <li>
+               <a href="https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2" rel="rdfs:seeAlso" isValid=true isLive=true isWayBackLink=false match=false timestamp=2021-11-09 - 16:53:38>https://www.ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-2</a>
+               <!--Tentative way of displaying information <p>isValid: true, isLive: true, isWayBackLink: false, match: false, timestamp: 2021-11-09 - 16:53:38</p> -->
+             </li>
+           </ul>
+          </div>
+
+      <div property="spdx:isOsiApproved" style="display: none;">true</div>
+
+      <h2 id="notes">Notes</h2>
+          <p style="margin-left: 20px;">None</p>
+
+      <h2 id="licenseText">Text</h2>
+
+      <div property="spdx:licenseText" class="license-text">
+      
+      <var class="optional-license-text">CERN Open Hardware Licence Version 2 - Permissive</var>
+      <p>Preamble</p>
+
+      <p>CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs. Version 2 of the CERN Open Hardware Licence comes in three variants: this licence, CERN-OHL-P (permissive); and two reciprocal licences: CERN- OHL-W (weakly reciprocal) and CERN-OHL-S (strongly reciprocal).</p>
+
+      <p>The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it, in unmodified form only.</p>
+
+      <p>Use of this Licence does not imply any endorsement by CERN of any Licensor or their designs nor does it imply any involvement by CERN in their development.</p>
+
+<ul style="list-style:none">
+<li>
+          <var class="replacable-license-text">1</var> Definitions
+          
+<ul style="list-style:none">
+<li><var class="replacable-license-text">1.1</var> &apos;Licence&apos; means this CERN-OHL-P.</li>
+<li><var class="replacable-license-text">1.2</var> &apos;Source&apos; means information such as design materials or digital code which can be applied to Make or test a Product or to prepare a Product for use, Conveyance or sale, regardless of its medium or how it is expressed. It may include Notices.</li>
+<li><var class="replacable-license-text">1.3</var> &apos;Covered Source&apos; means Source that is explicitly made available under this Licence.</li>
+<li><var class="replacable-license-text">1.4</var> &apos;Product&apos; means any device, component, work or physical object, whether in finished or intermediate form, arising from the use, application or processing of Covered Source.</li>
+<li><var class="replacable-license-text">1.5</var> &apos;Make&apos; means to create or configure something, whether by manufacture, assembly, compiling, loading or applying Covered Source or another Product or otherwise.</li>
+<li><var class="replacable-license-text">1.6</var> &apos;Notice&apos; means copyright, acknowledgement and trademark notices, references to the location of any Notices, modification notices (subsection 3.3(b)) and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Covered Source.</li>
+<li><var class="replacable-license-text">1.7</var> &apos;Licensee&apos; or &apos;You&apos; means any person exercising rights under this Licence.</li>
+<li><var class="replacable-license-text">1.8</var> &apos;Licensor&apos; means a person who creates Source or modifies Covered Source and subsequently Conveys the resulting Covered Source under the terms and conditions of this Licence. A person may be a Licensee and a Licensor at the same time.</li>
+<li><var class="replacable-license-text">1.9</var> &apos;Convey&apos; means to communicate to the public or distribute.</li>
+</ul>
+        </li>
+<li>
+          <var class="replacable-license-text">2</var> Applicability
+          
+<ul style="list-style:none">
+<li><var class="replacable-license-text">2.1</var> This Licence governs the use, copying, modification, Conveying of Covered Source and Products, and the Making of Products. By exercising any right granted under this Licence, You irrevocably accept these terms and conditions.</li>
+<li><var class="replacable-license-text">2.2</var> This Licence is granted by the Licensor directly to You, and shall apply worldwide and without limitation in time.</li>
+<li><var class="replacable-license-text">2.3</var> You shall not attempt to restrict by contract or otherwise the rights granted under this Licence to other Licensees.</li>
+<li><var class="replacable-license-text">2.4</var> This Licence is not intended to restrict fair use, fair dealing, or any other similar right.</li>
+</ul>
+        </li>
+<li>
+          <var class="replacable-license-text">3</var> Copying, modifying and Conveying Covered Source
+          
+<ul style="list-style:none">
+<li><var class="replacable-license-text">3.1</var> You may copy and Convey verbatim copies of Covered Source, in any medium, provided You retain all Notices.</li>
+<li>
+              <var class="replacable-license-text">3.2</var> You may modify Covered Source, other than Notices.
+              <p>You may only delete Notices if they are no longer applicable to the corresponding Covered Source as modified by You and You may add additional Notices applicable to Your modifications.</p>
+
+            </li>
+<li>
+              <var class="replacable-license-text">3.3</var> You may Convey modified Covered Source (with the effect that You shall also become a Licensor) provided that You:
+              
+<ul style="list-style:none">
+<li><var class="replacable-license-text">a)</var> retain Notices as required in subsection 3.2; and</li>
+<li><var class="replacable-license-text">b)</var> add a Notice to the modified Covered Source stating that You have modified it, with the date and brief description of how You have modified it.</li>
+</ul>
+            </li>
+<li>
+              <var class="replacable-license-text">3.4</var> You may Convey Covered Source or modified Covered Source under licence terms which differ from the terms of this Licence provided that:
+              
+<ul style="list-style:none">
+<li><var class="replacable-license-text">a)</var> You comply at all times with subsection 3.3; and</li>
+<li><var class="replacable-license-text">b)</var> You provide a copy of this Licence to anyone to whom You Convey Covered Source or modified Covered Source.</li>
+</ul>
+            </li>
+</ul>
+        </li>
+<li>
+          <var class="replacable-license-text">4</var> Making and Conveying Products
+          <p>You may Make Products, and/or Convey them, provided that You ensure that the recipient of the Product has access to any Notices applicable to the Product.</p>
+
+        </li>
+<li>
+          <var class="replacable-license-text">5</var> DISCLAIMER AND LIABILITY
+          
+<ul style="list-style:none">
+<li><var class="replacable-license-text">5.1</var> DISCLAIMER OF WARRANTY -- The Covered Source and any Products are provided &apos;as is&apos; and any express or implied warranties, including, but not limited to, implied warranties of merchantability, of satisfactory quality, non-infringement of third party rights, and fitness for a particular purpose or use are disclaimed in respect of any Source or Product to the maximum extent permitted by law. The Licensor makes no representation that any Source or Product does not or will not infringe any patent, copyright, trade secret or other proprietary right. The entire risk as to the use, quality, and performance of any Source or Product shall be with You and not the Licensor. This disclaimer of warranty is an essential part of this Licence and a condition for the grant of any rights granted under this Licence.</li>
+<li><var class="replacable-license-text">5.2</var> EXCLUSION AND LIMITATION OF LIABILITY -- The Licensor shall, to the maximum extent permitted by law, have no liability for direct, indirect, special, incidental, consequential, exemplary, punitive or other damages of any character including, without limitation, procurement of substitute goods or services, loss of use, data or profits, or business interruption, however caused and on any theory of contract, warranty, tort (including negligence), product liability or otherwise, arising in any way in relation to the Covered Source, modified Covered Source and/or the Making or Conveyance of a Product, even if advised of the possibility of such damages, and You shall hold the Licensor(s) free and harmless from any liability, costs, damages, fees and expenses, including claims by third parties, in relation to such use.</li>
+</ul>
+        </li>
+<li>
+          <var class="replacable-license-text">6</var> Patents
+          
+<ul style="list-style:none">
+<li><var class="replacable-license-text">6.1</var> Subject to the terms and conditions of this Licence, each Licensor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section 6, or where terminated by the Licensor for cause) patent license to Make, have Made, use, offer to sell, sell, import, and otherwise transfer the Covered Source and Products, where such licence applies only to those patent claims licensable by such Licensor that are necessarily infringed by exercising rights under the Covered Source as Conveyed by that Licensor.</li>
+<li><var class="replacable-license-text">6.2</var> If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Covered Source or a Product constitutes direct or contributory patent infringement, or You seek any declaration that a patent licensed to You under this Licence is invalid or unenforceable then any rights granted to You under this Licence shall terminate as of the date such process is initiated.</li>
+</ul>
+        </li>
+<li>
+          <var class="replacable-license-text">7</var> General
+          
+<ul style="list-style:none">
+<li><var class="replacable-license-text">7.1</var> If any provisions of this Licence are or subsequently become invalid or unenforceable for any reason, the remaining provisions shall remain effective.</li>
+<li><var class="replacable-license-text">7.2</var> You shall not use any of the name (including acronyms and abbreviations), image, or logo by which the Licensor or CERN is known, except where needed to comply with section 3, or where the use is otherwise allowed by law. Any such permitted use shall be factual and shall not be made so as to suggest any kind of endorsement or implication of involvement by the Licensor or its personnel.</li>
+<li><var class="replacable-license-text">7.3</var> CERN may publish updated versions and variants of this Licence which it considers to be in the spirit of this version, but may differ in detail to address new problems or concerns. New versions will be published with a unique version number and a variant identifier specifying the variant. If the Licensor has specified that a given variant applies to the Covered Source without specifying a version, You may treat that Covered Source as being released under any version of the CERN-OHL with that variant. If no variant is specified, the Covered Source shall be treated as being released under CERN-OHL-S. The Licensor may also specify that the Covered Source is subject to a specific version of the CERN-OHL or any later version in which case You may apply this or any later version of CERN-OHL with the same variant identifier published by CERN.</li>
+<li><var class="replacable-license-text">7.4</var> This Licence shall not be enforceable except by a Licensor acting as such, and third party beneficiary rights are specifically excluded.</li>
+</ul>
+        </li>
+</ul>
+    
+      </div>
+
+      <h2  id="licenseHeader">Standard License Header</h2>
+      <div property="spdx:standardLicenseHeader" class="license-text">
+        <p style="font-style: italic">There is no standard license header for the license</p>
+        
+      </div>
+      <div property="spdx:standardLicenseTemplate" style="display: none;">
+      &lt;&lt;beginOptional&gt;&gt; CERN Open Hardware Licence Version 2 - Permissive&lt;&lt;endOptional&gt;&gt;&#10;&#10;Preamble&#10;&#10;CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool which supports the freedom to use, study, modify, share and distribute hardware designs and products based on those designs. Version 2 of the CERN Open Hardware Licence comes in three variants: this licence, CERN-OHL-P (permissive); and two reciprocal licences: CERN- OHL-W (weakly reciprocal) and CERN-OHL-S (strongly reciprocal).&#10;&#10;The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it, in unmodified form only.&#10;&#10;Use of this Licence does not imply any endorsement by CERN of any Licensor or their designs nor does it imply any involvement by CERN in their development.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Definitions&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.1&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Licence' means this CERN-OHL-P.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.2&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Source' means information such as design materials or digital code which can be applied to Make or test a Product or to prepare a Product for use, Conveyance or sale, regardless of its medium or how it is expressed. It may include Notices.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.3&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Covered Source' means Source that is explicitly made available under this Licence.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.4&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Product' means any device, component, work or physical object, whether in finished or intermediate form, arising from the use, application or processing of Covered Source.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.5&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Make' means to create or configure something, whether by manufacture, assembly, compiling, loading or applying Covered Source or another Product or otherwise.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.6&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Notice' means copyright, acknowledgement and trademark notices, references to the location of any Notices, modification notices (subsection 3.3(b)) and all notices that refer to this Licence and to the disclaimer of warranties that are included in the Covered Source.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.7&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Licensee' or 'You' means any person exercising rights under this Licence.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.8&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Licensor' means a person who creates Source or modifies Covered Source and subsequently Conveys the resulting Covered Source under the terms and conditions of this Licence. A person may be a Licensee and a Licensor at the same time.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;1.9&quot;;match=&quot;.{0,20}&quot;&gt;&gt; 'Convey' means to communicate to the public or distribute.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Applicability&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.1&quot;;match=&quot;.{0,20}&quot;&gt;&gt; This Licence governs the use, copying, modification, Conveying of Covered Source and Products, and the Making of Products. By exercising any right granted under this Licence, You irrevocably accept these terms and conditions.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.2&quot;;match=&quot;.{0,20}&quot;&gt;&gt; This Licence is granted by the Licensor directly to You, and shall apply worldwide and without limitation in time.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.3&quot;;match=&quot;.{0,20}&quot;&gt;&gt; You shall not attempt to restrict by contract or otherwise the rights granted under this Licence to other Licensees.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;2.4&quot;;match=&quot;.{0,20}&quot;&gt;&gt; This Licence is not intended to restrict fair use, fair dealing, or any other similar right.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Copying, modifying and Conveying Covered Source&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.1&quot;;match=&quot;.{0,20}&quot;&gt;&gt; You may copy and Convey verbatim copies of Covered Source, in any medium, provided You retain all Notices.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.2&quot;;match=&quot;.{0,20}&quot;&gt;&gt; You may modify Covered Source, other than Notices.&#10;&#10;      You may only delete Notices if they are no longer applicable to the corresponding Covered Source as modified by You and You may add additional Notices applicable to Your modifications.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.3&quot;;match=&quot;.{0,20}&quot;&gt;&gt; You may Convey modified Covered Source (with the effect that You shall also become a Licensor) provided that You:&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;a)&quot;;match=&quot;.{0,20}&quot;&gt;&gt; retain Notices as required in subsection 3.2; and&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;b)&quot;;match=&quot;.{0,20}&quot;&gt;&gt; add a Notice to the modified Covered Source stating that You have modified it, with the date and brief description of how You have modified it.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;3.4&quot;;match=&quot;.{0,20}&quot;&gt;&gt; You may Convey Covered Source or modified Covered Source under licence terms which differ from the terms of this Licence provided that:&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;a)&quot;;match=&quot;.{0,20}&quot;&gt;&gt; You comply at all times with subsection 3.3; and&#10;&#10;         &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;b)&quot;;match=&quot;.{0,20}&quot;&gt;&gt; You provide a copy of this Licence to anyone to whom You Convey Covered Source or modified Covered Source.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;4&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Making and Conveying Products&#10;&#10;   You may Make Products, and/or Convey them, provided that You ensure that the recipient of the Product has access to any Notices applicable to the Product.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;5&quot;;match=&quot;.{0,20}&quot;&gt;&gt; DISCLAIMER AND LIABILITY&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;5.1&quot;;match=&quot;.{0,20}&quot;&gt;&gt; DISCLAIMER OF WARRANTY -- The Covered Source and any Products are provided 'as is' and any express or implied warranties, including, but not limited to, implied warranties of merchantability, of satisfactory quality, non-infringement of third party rights, and fitness for a particular purpose or use are disclaimed in respect of any Source or Product to the maximum extent permitted by law. The Licensor makes no representation that any Source or Product does not or will not infringe any patent, copyright, trade secret or other proprietary right. The entire risk as to the use, quality, and performance of any Source or Product shall be with You and not the Licensor. This disclaimer of warranty is an essential part of this Licence and a condition for the grant of any rights granted under this Licence.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;5.2&quot;;match=&quot;.{0,20}&quot;&gt;&gt; EXCLUSION AND LIMITATION OF LIABILITY -- The Licensor shall, to the maximum extent permitted by law, have no liability for direct, indirect, special, incidental, consequential, exemplary, punitive or other damages of any character including, without limitation, procurement of substitute goods or services, loss of use, data or profits, or business interruption, however caused and on any theory of contract, warranty, tort (including negligence), product liability or otherwise, arising in any way in relation to the Covered Source, modified Covered Source and/or the Making or Conveyance of a Product, even if advised of the possibility of such damages, and You shall hold the Licensor(s) free and harmless from any liability, costs, damages, fees and expenses, including claims by third parties, in relation to such use.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Patents&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6.1&quot;;match=&quot;.{0,20}&quot;&gt;&gt; Subject to the terms and conditions of this Licence, each Licensor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section 6, or where terminated by the Licensor for cause) patent license to Make, have Made, use, offer to sell, sell, import, and otherwise transfer the Covered Source and Products, where such licence applies only to those patent claims licensable by such Licensor that are necessarily infringed by exercising rights under the Covered Source as Conveyed by that Licensor.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;6.2&quot;;match=&quot;.{0,20}&quot;&gt;&gt; If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Covered Source or a Product constitutes direct or contributory patent infringement, or You seek any declaration that a patent licensed to You under this Licence is invalid or unenforceable then any rights granted to You under this Licence shall terminate as of the date such process is initiated.&#10;&#10;   &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7&quot;;match=&quot;.{0,20}&quot;&gt;&gt; General&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.1&quot;;match=&quot;.{0,20}&quot;&gt;&gt; If any provisions of this Licence are or subsequently become invalid or unenforceable for any reason, the remaining provisions shall remain effective.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.2&quot;;match=&quot;.{0,20}&quot;&gt;&gt; You shall not use any of the name (including acronyms and abbreviations), image, or logo by which the Licensor or CERN is known, except where needed to comply with section 3, or where the use is otherwise allowed by law. Any such permitted use shall be factual and shall not be made so as to suggest any kind of endorsement or implication of involvement by the Licensor or its personnel.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.3&quot;;match=&quot;.{0,20}&quot;&gt;&gt; CERN may publish updated versions and variants of this Licence which it considers to be in the spirit of this version, but may differ in detail to address new problems or concerns. New versions will be published with a unique version number and a variant identifier specifying the variant. If the Licensor has specified that a given variant applies to the Covered Source without specifying a version, You may treat that Covered Source as being released under any version of the CERN-OHL with that variant. If no variant is specified, the Covered Source shall be treated as being released under CERN-OHL-S. The Licensor may also specify that the Covered Source is subject to a specific version of the CERN-OHL or any later version in which case You may apply this or any later version of CERN-OHL with the same variant identifier published by CERN.&#10;&#10;      &lt;&lt;var;name=&quot;bullet&quot;;original=&quot;7.4&quot;;match=&quot;.{0,20}&quot;&gt;&gt; This Licence shall not be enforceable except by a Licensor acting as such, and third party beneficiary rights are specifically excluded.
+      </div>
+
+    </div> <!-- /page -->
+
+    <div class="collaborative-projects">
+      <div class="gray-diagonal">
+        <div class="container">
+          <div id="footer-copyright">
+            <p>&#169; 2018          SPDX Workgroup a Linux Foundation Project. All Rights Reserved.        </p>
+            <p>Linux Foundation is a registered trademark of The Linux Foundation. Linux is a registered <a href="http://www.linuxfoundation.org/programs/legal/trademark" title="Linux Mark Institute">trademark</a> of Linus Torvalds.</p>
+            <p>Please see our <a href="http://www.linuxfoundation.org/privacy">privacy policy</a> and <a href="http://www.linuxfoundation.org/terms">terms of use</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="top-page-link">
+      <a href="#"><i class="fa fa-arrow-circle-up"></i><span>top of page</span></a>
+    </div>
+
+  </body>
+</html>

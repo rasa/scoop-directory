@@ -1,0 +1,166 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/VOSTROM">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/VOSTROM</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 17:01:32</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/VOSTROM</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>VOSTROM Public License for Open Source</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;VOSTROM Public License for Open Source&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;Copyright (c) 2007 VOSTROM Holdings, Inc.&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;This VOSTROM Holdings, Inc. (VOSTROM) Distribution (code and documentation) is made available to the open
+         source community as a public service by VOSTROM. Contact VOSTROM at license@vostrom.com for
+         information on other licensing arrangements (e.g. for use in proprietary applications).&lt;/p&gt;
+
+      &lt;p&gt;Under this license, this Distribution may be modified and the original version and modified versions may
+         be copied, distributed, publicly displayed and performed provided that the following conditions are
+         met:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          Modified versions are distributed with source code and documentation and with permission for
+             others to use any code and documentation (whether in original or modified versions) as granted
+             under this license;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          if modified, the source code, documentation, and user run-time elements should be clearly labeled
+             by placing an identifier of origin (such as a name, initial, or other tag) after the version
+             number;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          users, modifiers, distributors, and others coming into possession or using the Distribution in
+             original or modified form accept the entire risk as to the possession, use, and performance of
+             the Distribution;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt;
+          this copyright management information (software identifier and version number, copyright notice
+             and license) shall be retained in all versions of the Distribution;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;5.&lt;/var&gt;
+          VOSTROM may make modifications to the Distribution that are substantially similar to modified
+             versions of the Distribution, and may make, use, sell, copy, distribute, publicly display, and
+             perform such modifications, including making such modifications available under this or other
+             licenses, without obligation or restriction;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;6.&lt;/var&gt;
+          modifications incorporating code, libraries, and/or documentation subject to any other open
+             source license may be made, and the resulting work may be distributed under the terms of such
+             open source license if required by that open source license, but doing so will not affect this
+             Distribution, other modifications made under this license or modifications made under other
+             VOSTROM licensing arrangements;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;7.&lt;/var&gt;
+          no permission is granted to distribute, publicly display, or publicly perform modifications to
+             the Distribution made using proprietary materials that cannot be released in source format
+             under conditions of this license;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;8.&lt;/var&gt;
+          the name of VOSTROM may not be used in advertising or publicity pertaining to Distribution of the
+             software without specific, prior written permission.
+        &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;p&gt;This software is made available &amp;quot;as is&amp;quot;, and&lt;/p&gt;
+
+      &lt;p&gt;VOSTROM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, WITH REGARD TO THIS SOFTWARE, INCLUDING WITHOUT
+         LIMITATION ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND IN NO
+         EVENT SHALL VOSTROM BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+         WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, TORT
+         (INCLUDING NEGLIGENCE) OR STRICT LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+         PERFORMANCE OF THIS SOFTWARE.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; VOSTROM Public License for Open Source
+
+&lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="copyright";original="Copyright (c) 2007 VOSTROM Holdings, Inc.  ";match=".{0,5000}"&gt;&gt;
+
+This VOSTROM Holdings, Inc. (VOSTROM) Distribution (code and documentation) is made available to the open source community as a public service by VOSTROM. Contact VOSTROM at license@vostrom.com for information on other licensing arrangements (e.g. for use in proprietary applications).
+
+Under this license, this Distribution may be modified and the original version and modified versions may be copied, distributed, publicly displayed and performed provided that the following conditions are met:
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; Modified versions are distributed with source code and documentation and with permission for others to use any code and documentation (whether in original or modified versions) as granted under this license;
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; if modified, the source code, documentation, and user run-time elements should be clearly labeled by placing an identifier of origin (such as a name, initial, or other tag) after the version number;
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; users, modifiers, distributors, and others coming into possession or using the Distribution in original or modified form accept the entire risk as to the possession, use, and performance of the Distribution;
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; this copyright management information (software identifier and version number, copyright notice and license) shall be retained in all versions of the Distribution;
+
+   &lt;&lt;var;name="bullet";original="5.";match=".{0,20}"&gt;&gt; VOSTROM may make modifications to the Distribution that are substantially similar to modified versions of the Distribution, and may make, use, sell, copy, distribute, publicly display, and perform such modifications, including making such modifications available under this or other licenses, without obligation or restriction;
+
+   &lt;&lt;var;name="bullet";original="6.";match=".{0,20}"&gt;&gt; modifications incorporating code, libraries, and/or documentation subject to any other open source license may be made, and the resulting work may be distributed under the terms of such open source license if required by that open source license, but doing so will not affect this Distribution, other modifications made under this license or modifications made under other VOSTROM licensing arrangements;
+
+   &lt;&lt;var;name="bullet";original="7.";match=".{0,20}"&gt;&gt; no permission is granted to distribute, publicly display, or publicly perform modifications to the Distribution made using proprietary materials that cannot be released in source format under conditions of this license;
+
+   &lt;&lt;var;name="bullet";original="8.";match=".{0,20}"&gt;&gt; the name of VOSTROM may not be used in advertising or publicity pertaining to Distribution of the software without specific, prior written permission.
+
+This software is made available "as is", and
+
+VOSTROM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, WITH REGARD TO THIS SOFTWARE, INCLUDING WITHOUT LIMITATION ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND IN NO EVENT SHALL VOSTROM BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR STRICT LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>VOSTROM Public License for Open Source
+
+Copyright (c) 2007 VOSTROM Holdings, Inc.
+
+This VOSTROM Holdings, Inc. (VOSTROM) Distribution (code and documentation) is made available to the open source community as a public service by VOSTROM. Contact VOSTROM at license@vostrom.com for information on other licensing arrangements (e.g. for use in proprietary applications).
+
+Under this license, this Distribution may be modified and the original version and modified versions may be copied, distributed, publicly displayed and performed provided that the following conditions are met:
+
+1. Modified versions are distributed with source code and documentation and with permission for others to use any code and documentation (whether in original or modified versions) as granted under this license;
+
+2. if modified, the source code, documentation, and user run-time elements should be clearly labeled by placing an identifier of origin (such as a name, initial, or other tag) after the version number;
+
+3. users, modifiers, distributors, and others coming into possession or using the Distribution in original or modified form accept the entire risk as to the possession, use, and performance of the Distribution;
+
+4. this copyright management information (software identifier and version number, copyright notice and license) shall be retained in all versions of the Distribution;
+
+5. VOSTROM may make modifications to the Distribution that are substantially similar to modified versions of the Distribution, and may make, use, sell, copy, distribute, publicly display, and perform such modifications, including making such modifications available under this or other licenses, without obligation or restriction;
+
+6. modifications incorporating code, libraries, and/or documentation subject to any other open source license may be made, and the resulting work may be distributed under the terms of such open source license if required by that open source license, but doing so will not affect this Distribution, other modifications made under this license or modifications made under other VOSTROM licensing arrangements;
+
+7. no permission is granted to distribute, publicly display, or publicly perform modifications to the Distribution made using proprietary materials that cannot be released in source format under conditions of this license;
+
+8. the name of VOSTROM may not be used in advertising or publicity pertaining to Distribution of the software without specific, prior written permission.
+
+This software is made available "as is", and
+
+VOSTROM DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, WITH REGARD TO THIS SOFTWARE, INCLUDING WITHOUT LIMITATION ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND IN NO EVENT SHALL VOSTROM BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, TORT (INCLUDING NEGLIGENCE) OR STRICT LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

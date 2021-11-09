@@ -1,0 +1,666 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/CC-BY-2.5-AU">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://creativecommons.org/licenses/by/2.5/au/legalcode</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 17:02:34</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://creativecommons.org/licenses/by/2.5/au/legalcode</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>Creative Commons Attribution 2.5 Australia</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+        &lt;p&gt;&lt;var class="optional-license-text"&gt;Creative Commons &lt;/var&gt;Attribution 2.5 Australia&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="optional-license-text"&gt;
+        &lt;p&gt;CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL
+          SERVICES. DISTRIBUTION OF THIS LICENCE DOES NOT CREATE AN ATTORNEY-CLIENT
+          RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN &amp;quot;AS-IS&amp;quot; BASIS.
+          CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED,
+          AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.&lt;/p&gt;
+
+        &lt;p&gt;Licence&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE
+        COMMONS PUBLIC LICENCE (&amp;quot;CCPL&amp;quot; OR &amp;quot;LICENCE&amp;quot;). THE WORK IS PROTECTED BY COPYRIGHT
+        AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORISED UNDER
+        THIS LICENCE AND/OR APPLICABLE LAW IS PROHIBITED.&lt;/p&gt;
+
+      &lt;p&gt;BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE
+        BOUND BY THE TERMS OF THIS LICENCE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED
+        HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+          &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          Definitions
+        &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+            &amp;quot;Collective Work&amp;quot; means a work, such as a periodical issue, anthology or
+            encyclopaedia, in which the Work in its entirety in unmodified form, along with a
+            number of other contributions, constituting separate and independent works in
+            themselves, are assembled into a collective whole. A work that constitutes a
+            Collective Work will not be considered a Derivative Work (as defined below) for the
+            purposes of this Licence.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+            &amp;quot;Derivative Work&amp;quot; means a work that reproduces a substantial part of the Work,
+            or of the Work and other pre-existing works protected by copyright, or that is an
+            adaptation of a Work that is a literary, dramatic, musical or artistic work.
+            Derivative Works include a translation, musical arrangement, dramatisation,
+            motion picture version, sound recording, art reproduction, abridgment, condensation,
+            or any other form in which a work may be adapted, except that a
+            work that constitutes a Collective Work will not be considered a Derivative Work for
+            the purpose of this Licence. For the avoidance of doubt, where the Work is a
+            musical composition or sound recording, the synchronization of the Work in timed-relation
+            with a moving image (&amp;quot;synching&amp;quot;) will be considered a Derivative Work for
+            the purpose of this Licence.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;c.&lt;/var&gt;
+            &amp;quot;Licensor&amp;quot; means the individual or entity that offers the Work under the terms of
+            this Licence.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;d.&lt;/var&gt;
+            &amp;quot;Moral rights law&amp;quot; means laws under which an individual who creates a work
+            protected by copyright has rights of integrity of authorship of the work, rights of
+            attribution of authorship of the work, rights not to have authorship of the work
+            falsely attributed, or rights of a similar or analogous nature in the work anywhere
+            in the world.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;e.&lt;/var&gt;
+            &amp;quot;Original Author&amp;quot; means the individual or entity who created the Work.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;f.&lt;/var&gt;
+            &amp;quot;Work&amp;quot; means the work or other subject-matter protected by copyright that is
+            offered under the terms of this Licence, which may include (without limitation) a
+            literary, dramatic, musical or artistic work, a sound recording or cinematograph
+            film, a published edition of a literary, dramatic, musical or artistic work or a
+            television or sound broadcast.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;g.&lt;/var&gt;
+            &amp;quot;You&amp;quot; means an individual or entity exercising rights under this Licence who has
+            not previously violated the terms of this Licence with respect to the Work, or who
+            has received express permission from the Licensor to exercise rights under this
+            Licence despite a previous violation.
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;h.&lt;/var&gt;
+            &amp;quot;Licence Elements&amp;quot; means the following high-level licence attributes as selected
+            by Licensor and indicated in the title of this Licence: Attribution, NonCommercial,
+            NoDerivatives, ShareAlike.
+          &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+          &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          Fair Dealing and Other Rights. Nothing in this Licence excludes or modifies, or is intended
+          to exclude or modify, (including by reducing, limiting, or restricting) the rights of You or others to
+          use the Work arising from fair dealings or other limitations on the rights of the copyright owner
+          or the Original Author under copyright law, moral rights law or other applicable laws.
+        &lt;/li&gt;
+&lt;li&gt;
+          &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          Licence Grant. Subject to the terms and conditions of this Licence, Licensor hereby grants
+          You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable
+          copyright) licence to exercise the rights in the Work as stated below:
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+            to reproduce the Work, to incorporate the Work into one or more Collective Works,
+            and to reproduce the Work as incorporated in the Collective Works;
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+            to create and reproduce Derivative Works;
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;c.&lt;/var&gt;
+            to publish, communicate to the public, distribute copies or records of, exhibit or
+            display publicly, perform publicly and perform publicly by means of a digital audio
+            transmission the Work including as incorporated in Collective Works;
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;d.&lt;/var&gt;
+            to publish, communicate to the public, distribute copies or records of, exhibit or
+            display publicly, perform publicly, and perform publicly by means of a digital audio
+            transmission Derivative Works;
+          &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;e.&lt;/var&gt;
+            For the avoidance of doubt, where the Work is a musical composition:
+          &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;i.&lt;/var&gt;
+              Performance Royalties Under Blanket Licences. Licensor will
+              not collect, whether individually or via a performance rights society,
+              royalties for Your communication to the public, broadcast, public
+              performance or public digital performance (e.g. webcast) of the Work.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;ii.&lt;/var&gt;
+              Mechanical Rights and Statutory Royalties. Licensor will not
+              collect, whether individually or via a music rights agency, designated
+              agent or a music publisher, royalties for any record You create from
+              the Work (&amp;quot;cover version&amp;quot;) and distribute, subject to the compulsory
+              licence created by 17 USC Section 115 of the US Copyright Act (or
+              an equivalent statutory licence under the Australian Copyright Act or
+              in other jurisdictions).
+            &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;f.&lt;/var&gt;
+            Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where
+            the Work is a sound recording, Licensor will not collect, whether individually or via
+            a performance-rights society, royalties for Your public digital performance (e.g.
+            webcast) of the Work, subject to the compulsory licence created by 17 USC Section
+            114 of the US Copyright Act (or the equivalent in other jurisdictions).
+          &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;p&gt;The above rights may be exercised in all media and formats whether now known or hereafter
+          devised. The above rights include the right to make such modifications as are technically
+          necessary to exercise the rights in other media and formats. All rights not expressly granted by
+          Licensor under this Licence are hereby reserved.
+        &lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+          &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt;
+          Restrictions. The licence granted in Section 3 above is expressly made subject to and limited
+          by the following restrictions:
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+              You may publish, communicate to the public, distribute, publicly exhibit or display,
+              publicly perform, or publicly digitally perform the Work only under the terms of this
+              Licence, and You must include a copy of, or the Uniform Resource Identifier for, this
+              Licence with every copy or record of the Work You publish, communicate to the
+              public, distribute, publicly exhibit or display, publicly perform or publicly digitally
+              perform. You may not offer or impose any terms on the Work that exclude, alter or
+              restrict the terms of this Licence or the recipients&amp;apos; exercise of the rights granted
+              hereunder. You may not sublicense the Work. You must keep intact all notices that
+              refer to this Licence and to the disclaimer of representations and warranties. You
+              may not publish, communicate to the public, distribute, publicly exhibit or display,
+              publicly perform, or publicly digitally perform the Work with any technological
+              measures that control access or use of the Work in a manner inconsistent with the
+              terms of this Licence. The above applies to the Work as incorporated in a Collective
+              Work, but this does not require the Collective Work apart from the Work itself to be
+              made subject to the terms of this Licence. If You create a Collective Work, upon
+              notice from any Licensor You must, to the extent practicable, remove from the
+              Collective Work any credit as required by Section 4(b), as requested. If You create
+              a Derivative Work, upon notice from any Licensor You must, to the extent
+              practicable, remove from the Derivative Work any credit as required by Section
+              4(b), as requested.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+              If you publish, communicate to the public, distribute, publicly exhibit or display,
+              publicly perform, or publicly digitally perform the Work or any Derivative Works or
+              Collective Works, You must keep intact all copyright notices for the Work. You must
+              also give clear and reasonably prominent credit to (i) the Original Author (by name
+              or pseudonym if applicable), if the name or pseudonym is supplied; and (ii) if
+              another party or parties (eg a sponsor institute, publishing entity or journal) is
+              designated for attribution in the copyright notice, terms of service or other
+              reasonable means associated with the Work, such party or parties. If applicable,
+              that credit must be given in the particular way made known by the Original Author
+              and otherwise as reasonable to the medium or means You are utilizing, by
+              conveying the identity of the Original Author and the other designated party or
+              parties (if applicable); the title of the Work if supplied; to the extent reasonably
+              practicable, the Uniform Resource Identifier, if any, that Licensor specifies to be
+              associated with the Work, unless such URI does not refer to the copyright notice or
+              licensing information for the Work; and in the case of a Derivative Work, a credit
+              identifying the use of the Work in the Derivative Work (e.g., &amp;quot;French translation of
+              the Work by Original Author,&amp;quot; or &amp;quot;Screenplay based on original Work by Original
+              Author&amp;quot;). Such credit may be implemented in any reasonable manner; provided,
+              however, that in the case of a Derivative Work or Collective Work, at a minimum
+              such credit will appear where any other comparable authorship credit appears and
+              in a manner at least as prominent as such other comparable authorship credit.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;c.&lt;/var&gt;
+              False attribution prohibited. Except as otherwise agreed in writing by the
+              Licensor, if You publish, communicate to the public, distribute, publicly exhibit or
+              display, publicly perform, or publicly digitally perform the Work or any Derivative
+              Works or Collective Works in accordance with this Licence, You must not falsely
+              attribute the Work to someone other than the Original Author.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;d.&lt;/var&gt;
+              Prejudice to honour or reputation prohibited. Except as otherwise agreed in
+              writing by the Licensor, if you publish, communicate to the public, distribute,
+              publicly exhibit or display, publicly perform, or publicly digitally perform the Work
+              or any Derivative Works or Collective Works, You must not do anything that results
+              in a material distortion of, the mutilation of, or a material alteration to, the Work
+              that is prejudicial to the Original Author&amp;apos;s honour or reputation, and You must not
+              do anything else in relation to the Work that is prejudicial to the Original Author&amp;apos;s
+              honour or reputation.
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;li&gt;
+          &lt;var class="replacable-license-text"&gt;5.&lt;/var&gt;
+          Disclaimer.
+          &lt;p&gt;EXCEPT AS EXPRESSLY STATED IN THIS LICENCE OR OTHERWISE MUTUALLY AGREED TO BY THE
+            PARTIES IN WRITING, AND TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR
+            OFFERS THE WORK &amp;quot;AS-IS&amp;quot; AND MAKES NO REPRESENTATIONS, WARRANTIES OR CONDITIONS
+            OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE,
+            INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATIONS, WARRANTIES OR CONDITIONS
+            REGARDING THE CONTENTS OR ACCURACY OF THE WORK, OR OF TITLE, MERCHANTABILITY,
+            FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, THE ABSENCE OF LATENT OR
+            OTHER DEFECTS, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
+            DISCOVERABLE.&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+          &lt;var class="replacable-license-text"&gt;6.&lt;/var&gt;
+          Limitation on Liability.
+          &lt;p&gt;TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, AND EXCEPT FOR ANY LIABILITY
+            ARISING FROM CONTRARY MUTUAL AGREEMENT AS REFERRED TO IN SECTION 5, IN NO EVENT
+            WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
+            NEGLIGENCE) FOR ANY LOSS OR DAMAGE WHATSOEVER, INCLUDING (WITHOUT LIMITATION)
+            LOSS OF PRODUCTION OR OPERATION TIME, LOSS, DAMAGE OR CORRUPTION OF DATA OR
+            RECORDS; OR LOSS OF ANTICIPATED SAVINGS, OPPORTUNITY, REVENUE, PROFIT OR
+            GOODWILL, OR OTHER ECONOMIC LOSS; OR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL,
+            PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS LICENCE
+            OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF
+            SUCH DAMAGES.&lt;/p&gt;
+
+          &lt;p&gt;If applicable legislation implies warranties or conditions, or imposes obligations or liability on the
+            Licensor in respect of this Licence that cannot be wholly or partly excluded, restricted or
+            modified, the Licensor&amp;apos;s liability is limited, to the full extent permitted by the applicable
+            legislation, at its option, to:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+              in the case of goods, any one or more of the following:
+            &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;i.&lt;/var&gt;
+                the replacement of the goods or the supply of equivalent goods;
+              &lt;/li&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;ii.&lt;/var&gt;
+                the repair of the goods;
+              &lt;/li&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;iii.&lt;/var&gt;
+                the payment of the cost of replacing the goods or of acquiring equivalent goods;
+              &lt;/li&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;iv.&lt;/var&gt;
+                the payment of the cost of having the goods repaired; or
+              &lt;/li&gt;
+&lt;/ul&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+              in the case of services:
+            &lt;/li&gt;
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;i.&lt;/var&gt;
+                the supplying of the services again; or
+              &lt;/li&gt;
+&lt;li&gt;
+                &lt;var class="replacable-license-text"&gt;ii.&lt;/var&gt;
+                the payment of the cost of having the services supplied again.
+              &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;li&gt;
+          &lt;var class="replacable-license-text"&gt;7.&lt;/var&gt;
+          Termination.
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+              This Licence and the rights granted hereunder will terminate automatically upon
+              any breach by You of the terms of this Licence. Individuals or entities who have
+              received Derivative Works or Collective Works from You under this Licence,
+              however, will not have their licences terminated provided such individuals or
+              entities remain in full compliance with those licences. Sections 1, 2, 5, 6, 7, and 8
+              will survive any termination of this Licence.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+              Subject to the above terms and conditions, the licence granted here is perpetual
+              (for the duration of the applicable copyright in the Work). Notwithstanding the
+              above, Licensor reserves the right to release the Work under different licence
+              terms or to stop distributing the Work at any time; provided, however that any
+              such election will not serve to withdraw this Licence (or any other licence that has
+              been, or is required to be, granted under the terms of this Licence), and this
+              Licence will continue in full force and effect unless terminated as stated above.
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;li&gt;
+          &lt;var class="replacable-license-text"&gt;8.&lt;/var&gt;
+          Miscellaneous.
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+              Each time You publish, communicate to the public, distribute or publicly digitally
+              perform the Work or a Collective Work, the Licensor offers to the recipient a licence
+              to the Work on the same terms and conditions as the licence granted to You under
+              this Licence.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+              Each time You publish, communicate to the public, distribute or publicly digitally
+              perform a Derivative Work, Licensor offers to the recipient a licence to the original
+              Work on the same terms and conditions as the licence granted to You under this
+              Licence.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;c.&lt;/var&gt;
+              If any provision of this Licence is invalid or unenforceable under applicable law, it
+              shall not affect the validity or enforceability of the remainder of the terms of this
+              Licence, and without further action by the parties to this agreement, such provision
+              shall be reformed to the minimum extent necessary to make such provision valid
+              and enforceable.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;d.&lt;/var&gt;
+              No term or provision of this Licence shall be deemed waived and no breach
+              consented to unless such waiver or consent shall be in writing and signed by the
+              party to be charged with such waiver or consent.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;e.&lt;/var&gt;
+              This Licence constitutes the entire agreement between the parties with respect to
+              the Work licensed here. To the full extent permitted by applicable law, there are no
+              understandings, agreements or representations with respect to the Work not
+              specified here. Licensor shall not be bound by any additional provisions that may
+              appear in any communication from You. This Licence may not be modified without
+              the mutual written agreement of the Licensor and You.
+            &lt;/li&gt;
+&lt;li&gt;
+              &lt;var class="replacable-license-text"&gt;f.&lt;/var&gt;
+              The construction, validity and performance of this Licence shall be governed by the
+              laws in force in New South Wales, Australia.
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;div class="optional-license-text"&gt;
+        &lt;p&gt;Creative Commons is not a party to this Licence, and, to the full extent permitted by
+          applicable law, makes no representation or warranty whatsoever in connection with the Work.
+          To the full extent permitted by applicable law, Creative Commons will not be liable to You or
+          any party on any legal theory (including, without limitation, negligence) for any damages
+          whatsoever, including without limitation any general, special, incidental or consequential
+          damages arising in connection to this licence. Notwithstanding the foregoing two (2)
+          sentences, if Creative Commons has expressly identified itself as the Licensor hereunder, it
+          shall have all rights and obligations of Licensor.&lt;/p&gt;
+
+        &lt;p&gt;Except for the limited purpose of indicating to the public that the Work is licensed under the
+          CCPL, neither party will use the trademark &amp;quot;Creative Commons&amp;quot; or any related trademark or
+          logo of Creative Commons without the prior written consent of Creative Commons. Any
+          permitted use will be in compliance with Creative Commons&amp;apos; then-current trademark usage
+          guidelines, as may be published on its website or otherwise made available upon request from
+          time to time.&lt;/p&gt;
+
+        &lt;p&gt;Creative Commons may be contacted at https://creativecommons.org/.&lt;/p&gt;
+
+      &lt;/div&gt;
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; &lt;&lt;beginOptional&gt;&gt; Creative Commons&lt;&lt;endOptional&gt;&gt; Attribution 2.5 Australia
+
+&lt;&lt;endOptional&gt;&gt;&lt;&lt;beginOptional&gt;&gt; CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENCE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
+
+Licence
+
+&lt;&lt;endOptional&gt;&gt;
+
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENCE ("CCPL" OR "LICENCE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORISED UNDER THIS LICENCE AND/OR APPLICABLE LAW IS PROHIBITED.
+
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENCE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; Definitions
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; "Collective Work" means a work, such as a periodical issue, anthology or encyclopaedia, in which the Work in its entirety in unmodified form, along with a number of other contributions, constituting separate and independent works in themselves, are assembled into a collective whole. A work that constitutes a Collective Work will not be considered a Derivative Work (as defined below) for the purposes of this Licence.
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; "Derivative Work" means a work that reproduces a substantial part of the Work, or of the Work and other pre-existing works protected by copyright, or that is an adaptation of a Work that is a literary, dramatic, musical or artistic work. Derivative Works include a translation, musical arrangement, dramatisation, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be adapted, except that a work that constitutes a Collective Work will not be considered a Derivative Work for the purpose of this Licence. For the avoidance of doubt, where the Work is a musical composition or sound recording, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered a Derivative Work for the purpose of this Licence.
+
+      &lt;&lt;var;name="bullet";original="c.";match=".{0,20}"&gt;&gt; "Licensor" means the individual or entity that offers the Work under the terms of this Licence.
+
+      &lt;&lt;var;name="bullet";original="d.";match=".{0,20}"&gt;&gt; "Moral rights law" means laws under which an individual who creates a work protected by copyright has rights of integrity of authorship of the work, rights of attribution of authorship of the work, rights not to have authorship of the work falsely attributed, or rights of a similar or analogous nature in the work anywhere in the world.
+
+      &lt;&lt;var;name="bullet";original="e.";match=".{0,20}"&gt;&gt; "Original Author" means the individual or entity who created the Work.
+
+      &lt;&lt;var;name="bullet";original="f.";match=".{0,20}"&gt;&gt; "Work" means the work or other subject-matter protected by copyright that is offered under the terms of this Licence, which may include (without limitation) a literary, dramatic, musical or artistic work, a sound recording or cinematograph film, a published edition of a literary, dramatic, musical or artistic work or a television or sound broadcast.
+
+      &lt;&lt;var;name="bullet";original="g.";match=".{0,20}"&gt;&gt; "You" means an individual or entity exercising rights under this Licence who has not previously violated the terms of this Licence with respect to the Work, or who has received express permission from the Licensor to exercise rights under this Licence despite a previous violation.
+
+      &lt;&lt;var;name="bullet";original="h.";match=".{0,20}"&gt;&gt; "Licence Elements" means the following high-level licence attributes as selected by Licensor and indicated in the title of this Licence: Attribution, NonCommercial, NoDerivatives, ShareAlike.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Fair Dealing and Other Rights. Nothing in this Licence excludes or modifies, or is intended to exclude or modify, (including by reducing, limiting, or restricting) the rights of You or others to use the Work arising from fair dealings or other limitations on the rights of the copyright owner or the Original Author under copyright law, moral rights law or other applicable laws.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; Licence Grant. Subject to the terms and conditions of this Licence, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) licence to exercise the rights in the Work as stated below:
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; to reproduce the Work, to incorporate the Work into one or more Collective Works, and to reproduce the Work as incorporated in the Collective Works;
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; to create and reproduce Derivative Works;
+
+      &lt;&lt;var;name="bullet";original="c.";match=".{0,20}"&gt;&gt; to publish, communicate to the public, distribute copies or records of, exhibit or display publicly, perform publicly and perform publicly by means of a digital audio transmission the Work including as incorporated in Collective Works;
+
+      &lt;&lt;var;name="bullet";original="d.";match=".{0,20}"&gt;&gt; to publish, communicate to the public, distribute copies or records of, exhibit or display publicly, perform publicly, and perform publicly by means of a digital audio transmission Derivative Works;
+
+      &lt;&lt;var;name="bullet";original="e.";match=".{0,20}"&gt;&gt; For the avoidance of doubt, where the Work is a musical composition:
+
+         &lt;&lt;var;name="bullet";original="i.";match=".{0,20}"&gt;&gt; Performance Royalties Under Blanket Licences. Licensor will not collect, whether individually or via a performance rights society, royalties for Your communication to the public, broadcast, public performance or public digital performance (e.g. webcast) of the Work.
+
+         &lt;&lt;var;name="bullet";original="ii.";match=".{0,20}"&gt;&gt; Mechanical Rights and Statutory Royalties. Licensor will not collect, whether individually or via a music rights agency, designated agent or a music publisher, royalties for any record You create from the Work ("cover version") and distribute, subject to the compulsory licence created by 17 USC Section 115 of the US Copyright Act (or an equivalent statutory licence under the Australian Copyright Act or in other jurisdictions).
+
+      &lt;&lt;var;name="bullet";original="f.";match=".{0,20}"&gt;&gt; Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where the Work is a sound recording, Licensor will not collect, whether individually or via a performance-rights society, royalties for Your public digital performance (e.g. webcast) of the Work, subject to the compulsory licence created by 17 USC Section 114 of the US Copyright Act (or the equivalent in other jurisdictions).
+
+   The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. All rights not expressly granted by Licensor under this Licence are hereby reserved.
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; Restrictions. The licence granted in Section 3 above is expressly made subject to and limited by the following restrictions:
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; You may publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work only under the terms of this Licence, and You must include a copy of, or the Uniform Resource Identifier for, this Licence with every copy or record of the Work You publish, communicate to the public, distribute, publicly exhibit or display, publicly perform or publicly digitally perform. You may not offer or impose any terms on the Work that exclude, alter or restrict the terms of this Licence or the recipients' exercise of the rights granted hereunder. You may not sublicense the Work. You must keep intact all notices that refer to this Licence and to the disclaimer of representations and warranties. You may not publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work with any technological measures that control access or use of the Work in a manner inconsistent with the terms of this Licence. The above applies to the Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Work itself to be made subject to the terms of this Licence. If You create a Collective Work, upon notice from any Licensor You must, to the extent practicable, remove from the Collective Work any credit as required by Section 4(b), as requested. If You create a Derivative Work, upon notice from any Licensor You must, to the extent practicable, remove from the Derivative Work any credit as required by Section 4(b), as requested.
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; If you publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works, You must keep intact all copyright notices for the Work. You must also give clear and reasonably prominent credit to (i) the Original Author (by name or pseudonym if applicable), if the name or pseudonym is supplied; and (ii) if another party or parties (eg a sponsor institute, publishing entity or journal) is designated for attribution in the copyright notice, terms of service or other reasonable means associated with the Work, such party or parties. If applicable, that credit must be given in the particular way made known by the Original Author and otherwise as reasonable to the medium or means You are utilizing, by conveying the identity of the Original Author and the other designated party or parties (if applicable); the title of the Work if supplied; to the extent reasonably practicable, the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work; and in the case of a Derivative Work, a credit identifying the use of the Work in the Derivative Work (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author"). Such credit may be implemented in any reasonable manner; provided, however, that in the case of a Derivative Work or Collective Work, at a minimum such credit will appear where any other comparable authorship credit appears and in a manner at least as prominent as such other comparable authorship credit.
+
+      &lt;&lt;var;name="bullet";original="c.";match=".{0,20}"&gt;&gt; False attribution prohibited. Except as otherwise agreed in writing by the Licensor, if You publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works in accordance with this Licence, You must not falsely attribute the Work to someone other than the Original Author.
+
+      &lt;&lt;var;name="bullet";original="d.";match=".{0,20}"&gt;&gt; Prejudice to honour or reputation prohibited. Except as otherwise agreed in writing by the Licensor, if you publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works, You must not do anything that results in a material distortion of, the mutilation of, or a material alteration to, the Work that is prejudicial to the Original Author's honour or reputation, and You must not do anything else in relation to the Work that is prejudicial to the Original Author's honour or reputation.
+
+   &lt;&lt;var;name="bullet";original="5.";match=".{0,20}"&gt;&gt; Disclaimer.
+
+   EXCEPT AS EXPRESSLY STATED IN THIS LICENCE OR OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, AND TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR OFFERS THE WORK "AS-IS" AND MAKES NO REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATIONS, WARRANTIES OR CONDITIONS REGARDING THE CONTENTS OR ACCURACY OF THE WORK, OR OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, THE ABSENCE OF LATENT OR OTHER DEFECTS, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE.
+
+   &lt;&lt;var;name="bullet";original="6.";match=".{0,20}"&gt;&gt; Limitation on Liability.
+
+   TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, AND EXCEPT FOR ANY LIABILITY ARISING FROM CONTRARY MUTUAL AGREEMENT AS REFERRED TO IN SECTION 5, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) FOR ANY LOSS OR DAMAGE WHATSOEVER, INCLUDING (WITHOUT LIMITATION) LOSS OF PRODUCTION OR OPERATION TIME, LOSS, DAMAGE OR CORRUPTION OF DATA OR RECORDS; OR LOSS OF ANTICIPATED SAVINGS, OPPORTUNITY, REVENUE, PROFIT OR GOODWILL, OR OTHER ECONOMIC LOSS; OR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS LICENCE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   If applicable legislation implies warranties or conditions, or imposes obligations or liability on the Licensor in respect of this Licence that cannot be wholly or partly excluded, restricted or modified, the Licensor's liability is limited, to the full extent permitted by the applicable legislation, at its option, to:
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; in the case of goods, any one or more of the following:
+
+         &lt;&lt;var;name="bullet";original="i.";match=".{0,20}"&gt;&gt; the replacement of the goods or the supply of equivalent goods;
+
+         &lt;&lt;var;name="bullet";original="ii.";match=".{0,20}"&gt;&gt; the repair of the goods;
+
+         &lt;&lt;var;name="bullet";original="iii.";match=".{0,20}"&gt;&gt; the payment of the cost of replacing the goods or of acquiring equivalent goods;
+
+         &lt;&lt;var;name="bullet";original="iv.";match=".{0,20}"&gt;&gt; the payment of the cost of having the goods repaired; or
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; in the case of services:
+
+         &lt;&lt;var;name="bullet";original="i.";match=".{0,20}"&gt;&gt; the supplying of the services again; or
+
+         &lt;&lt;var;name="bullet";original="ii.";match=".{0,20}"&gt;&gt; the payment of the cost of having the services supplied again.
+
+   &lt;&lt;var;name="bullet";original="7.";match=".{0,20}"&gt;&gt; Termination.
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; This Licence and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this Licence. Individuals or entities who have received Derivative Works or Collective Works from You under this Licence, however, will not have their licences terminated provided such individuals or entities remain in full compliance with those licences. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this Licence.
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; Subject to the above terms and conditions, the licence granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different licence terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this Licence (or any other licence that has been, or is required to be, granted under the terms of this Licence), and this Licence will continue in full force and effect unless terminated as stated above.
+
+   &lt;&lt;var;name="bullet";original="8.";match=".{0,20}"&gt;&gt; Miscellaneous.
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; Each time You publish, communicate to the public, distribute or publicly digitally perform the Work or a Collective Work, the Licensor offers to the recipient a licence to the Work on the same terms and conditions as the licence granted to You under this Licence.
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; Each time You publish, communicate to the public, distribute or publicly digitally perform a Derivative Work, Licensor offers to the recipient a licence to the original Work on the same terms and conditions as the licence granted to You under this Licence.
+
+      &lt;&lt;var;name="bullet";original="c.";match=".{0,20}"&gt;&gt; If any provision of this Licence is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Licence, and without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+
+      &lt;&lt;var;name="bullet";original="d.";match=".{0,20}"&gt;&gt; No term or provision of this Licence shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
+
+      &lt;&lt;var;name="bullet";original="e.";match=".{0,20}"&gt;&gt; This Licence constitutes the entire agreement between the parties with respect to the Work licensed here. To the full extent permitted by applicable law, there are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This Licence may not be modified without the mutual written agreement of the Licensor and You.
+
+      &lt;&lt;var;name="bullet";original="f.";match=".{0,20}"&gt;&gt; The construction, validity and performance of this Licence shall be governed by the laws in force in New South Wales, Australia.&lt;&lt;beginOptional&gt;&gt; Creative Commons is not a party to this Licence, and, to the full extent permitted by applicable law, makes no representation or warranty whatsoever in connection with the Work. To the full extent permitted by applicable law, Creative Commons will not be liable to You or any party on any legal theory (including, without limitation, negligence) for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this licence. Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly identified itself as the Licensor hereunder, it shall have all rights and obligations of Licensor.
+
+Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time.
+
+Creative Commons may be contacted at https://creativecommons.org/.
+
+&lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Creative Commons Attribution 2.5 Australia
+
+CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENCE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
+
+Licence
+
+THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENCE ("CCPL" OR "LICENCE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORISED UNDER THIS LICENCE AND/OR APPLICABLE LAW IS PROHIBITED.
+
+BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENCE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
+
+   1. Definitions
+
+      a. "Collective Work" means a work, such as a periodical issue, anthology or encyclopaedia, in which the Work in its entirety in unmodified form, along with a number of other contributions, constituting separate and independent works in themselves, are assembled into a collective whole. A work that constitutes a Collective Work will not be considered a Derivative Work (as defined below) for the purposes of this Licence.
+
+      b. "Derivative Work" means a work that reproduces a substantial part of the Work, or of the Work and other pre-existing works protected by copyright, or that is an adaptation of a Work that is a literary, dramatic, musical or artistic work. Derivative Works include a translation, musical arrangement, dramatisation, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be adapted, except that a work that constitutes a Collective Work will not be considered a Derivative Work for the purpose of this Licence. For the avoidance of doubt, where the Work is a musical composition or sound recording, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered a Derivative Work for the purpose of this Licence.
+
+     c. "Licensor" means the individual or entity that offers the Work under the terms of this Licence.
+
+     d. "Moral rights law" means laws under which an individual who creates a work protected by copyright has rights of integrity of authorship of the work, rights of attribution of authorship of the work, rights not to have authorship of the work falsely attributed, or rights of a similar or analogous nature in the work anywhere in the world.
+
+     e. "Original Author" means the individual or entity who created the Work.
+
+     f. "Work" means the work or other subject-matter protected by copyright that is offered under the terms of this Licence, which may include (without limitation) a literary, dramatic, musical or artistic work, a sound recording or cinematograph film, a published edition of a literary, dramatic, musical or artistic work or a television or sound broadcast.
+
+     g. "You" means an individual or entity exercising rights under this Licence who has not previously violated the terms of this Licence with respect to the Work, or who has received express permission from the Licensor to exercise rights under this Licence despite a previous violation.
+
+     h. "Licence Elements" means the following high-level licence attributes as selected by Licensor and indicated in the title of this Licence: Attribution, NonCommercial, NoDerivatives, ShareAlike.
+
+2. Fair Dealing and Other Rights. Nothing in this Licence excludes or modifies, or is intended to exclude or modify, (including by reducing, limiting, or restricting) the rights of You or others to use the Work arising from fair dealings or other limitations on the rights of the copyright owner or the Original Author under copyright law, moral rights law or other applicable laws.
+
+3. Licence Grant. Subject to the terms and conditions of this Licence, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) licence to exercise the rights in the Work as stated below:
+
+     a. to reproduce the Work, to incorporate the Work into one or more Collective Works, and to reproduce the Work as incorporated in the Collective Works;
+
+     b. to create and reproduce Derivative Works;
+
+     c. to publish, communicate to the public, distribute copies or records of, exhibit or display publicly, perform publicly and perform publicly by means of a digital audio transmission the Work including as incorporated in Collective Works;
+
+     d. to publish, communicate to the public, distribute copies or records of, exhibit or display publicly, perform publicly, and perform publicly by means of a digital audio transmission Derivative Works;
+
+     e. For the avoidance of doubt, where the Work is a musical composition:
+
+          i. Performance Royalties Under Blanket Licences. Licensor will not collect, whether individually or via a performance rights society, royalties for Your communication to the public, broadcast, public performance or public digital performance (e.g. webcast) of the Work.
+
+          ii. Mechanical Rights and Statutory Royalties. Licensor will not collect, whether individually or via a music rights agency, designated agent or a music publisher, royalties for any record You create from the Work ("cover version") and distribute, subject to the compulsory licence created by 17 USC Section 115 of the US Copyright Act (or an equivalent statutory licence under the Australian Copyright Act or in other jurisdictions).
+
+
+     f. Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where the Work is a sound recording, Licensor will not collect, whether individually or via a performance-rights society, royalties for Your public digital performance (e.g. webcast) of the Work, subject to the compulsory licence created by 17 USC Section 114 of the US Copyright Act (or the equivalent in other jurisdictions).
+
+The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. All rights not expressly granted by Licensor under this Licence are hereby reserved.
+
+4. Restrictions. The licence granted in Section 3 above is expressly made subject to and limited by the following restrictions:
+
+     a. You may publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work only under the terms of this Licence, and You must include a copy of, or the Uniform Resource Identifier for, this Licence with every copy or record of the Work You publish, communicate to the public, distribute, publicly exhibit or display, publicly perform or publicly digitally perform. You may not offer or impose any terms on the Work that exclude, alter or restrict the terms of this Licence or the recipients' exercise of the rights granted hereunder. You may not sublicense the Work. You must keep intact all notices that refer to this Licence and to the disclaimer of representations and warranties. You may not publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work with any technological measures that control access or use of the Work in a manner inconsistent with the terms of this Licence. The above applies to the Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Work itself to be made subject to the terms of this Licence. If You create a Collective Work, upon notice from any Licensor You must, to the extent practicable, remove from the Collective Work any credit as required by Section 4(b), as requested. If You create a Derivative Work, upon notice from any Licensor You must, to the extent practicable, remove from the Derivative Work any credit as required by Section 4(b), as requested.
+
+     b. If you publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works, You must keep intact all copyright notices for the Work. You must also give clear and reasonably prominent credit to (i) the Original Author (by name or pseudonym if applicable), if the name or pseudonym is supplied; and (ii) if another party or parties (eg a sponsor institute, publishing entity or journal) is designated for attribution in the copyright notice, terms of service or other reasonable means associated with the Work, such party or parties. If applicable, that credit must be given in the particular way made known by the Original Author and otherwise as reasonable to the medium or means You are utilizing, by conveying the identity of the Original Author and the other designated party or parties (if applicable); the title of the Work if supplied; to the extent reasonably practicable, the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work; and in the case of a Derivative Work, a credit identifying the use of the Work in the Derivative Work (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author"). Such credit may be implemented in any reasonable manner; provided, however, that in the case of a Derivative Work or Collective Work, at a minimum such credit will appear where any other comparable authorship credit appears and in a manner at least as prominent as such other comparable authorship credit.
+
+     c. False attribution prohibited. Except as otherwise agreed in writing by the Licensor, if You publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works in accordance with this Licence, You must not falsely attribute the Work to someone other than the Original Author.
+
+     d. Prejudice to honour or reputation prohibited. Except as otherwise agreed in writing by the Licensor, if you publish, communicate to the public, distribute, publicly exhibit or display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works, You must not do anything that results in a material distortion of, the mutilation of, or a material alteration to, the Work that is prejudicial to the Original Author's honour or reputation, and You must not do anything else in relation to the Work that is prejudicial to the Original Author's honour or reputation.
+
+5. Disclaimer.
+
+EXCEPT AS EXPRESSLY STATED IN THIS LICENCE OR OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, AND TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR OFFERS THE WORK "AS-IS" AND MAKES NO REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, ANY REPRESENTATIONS, WARRANTIES OR CONDITIONS REGARDING THE CONTENTS OR ACCURACY OF THE WORK, OR OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, THE ABSENCE OF LATENT OR OTHER DEFECTS, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE.
+
+6. Limitation on Liability.
+
+TO THE FULL EXTENT PERMITTED BY APPLICABLE LAW, AND EXCEPT FOR ANY LIABILITY ARISING FROM CONTRARY MUTUAL AGREEMENT AS REFERRED TO IN SECTION 5, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION, NEGLIGENCE) FOR ANY LOSS OR DAMAGE WHATSOEVER, INCLUDING (WITHOUT LIMITATION) LOSS OF PRODUCTION OR OPERATION TIME, LOSS, DAMAGE OR CORRUPTION OF DATA OR RECORDS; OR LOSS OF ANTICIPATED SAVINGS, OPPORTUNITY, REVENUE, PROFIT OR GOODWILL, OR OTHER ECONOMIC LOSS; OR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS LICENCE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+If applicable legislation implies warranties or conditions, or imposes obligations or liability on the Licensor in respect of this Licence that cannot be wholly or partly excluded, restricted or modified, the Licensor's liability is limited, to the full extent permitted by the applicable legislation, at its option, to:
+
+     a. in the case of goods, any one or more of the following:
+
+           i. the replacement of the goods or the supply of equivalent goods;
+
+           ii. the repair of the goods;
+
+           iii. the payment of the cost of replacing the goods or of acquiring equivalent goods;
+
+           iv. the payment of the cost of having the goods repaired; or
+
+     b. in the case of services:
+
+           i. the supplying of the services again; or
+
+           ii. the payment of the cost of having the services supplied again.
+
+7. Termination.
+
+     a. This Licence and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this Licence. Individuals or entities who have received Derivative Works or Collective Works from You under this Licence, however, will not have their licences terminated provided such individuals or entities remain in full compliance with those licences. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this Licence.
+
+     b. Subject to the above terms and conditions, the licence granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different licence terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this Licence (or any other licence that has been, or is required to be, granted under the terms of this Licence), and this Licence will continue in full force and effect unless terminated as stated above.
+
+8. Miscellaneous.
+
+     a. Each time You publish, communicate to the public, distribute or publicly digitally perform the Work or a Collective Work, the Licensor offers to the recipient a licence to the Work on the same terms and conditions as the licence granted to You under this Licence.
+
+     b. Each time You publish, communicate to the public, distribute or publicly digitally perform a Derivative Work, Licensor offers to the recipient a licence to the original Work on the same terms and conditions as the licence granted to You under this Licence.
+
+     c. If any provision of this Licence is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Licence, and without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+
+     d. No term or provision of this Licence shall be deemed waived and no breach consented to unless such waiver or consent shall be in writing and signed by the party to be charged with such waiver or consent.
+
+     e. This Licence constitutes the entire agreement between the parties with respect to the Work licensed here. To the full extent permitted by applicable law, there are no understandings, agreements or representations with respect to the Work not specified here. Licensor shall not be bound by any additional provisions that may appear in any communication from You. This Licence may not be modified without the mutual written agreement of the Licensor and You.
+
+     f. The construction, validity and performance of this Licence shall be governed by the laws in force in New South Wales, Australia.
+
+Creative Commons is not a party to this Licence, and, to the full extent permitted by applicable law, makes no representation or warranty whatsoever in connection with the Work. To the full extent permitted by applicable law, Creative Commons will not be liable to You or any party on any legal theory (including, without limitation, negligence) for any damages whatsoever, including without limitation any general, special, incidental or consequential damages arising in connection to this licence. Notwithstanding the foregoing two (2) sentences, if Creative Commons has expressly identified itself as the Licensor hereunder, it shall have all rights and obligations of Licensor.
+
+Except for the limited purpose of indicating to the public that the Work is licensed under the CCPL, neither party will use the trademark "Creative Commons" or any related trademark or logo of Creative Commons without the prior written consent of Creative Commons. Any permitted use will be in compliance with Creative Commons' then-current trademark usage guidelines, as may be published on its website or otherwise made available upon request from time to time.
+
+Creative Commons may be contacted at https://creativecommons.org/.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

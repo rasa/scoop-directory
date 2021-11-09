@@ -1,0 +1,48 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:LicenseException rdf:about="http://spdx.org/licenses/OCaml-LGPL-linking-exception">
+    <rdfs:seeAlso>https://caml.inria.fr/ocaml/license.en.html</rdfs:seeAlso>
+    <rdfs:comment>Adopted by OCaml core in 2001 here: https://github.com/ocaml/ocaml/commit/02ef950033b81fe371759f024faa55f361ba83a6#diff-9879d6db96fd29134fc802214163b95a (git-svn-id: http://caml.inria.fr/svn/ocaml/trunk@4146 f963ae5c-01c2-4b8c-9fe0-0dff7051ff02) LGPL clause typo (was: 3; intended:2; fixed-to:2) fixed in 2007 here: https://github.com/ocaml/ocaml/commit/2d26308ad4d34ea0c00e44db62c4c24c7031c78c#diff-9879d6db96fd29134fc802214163b95a</rdfs:comment>
+    <spdx:name>OCaml LGPL Linking Exception</spdx:name>
+    <spdx:exceptionTextHtml>
+            &lt;div class="optional-license-text"&gt;
+              &lt;p&gt;OCaml LGPL Linking Exception&lt;/p&gt;
+
+            &lt;/div&gt;
+            &lt;p&gt;
+              As a special exception to the GNU &lt;var class="replacable-license-text"&gt;Lesser&lt;/var&gt; General Public License, you
+              may link, statically or dynamically, a &amp;quot;work that uses &lt;var class="replacable-license-text"&gt;the OCaml Core
+              System&lt;/var&gt;&amp;quot; with a publicly distributed version of &lt;var class="replacable-license-text"&gt;the OCaml Core
+              System&lt;/var&gt; to produce an executable file containing portions of
+              &lt;var class="replacable-license-text"&gt;the OCaml Core
+              System&lt;/var&gt;, and distribute that executable file under terms of
+              your choice, without any of the additional requirements listed in
+              clause 6 of the GNU Lesser General Public License. By &amp;quot;a publicly
+              distributed version of &lt;var class="replacable-license-text"&gt;the OCaml Core
+              System&lt;/var&gt;&amp;quot;, we mean either the unmodified &lt;var class="replacable-license-text"&gt;
+              OCaml Core System&lt;/var&gt; as distributed by &lt;var class="replacable-license-text"&gt;INRIA&lt;/var&gt;, or a modified version of &lt;var class="replacable-license-text"&gt;
+              the OCaml Core System&lt;/var&gt; that is distributed under the
+              conditions defined in clause 2 of the GNU Lesser General Public
+              License. This exception does not however invalidate any other
+              reasons why the executable file might be covered by the GNU Lesser
+              General Public License.
+            &lt;/p&gt;
+
+        </spdx:exceptionTextHtml>
+    <spdx:licenseExceptionText>As a special exception to the GNU Lesser General Public License, you may link, statically or dynamically, a "work that uses the OCaml Core System" with a publicly distributed version of the OCaml Core System to produce an executable file containing portions of the OCaml Core System, and distribute that executable file under terms of your choice, without any of the additional requirements listed in clause 6 of the GNU Lesser General Public License. By "a publicly distributed version of the OCaml Core System", we mean either the unmodified OCaml Core System as distributed by INRIA, or a modified version of the OCaml Core System that is distributed under the conditions defined in clause 2 of the GNU Lesser General Public License. This exception does not however invalidate any other reasons why the executable file might be covered by the GNU Lesser General Public License.
+</spdx:licenseExceptionText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:licenseExceptionTemplate>&lt;&lt;beginOptional&gt;&gt; OCaml LGPL Linking Exception
+
+&lt;&lt;endOptional&gt;&gt;
+
+As a special exception to the GNU &lt;&lt;var;name="libraryTypo";original="Lesser";match="Library|Lesser"&gt;&gt; General Public License, you may link, statically or dynamically, a "work that uses &lt;&lt;var;name="linkedSoftwareName1";original="the OCaml Core System";match="the OCaml Core System|opam|the Library"&gt;&gt; " with a publicly distributed version of &lt;&lt;var;name="linkedSoftwareName2";original="the OCaml Core System";match="the OCaml Core System|opam|the Library"&gt;&gt; to produce an executable file containing portions of &lt;&lt;var;name="linkedSoftwareName3";original="the OCaml Core System";match="the OCaml Core System|opam|the Library"&gt;&gt; , and distribute that executable file under terms of your choice, without any of the additional requirements listed in clause 6 of the GNU Lesser General Public License. By "a publicly distributed version of &lt;&lt;var;name="linkedSoftwareName4";original="the OCaml Core System";match="the OCaml Core System|opam|the Library"&gt;&gt; ", we mean either the unmodified &lt;&lt;var;name="linkedSoftwareName5";original="OCaml Core System";match="OCaml Core System|opam|Library"&gt;&gt; as distributed by &lt;&lt;var;name="distributor";original="INRIA";match="INRIA|OCamlPro"&gt;&gt; , or a modified version of &lt;&lt;var;name="linkedSoftwareName6";original="the OCaml Core System";match="the OCaml Core System|opam|the opam|the Library"&gt;&gt; that is distributed under the conditions defined in clause 2 of the GNU Lesser General Public License. This exception does not however invalidate any other reasons why the executable file might be covered by the GNU Lesser General Public License.
+
+</spdx:licenseExceptionTemplate>
+  </spdx:LicenseException>
+</rdf:RDF>

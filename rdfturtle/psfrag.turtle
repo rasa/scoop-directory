@@ -1,0 +1,23 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix ptr:   <http://www.w3.org/2009/pointers#> .
+
+<http://spdx.org/licenses/psfrag>
+        a                             spdx:ListedLicense ;
+        <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                "https://fedoraproject.org/wiki/Licensing/psfrag" ;
+        spdx:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         true ;
+                                        spdx:isValid        true ;
+                                        spdx:isWayBackLink  false ;
+                                        spdx:match          "false" ;
+                                        spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+                                        spdx:timestamp      "2021-11-09 - 17:00:57" ;
+                                        spdx:url            "https://fedoraproject.org/wiki/Licensing/psfrag"
+                                      ] ;
+        spdx:isDeprecatedLicenseId    false ;
+        spdx:isOsiApproved            false ;
+        spdx:licenseText              "psfrag.dtx\nCopyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.\nAll rights are reserved.\n\nThis system is distributed in the hope that it will be  useful, but WITHOUT ANY WARRANTY; without even the  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don't come complaining to us if you modify this file and it doesn't work! If this file is modified by anyone but the authors, those changes and their authors must be explicitly stated HERE.\n" ;
+        spdx:licenseTextHtml          "\n      <div class=\"optional-license-text\">\n         <p>psfrag.dtx</p>\n\n      </div>\n      <div class=\"replacable-license-text\">\n         <p>Copyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.</p>\n\n         <p>All rights are reserved.</p>\n\n      </div>\n\n      <p>This system is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the\n         implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don&apos;t come complaining to us if\n         you modify this file and it doesn&apos;t work! If this file is modified by anyone but the authors, those\n         changes and their authors must be explicitly stated HERE.</p>\n\n    " ;
+        spdx:name                     "psfrag License" ;
+        spdx:standardLicenseTemplate  "<<beginOptional>> psfrag.dtx\n\n<<endOptional>> <<var;name=\"copyright\";original=\"Copyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.    All rights are reserved.  \";match=\".{0,5000}\">>\n\nThis system is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don't come complaining to us if you modify this file and it doesn't work! If this file is modified by anyone but the authors, those changes and their authors must be explicitly stated HERE.\n\n" .

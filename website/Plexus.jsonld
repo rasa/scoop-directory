@@ -1,0 +1,85 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "true",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 16:53:58",
+    "url" : "https://fedoraproject.org/wiki/Licensing/Plexus_Classworlds_License"
+  }, {
+    "@id" : "http://spdx.org/licenses/Plexus",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "Copyright 2002 (C) The Codehaus. All Rights Reserved.\n\nRedistribution and use of this software and associated documentation (\"Software\"), with or without modification, are permitted provided that the following conditions are met:\n\n1. Redistributions of source code must retain copyright statements and notices. Redistributions must also contain a copy of this document.\n\n2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n3. The name \"classworlds” must not be used to endorse or promote products derived from this Software without prior written permission of The Codehaus. For written permission, please contact bob@codehaus.org.\n\n4. Products derived from this Software may not be called \"classworlds” nor may \"classworlds” appear in their names without prior written permission of The Codehaus. \"classworlds” is a registered trademark of The Codehaus.\n\n5. Due credit should be given to The Codehaus. (http://classworlds.codehaus.org/).\n\nTHIS SOFTWARE IS PROVIDED BY THE CODEHAUS AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE CODEHAUS OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n",
+    "licenseTextHtml" : "\n      <div class=\"replacable-license-text\">\n         <p>Copyright 2002 (C) The Codehaus. All Rights Reserved. \n      </p>\n\n      </div>\n\n      <p>Redistribution and use of this software and associated documentation (&quot;Software&quot;), with or without\n         modification, are permitted provided that the following conditions are met:</p>\n\n<ul style=\"list-style:none\">\n<li>\n            <var class=\"replacable-license-text\">1.</var>\n          Redistributions of source code must retain copyright statements and notices. Redistributions must\n             also contain a copy of this document.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">2.</var>\n          Redistributions in binary form must reproduce the above copyright notice, this list of conditions\n             and the following disclaimer in the documentation and/or other materials provided with the\n             distribution.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">3.</var>\n          The name\n            <var class=\"replacable-license-text\">&quot;classworlds&quot;</var> must not be used to endorse or promote\n            products derived from this Software without prior written permission of\n            <var class=\"replacable-license-text\">The Codehaus</var>. For written permission, please contact\n            <var class=\"replacable-license-text\">bob@codehaus.org</var>.\n\n        </li>\n<li>\n            <var class=\"replacable-license-text\">4.</var>\n          Products derived from this Software may not be called\n            <var class=\"replacable-license-text\">&quot;classworlds&quot;</var> nor may\n            <var class=\"replacable-license-text\">&quot;classworlds&quot;</var> appear in their names without prior\n            written permission of\n            <var class=\"replacable-license-text\">The Codehaus</var>.\n            <var class=\"replacable-license-text\">&quot;classworlds&quot;</var> is a registered trademark of\n            <var class=\"replacable-license-text\">The Codehaus</var>.\n\n        </li>\n<li>\n            <var class=\"replacable-license-text\">5.</var>\n          Due credit should be given to\n            <var class=\"replacable-license-text\">The Codehaus. (http://classworlds.codehaus.org/)</var>.\n\n        </li>\n</ul>\n      <p>THIS SOFTWARE IS PROVIDED BY\n        <var class=\"replacable-license-text\">THE CODEHAUS</var> AND CONTRIBUTORS ``AS IS&apos;&apos; AND ANY EXPRESSED OR\n        IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS\n        FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL\n        <var class=\"replacable-license-text\">THE CODEHAUS</var> OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT,\n        INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,\n        PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)\n        HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING\n        NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE\n        POSSIBILITY OF SUCH DAMAGE.\n      </p>\n\n    ",
+    "name" : "Plexus Classworlds License",
+    "standardLicenseTemplate" : "<<var;name=\"copyright\";original=\"Copyright 2002 (C) The Codehaus. All Rights Reserved.  \";match=\".{0,5000}\">>\n\nRedistribution and use of this software and associated documentation (\"Software\"), with or without modification, are permitted provided that the following conditions are met:\n\n   <<var;name=\"bullet\";original=\"1.\";match=\".{0,20}\">> Redistributions of source code must retain copyright statements and notices. Redistributions must also contain a copy of this document.\n\n   <<var;name=\"bullet\";original=\"2.\";match=\".{0,20}\">> Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n   <<var;name=\"bullet\";original=\"3.\";match=\".{0,20}\">> The name <<var;name=\"nameClause3\";original=\"\"classworlds\"\";match=\".+\">> must not be used to endorse or promote products derived from this Software without prior written permission of <<var;name=\"organizationClause3\";original=\"The Codehaus\";match=\".+\">> . For written permission, please contact <<var;name=\"contactClause4\";original=\"bob@codehaus.org\";match=\".+\">> .\n\n   <<var;name=\"bullet\";original=\"4.\";match=\".{0,20}\">> Products derived from this Software may not be called <<var;name=\"nameClause4\";original=\"\"classworlds\"\";match=\".+\">> nor may <<var;name=\"name2Clause4\";original=\"\"classworlds\"\";match=\".+\">> appear in their names without prior written permission of <<var;name=\"name3Clause4\";original=\"The Codehaus\";match=\".+\">> . <<var;name=\"trademark\";original=\"\"classworlds\"\";match=\".+\">> is a registered trademark of <<var;name=\"name4Clause4\";original=\"The Codehaus\";match=\".+\">> .\n\n   <<var;name=\"bullet\";original=\"5.\";match=\".{0,20}\">> Due credit should be given to <<var;name=\"nameURL\";original=\"The Codehaus. (http://classworlds.codehaus.org/)\";match=\".+\">> .\n\nTHIS SOFTWARE IS PROVIDED BY <<var;name=\"nameDisclaimer\";original=\"THE CODEHAUS\";match=\".+\">> AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL <<var;name=\"name2Disclaimer\";original=\"THE CODEHAUS\";match=\".+\">> OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.\n\n",
+    "comment" : "dom4j uses this same license.",
+    "seeAlso" : "https://fedoraproject.org/wiki/Licensing/Plexus_Classworlds_License"
+  } ],
+  "@context" : {
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

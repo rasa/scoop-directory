@@ -1,0 +1,23 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix ptr:   <http://www.w3.org/2009/pointers#> .
+
+<http://spdx.org/licenses/Afmparse>
+        a                             spdx:ListedLicense ;
+        <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                "https://fedoraproject.org/wiki/Licensing/Afmparse" ;
+        spdx:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         true ;
+                                        spdx:isValid        true ;
+                                        spdx:isWayBackLink  false ;
+                                        spdx:match          "false" ;
+                                        spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+                                        spdx:timestamp      "2021-11-09 - 16:53:11" ;
+                                        spdx:url            "https://fedoraproject.org/wiki/Licensing/Afmparse"
+                                      ] ;
+        spdx:isDeprecatedLicenseId    false ;
+        spdx:isOsiApproved            false ;
+        spdx:licenseText              "(C) 1988, 1989 by Adobe Systems Incorporated. All rights reserved.\n\nThis file may be freely copied and redistributed as long as:\n\n     1) This entire notice continues to be included in the file,\n     2) If the file has been modified in any way, a notice of such modification is conspicuously indicated.\n\nPostScript, Display PostScript,and Adobe are registered trademarks of Adobe Systems Incorporated.\n\nTHE INFORMATION BELOW IS FURNISHED AS IS, IS SUBJECT TO CHANGE WITHOUT NOTICE, AND SHOULD NOT BE CONSTRUED AS A COMMITMENT BY ADOBE SYSTEMS INCORPORATED. ADOBE SYSTEMS INCORPORATED ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR INACCURACIES, MAKES NO WARRANTY OF ANY KIND (EXPRESS, IMPLIED OR STATUTORY) WITH RESPECT TO THIS INFORMATION, AND EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSES AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.\n" ;
+        spdx:licenseTextHtml          "\n      <div class=\"replacable-license-text\">\n         <p>(C) 1988, 1989 by Adobe Systems Incorporated. All rights reserved.</p>\n\n      </div>\n\n      <p>This file may be freely copied and redistributed as long as:</p>\n\n<ul style=\"list-style:none\">\n<li>\n            <var class=\"replacable-license-text\">1)</var>\n          This entire notice continues to be included in the file,\n        </li>\n<li>\n            <var class=\"replacable-license-text\">2)</var>\n          If the file has been modified in any way, a notice of such modification is conspicuously indicated.\n        </li>\n</ul>\n      <p>PostScript, Display PostScript, and Adobe are registered trademarks of Adobe Systems Incorporated.</p>\n\n      <p>THE INFORMATION BELOW IS FURNISHED AS IS, IS SUBJECT TO CHANGE WITHOUT NOTICE, AND SHOULD NOT BE\n         CONSTRUED AS A COMMITMENT BY ADOBE SYSTEMS INCORPORATED. ADOBE SYSTEMS INCORPORATED ASSUMES NO\n         RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR INACCURACIES, MAKES NO WARRANTY OF ANY KIND (EXPRESS,\n         IMPLIED OR STATUTORY) WITH RESPECT TO THIS INFORMATION, AND EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES\n         OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSES AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.</p>\n\n    " ;
+        spdx:name                     "Afmparse License" ;
+        spdx:standardLicenseTemplate  "<<var;name=\"copyright\";original=\"(C) 1988, 1989 by Adobe Systems Incorporated. All rights reserved.  \";match=\".{0,5000}\">>\n\nThis file may be freely copied and redistributed as long as:\n\n   <<var;name=\"bullet\";original=\"1)\";match=\".{0,20}\">> This entire notice continues to be included in the file,\n\n   <<var;name=\"bullet\";original=\"2)\";match=\".{0,20}\">> If the file has been modified in any way, a notice of such modification is conspicuously indicated.\n\nPostScript, Display PostScript, and Adobe are registered trademarks of Adobe Systems Incorporated.\n\nTHE INFORMATION BELOW IS FURNISHED AS IS, IS SUBJECT TO CHANGE WITHOUT NOTICE, AND SHOULD NOT BE CONSTRUED AS A COMMITMENT BY ADOBE SYSTEMS INCORPORATED. ADOBE SYSTEMS INCORPORATED ASSUMES NO RESPONSIBILITY OR LIABILITY FOR ANY ERRORS OR INACCURACIES, MAKES NO WARRANTY OF ANY KIND (EXPRESS, IMPLIED OR STATUTORY) WITH RESPECT TO THIS INFORMATION, AND EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES OF MERCHANTABILITY, FITNESS FOR PARTICULAR PURPOSES AND NONINFRINGEMENT OF THIRD PARTY RIGHTS.\n\n" .

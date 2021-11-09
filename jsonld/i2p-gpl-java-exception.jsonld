@@ -1,0 +1,38 @@
+{
+  "@id" : "http://spdx.org/licenses/i2p-gpl-java-exception",
+  "@type" : "spdx:LicenseException",
+  "exceptionTextHtml" : "\n      <p>In addition, as a special exception,\n        <var class=\"replacable-license-text\">XXXX</var> gives permission to\n        link the code of this program with the proprietary Java\n        implementation provided by Sun (or other vendors as well), and\n        distribute linked combinations including the two. You must obey\n        the GNU General Public License in all respects for all of the\n        code used other than the proprietary Java implementation. If you\n        modify this file, you may extend this exception to your version\n        of the file, but you are not obligated to do so. If you do not\n        wish to do so, delete this exception statement from your\n        version.\n      </p>\n\n    ",
+  "spdx:isDeprecatedLicenseId" : false,
+  "licenseExceptionTemplate" : "In addition, as a special exception, <<var;name=\"licensor\";original=\"XXXX\";match=\".+\">> gives permission to link the code of this program with the proprietary Java implementation provided by Sun (or other vendors as well), and distribute linked combinations including the two. You must obey the GNU General Public License in all respects for all of the code used other than the proprietary Java implementation. If you modify this file, you may extend this exception to your version of the file, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.\n\n",
+  "licenseExceptionText" : "In addition, as a special exception, <<var;name=licensor;original=XXXX;match=.+>> gives permission to link the code of this program with the proprietary Java implementation provided by Sun (or other vendors as well), and distribute linked combinations including the two. You must obey the GNU General Public License in all respects for all of the code used other than the proprietary Java implementation. If you modify this file, you may extend this exception to your version of the file, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.\n",
+  "name" : "i2p GPL+Java Exception",
+  "comment" : "Typically used with GPL-2.0+",
+  "seeAlso" : "http://geti2p.net/en/get-involved/develop/licenses#java_exception",
+  "@context" : {
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "exceptionTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#exceptionTextHtml"
+    },
+    "licenseExceptionText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseExceptionText"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseExceptionTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseExceptionTemplate"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

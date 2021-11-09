@@ -1,0 +1,81 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "false",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 16:53:08",
+    "url" : "https://paritylicense.com/versions/6.0.0.html"
+  }, {
+    "@id" : "http://spdx.org/licenses/Parity-6.0.0",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "The Parity Public License 6.0.0\n\nContributor: Example, Inc.\n\nSource Code: https://example.com/sourcecode\n\nThis license lets you use and share this software for free, as\nlong as you contribute software you make with it. Specifically:\n\nIf you follow the rules below, you may do everything with this\nsoftware that would otherwise infringe either the contributor's\ncopyright in it, any patent claim the contributor can license,\nor both.\n\n1. Contribute changes and additions you make to this software.\n\n2. If you combine this software with other software, contribute\n   that other software.\n\n3. Contribute software you develop, deploy, monitor, or run with\n   this software.\n\n4. Ensure everyone who gets a copy of this software from you, in\n   source code or any other form, gets the text of this license\n   and the contributor and source code lines above.\n\n5. Do not make any legal claim against anyone accusing this\n   software, with or without changes, alone or with other\n   software, of infringing any patent claim.\n\nTo contribute software, publish all its source code, in the\npreferred form for making changes, through a freely accessible\ndistribution system widely used for similar source code, and\nlicense contributions not already licensed to the public on terms\nas permissive as this license accordingly.\n\nYou are excused for unknowingly breaking 1, 2, or 3 if you\ncontribute as required, or stop doing anything requiring this\nlicense, within 30 days of learning you broke the rule.\n\n**As far as the law allows, this software comes as is, without\nany warranty, and the contributor will not be liable to anyone\nfor any damages related to this software or this license, for any\nkind of legal claim.**\n",
+    "licenseTextHtml" : "\n      <div class=\"optional-license-text\">\n        <p>The Parity Public License 6.0.0</p>\n\n      </div>\n      <p>Contributor: <var class=\"replacable-license-text\">contributor name</var></p>\n\n      <p>Source Code: <var class=\"replacable-license-text\">source</var></p>\n\n      <p>This license lets you use and share this software for free, as long as you contribute software you make with it. Specifically:</p>\n\n      <p>If you follow the rules below, you may do everything with this software that would otherwise infringe either the contributor&apos;s copyright in it, any patent claim the contributor can license, or both.</p>\n\n<ul style=\"list-style:none\">\n<li><var class=\"replacable-license-text\">1.</var> Contribute changes and additions you make to this software.\n          </li>\n<li><var class=\"replacable-license-text\">2.</var> If you combine this software with other software, contribute that other software.\n          </li>\n<li><var class=\"replacable-license-text\">3.</var> Contribute software you develop, deploy, monitor, or run with this software.\n          </li>\n<li><var class=\"replacable-license-text\">4.</var> Ensure everyone who gets a copy of this software from you, in source code or any other form, gets the text of this license and the contributor and source code lines above.\n          </li>\n<li><var class=\"replacable-license-text\">5.</var> Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent claim. </li>\n</ul>\n      <p>To contribute software, publish all its source code, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, and license contributions not already licensed to the public on terms as permissive as this license accordingly.</p>\n\n      <p>You are excused for unknowingly breaking 1, 2, or 3 if you contribute as required, or stop doing anything requiring this license, within 30 days of learning you broke the rule.</p>\n\n      <p>**As far as the law allows, this software comes as is, without any warranty, and the contributor will not be liable to anyone for any damages related to this software or this license, for any kind of legal claim.**</p>\n\n    ",
+    "name" : "The Parity Public License 6.0.0",
+    "standardLicenseTemplate" : "<<beginOptional>> The Parity Public License 6.0.0\n\n<<endOptional>>\n\nContributor: <<var;name=\"copyright\";original=\"contributor name\";match=\".+\">>\n\nSource Code: <<var;name=\"source\";original=\"source\";match=\".+\">>\n\nThis license lets you use and share this software for free, as long as you contribute software you make with it. Specifically:\n\nIf you follow the rules below, you may do everything with this software that would otherwise infringe either the contributor's copyright in it, any patent claim the contributor can license, or both.\n\n   <<var;name=\"bullet\";original=\"1.\";match=\".{0,20}\">> Contribute changes and additions you make to this software.\n\n   <<var;name=\"bullet\";original=\"2.\";match=\".{0,20}\">> If you combine this software with other software, contribute that other software.\n\n   <<var;name=\"bullet\";original=\"3.\";match=\".{0,20}\">> Contribute software you develop, deploy, monitor, or run with this software.\n\n   <<var;name=\"bullet\";original=\"4.\";match=\".{0,20}\">> Ensure everyone who gets a copy of this software from you, in source code or any other form, gets the text of this license and the contributor and source code lines above.\n\n   <<var;name=\"bullet\";original=\"5.\";match=\".{0,20}\">> Do not make any legal claim against anyone accusing this software, with or without changes, alone or with other software, of infringing any patent claim.\n\nTo contribute software, publish all its source code, in the preferred form for making changes, through a freely accessible distribution system widely used for similar source code, and license contributions not already licensed to the public on terms as permissive as this license accordingly.\n\nYou are excused for unknowingly breaking 1, 2, or 3 if you contribute as required, or stop doing anything requiring this license, within 30 days of learning you broke the rule.\n\n**As far as the law allows, this software comes as is, without any warranty, and the contributor will not be liable to anyone for any damages related to this software or this license, for any kind of legal claim.**\n\n",
+    "seeAlso" : "https://paritylicense.com/versions/6.0.0.html"
+  } ],
+  "@context" : {
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

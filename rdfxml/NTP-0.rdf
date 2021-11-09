@@ -1,0 +1,64 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/NTP-0">
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;NTP No Attribution (NTP-0)&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;Copyright (4-digit-year) by (CopyrightHoldersName)
+         &lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;Permission to use, copy, modify, and distribute this software and its documentation for any purpose
+         is hereby granted, provided that the name&lt;var class="optional-license-text"&gt;s&lt;/var&gt; of
+        &lt;var class="replacable-license-text"&gt;(TrademarkedName)&lt;/var&gt; not be used in advertising or publicity pertaining
+        to distribution of the software without specific, written prior permission.
+        &lt;var class="replacable-license-text"&gt;(TrademarkedName)&lt;/var&gt; make&lt;var class="optional-license-text"&gt;s&lt;/var&gt; no representations about the suitability
+        of this software for any purpose. It is provided &amp;quot;as is&amp;quot; without express or implied warranty.
+      &lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:name>NTP No Attribution</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:55:46</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://github.com/tytso/e2fsprogs/blob/master/lib/et/et_name.c</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:seeAlso>https://github.com/tytso/e2fsprogs/blob/master/lib/et/et_name.c</rdfs:seeAlso>
+    <spdx:licenseText>NTP No Attribution (NTP-0)
+
+Copyright (4-digit-year) by (CopyrightHoldersName)
+
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose is hereby granted, provided that the name of (TrademarkedName) not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. (TrademarkedName) make no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
+</spdx:licenseText>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; NTP No Attribution (NTP-0)
+
+&lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="copyright";original="Copyright (4-digit-year) by (CopyrightHoldersName)  ";match=".{0,5000}"&gt;&gt;
+
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose is hereby granted, provided that the name&lt;&lt;beginOptional&gt;&gt;s&lt;&lt;endOptional&gt;&gt;of &lt;&lt;var;name="TMname";original="(TrademarkedName)";match=".+"&gt;&gt; not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. &lt;&lt;var;name="TMname";original="(TrademarkedName)";match=".+"&gt;&gt; make&lt;&lt;beginOptional&gt;&gt;s&lt;&lt;endOptional&gt;&gt;no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
+
+</spdx:standardLicenseTemplate>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:comment>This license is similar to NTP, but it omits the language regarding reproduction of copyright and permission notices. It also omits the phrase "with or without fee".</rdfs:comment>
+  </spdx:ListedLicense>
+</rdf:RDF>

@@ -1,0 +1,24 @@
+<<beginOptional>> Apache License 1.1
+
+<<endOptional>> <<var;name="copyright";original="Copyright (c) 2000 The Apache Software Foundation. All rights reserved.  ";match=".{0,5000}">>
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+   <<var;name="bullet";original="1.";match=".{0,20}">> Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+   <<var;name="bullet";original="2.";match=".{0,20}">> Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+   <<var;name="bullet";original="3.";match=".{0,20}">> The end-user documentation included with the redistribution, if any, must include the following acknowledgment:
+
+   "This product includes software developed by <<var;name="organizationClause3";original="the Apache Software Foundation (http://www.apache.org/)";match=".+">> ."
+
+   Alternately, this acknowledgment may appear in the software itself, if and wherever such third-party acknowledgments normally appear.
+
+   <<var;name="bullet";original="4.";match=".{0,20}">> The <<var;name="nameClause4";original="name";match="name\(s\)|name|name">> <<var;name="organizationClause4";original=""Apache" and "Apache Software Foundation"";match=".+">> must not be used to endorse or promote products derived from this software without prior written permission.<<beginOptional>> For written permission, please contact apache@apache.org<<endOptional>> .
+
+   <<var;name="bullet";original="5.";match=".{0,20}">> <<var;name="Clause5";original="Products derived from this software may not be called "Apache" [ex. "Jakarta," "Apache," or "Apache Commons,"] nor may "Apache" [ex. the names] appear in their name, without prior written permission of the Apache Software Foundation.";match="(Products derived from this software may not be called\s.+nor may\s.+appear in their name, without prior written permission of\s.+.|Products may not include\s.+in their name, without prior written permission of\s.+.)">>
+
+THIS SOFTWARE IS PROVIDED ''AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL <<var;name="copyrightHolderLiability";original="THE APACHE SOFTWARE FOUNDATION OR ITS CONTRIBUTORS";match=".+">> BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+<<beginOptional>> This software consists of voluntary contributions made by many individuals on behalf of the Apache Software Foundation. For more information on the Apache Software Foundation, please see http://www.apache.org/. Portions of this software are based upon public domain software originally written at the National Center for Supercomputing Applications, University of Illinois, Urbana-Champaign.<<endOptional>>
+

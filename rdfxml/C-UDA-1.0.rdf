@@ -1,0 +1,205 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/C-UDA-1.0">
+    <spdx:licenseTextHtml>
+            &lt;div class="optional-license-text"&gt;
+            &lt;p&gt;Computational Use of Data Agreement v1.0&lt;/p&gt;
+
+            &lt;/div&gt;
+
+            &lt;p&gt;This is the Computational Use of Data Agreement, Version 1.0 (the &amp;quot;C-UDA&amp;quot;). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                    &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt; Provision of the Data
+                    
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;1.1.&lt;/var&gt; You may use, modify, and distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA&amp;apos;s terms.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;1.2.&lt;/var&gt; Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the C-UDA.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;1.3 &lt;/var&gt; This C-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.&lt;/li&gt;
+&lt;/ul&gt;
+                &lt;/li&gt;
+&lt;li&gt;
+                    &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt; Restrictions
+                    
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;2.1&lt;/var&gt; You agree that you will use the Data solely for Computational Use.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;2.2&lt;/var&gt; The C-UDA does not impose any restriction with respect to the use, modification, or distribution of Results.&lt;/li&gt;
+&lt;/ul&gt;
+                &lt;/li&gt;
+&lt;li&gt;
+                    &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt; Redistribution of Data
+                    
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;3.1.&lt;/var&gt; You may redistribute the Data, so long as:
+                            
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;3.1.1.&lt;/var&gt; You include with any Data you redistribute all credit or attribution information that you received with the Data, and your terms require any Downstream Recipient to do the same; and&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;3.1.2.&lt;/var&gt; You bind each recipient to whom you redistribute the Data to the terms of the C-UDA.&lt;/li&gt;
+&lt;/ul&gt;
+                        &lt;/li&gt;
+&lt;/ul&gt;
+                &lt;/li&gt;
+&lt;li&gt;
+                    &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt; No Warranty, Limitation of Liability
+                    
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;4.1.&lt;/var&gt; Data Provider does not represent or warrant that it has any rights whatsoever in the Data.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;4.2.&lt;/var&gt; THE DATA IS PROVIDED ON AN &amp;quot;AS IS&amp;quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;4.3.&lt;/var&gt; NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.&lt;/li&gt;
+&lt;/ul&gt;
+                &lt;/li&gt;
+&lt;li&gt;
+                    &lt;var class="replacable-license-text"&gt;5.&lt;/var&gt; Definitions
+                    
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;5.1.&lt;/var&gt; &amp;quot;Computational Use&amp;quot; means activities necessary to enable the use of Data (alone or along with other material) for analysis by a computer.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;5.2.&lt;/var&gt; &amp;quot;Data&amp;quot; means the material you receive under the C-UDA in modified or unmodified form, but not including Results.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;5.3.&lt;/var&gt; &amp;quot;Data Provider&amp;quot; means the source from which you receive the Data and with whom you enter into the C-UDA.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;5.4.&lt;/var&gt; &amp;quot;Downstream Recipient&amp;quot; means any person or persons who receives the Data directly or indirectly from you in accordance with the C-UDA.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;5.5.&lt;/var&gt; &amp;quot;Result&amp;quot; means anything that you develop or improve from your use of Data that does not include more than a de minimis portion of the Data on which the use is based. Results may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more. Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Results.&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;5.6.&lt;/var&gt; &amp;quot;Upstream Data Providers&amp;quot; means the source or sources from which the Data Provider directly or indirectly received, under the terms of the C-UDA, material that is included in the Data.&lt;/li&gt;
+&lt;/ul&gt;
+                &lt;/li&gt;
+&lt;/ul&gt;
+        </spdx:licenseTextHtml>
+    <rdfs:seeAlso>https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md</rdfs:seeAlso>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; Computational Use of Data Agreement v1.0
+
+&lt;&lt;endOptional&gt;&gt;
+
+This is the Computational Use of Data Agreement, Version 1.0 (the "C-UDA"). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; Provision of the Data
+
+      &lt;&lt;var;name="bullet";original="1.1.";match=".{0,20}"&gt;&gt; You may use, modify, and distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA's terms.
+
+      &lt;&lt;var;name="bullet";original="1.2.";match=".{0,20}"&gt;&gt; Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the C-UDA.
+
+      &lt;&lt;var;name="bullet";original="1.3";match=".{0,20}"&gt;&gt; This C-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Restrictions
+
+      &lt;&lt;var;name="bullet";original="2.1";match=".{0,20}"&gt;&gt; You agree that you will use the Data solely for Computational Use.
+
+      &lt;&lt;var;name="bullet";original="2.2";match=".{0,20}"&gt;&gt; The C-UDA does not impose any restriction with respect to the use, modification, or distribution of Results.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; Redistribution of Data
+
+      &lt;&lt;var;name="bullet";original="3.1.";match=".{0,20}"&gt;&gt; You may redistribute the Data, so long as:
+
+         &lt;&lt;var;name="bullet";original="3.1.1.";match=".{0,20}"&gt;&gt; You include with any Data you redistribute all credit or attribution information that you received with the Data, and your terms require any Downstream Recipient to do the same; and
+
+         &lt;&lt;var;name="bullet";original="3.1.2.";match=".{0,20}"&gt;&gt; You bind each recipient to whom you redistribute the Data to the terms of the C-UDA.
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; No Warranty, Limitation of Liability
+
+      &lt;&lt;var;name="bullet";original="4.1.";match=".{0,20}"&gt;&gt; Data Provider does not represent or warrant that it has any rights whatsoever in the Data.
+
+      &lt;&lt;var;name="bullet";original="4.2.";match=".{0,20}"&gt;&gt; THE DATA IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+      &lt;&lt;var;name="bullet";original="4.3.";match=".{0,20}"&gt;&gt; NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   &lt;&lt;var;name="bullet";original="5.";match=".{0,20}"&gt;&gt; Definitions
+
+      &lt;&lt;var;name="bullet";original="5.1.";match=".{0,20}"&gt;&gt; "Computational Use" means activities necessary to enable the use of Data (alone or along with other material) for analysis by a computer.
+
+      &lt;&lt;var;name="bullet";original="5.2.";match=".{0,20}"&gt;&gt; "Data" means the material you receive under the C-UDA in modified or unmodified form, but not including Results.
+
+      &lt;&lt;var;name="bullet";original="5.3.";match=".{0,20}"&gt;&gt; "Data Provider" means the source from which you receive the Data and with whom you enter into the C-UDA.
+
+      &lt;&lt;var;name="bullet";original="5.4.";match=".{0,20}"&gt;&gt; "Downstream Recipient" means any person or persons who receives the Data directly or indirectly from you in accordance with the C-UDA.
+
+      &lt;&lt;var;name="bullet";original="5.5.";match=".{0,20}"&gt;&gt; "Result" means anything that you develop or improve from your use of Data that does not include more than a de minimis portion of the Data on which the use is based. Results may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more. Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Results.
+
+      &lt;&lt;var;name="bullet";original="5.6.";match=".{0,20}"&gt;&gt; "Upstream Data Providers" means the source or sources from which the Data Provider directly or indirectly received, under the terms of the C-UDA, material that is included in the Data.</spdx:standardLicenseTemplate>
+    <spdx:name>Computational Use of Data Agreement v1.0</spdx:name>
+    <rdfs:seeAlso>https://cdla.dev/computational-use-of-data-agreement-v1-0/</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:54:10</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://github.com/microsoft/Computational-Use-of-Data-Agreement/blob/master/C-UDA-1.0.md</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:licenseText>Computational Use of Data Agreement v1.0
+
+This is the Computational Use of Data Agreement, Version 1.0 (the “C-UDA”). Capitalized terms are defined in Section 5. Data Provider and you agree as follows:
+
+1. Provision of the Data
+
+1.1. You may use, modify, and distribute the Data made available to you by the Data Provider under this C-UDA for Computational Use if you follow the C-UDA's terms.
+
+1.2. Data Provider will not sue you or any Downstream Recipient for any claim arising out of the use, modification, or distribution of the Data provided you meet the terms of the C-UDA.
+
+1.3 This C-UDA does not restrict your use, modification, or distribution of any portions of the Data that are in the public domain or that may be used, modified, or distributed under any other legal exception or limitation.
+
+2. Restrictions
+
+2.1 You agree that you will use the Data solely for Computational Use.
+
+2.2 The C-UDA does not impose any restriction with respect to the use, modification, or distribution of Results.
+
+3. Redistribution of Data
+
+3.1. You may redistribute the Data, so long as:
+
+3.1.1. You include with any Data you redistribute all credit or attribution information that you received with the Data, and your terms require any Downstream Recipient to do the same; and
+
+3.1.2. You bind each recipient to whom you redistribute the Data to the terms of the C-UDA.
+
+4. No Warranty, Limitation of Liability
+
+4.1. Data Provider does not represent or warrant that it has any rights whatsoever in the Data.
+
+4.2. THE DATA IS PROVIDED ON AN “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+4.3. NEITHER DATA PROVIDER NOR ANY UPSTREAM DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5. Definitions
+
+5.1. “Computational Use” means activities necessary to enable the use of Data (alone or along with other material) for analysis by a computer.
+
+5.2.“Data” means the material you receive under the C-UDA in modified or unmodified form, but not including Results.
+
+5.3. “Data Provider” means the source from which you receive the Data and with whom you enter into the C-UDA.
+
+5.4. “Downstream Recipient” means any person or persons who receives the Data directly or indirectly from you in accordance with the C-UDA.
+
+5.5. “Result” means anything that you develop or improve from your use of Data that does not include more than a de minimis portion of the Data on which the use is based. Results may include de minimis portions of the Data necessary to report on or explain use that has been conducted with the Data, such as figures in scientific papers, but do not include more. Artificial intelligence models trained on Data (and which do not include more than a de minimis portion of Data) are Results.
+
+5.6. “Upstream Data Providers” means the source or sources from which the Data Provider directly or indirectly received, under the terms of the C-UDA, material that is included in the Data.
+</spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:54:11</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:url>https://cdla.dev/computational-use-of-data-agreement-v1-0/</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+  </spdx:ListedLicense>
+</rdf:RDF>

@@ -1,0 +1,34 @@
+{
+  "@id" : "http://spdx.org/licenses/Bootloader-exception",
+  "@type" : "spdx:LicenseException",
+  "exceptionTextHtml" : "\n      <div class=\"optional-license-text\">\n         <p>Bootloader Exception<var class=\"replacable-license-text\"></var></p>\n\n      </div>\n<p>In addition to the permissions in the GNU General Public License, the\nauthors give you unlimited permission to link or embed compiled bootloader\nand related files into combinations with other programs, and to distribute\nthose combinations without any restriction coming from the use of those\nfiles. (The General Public License restrictions do apply in other respects;\nfor example, they cover modification of the files, and distribution when\nnot linked into a <var class=\"replacable-license-text\">combined</var> executable.)</p>\n\n    ",
+  "spdx:isDeprecatedLicenseId" : false,
+  "licenseExceptionTemplate" : "<<beginOptional>> Bootloader Exception <<var;name=\"titleUnderline\";original=\"\";match=\"-*\">>\n\n<<endOptional>>\n\nIn addition to the permissions in the GNU General Public License, the authors give you unlimited permission to link or embed compiled bootloader and related files into combinations with other programs, and to distribute those combinations without any restriction coming from the use of those files. (The General Public License restrictions do apply in other respects; for example, they cover modification of the files, and distribution when not linked into a <<var;name=\"combined\";original=\"combined\";match=\"combined|combine\">> executable.)\n\n",
+  "licenseExceptionText" : "Bootloader Exception\n--------------------\n\nIn addition to the permissions in the GNU General Public License, the\nauthors give you unlimited permission to link or embed compiled bootloader\nand related files into combinations with other programs, and to distribute\nthose combinations without any restriction coming from the use of those\nfiles. (The General Public License restrictions do apply in other respects;\nfor example, they cover modification of the files, and distribution when\nnot linked into a combine executable.)\n",
+  "name" : "Bootloader Distribution Exception",
+  "seeAlso" : "https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt",
+  "@context" : {
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "exceptionTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#exceptionTextHtml"
+    },
+    "licenseExceptionText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseExceptionText"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseExceptionTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseExceptionTemplate"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

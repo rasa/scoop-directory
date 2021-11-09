@@ -1,0 +1,137 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/Caldera">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>http://www.lemis.com/grog/UNIX/ancient-source-all.pdf</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:12</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>http://www.lemis.com/grog/UNIX/ancient-source-all.pdf</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>Caldera License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;p&gt;Caldera International, Inc. hereby grants a fee free license that includes the rights use, modify and
+         distribute this named source code, including creating derived binary products created from the source
+         code. The source code for which Caldera International, Inc. grants rights are limited to the following
+         UNIX Operating Systems that operate on the 16-Bit PDP-11 CPU and early versions of the 32-Bit UNIX
+         Operating System, with specific exclusion of UNIX System III and UNIX System V and successor operating
+         systems:&lt;/p&gt;
+
+      &lt;p&gt;32-bit 32V UNIX&lt;/p&gt;
+
+      &lt;p&gt;16 bit UNIX Versions 1, 2, 3, 4, 5, 6, 7&lt;/p&gt;
+
+      &lt;p&gt;Caldera International, Inc. makes no guarantees or commitments that any source code is available from Caldera
+        International, Inc.
+      &lt;/p&gt;
+
+      &lt;p&gt;The following copyright notice applies to the source code files for which this license is granted.&lt;/p&gt;
+
+      &lt;p&gt;Copyright(C) Caldera International Inc. 2001-2002. All rights reserved.&lt;/p&gt;
+
+      &lt;p&gt;Redistribution and use in source and binary forms, with or without modification, are permitted provided
+         that the following conditions are met:&lt;/p&gt;
+
+      &lt;p&gt;Redistributions of source code and documentation must retain the above copyright notice, this list of
+         conditions and the following disclaimer.&lt;/p&gt;
+
+      &lt;p&gt;Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the
+         following disclaimer in the documentation and/or other materials provided with the distribution.&lt;/p&gt;
+
+      &lt;p&gt;All advertising materials mentioning features or use of this software must display the following
+         acknowledgement:
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                &lt;p&gt;This product includes software developed or owned by Caldera International, Inc.&lt;/p&gt;
+
+            &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;/p&gt;
+
+      &lt;p&gt;Neither the name of Caldera International, Inc. nor the names of other contributors may be used to
+         endorse or promote products derived from this software without specific prior written permission.&lt;/p&gt;
+
+      &lt;p&gt;USE OF THE SOFTWARE PROVIDED FOR UNDER THIS LICENSE BY CALDERA INTERNATIONAL, INC. AND CONTRIBUTORS ``AS
+         IS&amp;apos;&amp;apos; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+         MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL CALDERA INTERNATIONAL,
+         INC. BE LIABLE FOR ANY DIRECT, INDIRECT INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+         BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+         INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+         TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+         OF THE POSSIBILITY OF SUCH DAMAGE.
+      &lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>Caldera International, Inc. hereby grants a fee free license that includes the rights use, modify and distribute this named source code, including creating derived binary products created from the source code. The source code for which Caldera International, Inc. grants rights are limited to the following UNIX Operating Systems that operate on the 16-Bit PDP-11 CPU and early versions of the 32-Bit UNIX Operating System, with specific exclusion of UNIX System III and UNIX System V and successor operating systems:
+
+32-bit 32V UNIX
+
+16 bit UNIX Versions 1, 2, 3, 4, 5, 6, 7
+
+Caldera International, Inc. makes no guarantees or commitments that any source code is available from Caldera International, Inc.
+
+The following copyright notice applies to the source code files for which this license is granted.
+
+Copyright(C) Caldera International Inc. 2001-2002. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code and documentation must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+All advertising materials mentioning features or use of this software must display the following acknowledgement:
+
+   This product includes software developed or owned by Caldera International, Inc.
+
+Neither the name of Caldera International, Inc. nor the names of other contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+USE OF THE SOFTWARE PROVIDED FOR UNDER THIS LICENSE BY CALDERA INTERNATIONAL, INC. AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL CALDERA INTERNATIONAL, INC. BE LIABLE FOR ANY DIRECT, INDIRECT INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Caldera International, Inc. hereby grants a fee free license that includes the rights use, modify and distribute this named source code, including creating derived binary products created from the source code. The source code for which Caldera International, Inc. grants rights are limited to the following UNIX Operating Systems that operate on the 16-Bit PDP-11 CPU and early versions of the 32-Bit UNIX Operating System, with specific exclusion of UNIX System III and UNIX System V and successor operating systems:
+
+     32-bit 32V UNIX
+     16 bit UNIX Versions 1, 2, 3, 4, 5, 6, 7
+
+Caldera International, Inc. makes no guarantees or commitments that any source code is available from Caldera
+International, Inc.
+
+The following copyright notice applies to the source code files for which this license is granted.
+
+Copyright(C) Caldera International Inc. 2001-2002. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+     Redistributions of source code and documentation must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+     Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+     All advertising materials mentioning features or use of this software must display the following acknowledgement:
+This product includes software developed or owned by Caldera International, Inc.
+
+     Neither the name of Caldera International, Inc. nor the names of other contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+USE OF THE SOFTWARE PROVIDED FOR UNDER THIS LICENSE BY CALDERA INTERNATIONAL, INC. AND CONTRIBUTORS ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL CALDERA INTERNATIONAL, INC. BE LIABLE FOR ANY DIRECT, INDIRECT INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

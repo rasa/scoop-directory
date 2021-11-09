@@ -1,0 +1,85 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "false",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 17:00:41",
+    "url" : "https://jogamp.org/git/?p=gluegen.git;a=blob_plain;f=LICENSE.txt"
+  }, {
+    "@id" : "http://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "\nCopyright (c) 2003-2005 Sun Microsystems, Inc. All Rights Reserved.\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n     - Redistribution of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n     - Redistribution in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n     - Neither the name of Sun Microsystems, Inc. or the names of contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nThis software is provided \"AS IS,\" without a warranty of any kind. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED. SUN MICROSYSTEMS, INC. (\"SUN\") AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES. IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\nYou acknowledge that this software is not designed or intended for use in the design, construction, operation or maintenance of any nuclear facility.\n",
+    "licenseTextHtml" : "\n      <div class=\"replacable-license-text\">\n         <p>Copyright (c) 2003-2005 Sun Microsystems, Inc. All Rights Reserved.</p>\n\n      </div>\n      <p>Redistribution and use in source and binary forms, with or\n         without modification, are permitted provided that the\n         following conditions are met:</p>\n\n<ul style=\"list-style:none\">\n<li>\n            <var class=\"replacable-license-text\">-</var>\n          Redistribution of source code must retain the above\n             copyright notice, this list of conditions and the\n             following disclaimer.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">-</var>\n          Redistribution in binary form must reproduce the above\n             copyright notice, this list of conditions and the\n             following disclaimer in the documentation and/or other\n             materials provided with the distribution.\n        </li>\n<li>\n            <var class=\"replacable-license-text\">-</var>\n          Neither the name of Sun Microsystems, Inc. or the names\n             of contributors may be used to endorse or promote\n             products derived from this software without specific\n             prior written permission.\n        </li>\n</ul>\n      <p>This software is provided &quot;AS IS,&quot; without a warranty of any\n         kind. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND\n         WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY,\n         FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE\n         HEREBY EXCLUDED. SUN MICROSYSTEMS, INC. (&quot;SUN&quot;) AND ITS\n         LICENSORS SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY\n         LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS\n         SOFTWARE OR ITS DERIVATIVES. IN NO EVENT WILL SUN OR ITS\n         LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR\n         FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR\n         PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY\n         OF LIABILITY, ARISING OUT OF THE USE OF OR INABILITY TO USE\n         THIS SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY\n         OF SUCH DAMAGES.</p>\n\n      <p>You acknowledge that this software is not designed or intended\n         for use in the design, construction, operation or maintenance\n         of any nuclear facility.</p>\n\n    ",
+    "name" : "BSD 3-Clause No Nuclear Warranty",
+    "standardLicenseTemplate" : "<<var;name=\"copyright\";original=\"Copyright (c) 2003-2005 Sun Microsystems, Inc. All Rights Reserved.  \";match=\".{0,5000}\">>\n\nRedistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:\n\n   <<var;name=\"bullet\";original=\"-\";match=\".{0,20}\">> Redistribution of source code must retain the above copyright notice, this list of conditions and the following disclaimer.\n\n   <<var;name=\"bullet\";original=\"-\";match=\".{0,20}\">> Redistribution in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.\n\n   <<var;name=\"bullet\";original=\"-\";match=\".{0,20}\">> Neither the name of Sun Microsystems, Inc. or the names of contributors may be used to endorse or promote products derived from this software without specific prior written permission.\n\nThis software is provided \"AS IS,\" without a warranty of any kind. ALL EXPRESS OR IMPLIED CONDITIONS, REPRESENTATIONS AND WARRANTIES, INCLUDING ANY IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, ARE HEREBY EXCLUDED. SUN MICROSYSTEMS, INC. (\"SUN\") AND ITS LICENSORS SHALL NOT BE LIABLE FOR ANY DAMAGES SUFFERED BY LICENSEE AS A RESULT OF USING, MODIFYING OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES. IN NO EVENT WILL SUN OR ITS LICENSORS BE LIABLE FOR ANY LOST REVENUE, PROFIT OR DATA, OR FOR DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR PUNITIVE DAMAGES, HOWEVER CAUSED AND REGARDLESS OF THE THEORY OF LIABILITY, ARISING OUT OF THE USE OF OR INABILITY TO USE THIS SOFTWARE, EVEN IF SUN HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.\n\nYou acknowledge that this software is not designed or intended for use in the design, construction, operation or maintenance of any nuclear facility.\n\n",
+    "comment" : "This license has a Sun copyright notice. It is the same license as BSD-3-Clause-No-Nuclear-License, except it has a disclaimer for nuclear factility use, instead of the software \"not licensed\" for such use.",
+    "seeAlso" : "https://jogamp.org/git/?p=gluegen.git;a=blob_plain;f=LICENSE.txt"
+  } ],
+  "@context" : {
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

@@ -1,0 +1,146 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/ECL-1.0">
+    <spdx:licenseText>The Educational Community License
+
+This Educational Community License (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following notice immediately following the copyright notice for the Original Work:
+
+     Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+     Licensed under the Educational Community License version 1.0
+
+This Original Work, including software, source code, documents, or other related items, is being provided by the copyright holder(s) subject to the terms of the Educational Community License. By obtaining, using and/or copying this Original Work, you agree that you have read, understand, and will comply with the following terms and conditions of the Educational Community License:
+
+Permission to use, copy, modify, merge, publish, distribute, and sublicense this Original Work and its documentation, with or without modification, for any purpose, and without fee or royalty to the copyright holder(s) is hereby granted, provided that you include the following on ALL copies of the Original Work or portions thereof, including modifications or derivatives, that you make:
+
+     The full text of the Educational Community License in a location viewable to users of the redistributed or derivative work.
+
+     Any pre-existing intellectual property disclaimers, notices, or terms and conditions.
+
+     Notice of any changes or modifications to the Original Work, including the date the changes were made.
+
+     Any modifications of the Original Work must be distributed in such a manner as to avoid any confusion with the Original Work of the copyright holders.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The name and trademarks of copyright holder(s) may NOT be used in advertising or publicity pertaining to the Original or Derivative Works without specific, written prior permission. Title to copyright in the Original Work and any associated documentation will at all times remain with the copyright holders.
+</spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:58:12</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://opensource.org/licenses/ECL-1.0</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:standardLicenseHeaderHtml>
+      &lt;p&gt;Copyright (c)
+        &lt;var class="replacable-license-text"&gt;&amp;lt;year&amp;gt; &amp;lt;copyright holders&amp;gt;&lt;/var&gt;
+      &lt;/p&gt;
+
+      &lt;p&gt;Licensed under the Educational Community License version 1.0&lt;/p&gt;
+
+      </spdx:standardLicenseHeaderHtml>
+    <spdx:standardLicenseHeader>Copyright (c) &lt;year&gt; &lt;copyright holders&gt;
+
+Licensed under the Educational Community License version 1.0
+
+</spdx:standardLicenseHeader>
+    <spdx:standardLicenseHeaderTemplate>Copyright (c) &lt;&lt;var;name="copyright";original="&lt;year&gt; &lt;copyright holders&gt;";match=".+"&gt;&gt;
+
+Licensed under the Educational Community License version 1.0
+
+</spdx:standardLicenseHeaderTemplate>
+    <spdx:name>Educational Community License v1.0</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;The Educational Community License&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;p&gt;This Educational Community License (the &amp;quot;License&amp;quot;) applies to any original work of authorship (the
+         &amp;quot;Original Work&amp;quot;) whose owner (the &amp;quot;Licensor&amp;quot;) has placed the following notice immediately following
+         the copyright notice for the Original Work:&lt;/p&gt;
+
+      &lt;p&gt;Copyright (c)
+        &lt;var class="replacable-license-text"&gt;&amp;lt;year&amp;gt; &amp;lt;copyright holders&amp;gt;&lt;/var&gt;
+      &lt;/p&gt;
+
+      &lt;p&gt;Licensed under the Educational Community License version 1.0&lt;/p&gt;
+
+      &lt;p&gt;This Original Work, including software, source code, documents, or other related items, is being provided
+         by the copyright holder(s) subject to the terms of the Educational Community License. By obtaining,
+         using and/or copying this Original Work, you agree that you have read, understand, and will comply
+         with the following terms and conditions of the Educational Community License:&lt;/p&gt;
+
+      &lt;p&gt;Permission to use, copy, modify, merge, publish, distribute, and sublicense this Original Work and its
+         documentation, with or without modification, for any purpose, and without fee or royalty to the
+         copyright holder(s) is hereby granted, provided that you include the following on ALL copies of the
+         Original Work or portions thereof, including modifications or derivatives, that you make:&lt;/p&gt;
+
+      &lt;p&gt;The full text of the Educational Community License in a location viewable to users of the redistributed
+         or derivative work.&lt;/p&gt;
+
+      &lt;p&gt;Any pre-existing intellectual property disclaimers, notices, or terms and conditions.&lt;/p&gt;
+
+      &lt;p&gt;Notice of any changes or modifications to the Original Work, including the date the changes were made.&lt;/p&gt;
+
+      &lt;p&gt;Any modifications of the Original Work must be distributed in such a manner as to avoid any confusion
+         with the Original Work of the copyright holders.&lt;/p&gt;
+
+      &lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+         LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+         NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+         WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+         SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.&lt;/p&gt;
+
+      &lt;p&gt;The name and trademarks of copyright holder(s) may NOT be used in advertising or publicity pertaining to
+         the Original or Derivative Works without specific, written prior permission. Title to copyright in the
+         Original Work and any associated documentation will at all times remain with the copyright
+         holders.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; The Educational Community License
+
+&lt;&lt;endOptional&gt;&gt;
+
+This Educational Community License (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following notice immediately following the copyright notice for the Original Work:
+
+Copyright (c) &lt;&lt;var;name="copyright";original="&lt;year&gt; &lt;copyright holders&gt;";match=".+"&gt;&gt;
+
+Licensed under the Educational Community License version 1.0
+
+This Original Work, including software, source code, documents, or other related items, is being provided by the copyright holder(s) subject to the terms of the Educational Community License. By obtaining, using and/or copying this Original Work, you agree that you have read, understand, and will comply with the following terms and conditions of the Educational Community License:
+
+Permission to use, copy, modify, merge, publish, distribute, and sublicense this Original Work and its documentation, with or without modification, for any purpose, and without fee or royalty to the copyright holder(s) is hereby granted, provided that you include the following on ALL copies of the Original Work or portions thereof, including modifications or derivatives, that you make:
+
+The full text of the Educational Community License in a location viewable to users of the redistributed or derivative work.
+
+Any pre-existing intellectual property disclaimers, notices, or terms and conditions.
+
+Notice of any changes or modifications to the Original Work, including the date the changes were made.
+
+Any modifications of the Original Work must be distributed in such a manner as to avoid any confusion with the Original Work of the copyright holders.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+The name and trademarks of copyright holder(s) may NOT be used in advertising or publicity pertaining to the Original or Derivative Works without specific, written prior permission. Title to copyright in the Original Work and any associated documentation will at all times remain with the copyright holders.
+
+</spdx:standardLicenseTemplate>
+    <rdfs:seeAlso>https://opensource.org/licenses/ECL-1.0</rdfs:seeAlso>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

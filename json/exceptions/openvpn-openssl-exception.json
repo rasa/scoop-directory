@@ -1,0 +1,12 @@
+{
+  "isDeprecatedLicenseId": false,
+  "licenseExceptionText": "Special exception for linking OpenVPN with OpenSSL:\n\nIn addition, as a special exception, OpenVPN Technologies, Inc. gives permission to link the code of this program with the OpenSSL Library (or with modified versions of OpenSSL that use the same license as OpenSSL), and distribute linked combinations including the two. You must obey the GNU General Public License in all respects for all of the code used other than OpenSSL. If you modify this file, you may extend this exception to your version of the file, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.\n",
+  "name": "OpenVPN OpenSSL Exception",
+  "licenseComments": "Typically used with GPL 2.0",
+  "seeAlso": [
+    "http://openvpn.net/index.php/license.html"
+  ],
+  "licenseExceptionId": "openvpn-openssl-exception",
+  "licenseExceptionTemplate": "\u003c\u003cbeginOptional\u003e\u003e Special exception for linking OpenVPN with OpenSSL:\n\n\u003c\u003cendOptional\u003e\u003e\n\nIn addition, as a special exception, OpenVPN Technologies, Inc. gives permission to link the code of this program with the OpenSSL Library (or with modified versions of OpenSSL that use the same license as OpenSSL), and distribute linked combinations including the two. You must obey the GNU General Public License in all respects for all of the code used other than OpenSSL. If you modify this file, you may extend this exception to your version of the file, but you are not obligated to do so. If you do not wish to do so, delete this exception statement from your version.\n\n",
+  "exceptionTextHtml": "\n      \u003cdiv class\u003d\"optional-license-text\"\u003e\n         \u003cp\u003eSpecial exception for linking OpenVPN with OpenSSL:\u003c/p\u003e\n\n      \u003c/div\u003e\n      \u003cp\u003eIn addition, as a special exception, OpenVPN Technologies, Inc.\n         gives permission to link the code of this program with the\n         OpenSSL Library (or with modified versions of OpenSSL that use\n         the same license as OpenSSL), and distribute linked\n         combinations including the two. You must obey the GNU General\n         Public License in all respects for all of the code used other\n         than OpenSSL. If you modify this file, you may extend this\n         exception to your version of the file, but you are not\n         obligated to do so. If you do not wish to do so, delete this\n         exception statement from your version.\u003c/p\u003e\n\n    "
+}

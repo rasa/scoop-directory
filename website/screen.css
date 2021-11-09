@@ -1,0 +1,55 @@
+body { font-family: Tahoma, Verdana, sans-serif; }
+
+.license-text {
+background-color: WhiteSmoke;
+border: 1px dashed Black;
+padding: 1ex;
+}
+
+
+.license-template {
+background-color: WhiteSmoke;
+border: 1px dashed Black;
+padding: 1ex;
+}
+
+.replacable-license-text {
+color: #CC0000;
+}
+
+.optional-license-text {
+color: #0000cc;
+}
+
+h2 {
+border-bottom: 1px solid Gray;
+margin: 5px 5px 10px 0;
+color: #003F69;
+}
+
+ul {
+    list-style-type: square;
+}
+
+table {
+border-collapse: collapse;
+}
+
+th {
+padding: 3px;
+text-align: left;
+border: 1px solid gray;
+background-color: #003F69;
+color: #ffffff;
+}
+tbody tr:nth-child(odd) {
+    background-color: #dddddd;
+}
+td {
+padding: 3px;
+text-align: left;
+border: 1px solid gray;
+}
+ul, ol, li {
+	margin: 10px 0 10px 0;
+}
