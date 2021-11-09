@@ -1360,7 +1360,7 @@ def do_db():
                     ),
                 )
             except Exception as e:
-                print("Error inserting manifest %d: " % n)
+                print("Error inserting manifest %d: " % manifests)
                 print(e)
                 print("%-12s: %s" % ("json", json))
                 print("%-12s: %s" % ("version", version))
