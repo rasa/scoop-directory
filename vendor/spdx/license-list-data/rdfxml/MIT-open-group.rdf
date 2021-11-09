@@ -1,0 +1,145 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/MIT-open-group">
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:57:29</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >2</spdx:order>
+        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:seeAlso>https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING</rdfs:seeAlso>
+    <rdfs:seeAlso>https://gitlab.freedesktop.org/xorg/app/xsetroot/-/blob/master/COPYING</rdfs:seeAlso>
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright &lt;yyyy, yyyy&gt; The Open Group  ";match=".{0,5000}"&gt;&gt;
+
+Permission to use, copy, modify, distribute, and sell this software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation.
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of &lt;&lt;var;name="name1";original="The Open Group";match=".+"&gt;&gt; shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from &lt;&lt;var;name="name2";original="The Open Group";match=".+"&gt;&gt; .
+
+</spdx:standardLicenseTemplate>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:name>MIT Open Group variant</spdx:name>
+    <rdfs:seeAlso>https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:57:28</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xvinfo/-/blob/master/COPYING</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:licenseText>Copyright &lt;yyyy, yyyy&gt; The Open Group
+
+Permission to use, copy, modify, distribute, and sell this software and
+its documentation for any purpose is hereby granted without fee,
+provided that the above copyright notice appear in all copies and that
+both that copyright notice and this permission notice appear in
+supporting documentation.
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL BE LIABLE FOR ANY CLAIM, DAMAGES
+OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Except as contained in this notice, the name of The Open Group
+shall not be used in advertising or otherwise to promote the sale, use
+or other dealings in this Software without prior written authorization
+from The Open Group.
+</spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:57:30</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >3</spdx:order>
+        <spdx:url>https://gitlab.freedesktop.org/xorg/app/xauth/-/blob/master/COPYING</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:licenseTextHtml>
+            &lt;div class="replacable-license-text"&gt;
+                &lt;p&gt;Copyright &amp;lt;yyyy, yyyy&amp;gt; The Open Group&lt;/p&gt;
+
+            &lt;/div&gt;
+            &lt;p&gt;Permission to use, copy, modify, distribute, and sell this
+                software and its documentation for any purpose is hereby granted
+                without fee, provided that the above copyright notice appear in
+                all copies and that both that copyright notice and this
+                permission notice appear in supporting documentation.
+            &lt;/p&gt;
+
+            &lt;p&gt;The above copyright notice and this permission notice shall be
+                included in all copies or substantial portions of the Software.
+            &lt;/p&gt;
+
+            &lt;p&gt;THE SOFTWARE IS PROVIDED &amp;quot;AS IS&amp;quot;, WITHOUT WARRANTY OF ANY KIND,
+                EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+                OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+                NONINFRINGEMENT. IN NO EVENT SHALL BE LIABLE FOR ANY CLAIM,
+                DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+                TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH
+                THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+            &lt;/p&gt;
+
+            &lt;p&gt;Except as contained in this notice, the name of &lt;var class="replacable-license-text"&gt; The Open Group&lt;/var&gt;
+                shall not be used in advertising or otherwise to promote the
+                sale, use or other dealings in this Software without prior
+                written authorization from &lt;var class="replacable-license-text"&gt;The Open Group&lt;/var&gt;.
+            &lt;/p&gt;
+
+        </spdx:licenseTextHtml>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:57:28</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://gitlab.freedesktop.org/xorg/app/iceauth/-/blob/master/COPYING</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:seeAlso>https://gitlab.freedesktop.org/xorg/app/xvinfo/-/blob/master/COPYING</rdfs:seeAlso>
+  </spdx:ListedLicense>
+</rdf:RDF>

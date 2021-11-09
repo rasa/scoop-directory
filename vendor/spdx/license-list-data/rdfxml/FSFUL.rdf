@@ -1,0 +1,49 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/FSFUL">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:48</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/FSF_Unlimited_License</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>FSF Unlimited License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;This configure script is free software; the Free Software Foundation gives unlimited permission to copy,
+         distribute and modify it.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.  ";match=".{0,5000}"&gt;&gt;
+
+This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.
+
+This configure script is free software; the Free Software Foundation gives unlimited permission to copy, distribute and modify it.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

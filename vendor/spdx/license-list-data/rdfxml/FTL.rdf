@@ -1,0 +1,396 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/FTL">
+    <rdfs:seeAlso>http://freetype.fis.uniroma2.it/FTL.TXT</rdfs:seeAlso>
+    <spdx:name>Freetype Project License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;The FreeType Project LICENSE&lt;/p&gt;
+
+         &lt;p&gt;2006-Jan-27&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg&lt;/p&gt;
+
+         &lt;p&gt;Introduction&lt;/p&gt;
+
+         &lt;p&gt;The FreeType Project is distributed in several archive packages; some of them may contain, in addition to
+         the FreeType font engine, various tools and contributions which rely on, or relate to, the FreeType
+         Project.&lt;/p&gt;
+
+         &lt;p&gt;This license applies to all files found in such packages, and which do not fall under their own explicit
+         license. The license affects thus the FreeType font engine, the test programs, documentation and
+         makefiles, at the very least.&lt;/p&gt;
+
+         &lt;p&gt;This license was inspired by the BSD, Artistic, and IJG (Independent JPEG Group) licenses, which all
+         encourage inclusion and use of free software in commercial and freeware products alike. As a
+         consequence, its main points are that:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;o&lt;/var&gt;
+          We don&amp;apos;t promise that this software works. However, we will be interested in any kind of bug reports.
+             (`as is&amp;apos; distribution)
+        &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;o&lt;/var&gt;
+          You can use this software for whatever you want, in parts or full form, without having to pay us.
+             (`royalty-free&amp;apos; usage)
+        &lt;/li&gt;
+&lt;li&gt;
+               &lt;var class="replacable-license-text"&gt;o&lt;/var&gt;
+          You may not pretend that you wrote this software. If you use it, or only parts of it, in a program, you
+             must acknowledge somewhere in your documentation that you have used the FreeType code. (`credits&amp;apos;)
+        &lt;/li&gt;
+&lt;/ul&gt;
+         &lt;p&gt;We specifically permit and encourage the inclusion of this software, with or without modifications, in
+         commercial products. We disclaim all warranties covering The FreeType Project and assume no liability
+         related to The FreeType Project.&lt;/p&gt;
+
+         &lt;p&gt;Finally, many people asked us for a preferred form for a credit/disclaimer to use in compliance with this
+         license. We thus encourage you to use the following text:&lt;/p&gt;
+
+         &lt;p&gt;&amp;quot;&amp;quot;&amp;quot; Portions of this software are copyright © &amp;lt;year&amp;gt; The FreeType Project (www.freetype.org). All
+         rights reserved. &amp;quot;&amp;quot;&amp;quot;&lt;/p&gt;
+
+         &lt;p&gt;Please replace &amp;lt;year&amp;gt; with the value from the FreeType version you actually use.&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;Legal Terms&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;0.&lt;/var&gt;
+          Definitions
+          &lt;p&gt;Throughout this license, the terms `package&amp;apos;, `FreeType Project&amp;apos;, and `FreeType archive&amp;apos; refer to
+             the set of files originally distributed by the authors (David Turner, Robert Wilhelm, and
+             Werner Lemberg) as the `FreeType Project&amp;apos;, be they named as alpha, beta or final release.&lt;/p&gt;
+
+            &lt;p&gt;`You&amp;apos; refers to the licensee, or person using the project, where `using&amp;apos; is a generic term
+             including compiling the project&amp;apos;s source code as well as linking it to form a `program&amp;apos; or
+             `executable&amp;apos;. This program is referred to as `a program using the FreeType engine&amp;apos;.&lt;/p&gt;
+
+            &lt;p&gt;This license applies to all files distributed in the original FreeType Project, including all
+             source code, binaries and documentation, unless otherwise stated in the file in its original,
+             unmodified form as distributed in the original archive. If you are unsure whether or not a
+             particular file is covered by this license, you must contact us to verify this.&lt;/p&gt;
+
+            &lt;p&gt;The FreeType Project is copyright (C) 1996-2000 by David Turner, Robert Wilhelm, and Werner
+             Lemberg. All rights reserved except as specified below.&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          No Warranty
+          &lt;p&gt;THE FREETYPE PROJECT IS PROVIDED `AS IS&amp;apos; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED,
+             INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+             PURPOSE. IN NO EVENT WILL ANY OF THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DAMAGES
+             CAUSED BY THE USE OR THE INABILITY TO USE, OF THE FREETYPE PROJECT.&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          Redistribution
+          &lt;p&gt;This license grants a worldwide, royalty-free, perpetual and irrevocable right and license to
+             use, execute, perform, compile, display, copy, create derivative works of, distribute and
+             sublicense the FreeType Project (in both source and object code forms) and derivative works
+             thereof for any purpose; and to authorize others to exercise some or all of the rights granted
+             herein, subject to the following conditions:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;o&lt;/var&gt;
+              Redistribution of source code must retain this license file (`FTL.TXT&amp;apos;) unaltered; any
+                 additions, deletions or changes to the original files must be clearly indicated in
+                 accompanying documentation. The copyright notices of the unaltered, original files must be
+                 preserved in all copies of source files.
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;o&lt;/var&gt;
+              Redistribution in binary form must provide a disclaimer that states that the software is based
+                 in part of the work of the FreeType Team, in the distribution documentation. We also encourage
+                 you to put an URL to the FreeType web page in your documentation, though this isn&amp;apos;t
+                 mandatory.
+            &lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;These conditions apply to any software derived from or based on the FreeType Project, not just
+             the unmodified files. If you use our work, you must acknowledge us. However, no fee need be
+             paid to us.&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          Advertising
+          &lt;p&gt;Neither the FreeType authors and contributors nor you shall use the name of the other for
+             commercial, advertising, or promotional purposes without specific prior written
+             permission.&lt;/p&gt;
+
+            &lt;p&gt;We suggest, but do not require, that you use one or more of the following phrases to refer to
+             this software in your documentation or advertising materials: `FreeType Project&amp;apos;, `FreeType
+             Engine&amp;apos;, `FreeType library&amp;apos;, or `FreeType Distribution&amp;apos;.&lt;/p&gt;
+
+            &lt;p&gt;As you have not signed this license, you are not required to accept it. However, as the FreeType
+             Project is copyrighted material, only this license, or another one contracted with the
+             authors, grants you the right to use, distribute, and modify it. Therefore, by using,
+             distributing, or modifying the FreeType Project, you indicate that you understand and accept
+             all the terms of this license.&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt;
+          Contacts
+          &lt;p&gt;There are two mailing lists related to FreeType:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;o&lt;/var&gt;
+              freetype@nongnu.org
+              &lt;p&gt;Discusses general use and applications of FreeType, as well as future and wanted additions to the library
+                 and distribution. If you are looking for support, start in this list if you haven&amp;apos;t found anything to
+                 help you in the documentation.&lt;/p&gt;
+
+               &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;o&lt;/var&gt;
+              freetype-devel@nongnu.org
+              &lt;p&gt;Discusses bugs, as well as engine internals, design issues, specific licenses, porting, etc.&lt;/p&gt;
+
+               &lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;Our home page can be found at&lt;/p&gt;
+
+            &lt;p&gt;http://www.freetype.org&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;/ul&gt;
+
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;--- end of FTL.TXT ---&lt;/p&gt;
+
+      &lt;/div&gt;
+    </spdx:licenseTextHtml>
+    <rdfs:seeAlso>http://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT</rdfs:seeAlso>
+    <rdfs:seeAlso>http://gitlab.freedesktop.org/freetype/freetype/-/raw/master/docs/FTL.TXT</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:59:51</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:url>http://git.savannah.gnu.org/cgit/freetype/freetype2.git/tree/docs/FTL.TXT</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:licenseText>The FreeType Project LICENSE
+
+2006-Jan-27
+
+Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg
+
+Introduction
+
+The FreeType Project is distributed in several archive packages; some of them may contain, in addition to the FreeType font engine, various tools and contributions which rely on, or relate to, the FreeType Project.
+
+This license applies to all files found in such packages, and which do not fall under their own explicit license. The license affects thus the FreeType font engine, the test programs, documentation and makefiles, at the very least.
+
+This license was inspired by the BSD, Artistic, and IJG (Independent JPEG Group) licenses, which all encourage inclusion and use of free software in commercial and freeware products alike. As a consequence, its main points are that:
+
+     o We don't promise that this software works. However, we will be interested in any kind of bug reports. (`as is' distribution)
+
+     o You can use this software for whatever you want, in parts or full form, without having to pay us. (`royalty-free' usage)
+
+     o You may not pretend that you wrote this software. If you use it, or only parts of it, in a program, you must acknowledge somewhere in your documentation that you have used the FreeType code. (`credits')
+
+We specifically permit and encourage the inclusion of this software, with or without modifications, in commercial products. We disclaim all warranties covering The FreeType Project and assume no liability related to The FreeType Project.
+
+Finally, many people asked us for a preferred form for a credit/disclaimer to use in compliance with this license. We thus encourage you to use the following text:
+
+     """ Portions of this software are copyright © &lt;year&gt; The FreeType Project (www.freetype.org). All rights reserved. """
+
+Please replace &lt;year&gt; with the value from the FreeType version you actually use.
+
+Legal Terms
+
+0. Definitions
+
+Throughout this license, the terms `package', `FreeType Project', and `FreeType archive' refer to the set of files originally distributed by the authors (David Turner, Robert Wilhelm, and Werner Lemberg) as the `FreeType Project', be they named as alpha, beta or final release.
+
+`You' refers to the licensee, or person using the project, where `using' is a generic term including compiling the project's source code as well as linking it to form a `program' or `executable'. This program is referred to as `a program using the FreeType engine'.
+
+This license applies to all files distributed in the original FreeType Project, including all source code, binaries and documentation, unless otherwise stated in the file in its original, unmodified form as distributed in the original archive. If you are unsure whether or not a particular file is covered by this license, you must contact us to verify this.
+
+The FreeType Project is copyright (C) 1996-2000 by David Turner, Robert Wilhelm, and Werner Lemberg. All rights reserved except as specified below.
+
+1. No Warranty
+
+THE FREETYPE PROJECT IS PROVIDED `AS IS' WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT WILL ANY OF THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DAMAGES CAUSED BY THE USE OR THE INABILITY TO USE, OF THE FREETYPE PROJECT.
+
+2. Redistribution
+
+This license grants a worldwide, royalty-free, perpetual and irrevocable right and license to use, execute, perform, compile, display, copy, create derivative works of, distribute and sublicense the FreeType Project (in both source and object code forms) and derivative works thereof for any purpose; and to authorize others to exercise some or all of the rights granted herein, subject to the following conditions:
+
+     o Redistribution of source code must retain this license file (`FTL.TXT') unaltered; any additions, deletions or changes to the original files must be clearly indicated in accompanying documentation. The copyright notices of the unaltered, original files must be preserved in all copies of source files.
+
+     o Redistribution in binary form must provide a disclaimer that states that the software is based in part of the work of the FreeType Team, in the distribution documentation. We also encourage you to put an URL to the FreeType web page in your documentation, though this isn't mandatory.
+
+These conditions apply to any software derived from or based on the FreeType Project, not just the unmodified files. If you use our work, you must acknowledge us. However, no fee need be paid to us.
+
+3. Advertising
+
+Neither the FreeType authors and contributors nor you shall use the name of the other for commercial, advertising, or promotional purposes without specific prior written permission.
+
+We suggest, but do not require, that you use one or more of the following phrases to refer to this software in your documentation or advertising materials: `FreeType Project', `FreeType Engine', `FreeType library', or `FreeType Distribution'.
+
+As you have not signed this license, you are not required to accept it. However, as the FreeType Project is copyrighted material, only this license, or another one contracted with the authors, grants you the right to use, distribute, and modify it. Therefore, by using, distributing, or modifying the FreeType Project, you indicate that you understand and accept all the terms of this license.
+
+4. Contacts
+
+There are two mailing lists related to FreeType:
+
+     o freetype@nongnu.org
+
+     Discusses general use and applications of FreeType, as well as future and wanted additions to the library and distribution. If you are looking for support, start in this list if you haven't found anything to help you in the documentation.
+
+     o freetype-devel@nongnu.org
+
+     Discusses bugs, as well as engine internals, design issues, specific licenses, porting, etc.
+
+Our home page can be found at
+
+ http://www.freetype.org
+
+--- end of FTL.TXT ---
+</spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:59:53</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >2</spdx:order>
+        <spdx:url>http://gitlab.freedesktop.org/freetype/freetype/-/raw/master/docs/FTL.TXT</spdx:url>
+        <spdx:match>N/A</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:comment>This license was released 27 Jan 2006</rdfs:comment>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:59:51</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>http://freetype.fis.uniroma2.it/FTL.TXT</spdx:url>
+        <spdx:match>N/A</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isFsfLibre>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; The FreeType Project LICENSE
+
+2006-Jan-27
+
+&lt;&lt;endOptional&gt;&gt;&lt;&lt;beginOptional&gt;&gt; Copyright 1996-2002, 2006 by David Turner, Robert Wilhelm, and Werner Lemberg
+
+Introduction
+
+The FreeType Project is distributed in several archive packages; some of them may contain, in addition to the FreeType font engine, various tools and contributions which rely on, or relate to, the FreeType Project.
+
+This license applies to all files found in such packages, and which do not fall under their own explicit license. The license affects thus the FreeType font engine, the test programs, documentation and makefiles, at the very least.
+
+This license was inspired by the BSD, Artistic, and IJG (Independent JPEG Group) licenses, which all encourage inclusion and use of free software in commercial and freeware products alike. As a consequence, its main points are that:
+
+   &lt;&lt;var;name="bullet";original="o";match=".{0,20}"&gt;&gt; We don't promise that this software works. However, we will be interested in any kind of bug reports. (`as is' distribution)
+
+   &lt;&lt;var;name="bullet";original="o";match=".{0,20}"&gt;&gt; You can use this software for whatever you want, in parts or full form, without having to pay us. (`royalty-free' usage)
+
+   &lt;&lt;var;name="bullet";original="o";match=".{0,20}"&gt;&gt; You may not pretend that you wrote this software. If you use it, or only parts of it, in a program, you must acknowledge somewhere in your documentation that you have used the FreeType code. (`credits')
+
+We specifically permit and encourage the inclusion of this software, with or without modifications, in commercial products. We disclaim all warranties covering The FreeType Project and assume no liability related to The FreeType Project.
+
+Finally, many people asked us for a preferred form for a credit/disclaimer to use in compliance with this license. We thus encourage you to use the following text:
+
+""" Portions of this software are copyright © &lt;year&gt; The FreeType Project (www.freetype.org). All rights reserved. """
+
+Please replace &lt;year&gt; with the value from the FreeType version you actually use.
+
+&lt;&lt;endOptional&gt;&gt;
+
+Legal Terms
+
+   &lt;&lt;var;name="bullet";original="0.";match=".{0,20}"&gt;&gt; Definitions
+
+   Throughout this license, the terms `package', `FreeType Project', and `FreeType archive' refer to the set of files originally distributed by the authors (David Turner, Robert Wilhelm, and Werner Lemberg) as the `FreeType Project', be they named as alpha, beta or final release.
+
+   `You' refers to the licensee, or person using the project, where `using' is a generic term including compiling the project's source code as well as linking it to form a `program' or `executable'. This program is referred to as `a program using the FreeType engine'.
+
+   This license applies to all files distributed in the original FreeType Project, including all source code, binaries and documentation, unless otherwise stated in the file in its original, unmodified form as distributed in the original archive. If you are unsure whether or not a particular file is covered by this license, you must contact us to verify this.
+
+   The FreeType Project is copyright (C) 1996-2000 by David Turner, Robert Wilhelm, and Werner Lemberg. All rights reserved except as specified below.
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; No Warranty
+
+   THE FREETYPE PROJECT IS PROVIDED `AS IS' WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT WILL ANY OF THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY DAMAGES CAUSED BY THE USE OR THE INABILITY TO USE, OF THE FREETYPE PROJECT.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Redistribution
+
+   This license grants a worldwide, royalty-free, perpetual and irrevocable right and license to use, execute, perform, compile, display, copy, create derivative works of, distribute and sublicense the FreeType Project (in both source and object code forms) and derivative works thereof for any purpose; and to authorize others to exercise some or all of the rights granted herein, subject to the following conditions:
+
+      &lt;&lt;var;name="bullet";original="o";match=".{0,20}"&gt;&gt; Redistribution of source code must retain this license file (`FTL.TXT') unaltered; any additions, deletions or changes to the original files must be clearly indicated in accompanying documentation. The copyright notices of the unaltered, original files must be preserved in all copies of source files.
+
+      &lt;&lt;var;name="bullet";original="o";match=".{0,20}"&gt;&gt; Redistribution in binary form must provide a disclaimer that states that the software is based in part of the work of the FreeType Team, in the distribution documentation. We also encourage you to put an URL to the FreeType web page in your documentation, though this isn't mandatory.
+
+   These conditions apply to any software derived from or based on the FreeType Project, not just the unmodified files. If you use our work, you must acknowledge us. However, no fee need be paid to us.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; Advertising
+
+   Neither the FreeType authors and contributors nor you shall use the name of the other for commercial, advertising, or promotional purposes without specific prior written permission.
+
+   We suggest, but do not require, that you use one or more of the following phrases to refer to this software in your documentation or advertising materials: `FreeType Project', `FreeType Engine', `FreeType library', or `FreeType Distribution'.
+
+   As you have not signed this license, you are not required to accept it. However, as the FreeType Project is copyrighted material, only this license, or another one contracted with the authors, grants you the right to use, distribute, and modify it. Therefore, by using, distributing, or modifying the FreeType Project, you indicate that you understand and accept all the terms of this license.
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; Contacts
+
+   There are two mailing lists related to FreeType:
+
+      &lt;&lt;var;name="bullet";original="o";match=".{0,20}"&gt;&gt; freetype@nongnu.org
+
+      Discusses general use and applications of FreeType, as well as future and wanted additions to the library and distribution. If you are looking for support, start in this list if you haven't found anything to help you in the documentation.
+
+      &lt;&lt;var;name="bullet";original="o";match=".{0,20}"&gt;&gt; freetype-devel@nongnu.org
+
+      Discusses bugs, as well as engine internals, design issues, specific licenses, porting, etc.
+
+   Our home page can be found at
+
+   http://www.freetype.org
+
+   &lt;&lt;beginOptional&gt;&gt; --- end of FTL.TXT ---
+
+&lt;&lt;endOptional&gt;&gt;</spdx:standardLicenseTemplate>
+  </spdx:ListedLicense>
+</rdf:RDF>

@@ -1,0 +1,5 @@
+
+
+   <<var;name="bullet";original="1.";match=".{0,20}">> you can do what you want with it
+
+   <<var;name="bullet";original="2.";match=".{0,20}">> I refuse any responsibility for the consequences

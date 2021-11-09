@@ -1,0 +1,99 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/libselinux-1.0">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://github.com/SELinuxProject/selinux/blob/master/libselinux/LICENSE</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 17:00:15</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://github.com/SELinuxProject/selinux/blob/master/libselinux/LICENSE</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>libselinux public domain notice</spdx:name>
+    <spdx:licenseTextHtml>
+        &lt;p&gt;This library (libselinux) is public domain software, i.e. not copyrighted.&lt;/p&gt;
+
+        &lt;p&gt;Warranty Exclusion&lt;/p&gt;
+
+        &lt;div class="optional-license-text"&gt;&lt;p&gt;------------------&lt;/p&gt;
+&lt;/div&gt;
+        &lt;p&gt;You agree that this software is a
+        non-commercially developed program that may contain &amp;quot;bugs&amp;quot; (as that
+        term is used in the industry) and that it may not function as intended.
+        The software is licensed &amp;quot;as is&amp;quot;. NSA makes no, and hereby expressly
+        disclaims all, warranties, express, implied, statutory, or otherwise
+        with respect to the software, including noninfringement and the implied
+        warranties of merchantability and fitness for a particular purpose.&lt;/p&gt;
+
+        &lt;p&gt;Limitation of Liability&lt;/p&gt;
+
+        &lt;div class="optional-license-text"&gt;&lt;p&gt;-----------------------&lt;/p&gt;
+&lt;/div&gt;
+        &lt;p&gt;In no event will NSA be liable for any damages, including loss of data,
+        lost profits, cost of cover, or other special, incidental,
+        consequential, direct or indirect damages arising from the software or
+        the use thereof, however caused and on any theory of liability. This
+        limitation will apply even if NSA has been advised of the possibility
+        of such damage. You acknowledge that this is a reasonable allocation of
+        risk.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>This library (libselinux) is public domain software, i.e. not copyrighted.
+
+Warranty Exclusion
+
+&lt;&lt;beginOptional&gt;&gt; ------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+You agree that this software is a non-commercially developed program that may contain "bugs" (as that term is used in the industry) and that it may not function as intended. The software is licensed "as is". NSA makes no, and hereby expressly disclaims all, warranties, express, implied, statutory, or otherwise with respect to the software, including noninfringement and the implied warranties of merchantability and fitness for a particular purpose.
+
+Limitation of Liability
+
+&lt;&lt;beginOptional&gt;&gt; -----------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+In no event will NSA be liable for any damages, including loss of data, lost profits, cost of cover, or other special, incidental, consequential, direct or indirect damages arising from the software or the use thereof, however caused and on any theory of liability. This limitation will apply even if NSA has been advised of the possibility of such damage. You acknowledge that this is a reasonable allocation of risk.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>This library (libselinux) is public domain software, i.e. not copyrighted.
+
+Warranty Exclusion
+------------------
+You agree that this software is a
+non-commercially developed program that may contain "bugs" (as that
+term is used in the industry) and that it may not function as intended.
+The software is licensed "as is". NSA makes no, and hereby expressly
+disclaims all, warranties, express, implied, statutory, or otherwise
+with respect to the software, including noninfringement and the implied
+warranties of merchantability and fitness for a particular purpose.
+
+Limitation of Liability
+-----------------------
+In no event will NSA be liable for any damages, including loss of data,
+lost profits, cost of cover, or other special, incidental,
+consequential, direct or indirect damages arising from the software or
+the use thereof, however caused and on any theory of liability. This
+limitation will apply even if NSA has been advised of the possibility
+of such damage. You acknowledge that this is a reasonable allocation of
+risk.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

@@ -1,0 +1,77 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:LicenseException rdf:about="http://spdx.org/licenses/WxWindows-exception-3.1">
+    <rdfs:seeAlso>http://www.opensource.org/licenses/WXwindows</rdfs:seeAlso>
+    <rdfs:comment>Typically used with GPL-2.0+</rdfs:comment>
+    <spdx:name>WxWindows Library Exception 3.1</spdx:name>
+    <spdx:exceptionTextHtml>
+      &lt;p&gt;EXCEPTION NOTICE&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          As a special exception, the copyright holders of this
+             library give permission for additional uses of the
+             text contained in this release of the library as
+             licenced under the wxWindows Library Licence, applying
+             either version 3.1 of the Licence, or (at your option)
+             any later version of the Licence as published by the
+             copyright holders of version 3.1 of the Licence
+             document.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          The exception is that you may use, copy, link, modify and
+             distribute under your own terms, binary object code
+             versions of works based on the Library.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          If you copy code from files distributed under the terms
+             of the GNU General Public Licence or the GNU Library
+             General Public Licence into a copy of this library, as
+             this licence permits, the exception does not apply to
+             the code that you add in this way. To avoid misleading
+             anyone as to the status of such modified files, you
+             must delete this exception notice from such code
+             and/or adjust the licensing conditions notice
+             accordingly.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt;
+          If you write modifications of your own for this library,
+             it is your choice whether to permit this exception to
+             apply to your modifications. If you do not wish that,
+             you must delete the exception notice from such code
+             and/or adjust the licensing conditions notice
+             accordingly.
+        &lt;/li&gt;
+&lt;/ul&gt;
+    </spdx:exceptionTextHtml>
+    <spdx:licenseExceptionText>EXCEPTION NOTICE
+
+1. As a special exception, the copyright holders of this library give permission for additional uses of the text contained in this release of the library as licenced under the wxWindows Library Licence, applying either version 3.1 of the Licence, or (at your option) any later version of the Licence as published by the copyright holders of version 3.1 of the Licence document.
+
+2. The exception is that you may use, copy, link, modify and distribute under your own terms, binary object code versions of works based on the Library.
+
+3. If you copy code from files distributed under the terms of the GNU General Public Licence or the GNU Library General Public Licence into a copy of this library, as this licence permits, the exception does not apply to the code that you add in this way. To avoid misleading anyone as to the status of such modified files, you must delete this exception notice from such code and/or adjust the licensing conditions notice accordingly.
+
+4. If you write modifications of your own for this library, it is your choice whether to permit this exception to apply to your modifications. If you do not wish that, you must delete the exception notice from such code and/or adjust the licensing conditions notice accordingly.
+</spdx:licenseExceptionText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:licenseExceptionTemplate>EXCEPTION NOTICE
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; As a special exception, the copyright holders of this library give permission for additional uses of the text contained in this release of the library as licenced under the wxWindows Library Licence, applying either version 3.1 of the Licence, or (at your option) any later version of the Licence as published by the copyright holders of version 3.1 of the Licence document.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; The exception is that you may use, copy, link, modify and distribute under your own terms, binary object code versions of works based on the Library.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; If you copy code from files distributed under the terms of the GNU General Public Licence or the GNU Library General Public Licence into a copy of this library, as this licence permits, the exception does not apply to the code that you add in this way. To avoid misleading anyone as to the status of such modified files, you must delete this exception notice from such code and/or adjust the licensing conditions notice accordingly.
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; If you write modifications of your own for this library, it is your choice whether to permit this exception to apply to your modifications. If you do not wish that, you must delete the exception notice from such code and/or adjust the licensing conditions notice accordingly.</spdx:licenseExceptionTemplate>
+  </spdx:LicenseException>
+</rdf:RDF>

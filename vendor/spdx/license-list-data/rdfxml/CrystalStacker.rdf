@@ -1,0 +1,65 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/CrystalStacker">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing:CrystalStacker?rd=Licensing/CrystalStacker</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:56:58</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing:CrystalStacker?rd=Licensing/CrystalStacker</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>CrystalStacker License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;p&gt;Crystal Stacker is freeware. This means you can pass copies around freely provided you include this
+         document in it&amp;apos;s original form in your distribution. Please see the &amp;quot;Contacting Us&amp;quot; section of this
+         document if you need to contact us for any reason.&lt;/p&gt;
+
+      &lt;p&gt;Disclaimer&lt;/p&gt;
+
+      &lt;p&gt;NewCreature Design makes no guarantees regarding the Crystal Stacker software. We are not responsible for
+         damages caused by it, though the software is not known to cause any problems. If you have trouble with
+         the software, see the &amp;quot;Contacting Us&amp;quot; section of this document.&lt;/p&gt;
+
+      &lt;p&gt;The source code is provided as-is and you may do with it whatsoever you please provided that you include
+         this file in its unmodified form with any new distribution. NewCreature Design makes no gaurantees
+         regarding the usability of the source but are willing to help with any problems you might run into.
+         Please see the &amp;quot;Contacting Us&amp;quot; section of this document if you need to get in touch with us about any
+         issues you have regarding the source.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>Crystal Stacker is freeware. This means you can pass copies around freely provided you include this document in it's original form in your distribution. Please see the "Contacting Us" section of this document if you need to contact us for any reason.
+
+Disclaimer
+
+NewCreature Design makes no guarantees regarding the Crystal Stacker software. We are not responsible for damages caused by it, though the software is not known to cause any problems. If you have trouble with the software, see the "Contacting Us" section of this document.
+
+The source code is provided as-is and you may do with it whatsoever you please provided that you include this file in its unmodified form with any new distribution. NewCreature Design makes no gaurantees regarding the usability of the source but are willing to help with any problems you might run into. Please see the "Contacting Us" section of this document if you need to get in touch with us about any issues you have regarding the source.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Crystal Stacker is freeware. This means you can pass copies around freely provided you include this document in it's original form in your distribution. Please see the "Contacting Us" section of this document if you need to contact us for any reason.
+
+Disclaimer
+
+NewCreature Design makes no guarantees regarding the Crystal Stacker software. We are not responsible for damages caused by it, though the software is not known to cause any problems. If you have trouble with the software, see the "Contacting Us" section of this document.
+
+The source code is provided as-is and you may do with it whatsoever you please provided that you include this file in its unmodified form with any new distribution. NewCreature Design makes no gaurantees regarding the usability of the source but are willing to help with any problems you might run into. Please see the "Contacting Us" section of this document if you need to get in touch with us about any issues you have regarding the source.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

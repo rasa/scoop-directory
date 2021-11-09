@@ -1,0 +1,108 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/gnuplot">
+    <spdx:name>gnuplot License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;Copyright 1986 - 1993, 1998, 2004 Thomas Williams, Colin Kelley&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;Permission to use, copy, and distribute this software and its documentation for any purpose with or
+         without fee is hereby granted, provided that the above copyright notice appear in all copies and that
+         both that copyright notice and this permission notice appear in supporting documentation.&lt;/p&gt;
+
+      &lt;p&gt;Permission to modify the software is granted, but not the right to distribute the complete modified
+         source code. Modifications are to be distributed as patches to the released version. Permission to
+         distribute binaries produced by compiling modified sources is granted, provided you&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          distribute the corresponding source modifications from the released version in the form of a
+             patch file along with the binaries,
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          add special version identification to distinguish your version in addition to the base
+             release version number,
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          provide your name and address as the primary contact for the support of your modified version, and
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt;
+          retain our contact information in regard to use of the base software.
+        &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;p&gt;Permission to distribute the released version of the source code along with corresponding source
+         modifications in the form of a patch file is granted with same provisions 2 through 4 for binary
+         distributions.&lt;/p&gt;
+
+      &lt;p&gt;This software is provided &amp;quot;as is&amp;quot; without express or implied warranty to the extent permitted
+         by applicable law.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:58:01</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/Gnuplot</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isFsfLibre>
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright 1986 - 1993, 1998, 2004 Thomas Williams, Colin Kelley  ";match=".{0,5000}"&gt;&gt;
+
+Permission to use, copy, and distribute this software and its documentation for any purpose with or without fee is hereby granted, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation.
+
+Permission to modify the software is granted, but not the right to distribute the complete modified source code. Modifications are to be distributed as patches to the released version. Permission to distribute binaries produced by compiling modified sources is granted, provided you
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; distribute the corresponding source modifications from the released version in the form of a patch file along with the binaries,
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; add special version identification to distinguish your version in addition to the base release version number,
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; provide your name and address as the primary contact for the support of your modified version, and
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; retain our contact information in regard to use of the base software.
+
+Permission to distribute the released version of the source code along with corresponding source modifications in the form of a patch file is granted with same provisions 2 through 4 for binary distributions.
+
+This software is provided "as is" without express or implied warranty to the extent permitted by applicable law.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Copyright 1986 - 1993, 1998, 2004 Thomas Williams, Colin Kelley
+
+Permission to use, copy, and distribute this software and its documentation for any purpose with or without fee is hereby granted, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation.
+
+Permission to modify the software is granted, but not the right to distribute the complete modified source code. Modifications are to be distributed as patches to the released version. Permission to distribute binaries produced by compiling modified sources is granted, provided you
+
+     1. distribute the corresponding source modifications from the released version in the form of a patch file along with the binaries,
+     2. add special version identification to distinguish your version in addition to the base release version number,
+     3. provide your name and address as the primary contact for the support of your modified version, and
+     4. retain our contact information in regard to use of the base software.
+
+Permission to distribute the released version of the source code along with corresponding source modifications in the form of a patch file is granted with same provisions 2 through 4 for binary distributions.
+
+This software is provided "as is" without express or implied warranty to the extent permitted by applicable law.
+</spdx:licenseText>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/Gnuplot</rdfs:seeAlso>
+  </spdx:ListedLicense>
+</rdf:RDF>

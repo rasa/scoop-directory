@@ -1,0 +1,98 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/NIST-PD">
+    <spdx:name>NIST Public Domain Notice</spdx:name>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; &lt;&lt;var;name="title";original="Terms Of Use";match="(Conditions|Terms) [oO]f [uU]se"&gt;&gt;
+
+&lt;&lt;endOptional&gt;&gt;
+
+This software was developed by employees of the National Institute of Standards and Technology (NIST), and others. This software has been contributed to the public domain. Pursuant to title 15 Untied States Code Section 105, works of NIST employees are not subject to copyright protection in the United States and are considered to be in the public domain. As a result, a formal license is not needed to use this software.
+
+This software is provided "AS IS." NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND DATA ACCURACY. NIST does not warrant or make any representations regarding the use of the software or the results thereof, including but not limited to the correctness, accuracy, reliability or usefulness of this software.
+
+</spdx:standardLicenseTemplate>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:11</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://github.com/tcheneau/simpleRPL/blob/e645e69e38dd4e3ccfeceb2db8cba05b7c2e0cd3/LICENSE.txt</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <rdfs:seeAlso>https://github.com/tcheneau/simpleRPL/blob/e645e69e38dd4e3ccfeceb2db8cba05b7c2e0cd3/LICENSE.txt</rdfs:seeAlso>
+    <spdx:licenseText>Terms Of Use
+
+This software was developed by employees of the National Institute of Standards
+and Technology (NIST), and others. This software has been contributed to the
+public domain. Pursuant to title 15 Untied States Code Section 105, works of
+NIST employees are not subject to copyright protection in the United States and
+are considered to be in the public domain. As a result, a formal license is
+not needed to use this software.
+
+This software is provided "AS IS." NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS,
+IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND DATA
+ACCURACY. NIST does not warrant or make any representations regarding the use
+of the software or the results thereof, including but not limited to the
+correctness, accuracy, reliability or usefulness of this software.
+</spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:12</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:url>https://github.com/tcheneau/Routing/blob/f09f46fcfe636107f22f2c98348188a65a135d98/README.md</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+        &lt;p&gt;&lt;var class="replacable-license-text"&gt;Terms Of Use&lt;/var&gt;&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;p&gt;
+        This software was developed by employees of the National Institute of
+        Standards and Technology (NIST), and others.
+        This software has been contributed to the public domain.
+        Pursuant to title 15 Untied States Code Section 105, works of NIST
+        employees are not subject to copyright protection in the United States
+        and are considered to be in the public domain.
+        As a result, a formal license is not needed to use this software.
+      &lt;/p&gt;
+
+      &lt;p&gt;
+        This software is provided &amp;quot;AS IS.&amp;quot;
+        NIST MAKES NO WARRANTY OF ANY KIND, EXPRESS, IMPLIED
+        OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTY OF
+        MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT
+        AND DATA ACCURACY.  NIST does not warrant or make any representations
+        regarding the use of the software or the results thereof, including but
+        not limited to the correctness, accuracy, reliability or usefulness of
+        this software.
+      &lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <rdfs:seeAlso>https://github.com/tcheneau/Routing/blob/f09f46fcfe636107f22f2c98348188a65a135d98/README.md</rdfs:seeAlso>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+  </spdx:ListedLicense>
+</rdf:RDF>

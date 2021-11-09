@@ -1,0 +1,81 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "false",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 17:00:57",
+    "url" : "https://fedoraproject.org/wiki/Licensing/psfrag"
+  }, {
+    "@id" : "http://spdx.org/licenses/psfrag",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "psfrag.dtx\nCopyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.\nAll rights are reserved.\n\nThis system is distributed in the hope that it will be  useful, but WITHOUT ANY WARRANTY; without even the  implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don't come complaining to us if you modify this file and it doesn't work! If this file is modified by anyone but the authors, those changes and their authors must be explicitly stated HERE.\n",
+    "licenseTextHtml" : "\n      <div class=\"optional-license-text\">\n         <p>psfrag.dtx</p>\n\n      </div>\n      <div class=\"replacable-license-text\">\n         <p>Copyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.</p>\n\n         <p>All rights are reserved.</p>\n\n      </div>\n\n      <p>This system is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the\n         implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don&apos;t come complaining to us if\n         you modify this file and it doesn&apos;t work! If this file is modified by anyone but the authors, those\n         changes and their authors must be explicitly stated HERE.</p>\n\n    ",
+    "name" : "psfrag License",
+    "standardLicenseTemplate" : "<<beginOptional>> psfrag.dtx\n\n<<endOptional>> <<var;name=\"copyright\";original=\"Copyright (C) 1996 Craig Barratt, Michael C. Grant, and David Carlisle.    All rights are reserved.  \";match=\".{0,5000}\">>\n\nThis system is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. Don't come complaining to us if you modify this file and it doesn't work! If this file is modified by anyone but the authors, those changes and their authors must be explicitly stated HERE.\n\n",
+    "seeAlso" : "https://fedoraproject.org/wiki/Licensing/psfrag"
+  } ],
+  "@context" : {
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

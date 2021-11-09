@@ -1,0 +1,751 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/IPL-1.0">
+    <spdx:licenseText>IBM Public License Version 1.0
+
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM
+PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION
+OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+1. DEFINITIONS
+"Contribution" means:
+
+a.  in the case of International Business Machines Corporation ("IBM"), the Original Program, and
+
+b.  in the case of each Contributor,
+	i.  changes to the Program, and
+	ii.  additions to the Program;
+where such changes and/or additions to the Program originate from and
+are distributed by that particular Contributor. A Contribution
+'originates' from a Contributor if it was added to the Program by
+such Contributor itself or anyone acting on such Contributor's
+behalf. Contributions do not include additions to the Program which:
+(i) are separate modules of software distributed in conjunction with
+the Program under their own license agreement, and (ii) are not
+derivative works of the Program.
+
+"Contributor" means IBM and any other entity that distributes the Program.
+
+"Licensed Patents " mean patent claims licensable by a
+Contributor which are necessarily infringed by the use or sale of its
+Contribution alone or when combined with the Program.
+
+"Original Program" means the original version of the software
+accompanying this Agreement as released by IBM, including source
+code, object code and documentation, if any.
+
+"Program" means the Original Program and Contributions.
+
+"Recipient" means anyone who receives the Program under this
+Agreement, including all Contributors.
+
+2. GRANT OF RIGHTS
+a.  Subject to the terms of this Agreement, each Contributor hereby
+grants Recipient a non-exclusive, worldwide, royalty-free copyright
+license to reproduce, prepare derivative works of, publicly display,
+publicly perform, distribute and sublicense the Contribution of such
+Contributor, if any, and such derivative works, in source code and
+object code form.
+
+b.  Subject to the terms of this Agreement, each Contributor hereby
+grants Recipient a non-exclusive, worldwide, royalty-free patent
+license under Licensed Patents to make, use, sell, offer to sell,
+import and otherwise transfer the Contribution of such Contributor,
+if any, in source code and object code form. This patent license
+shall apply to the combination of the Contribution and the Program
+if, at the time the Contribution is added by the Contributor, such
+addition of the Contribution causes such combination to be covered by
+the Licensed Patents. The patent license shall not apply to any
+other combinations which include the Contribution. No hardware per
+se is licensed hereunder.
+
+c.  Recipient understands that although each Contributor grants the
+licenses to its Contributions set forth herein, no assurances are
+provided by any Contributor that the Program does not infringe the
+patent or other intellectual property rights of any other entity.
+Each Contributor disclaims any liability to Recipient for claims
+brought by any other entity based on infringement of intellectual
+property rights or otherwise. As a condition to exercising the
+rights and licenses granted hereunder, each Recipient hereby assumes
+sole responsibility to secure any other intellectual property rights
+needed, if any. For example, if a third party patent license is
+required to allow Recipient to distribute the Program, it is
+Recipient's responsibility to acquire that license before
+distributing the Program.
+
+d.  Each Contributor represents that to its knowledge it has
+sufficient copyright rights in its Contribution, if any, to grant the
+copyright license set forth in this Agreement.
+
+3. REQUIREMENTS
+A Contributor may choose to distribute
+the Program in object code form under its own license agreement,
+provided that:
+
+a.  it complies with the terms and conditions of this Agreement; and
+b.  its license agreement:
+	i.  effectively disclaims on behalf of all Contributors all warranties
+	and conditions, express and implied, including warranties or
+	conditions of title and non-infringement, and implied warranties or
+	conditions of merchantability and fitness for a particular purpose;
+	ii.  effectively excludes on behalf of all Contributors all liability
+	for damages, including direct, indirect, special, incidental and
+	consequential damages, such as lost profits;
+	iii.  states that any provisions which differ from this Agreement are
+	offered by that Contributor alone and not by any other party; and
+	iv.  states that source code for the Program is available from such
+	Contributor, and informs licensees how to obtain it in a reasonable
+	manner on or through a medium customarily used for software exchange.
+
+When the Program is made available in source code form:
+a.  it must be made available under this Agreement; and
+b.  a copy of this Agreement must be included with each copy of the
+Program.
+
+Each Contributor must include the following in a conspicuous location in the Program:
+
+	Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.
+
+In addition, each Contributor must identify itself as the originator
+of its Contribution, if any, in a manner that reasonably allows
+subsequent Recipients to identify the originator of the Contribution.
+
+4. COMMERCIAL DISTRIBUTION
+Commercial distributors of software may accept certain
+responsibilities with respect to end users, business partners and the
+like. While this license is intended to facilitate the commercial
+use of the Program, the Contributor who includes the Program in a
+commercial product offering should do so in a manner which does not
+create potential liability for other Contributors. Therefore, if a
+Contributor includes the Program in a commercial product offering,
+such Contributor ("Commercial Contributor") hereby agrees to defend
+and indemnify every other Contributor ("Indemnified Contributor")
+against any losses, damages and costs (collectively "Losses") arising
+from claims, lawsuits and other legal actions brought by a third
+party against the Indemnified Contributor to the extent caused by the
+acts or omissions of such Commercial Contributor in connection with
+its distribution of the Program in a commercial product offering.
+The obligations in this section do not apply to any claims or Losses
+relating to any actual or alleged intellectual property infringement.
+In order to qualify, an Indemnified Contributor must: a) promptly
+notify the Commercial Contributor in writing of such claim, and b)
+allow the Commercial Contributor to control, and cooperate with the
+Commercial Contributor in, the defense and any related settlement
+negotiations. The Indemnified Contributor may participate in any
+such claim at its own expense.
+
+For example, a Contributor might include the Program in a commercial
+product offering, Product X. That Contributor is then a Commercial
+Contributor. If that Commercial Contributor then makes performance
+claims, or offers warranties related to Product X, those performance
+claims and warranties are such Commercial Contributor's
+responsibility alone. Under this section, the Commercial Contributor
+would have to defend claims against the other Contributors related to
+those performance claims and warranties, and if a court requires any
+other Contributor to pay any damages as a result, the Commercial
+Contributor must pay those damages.
+
+5. NO WARRANTY
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS
+PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY
+WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY
+OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely
+responsible for determining the appropriateness of using and
+distributing the Program and assumes all risks associated with its
+exercise of rights under this Agreement, including but not limited to
+the risks and costs of program errors, compliance with applicable
+laws, damage to or loss of data, programs or equipment, and
+unavailability or interruption of operations.
+
+6. DISCLAIMER OF LIABILITY
+EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT
+NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT,
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
+THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS
+GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7. GENERAL
+If any provision of this Agreement is invalid or unenforceable under
+applicable law, it shall not affect the validity or enforceability of
+the remainder of the terms of this Agreement, and without further
+action by the parties hereto, such provision shall be reformed to the
+minimum extent necessary to make such provision valid and enforceable.
+
+If Recipient institutes patent litigation against a Contributor with
+respect to a patent applicable to software (including a cross-claim
+or counterclaim in a lawsuit), then any patent licenses granted by
+that Contributor to such Recipient under this Agreement shall
+terminate as of the date such litigation is filed. In addition, if
+Recipient institutes patent litigation against any entity (including
+a cross-claim or counterclaim in a lawsuit) alleging that the Program
+itself (excluding combinations of the Program with other software or
+hardware) infringes such Recipient's patent(s), then such Recipient's
+rights granted under Section 2(b) shall terminate as of the date such
+litigation is filed.
+
+All Recipient's rights under this Agreement shall terminate if it
+fails to comply with any of the material terms or conditions of this
+Agreement and does not cure such failure in a reasonable period of
+time after becoming aware of such noncompliance. If all Recipient's
+rights under this Agreement terminate, Recipient agrees to cease use
+and distribution of the Program as soon as reasonably practicable.
+However, Recipient's obligations under this Agreement and any
+licenses granted by Recipient relating to the Program shall continue
+and survive.
+
+IBM may publish new versions (including revisions) of this Agreement
+from time to time. Each new version of the Agreement will be given a
+distinguishing version number. The Program (including Contributions)
+may always be distributed subject to the version of the Agreement
+under which it was received. In addition, after a new version of the
+Agreement is published, Contributor may elect to distribute the
+Program (including its Contributions) under the new version. No one
+other than IBM has the right to modify this Agreement. Except as
+expressly stated in Sections 2(a) and 2(b) above, Recipient receives
+no rights or licenses to the intellectual property of any Contributor
+under this Agreement, whether expressly, by implication, estoppel or
+otherwise. All rights in the Program not expressly granted under
+this Agreement are reserved.
+
+This Agreement is governed by the laws of the State of New York and
+the intellectual property laws of the United States of America. No
+party to this Agreement will bring a legal action under this
+Agreement more than one year after the cause of action arose. Each
+party waives its rights to a jury trial in any resulting litigation.
+</spdx:licenseText>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; IBM Public License Version 1.0
+
+&lt;&lt;endOptional&gt;&gt;
+
+THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM
+
+PUBLIC LICENSE ("AGREEMENT"). ANY USE, REPRODUCTION OR DISTRIBUTION
+
+OF THE PROGRAM CONSTITUTES RECIPIENT'S ACCEPTANCE OF THIS AGREEMENT.
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; DEFINITIONS
+
+   "Contribution" means:
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; in the case of International Business Machines Corporation ("IBM"), the Original Program, and
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; in the case of each Contributor,
+
+         &lt;&lt;var;name="bullet";original="i.";match=".{0,20}"&gt;&gt; changes to the Program, and
+
+         &lt;&lt;var;name="bullet";original="ii.";match=".{0,20}"&gt;&gt; additions to the Program; where such changes and/or additions to the Program originate from and are distributed by that particular Contributor. A Contribution 'originates' from a Contributor if it was added to the Program by such Contributor itself or anyone acting on such Contributor's behalf. Contributions do not include additions to the Program which:
+
+            &lt;&lt;var;name="bullet";original="(i)";match=".{0,20}"&gt;&gt; are separate modules of software distributed in conjunction with
+
+            the Program under their own license agreement, and (ii) are not
+
+            derivative works of the Program.
+
+   "Contributor" means IBM and any other entity that distributes the Program.
+
+   "Licensed Patents " mean patent claims licensable by a Contributor which are necessarily infringed by the use or sale of its Contribution alone or when combined with the Program.
+
+   "Original Program" means the original version of the software accompanying this Agreement as released by IBM, including source code, object code and documentation, if any.
+
+   "Program" means the Original Program and Contributions.
+
+   "Recipient" means anyone who receives the Program under this Agreement, including all Contributors.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; GRANT OF RIGHTS
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, distribute and sublicense the Contribution of such Contributor, if any, and such derivative works, in source code and object code form.
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; Subject to the terms of this Agreement, each Contributor hereby grants Recipient a non-exclusive, worldwide, royalty-free patent license under Licensed Patents to make, use, sell, offer to sell, import and otherwise transfer the Contribution of such Contributor, if any, in source code and object code form. This patent license shall apply to the combination of the Contribution and the Program if, at the time the Contribution is added by the Contributor, such addition of the Contribution causes such combination to be covered by the Licensed Patents. The patent license shall not apply to any other combinations which include the Contribution. No hardware per se is licensed hereunder.
+
+      &lt;&lt;var;name="bullet";original="c.";match=".{0,20}"&gt;&gt; Recipient understands that although each Contributor grants the
+
+      licenses to its Contributions set forth herein, no assurances are
+
+      provided by any Contributor that the Program does not infringe the
+
+      patent or other intellectual property rights of any other entity.
+
+      Each Contributor disclaims any liability to Recipient for claims
+
+      brought by any other entity based on infringement of intellectual
+
+      property rights or otherwise. As a condition to exercising the
+
+      rights and licenses granted hereunder, each Recipient hereby assumes
+
+      sole responsibility to secure any other intellectual property rights
+
+      needed, if any. For example, if a third party patent license is
+
+      required to allow Recipient to distribute the Program, it is
+
+      Recipient's responsibility to acquire that license before
+
+      distributing the Program.
+
+      &lt;&lt;var;name="bullet";original="d.";match=".{0,20}"&gt;&gt; Each Contributor represents that to its knowledge it has
+
+      sufficient copyright rights in its Contribution, if any, to grant the
+
+      copyright license set forth in this Agreement.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; REQUIREMENTS
+
+   A Contributor may choose to distribute the Program in object code form under its own license agreement, provided that:
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; it complies with the terms and conditions of this Agreement; and
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; its license agreement:
+
+         &lt;&lt;var;name="bullet";original="i.";match=".{0,20}"&gt;&gt; effectively disclaims on behalf of all Contributors all warranties and conditions, express and implied, including warranties or conditions of title and non-infringement, and implied warranties or conditions of merchantability and fitness for a particular purpose;
+
+         &lt;&lt;var;name="bullet";original="ii.";match=".{0,20}"&gt;&gt; effectively excludes on behalf of all Contributors all liability for damages, including direct, indirect, special, incidental and consequential damages, such as lost profits;
+
+         &lt;&lt;var;name="bullet";original="iii.";match=".{0,20}"&gt;&gt; states that any provisions which differ from this Agreement are offered by that Contributor alone and not by any other party; and
+
+         &lt;&lt;var;name="bullet";original="iv.";match=".{0,20}"&gt;&gt; states that source code for the Program is available from such Contributor, and informs licensees how to obtain it in a reasonable manner on or through a medium customarily used for software exchange.
+
+   When the Program is made available in source code form:
+
+      &lt;&lt;var;name="bullet";original="a.";match=".{0,20}"&gt;&gt; it must be made available under this Agreement; and
+
+      &lt;&lt;var;name="bullet";original="b.";match=".{0,20}"&gt;&gt; a copy of this Agreement must be included with each copy of the Program.
+
+   Each Contributor must include the following in a conspicuous location in the Program:
+
+   Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.
+
+   In addition, each Contributor must identify itself as the originator of its Contribution, if any, in a manner that reasonably allows subsequent Recipients to identify the originator of the Contribution.
+
+   &lt;&lt;var;name="bullet";original="4.";match=".{0,20}"&gt;&gt; COMMERCIAL DISTRIBUTION
+
+   Commercial distributors of software may accept certain responsibilities with respect to end users, business partners and the like. While this license is intended to facilitate the commercial use of the Program, the Contributor who includes the Program in a commercial product offering should do so in a manner which does not create potential liability for other Contributors. Therefore, if a Contributor includes the Program in a commercial product offering, such Contributor ("Commercial Contributor") hereby agrees to defend and indemnify every other Contributor ("Indemnified Contributor") against any losses, damages and costs (collectively "Losses") arising from claims, lawsuits and other legal actions brought by a third party against the Indemnified Contributor to the extent caused by the acts or omissions of such Commercial Contributor in connection with its distribution of the Program in a commercial product offering. The obligations in this section do not apply to any claims or Losses relating to any actual or alleged intellectual property infringement. In order to qualify, an Indemnified Contributor must: a) promptly notify the Commercial Contributor in writing of such claim, and b) allow the Commercial Contributor to control, and cooperate with the Commercial Contributor in, the defense and any related settlement negotiations. The Indemnified Contributor may participate in any such claim at its own expense.
+
+   For example, a Contributor might include the Program in a commercial product offering, Product X. That Contributor is then a Commercial Contributor. If that Commercial Contributor then makes performance claims, or offers warranties related to Product X, those performance claims and warranties are such Commercial Contributor's responsibility alone. Under this section, the Commercial Contributor would have to defend claims against the other Contributors related to those performance claims and warranties, and if a court requires any other Contributor to pay any damages as a result, the Commercial Contributor must pay those damages.
+
+   &lt;&lt;var;name="bullet";original="5.";match=".{0,20}"&gt;&gt; NO WARRANTY
+
+   EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely responsible for determining the appropriateness of using and distributing the Program and assumes all risks associated with its exercise of rights under this Agreement, including but not limited to the risks and costs of program errors, compliance with applicable laws, damage to or loss of data, programs or equipment, and unavailability or interruption of operations.
+
+   &lt;&lt;var;name="bullet";original="6.";match=".{0,20}"&gt;&gt; DISCLAIMER OF LIABILITY
+
+   EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   &lt;&lt;var;name="bullet";original="7.";match=".{0,20}"&gt;&gt; GENERAL
+
+   If any provision of this Agreement is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this Agreement, and without further action by the parties hereto, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
+
+   If Recipient institutes patent litigation against a Contributor with respect to a patent applicable to software (including a cross-claim or counterclaim in a lawsuit), then any patent licenses granted by that Contributor to such Recipient under this Agreement shall terminate as of the date such litigation is filed. In addition, if Recipient institutes patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Program itself (excluding combinations of the Program with other software or hardware) infringes such Recipient's patent(s), then such Recipient's rights granted under Section 2(b) shall terminate as of the date such litigation is filed.
+
+   All Recipient's rights under this Agreement shall terminate if it fails to comply with any of the material terms or conditions of this Agreement and does not cure such failure in a reasonable period of time after becoming aware of such noncompliance. If all Recipient's rights under this Agreement terminate, Recipient agrees to cease use and distribution of the Program as soon as reasonably practicable. However, Recipient's obligations under this Agreement and any licenses granted by Recipient relating to the Program shall continue and survive.
+
+   IBM may publish new versions (including revisions) of this Agreement from time to time. Each new version of the Agreement will be given a distinguishing version number. The Program (including Contributions) may always be distributed subject to the version of the Agreement under which it was received. In addition, after a new version of the Agreement is published, Contributor may elect to distribute the Program (including its Contributions) under the new version. No one other than IBM has the right to modify this Agreement. Except as expressly stated in Sections 2(a) and 2(b) above, Recipient receives no rights or licenses to the intellectual property of any Contributor under this Agreement, whether expressly, by implication, estoppel or otherwise. All rights in the Program not expressly granted under this Agreement are reserved.
+
+   This Agreement is governed by the laws of the State of New York and the intellectual property laws of the United States of America. No party to this Agreement will bring a legal action under this Agreement more than one year after the cause of action arose. Each party waives its rights to a jury trial in any resulting litigation.
+
+   </spdx:standardLicenseTemplate>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:56:06</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://opensource.org/licenses/IPL-1.0</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>IBM Public License v1.0</spdx:name>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;IBM Public License Version 1.0&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;THE ACCOMPANYING PROGRAM IS PROVIDED UNDER THE TERMS OF THIS IBM
+        &lt;br /&gt;
+
+PUBLIC LICENSE (&amp;quot;AGREEMENT&amp;quot;). ANY USE, REPRODUCTION OR DISTRIBUTION
+        &lt;br /&gt;
+
+OF THE PROGRAM CONSTITUTES RECIPIENT&amp;apos;S ACCEPTANCE OF THIS AGREEMENT.
+      &lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          DEFINITIONS
+            &lt;br /&gt;
+
+   &amp;quot;Contribution&amp;quot; means:
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+                  in the case of International Business Machines Corporation (&amp;quot;IBM&amp;quot;), the Original Program, and
+                &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+                  in the case of each Contributor,
+                
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;i.&lt;/var&gt;
+                    changes to the Program, and
+                  &lt;/li&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;ii.&lt;/var&gt;
+                    additions to the Program;
+                      where such changes and/or additions to the Program originate from and
+                      are distributed by that particular Contributor. A Contribution
+                      &amp;apos;originates&amp;apos; from a Contributor if it was added to the Program by
+                      such Contributor itself or anyone acting on such Contributor&amp;apos;s
+                      behalf. Contributions do not include additions to the Program which:
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                              &lt;var class="replacable-license-text"&gt;(i)&lt;/var&gt;
+                          are separate modules of software distributed in conjunction with
+                            &lt;br /&gt;
+
+            the Program under their own license agreement, and (ii) are not
+                            &lt;br /&gt;
+
+            derivative works of the Program.
+
+                        &lt;/li&gt;
+&lt;/ul&gt;
+                     &lt;/li&gt;
+&lt;/ul&gt;
+                &lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;&amp;quot;Contributor&amp;quot; means IBM and any other entity that distributes the Program.&lt;/p&gt;
+
+            &lt;p&gt;&amp;quot;Licensed Patents &amp;quot; mean patent claims licensable by a
+            Contributor which are necessarily infringed by the use or sale of its
+            Contribution alone or when combined with the Program.
+          &lt;/p&gt;
+
+            &lt;p&gt;&amp;quot;Original Program&amp;quot; means the original version of the software
+            accompanying this Agreement as released by IBM, including source
+            code, object code and documentation, if any.
+          &lt;/p&gt;
+
+            &lt;p&gt;&amp;quot;Program&amp;quot; means the Original Program and Contributions.&lt;/p&gt;
+
+            &lt;p&gt;&amp;quot;Recipient&amp;quot; means anyone who receives the Program under this
+            Agreement, including all Contributors.
+          &lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          GRANT OF RIGHTS
+        
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+              Subject to the terms of this Agreement, each Contributor hereby
+                grants Recipient a non-exclusive, worldwide, royalty-free copyright
+                license to reproduce, prepare derivative works of, publicly display,
+                publicly perform, distribute and sublicense the Contribution of such
+                Contributor, if any, and such derivative works, in source code and
+                object code form.
+
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+              Subject to the terms of this Agreement, each Contributor hereby
+                grants Recipient a non-exclusive, worldwide, royalty-free patent
+                license under Licensed Patents to make, use, sell, offer to sell,
+                import and otherwise transfer the Contribution of such Contributor,
+                if any, in source code and object code form. This patent license
+                shall apply to the combination of the Contribution and the Program
+                if, at the time the Contribution is added by the Contributor, such
+                addition of the Contribution causes such combination to be covered by
+                the Licensed Patents. The patent license shall not apply to any
+                other combinations which include the Contribution. No hardware per
+                se is licensed hereunder.
+
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;c.&lt;/var&gt;
+              Recipient understands that although each Contributor grants the
+                &lt;br /&gt;
+
+      licenses to its Contributions set forth herein, no assurances are
+                &lt;br /&gt;
+
+      provided by any Contributor that the Program does not infringe the
+                &lt;br /&gt;
+
+      patent or other intellectual property rights of any other entity.
+                &lt;br /&gt;
+
+      Each Contributor disclaims any liability to Recipient for claims
+                &lt;br /&gt;
+
+      brought by any other entity based on infringement of intellectual
+                &lt;br /&gt;
+
+      property rights or otherwise. As a condition to exercising the
+                &lt;br /&gt;
+
+      rights and licenses granted hereunder, each Recipient hereby assumes
+                &lt;br /&gt;
+
+      sole responsibility to secure any other intellectual property rights
+                &lt;br /&gt;
+
+      needed, if any. For example, if a third party patent license is
+                &lt;br /&gt;
+
+      required to allow Recipient to distribute the Program, it is
+                &lt;br /&gt;
+
+      Recipient&amp;apos;s responsibility to acquire that license before
+                &lt;br /&gt;
+
+      distributing the Program.
+
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;d.&lt;/var&gt;
+              Each Contributor represents that to its knowledge it has
+                &lt;br /&gt;
+
+      sufficient copyright rights in its Contribution, if any, to grant the
+                &lt;br /&gt;
+
+      copyright license set forth in this Agreement.
+
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          REQUIREMENTS
+            &lt;br /&gt;
+
+   A Contributor may choose to distribute
+            the Program in object code form under its own license agreement,
+            provided that:
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+              it complies with the terms and conditions of this Agreement; and
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+              its license agreement:
+                
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;i.&lt;/var&gt;
+                    effectively disclaims on behalf of all Contributors all warranties
+                      and conditions, express and implied, including warranties or
+                      conditions of title and non-infringement, and implied warranties or
+                      conditions of merchantability and fitness for a particular purpose;
+
+                  &lt;/li&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;ii.&lt;/var&gt;
+                    effectively excludes on behalf of all Contributors all liability
+                      for damages, including direct, indirect, special, incidental and
+                      consequential damages, such as lost profits;
+
+                  &lt;/li&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;iii.&lt;/var&gt;
+                    states that any provisions which differ from this Agreement are
+                      offered by that Contributor alone and not by any other party; and
+
+                  &lt;/li&gt;
+&lt;li&gt;
+                        &lt;var class="replacable-license-text"&gt;iv.&lt;/var&gt;
+                    states that source code for the Program is available from such
+                      Contributor, and informs licensees how to obtain it in a reasonable
+                      manner on or through a medium customarily used for software exchange.
+                  &lt;/li&gt;
+&lt;/ul&gt;
+               &lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;When the Program is made available in source code form: &lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;a.&lt;/var&gt;
+              it must be made available under this Agreement; and
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;b.&lt;/var&gt;
+              a copy of this Agreement must be included with each copy of the Program.
+            &lt;/li&gt;
+&lt;/ul&gt;
+            &lt;p&gt;Each Contributor must include the following in a conspicuous location in the Program:&lt;/p&gt;
+
+            &lt;p&gt;Copyright (C) 1996, 1999 International Business Machines Corporation and others. All Rights Reserved.&lt;/p&gt;
+
+            &lt;p&gt;In addition, each Contributor must identify itself as the originator
+            of its Contribution, if any, in a manner that reasonably allows
+            subsequent Recipients to identify the originator of the Contribution.
+          &lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;4.&lt;/var&gt;
+          COMMERCIAL DISTRIBUTION
+            &lt;br /&gt;
+
+   Commercial distributors of software may accept certain
+            responsibilities with respect to end users, business partners and the
+            like. While this license is intended to facilitate the commercial
+            use of the Program, the Contributor who includes the Program in a
+            commercial product offering should do so in a manner which does not
+            create potential liability for other Contributors. Therefore, if a
+            Contributor includes the Program in a commercial product offering,
+            such Contributor (&amp;quot;Commercial Contributor&amp;quot;) hereby agrees to defend
+            and indemnify every other Contributor (&amp;quot;Indemnified Contributor&amp;quot;)
+            against any losses, damages and costs (collectively &amp;quot;Losses&amp;quot;) arising
+            from claims, lawsuits and other legal actions brought by a third
+            party against the Indemnified Contributor to the extent caused by the
+            acts or omissions of such Commercial Contributor in connection with
+            its distribution of the Program in a commercial product offering.
+            The obligations in this section do not apply to any claims or Losses
+            relating to any actual or alleged intellectual property infringement.
+            In order to qualify, an Indemnified Contributor must: a) promptly
+            notify the Commercial Contributor in writing of such claim, and b)
+            allow the Commercial Contributor to control, and cooperate with the
+            Commercial Contributor in, the defense and any related settlement
+            negotiations. The Indemnified Contributor may participate in any
+            such claim at its own expense.
+
+          &lt;p&gt;For example, a Contributor might include the Program in a commercial
+            product offering, Product X. That Contributor is then a Commercial
+            Contributor. If that Commercial Contributor then makes performance
+            claims, or offers warranties related to Product X, those performance
+            claims and warranties are such Commercial Contributor&amp;apos;s
+            responsibility alone. Under this section, the Commercial Contributor
+            would have to defend claims against the other Contributors related to
+            those performance claims and warranties, and if a court requires any
+            other Contributor to pay any damages as a result, the Commercial
+            Contributor must pay those damages.
+          &lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;5.&lt;/var&gt;
+          NO WARRANTY
+            &lt;br /&gt;
+
+   EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, THE PROGRAM IS
+            PROVIDED ON AN &amp;quot;AS IS&amp;quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+            KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY
+            WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY
+            OR FITNESS FOR A PARTICULAR PURPOSE. Each Recipient is solely
+            responsible for determining the appropriateness of using and
+            distributing the Program and assumes all risks associated with its
+            exercise of rights under this Agreement, including but not limited to
+            the risks and costs of program errors, compliance with applicable
+            laws, damage to or loss of data, programs or equipment, and
+            unavailability or interruption of operations.
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;6.&lt;/var&gt;
+          DISCLAIMER OF LIABILITY
+            &lt;br /&gt;
+
+   EXCEPT AS EXPRESSLY SET FORTH IN THIS AGREEMENT, NEITHER RECIPIENT
+            NOR ANY CONTRIBUTORS SHALL HAVE ANY LIABILITY FOR ANY DIRECT,
+            INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+            (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON
+            ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
+            TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
+            THE USE OR DISTRIBUTION OF THE PROGRAM OR THE EXERCISE OF ANY RIGHTS
+            GRANTED HEREUNDER, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;7.&lt;/var&gt;
+          GENERAL
+            &lt;br /&gt;
+
+   If any provision of this Agreement is invalid or unenforceable under
+            applicable law, it shall not affect the validity or enforceability of
+            the remainder of the terms of this Agreement, and without further
+            action by the parties hereto, such provision shall be reformed to the
+            minimum extent necessary to make such provision valid and enforceable.
+
+          &lt;p&gt;If Recipient institutes patent litigation against a Contributor with
+            respect to a patent applicable to software (including a cross-claim
+            or counterclaim in a lawsuit), then any patent licenses granted by
+            that Contributor to such Recipient under this Agreement shall
+            terminate as of the date such litigation is filed. In addition, if
+            Recipient institutes patent litigation against any entity (including
+            a cross-claim or counterclaim in a lawsuit) alleging that the Program
+            itself (excluding combinations of the Program with other software or
+            hardware) infringes such Recipient&amp;apos;s patent(s), then such Recipient&amp;apos;s
+            rights granted under Section 2(b) shall terminate as of the date such
+            litigation is filed.
+          &lt;/p&gt;
+
+            &lt;p&gt;All Recipient&amp;apos;s rights under this Agreement shall terminate if it
+            fails to comply with any of the material terms or conditions of this
+            Agreement and does not cure such failure in a reasonable period of
+            time after becoming aware of such noncompliance. If all Recipient&amp;apos;s
+            rights under this Agreement terminate, Recipient agrees to cease use
+            and distribution of the Program as soon as reasonably practicable.
+            However, Recipient&amp;apos;s obligations under this Agreement and any
+            licenses granted by Recipient relating to the Program shall continue
+            and survive.
+          &lt;/p&gt;
+
+            &lt;p&gt;IBM may publish new versions (including revisions) of this Agreement
+            from time to time. Each new version of the Agreement will be given a
+            distinguishing version number. The Program (including Contributions)
+            may always be distributed subject to the version of the Agreement
+            under which it was received. In addition, after a new version of the
+            Agreement is published, Contributor may elect to distribute the
+            Program (including its Contributions) under the new version. No one
+            other than IBM has the right to modify this Agreement. Except as
+            expressly stated in Sections 2(a) and 2(b) above, Recipient receives
+            no rights or licenses to the intellectual property of any Contributor
+            under this Agreement, whether expressly, by implication, estoppel or
+            otherwise. All rights in the Program not expressly granted under
+            this Agreement are reserved.
+          &lt;/p&gt;
+
+            &lt;p&gt;This Agreement is governed by the laws of the State of New York and
+            the intellectual property laws of the United States of America. No
+            party to this Agreement will bring a legal action under this
+            Agreement more than one year after the cause of action arose. Each
+            party waives its rights to a jury trial in any resulting litigation.
+          &lt;/p&gt;
+
+         &lt;/li&gt;
+&lt;/ul&gt;
+    </spdx:licenseTextHtml>
+    <rdfs:comment>This license was superseded by CPL.</rdfs:comment>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <rdfs:seeAlso>https://opensource.org/licenses/IPL-1.0</rdfs:seeAlso>
+    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isFsfLibre>
+  </spdx:ListedLicense>
+</rdf:RDF>

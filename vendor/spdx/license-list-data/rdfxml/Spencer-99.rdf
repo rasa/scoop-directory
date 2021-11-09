@@ -1,0 +1,77 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/Spencer-99">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:43</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>http://www.opensource.apple.com/source/tcl/tcl-5/tcl/generic/regfronts.c</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>Spencer License 99</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;Copyright (c) 1998, 1999 Henry Spencer. All rights reserved.&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;Development of this software was funded, in part, by Cray Research Inc., UUNET Communications Services
+         Inc., Sun Microsystems Inc., and Scriptics Corporation, none of whom are responsible for the results.
+         The author thanks all of them.&lt;/p&gt;
+
+      &lt;p&gt;Redistribution and use in source and binary forms - with or without modification - are permitted for any
+         purpose, provided that redistributions in source form retain this entire copyright notice and indicate
+         the origin and nature of any modifications.&lt;/p&gt;
+
+      &lt;p&gt;I&amp;apos;d appreciate being given credit for this package in the documentation of software which uses it, but
+         that is not a requirement.&lt;/p&gt;
+
+      &lt;p&gt;THIS SOFTWARE IS PROVIDED ``AS IS&amp;apos;&amp;apos; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO,
+         THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+         EVENT SHALL HENRY SPENCER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+         CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+         LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+         LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING
+         IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright (c) 1998, 1999 Henry Spencer. All rights reserved.  ";match=".{0,5000}"&gt;&gt;
+
+Development of this software was funded, in part, by Cray Research Inc., UUNET Communications Services Inc., Sun Microsystems Inc., and Scriptics Corporation, none of whom are responsible for the results. The author thanks all of them.
+
+Redistribution and use in source and binary forms - with or without modification - are permitted for any purpose, provided that redistributions in source form retain this entire copyright notice and indicate the origin and nature of any modifications.
+
+I'd appreciate being given credit for this package in the documentation of software which uses it, but that is not a requirement.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL HENRY SPENCER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Copyright (c) 1998, 1999 Henry Spencer. All rights reserved.
+
+Development of this software was funded, in part, by Cray Research Inc., UUNET Communications Services Inc., Sun Microsystems Inc., and Scriptics Corporation, none of whom are responsible for the results. The author thanks all of them.
+
+Redistribution and use in source and binary forms - with or without modification - are permitted for any purpose, provided that redistributions in source form retain this entire copyright notice and indicate the origin and nature of any modifications.
+
+I'd appreciate being given credit for this package in the documentation of software which uses it, but that is not a requirement.
+
+THIS SOFTWARE IS PROVIDED ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL HENRY SPENCER BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

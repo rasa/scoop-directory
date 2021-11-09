@@ -1,0 +1,568 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/etalab-2.0">
+    <spdx:name>Etalab Open License 2.0</spdx:name>
+    <spdx:licenseTextHtml>
+
+      &lt;div class="optional-license-text"&gt;
+            &lt;p&gt;LICENCE OUVERTE / OPEN LICENCE&lt;/p&gt;
+
+            &lt;div class="optional-license-text"&gt;&lt;p&gt;===================================================================&lt;/p&gt;
+&lt;/div&gt;
+
+            &lt;p&gt;- Version 2.0&lt;/p&gt;
+
+            &lt;p&gt;- Avril 2017&lt;/p&gt;
+
+      &lt;/div&gt;
+
+    &lt;p&gt;« RÉUTILISATION » DE L&amp;apos;« INFORMATION » SOUS CETTE LICENCE&lt;/p&gt;
+
+    &lt;div class="optional-license-text"&gt;&lt;p&gt;-------------------------------------------------------------------&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit
+    de libre « Réutilisation » de l&amp;apos;« Information » objet de la présente licence,
+    à des fins commerciales ou non, dans le monde entier et pour une durée
+    illimitée, dans les conditions exprimées ci-dessous.&lt;/p&gt;
+
+    &lt;p&gt;Le « Réutilisateur » est libre de réutiliser l&amp;apos;« Information » :&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; de la reproduire, la copier,&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; de l&amp;apos;adapter, la modifier, l&amp;apos;extraire et la transformer, pour créer des « Informations dérivées », des produits ou des services,&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; de la communiquer, la diffuser, la redistribuer, la publier et la transmettre,&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; de l&amp;apos;exploiter à titre commercial, par exemple en la combinant avec d&amp;apos;autres informations, ou en l&amp;apos;incluant dans son propre produit ou application.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;Sous réserve de :&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; mentionner la paternité de l&amp;apos;« Information » : sa source (au moins le nom du « Concédant ») et la date de dernière mise à jour de l&amp;apos;« Information » réutilisée.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;Le « Réutilisateur » peut notamment s&amp;apos;acquitter de cette condition en renvoyant,
+    par un lien hypertexte, vers la source de « l&amp;apos;Information » et assurant une
+    mention effective de sa paternité.&lt;/p&gt;
+
+    &lt;p&gt;Par exemple :&lt;/p&gt;
+
+    &lt;p&gt;« Ministère de xxx - Données originales téléchargées sur
+    http://www.data.gouv.fr/fr/datasets/xxx/, mise à jour du 14 février 2017 ».&lt;/p&gt;
+
+    &lt;p&gt;Cette mention de paternité ne confère aucun caractère officiel à la
+    « Réutilisation » de l&amp;apos;« Information », et ne doit pas suggérer une quelconque
+    reconnaissance ou caution par le « Concédant », ou par toute autre entité
+    publique, du « Réutilisateur » ou de sa « Réutilisation ».&lt;/p&gt;
+
+    &lt;p&gt;« DONNÉES À CARACTÈRE PERSONNEL »&lt;/p&gt;
+
+    &lt;div class="optional-license-text"&gt;&lt;p&gt;-------------------------------------------------------------------&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;L&amp;apos;« Information » mise à disposition peut contenir des « Données à caractère
+    personnel » pouvant faire l&amp;apos;objet d&amp;apos;une « Réutilisation ». Si tel est le cas,
+    le « Concédant » informe le « Réutilisateur » de leur présence.&lt;/p&gt;
+
+    &lt;p&gt;L&amp;apos;« Information » peut être librement réutilisée, dans le cadre des droits
+    accordés par la présente licence, à condition de respecter le cadre légal
+    relatif à la protection des données à caractère personnel.&lt;/p&gt;
+
+    &lt;p&gt;« DROITS DE PROPRIÉTÉ INTELLECTUELLE »&lt;/p&gt;
+
+    &lt;div class="optional-license-text"&gt;&lt;p&gt;-------------------------------------------------------------------&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;Il est garanti au « Réutilisateur » que les éventuels « Droits de propriété
+    intellectuelle » détenus par des tiers ou par le « Concédant » sur
+    l&amp;apos;« Information » ne font pas obstacle aux droits accordés par la présente
+    licence.&lt;/p&gt;
+
+    &lt;p&gt;Lorsque le « Concédant » détient des « Droits de propriété intellectuelle »
+    cessibles sur l&amp;apos;« Information », il les cède au « Réutilisateur » de façon non
+    exclusive, à titre gracieux, pour le monde entier, pour toute la durée des
+    « Droits de propriété intellectuelle », et le « Réutilisateur » peut faire tout
+    usage de l&amp;apos;« Information » conformément aux libertés et aux conditions définies
+    par la présente licence.&lt;/p&gt;
+
+    &lt;p&gt;RESPONSABILITÉ&lt;/p&gt;
+
+    &lt;div class="optional-license-text"&gt;&lt;p&gt;-------------------------------------------------------------------&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;L&amp;apos;« Information » est mise à disposition telle que produite ou reçue par le
+    « Concédant », sans autre garantie expresse ou tacite que celles prévues par la
+    présente licence. L&amp;apos;absence de défauts ou d&amp;apos;erreurs éventuellement contenues
+    dans l&amp;apos;« Information », comme la fourniture continue de l&amp;apos;« Information » n&amp;apos;est
+    pas garantie par le « Concédant ». Il ne peut être tenu pour responsable de
+    toute perte, préjudice ou dommage de quelque sorte causé à des tiers du fait de
+    la « Réutilisation ».&lt;/p&gt;
+
+    &lt;p&gt;Le « Réutilisateur » est seul responsable de la « Réutilisation » de
+    l&amp;apos;« Information ».&lt;/p&gt;
+
+    &lt;p&gt;La « Réutilisation » ne doit pas induire en erreur des tiers quant au contenu
+    de l&amp;apos;« Information », sa source et sa date de mise à jour.&lt;/p&gt;
+
+    &lt;p&gt;DROIT APPLICABLE&lt;/p&gt;
+
+    &lt;div class="optional-license-text"&gt;&lt;p&gt;-------------------------------------------------------------------&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;La présente licence est régie par le droit français.&lt;/p&gt;
+
+    &lt;p&gt;COMPATIBILITÉ DE LA PRÉSENTE LICENCE&lt;/p&gt;
+
+    &lt;div class="optional-license-text"&gt;&lt;p&gt;-------------------------------------------------------------------&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;La présente licence a été conçue pour être compatible avec toute licence libre
+    qui exige au moins la mention de paternité et notamment avec la version
+    antérieure de la présente licence ainsi qu&amp;apos;avec les licences :&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; « Open Government Licence » (OGL) du Royaume-Uni,&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; « Creative Commons Attribution » (CC-BY) de Creative Commons et&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; « Open Data Commons Attribution » (ODC-BY) de l&amp;apos;Open Knowledge Foundation.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;DÉFINITIONS&lt;/p&gt;
+
+    &lt;div class="optional-license-text"&gt;&lt;p&gt;-------------------------------------------------------------------&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;Sont considérés, au sens de la présente licence comme :&lt;/p&gt;
+
+    &lt;p&gt;Le « Concédant » : toute personne concédant un droit de « Réutilisation » sur
+    l&amp;apos;« Information » dans les libertés et les conditions prévues par la présente
+    licence&lt;/p&gt;
+
+    &lt;p&gt;L&amp;apos;« Information » :&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; toute information publique figurant dans des documents communiqués ou publiés par une administration mentionnée au premier alinéa de l&amp;apos;article L.300-2 du CRPA;&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; toute information mise à disposition par toute personne selon les termes et conditions de la présente licence.&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;La « Réutilisation » : l&amp;apos;utilisation de l&amp;apos;« Information » à d&amp;apos;autres fins que
+    celles pour lesquelles elle a été produite ou reçue.&lt;/p&gt;
+
+    &lt;p&gt;Le « Réutilisateur »: toute personne qui réutilise les « Informations »
+    conformément aux conditions de la présente licence.&lt;/p&gt;
+
+    &lt;p&gt;Des « Données à caractère personnel » : toute information se rapportant à une
+    personne physique identifiée ou identifiable, pouvant être identifiée
+    directement ou indirectement. Leur « Réutilisation » est subordonnée au respect
+    du cadre juridique en vigueur.&lt;/p&gt;
+
+    &lt;p&gt;Une « Information dérivée » : toute nouvelle donnée ou information créées
+    directement à partir de l&amp;apos;« Information » ou à partir d&amp;apos;une combinaison de
+    l&amp;apos;« Information » et d&amp;apos;autres données ou informations non soumises à cette
+    licence.&lt;/p&gt;
+
+    &lt;p&gt;Les « Droits de propriété intellectuelle » : tous droits identifiés comme tels
+    par le Code de la propriété intellectuelle (notamment le droit d&amp;apos;auteur, droits
+    voisins au droit d&amp;apos;auteur, droit sui generis des producteurs de bases de
+    données…).&lt;/p&gt;
+
+    &lt;p&gt;À PROPOS DE CETTE LICENCE&lt;/p&gt;
+
+    &lt;div class="optional-license-text"&gt;&lt;p&gt;-------------------------------------------------------------------&lt;/p&gt;
+&lt;/div&gt;
+
+    &lt;p&gt;La présente licence a vocation à être utilisée par les administrations pour la
+    réutilisation de leurs informations publiques. Elle peut également être
+    utilisée par toute personne souhaitant mettre à disposition de
+    l&amp;apos;« Information » dans les conditions définies par la présente licence.&lt;/p&gt;
+
+    &lt;p&gt;La France est dotée d&amp;apos;un cadre juridique global visant à une diffusion
+    spontanée par les administrations de leurs informations publiques afin d&amp;apos;en
+    permettre la plus large réutilisation.&lt;/p&gt;
+
+    &lt;p&gt;Le droit de la « Réutilisation » de l&amp;apos;« Information » des administrations est
+    régi par le code des relations entre le public et l&amp;apos;administration (CRPA).&lt;/p&gt;
+
+    &lt;p&gt;Cette licence facilite la réutilisation libre et gratuite des informations
+    publiques et figure parmi les licences qui peuvent être utilisées par
+    l&amp;apos;administration en vertu du décret pris en application de l&amp;apos;article L.323-2
+    du CRPA.&lt;/p&gt;
+
+    &lt;p&gt;Etalab est la mission chargée, sous l&amp;apos;autorité du Premier ministre, d&amp;apos;ouvrir le
+    plus grand nombre de données publiques des administrations de l&amp;apos;Etat et de ses
+    établissements publics. Elle a réalisé la Licence Ouverte pour faciliter la
+    réutilisation libre et gratuite de ces informations publiques, telles que
+    définies par l&amp;apos;article L321-1 du CRPA.&lt;/p&gt;
+
+    &lt;p&gt;Cette licence est la version 2.0 de la Licence Ouverte.&lt;/p&gt;
+
+    &lt;p&gt;Etalab se réserve la faculté de proposer de nouvelles versions de la Licence
+    Ouverte. Cependant, les « Réutilisateurs » pourront continuer à réutiliser les
+    informations qu&amp;apos;ils ont obtenues sous cette licence s&amp;apos;ils le souhaitent.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <rdfs:seeAlso>https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/LICENSE</rdfs:seeAlso>
+    <rdfs:seeAlso>https://github.com/DISIC/politique-de-contribution-open-source/blob/master/LICENSE.pdf</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:55:53</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://github.com/DISIC/politique-de-contribution-open-source/blob/master/LICENSE.pdf</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:licenseText>LICENCE OUVERTE / OPEN LICENCE
+===================================================================
+
+- Version 2.0
+- Avril 2017
+
+
+« RÉUTILISATION » DE L’« INFORMATION » SOUS CETTE LICENCE
+-------------------------------------------------------------------
+
+Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit
+de libre « Réutilisation » de l’« Information » objet de la présente licence,
+à des fins commerciales ou non, dans le monde entier et pour une durée
+illimitée, dans les conditions exprimées ci-dessous.
+
+Le « Réutilisateur » est libre de réutiliser l’« Information » :
+
+- de la reproduire, la copier,
+- de l’adapter, la modifier, l’extraire et la transformer, pour créer des
+« Informations dérivées », des produits ou des services,
+- de la communiquer, la diffuser, la redistribuer, la publier et la transmettre,
+- de l’exploiter à titre commercial, par exemple en la combinant avec d’autres
+informations, ou en l’incluant dans son propre produit ou application.
+
+Sous réserve de :
+
+- mentionner la paternité de l’« Information » : sa source (au moins le nom du
+« Concédant ») et la date de dernière mise à jour de l’« Information »
+réutilisée.
+
+Le « Réutilisateur » peut notamment s’acquitter de cette condition en renvoyant,
+par un lien hypertexte, vers la source de « l’Information » et assurant une
+mention effective de sa paternité.
+
+Par exemple :
+
+« Ministère de xxx - Données originales téléchargées sur
+http://www.data.gouv.fr/fr/datasets/xxx/, mise à jour du 14 février 2017 ».
+
+Cette mention de paternité ne confère aucun caractère officiel à la
+« Réutilisation » de l’« Information », et ne doit pas suggérer une quelconque
+reconnaissance ou caution par le « Concédant », ou par toute autre entité
+publique, du « Réutilisateur » ou de sa « Réutilisation ».
+
+
+« DONNÉES À CARACTÈRE PERSONNEL »
+-------------------------------------------------------------------
+
+L’« Information » mise à disposition peut contenir des « Données à caractère
+personnel » pouvant faire l’objet d’une « Réutilisation ». Si tel est le cas,
+le « Concédant » informe le « Réutilisateur » de leur présence.
+
+L’« Information » peut être librement réutilisée, dans le cadre des droits
+accordés par la présente licence, à condition de respecter le cadre légal
+relatif à la protection des données à caractère personnel.
+
+
+« DROITS DE PROPRIÉTÉ INTELLECTUELLE »
+-------------------------------------------------------------------
+
+Il est garanti au « Réutilisateur » que les éventuels « Droits de propriété
+intellectuelle » détenus par des tiers ou par le « Concédant » sur
+l’« Information » ne font pas obstacle aux droits accordés par la présente
+licence.
+
+Lorsque le « Concédant » détient des « Droits de propriété intellectuelle »
+cessibles sur l’« Information », il les cède au « Réutilisateur » de façon non
+exclusive, à titre gracieux, pour le monde entier, pour toute la durée des
+« Droits de propriété intellectuelle », et le « Réutilisateur » peut faire tout
+usage de l’« Information » conformément aux libertés et aux conditions définies
+par la présente licence.
+
+
+RESPONSABILITÉ
+-------------------------------------------------------------------
+
+L’« Information » est mise à disposition telle que produite ou reçue par le
+« Concédant », sans autre garantie expresse ou tacite que celles prévues par la
+présente licence. L’absence de défauts ou d’erreurs éventuellement contenues
+dans l’« Information », comme la fourniture continue de l’« Information » n’est
+pas garantie par le « Concédant ». Il ne peut être tenu pour responsable de
+toute perte, préjudice ou dommage de quelque sorte causé à des tiers du fait de
+la « Réutilisation ».
+
+Le « Réutilisateur » est seul responsable de la « Réutilisation » de
+l’« Information ».
+
+La « Réutilisation » ne doit pas induire en erreur des tiers quant au contenu
+de l’« Information », sa source et sa date de mise à jour.
+
+
+DROIT APPLICABLE
+-------------------------------------------------------------------
+
+La présente licence est régie par le droit français.
+
+
+COMPATIBILITÉ DE LA PRÉSENTE LICENCE
+-------------------------------------------------------------------
+
+La présente licence a été conçue pour être compatible avec toute licence libre
+qui exige au moins la mention de paternité et notamment avec la version
+antérieure de la présente licence ainsi qu’avec les licences :
+
+- « Open Government Licence » (OGL) du Royaume-Uni,
+- « Creative Commons Attribution » (CC-BY) de Creative Commons et
+- « Open Data Commons Attribution » (ODC-BY) de l’Open Knowledge Foundation.
+
+
+DÉFINITIONS
+-------------------------------------------------------------------
+
+Sont considérés, au sens de la présente licence comme :
+
+Le « Concédant » : toute personne concédant un droit de « Réutilisation » sur
+l’« Information » dans les libertés et les conditions prévues par la présente
+licence
+
+L’« Information » :
+
+- toute information publique figurant dans des documents communiqués ou publiés
+par une administration mentionnée au premier alinéa de l’article L.300-2 du
+CRPA;
+- toute information mise à disposition par toute personne selon les termes et
+conditions de la présente licence.
+
+La « Réutilisation » : l’utilisation de l’« Information » à d’autres fins que
+celles pour lesquelles elle a été produite ou reçue.
+
+Le « Réutilisateur »: toute personne qui réutilise les « Informations »
+conformément aux conditions de la présente licence.
+
+Des « Données à caractère personnel » : toute information se rapportant à une
+personne physique identifiée ou identifiable, pouvant être identifiée
+directement ou indirectement. Leur « Réutilisation » est subordonnée au respect
+du cadre juridique en vigueur.
+
+Une « Information dérivée » : toute nouvelle donnée ou information créées
+directement à partir de l’« Information » ou à partir d’une combinaison de
+l’« Information » et d’autres données ou informations non soumises à cette
+licence.
+
+Les « Droits de propriété intellectuelle » : tous droits identifiés comme tels
+par le Code de la propriété intellectuelle (notamment le droit d’auteur, droits
+voisins au droit d’auteur, droit sui generis des producteurs de bases de
+données…).
+
+
+À PROPOS DE CETTE LICENCE
+-------------------------------------------------------------------
+
+La présente licence a vocation à être utilisée par les administrations pour la
+réutilisation de leurs informations publiques. Elle peut également être
+utilisée par toute personne souhaitant mettre à disposition de
+l’« Information » dans les conditions définies par la présente licence.
+
+La France est dotée d’un cadre juridique global visant à une diffusion
+spontanée par les administrations de leurs informations publiques afin d’en
+permettre la plus large réutilisation.
+
+Le droit de la « Réutilisation » de l’« Information » des administrations est
+régi par le code des relations entre le public et l’administration (CRPA).
+
+Cette licence facilite la réutilisation libre et gratuite des informations
+publiques et figure parmi les licences qui peuvent être utilisées par
+l’administration en vertu du décret pris en application de l’article L.323-2
+du CRPA.
+
+Etalab est la mission chargée, sous l’autorité du Premier ministre, d’ouvrir le
+plus grand nombre de données publiques des administrations de l’Etat et de ses
+établissements publics. Elle a réalisé la Licence Ouverte pour faciliter la
+réutilisation libre et gratuite de ces informations publiques, telles que
+définies par l’article L321-1 du CRPA.
+
+Cette licence est la version 2.0 de la Licence Ouverte.
+
+Etalab se réserve la faculté de proposer de nouvelles versions de la Licence
+Ouverte. Cependant, les « Réutilisateurs » pourront continuer à réutiliser les
+informations qu’ils ont obtenues sous cette licence s’ils le souhaitent.
+</spdx:licenseText>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:55:53</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:url>https://raw.githubusercontent.com/DISIC/politique-de-contribution-open-source/master/LICENSE</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; LICENCE OUVERTE / OPEN LICENCE
+
+&lt;&lt;beginOptional&gt;&gt; ===================================================================
+
+&lt;&lt;endOptional&gt;&gt;
+
+- Version 2.0
+
+- Avril 2017
+
+&lt;&lt;endOptional&gt;&gt;
+
+« RÉUTILISATION » DE L'« INFORMATION » SOUS CETTE LICENCE
+
+&lt;&lt;beginOptional&gt;&gt; -------------------------------------------------------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+Le « Concédant » concède au « Réutilisateur » un droit non exclusif et gratuit de libre « Réutilisation » de l'« Information » objet de la présente licence, à des fins commerciales ou non, dans le monde entier et pour une durée illimitée, dans les conditions exprimées ci-dessous.
+
+Le « Réutilisateur » est libre de réutiliser l'« Information » :
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; de la reproduire, la copier,
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; de l'adapter, la modifier, l'extraire et la transformer, pour créer des « Informations dérivées », des produits ou des services,
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; de la communiquer, la diffuser, la redistribuer, la publier et la transmettre,
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; de l'exploiter à titre commercial, par exemple en la combinant avec d'autres informations, ou en l'incluant dans son propre produit ou application.
+
+Sous réserve de :
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; mentionner la paternité de l'« Information » : sa source (au moins le nom du « Concédant ») et la date de dernière mise à jour de l'« Information » réutilisée.
+
+Le « Réutilisateur » peut notamment s'acquitter de cette condition en renvoyant, par un lien hypertexte, vers la source de « l'Information » et assurant une mention effective de sa paternité.
+
+Par exemple :
+
+« Ministère de xxx - Données originales téléchargées sur http://www.data.gouv.fr/fr/datasets/xxx/, mise à jour du 14 février 2017 ».
+
+Cette mention de paternité ne confère aucun caractère officiel à la « Réutilisation » de l'« Information », et ne doit pas suggérer une quelconque reconnaissance ou caution par le « Concédant », ou par toute autre entité publique, du « Réutilisateur » ou de sa « Réutilisation ».
+
+« DONNÉES À CARACTÈRE PERSONNEL »
+
+&lt;&lt;beginOptional&gt;&gt; -------------------------------------------------------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+L'« Information » mise à disposition peut contenir des « Données à caractère personnel » pouvant faire l'objet d'une « Réutilisation ». Si tel est le cas, le « Concédant » informe le « Réutilisateur » de leur présence.
+
+L'« Information » peut être librement réutilisée, dans le cadre des droits accordés par la présente licence, à condition de respecter le cadre légal relatif à la protection des données à caractère personnel.
+
+« DROITS DE PROPRIÉTÉ INTELLECTUELLE »
+
+&lt;&lt;beginOptional&gt;&gt; -------------------------------------------------------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+Il est garanti au « Réutilisateur » que les éventuels « Droits de propriété intellectuelle » détenus par des tiers ou par le « Concédant » sur l'« Information » ne font pas obstacle aux droits accordés par la présente licence.
+
+Lorsque le « Concédant » détient des « Droits de propriété intellectuelle » cessibles sur l'« Information », il les cède au « Réutilisateur » de façon non exclusive, à titre gracieux, pour le monde entier, pour toute la durée des « Droits de propriété intellectuelle », et le « Réutilisateur » peut faire tout usage de l'« Information » conformément aux libertés et aux conditions définies par la présente licence.
+
+RESPONSABILITÉ
+
+&lt;&lt;beginOptional&gt;&gt; -------------------------------------------------------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+L'« Information » est mise à disposition telle que produite ou reçue par le « Concédant », sans autre garantie expresse ou tacite que celles prévues par la présente licence. L'absence de défauts ou d'erreurs éventuellement contenues dans l'« Information », comme la fourniture continue de l'« Information » n'est pas garantie par le « Concédant ». Il ne peut être tenu pour responsable de toute perte, préjudice ou dommage de quelque sorte causé à des tiers du fait de la « Réutilisation ».
+
+Le « Réutilisateur » est seul responsable de la « Réutilisation » de l'« Information ».
+
+La « Réutilisation » ne doit pas induire en erreur des tiers quant au contenu de l'« Information », sa source et sa date de mise à jour.
+
+DROIT APPLICABLE
+
+&lt;&lt;beginOptional&gt;&gt; -------------------------------------------------------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+La présente licence est régie par le droit français.
+
+COMPATIBILITÉ DE LA PRÉSENTE LICENCE
+
+&lt;&lt;beginOptional&gt;&gt; -------------------------------------------------------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+La présente licence a été conçue pour être compatible avec toute licence libre qui exige au moins la mention de paternité et notamment avec la version antérieure de la présente licence ainsi qu'avec les licences :
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; « Open Government Licence » (OGL) du Royaume-Uni,
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; « Creative Commons Attribution » (CC-BY) de Creative Commons et
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; « Open Data Commons Attribution » (ODC-BY) de l'Open Knowledge Foundation.
+
+DÉFINITIONS
+
+&lt;&lt;beginOptional&gt;&gt; -------------------------------------------------------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+Sont considérés, au sens de la présente licence comme :
+
+Le « Concédant » : toute personne concédant un droit de « Réutilisation » sur l'« Information » dans les libertés et les conditions prévues par la présente licence
+
+L'« Information » :
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; toute information publique figurant dans des documents communiqués ou publiés par une administration mentionnée au premier alinéa de l'article L.300-2 du CRPA;
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; toute information mise à disposition par toute personne selon les termes et conditions de la présente licence.
+
+La « Réutilisation » : l'utilisation de l'« Information » à d'autres fins que celles pour lesquelles elle a été produite ou reçue.
+
+Le « Réutilisateur »: toute personne qui réutilise les « Informations » conformément aux conditions de la présente licence.
+
+Des « Données à caractère personnel » : toute information se rapportant à une personne physique identifiée ou identifiable, pouvant être identifiée directement ou indirectement. Leur « Réutilisation » est subordonnée au respect du cadre juridique en vigueur.
+
+Une « Information dérivée » : toute nouvelle donnée ou information créées directement à partir de l'« Information » ou à partir d'une combinaison de l'« Information » et d'autres données ou informations non soumises à cette licence.
+
+Les « Droits de propriété intellectuelle » : tous droits identifiés comme tels par le Code de la propriété intellectuelle (notamment le droit d'auteur, droits voisins au droit d'auteur, droit sui generis des producteurs de bases de données…).
+
+À PROPOS DE CETTE LICENCE
+
+&lt;&lt;beginOptional&gt;&gt; -------------------------------------------------------------------
+
+&lt;&lt;endOptional&gt;&gt;
+
+La présente licence a vocation à être utilisée par les administrations pour la réutilisation de leurs informations publiques. Elle peut également être utilisée par toute personne souhaitant mettre à disposition de l'« Information » dans les conditions définies par la présente licence.
+
+La France est dotée d'un cadre juridique global visant à une diffusion spontanée par les administrations de leurs informations publiques afin d'en permettre la plus large réutilisation.
+
+Le droit de la « Réutilisation » de l'« Information » des administrations est régi par le code des relations entre le public et l'administration (CRPA).
+
+Cette licence facilite la réutilisation libre et gratuite des informations publiques et figure parmi les licences qui peuvent être utilisées par l'administration en vertu du décret pris en application de l'article L.323-2 du CRPA.
+
+Etalab est la mission chargée, sous l'autorité du Premier ministre, d'ouvrir le plus grand nombre de données publiques des administrations de l'Etat et de ses établissements publics. Elle a réalisé la Licence Ouverte pour faciliter la réutilisation libre et gratuite de ces informations publiques, telles que définies par l'article L321-1 du CRPA.
+
+Cette licence est la version 2.0 de la Licence Ouverte.
+
+Etalab se réserve la faculté de proposer de nouvelles versions de la Licence Ouverte. Cependant, les « Réutilisateurs » pourront continuer à réutiliser les informations qu'ils ont obtenues sous cette licence s'ils le souhaitent.
+
+</spdx:standardLicenseTemplate>
+    <rdfs:comment>English translation can be found here: https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf</rdfs:comment>
+  </spdx:ListedLicense>
+</rdf:RDF>

@@ -1,0 +1,24 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix ptr:   <http://www.w3.org/2009/pointers#> .
+
+<http://spdx.org/licenses/FSFAP>
+        a                             spdx:ListedLicense ;
+        <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html" ;
+        spdx:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         true ;
+                                        spdx:isValid        true ;
+                                        spdx:isWayBackLink  false ;
+                                        spdx:match          "true" ;
+                                        spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+                                        spdx:timestamp      "2021-11-09 - 16:57:31" ;
+                                        spdx:url            "https://www.gnu.org/prep/maintain/html_node/License-Notices-for-Other-Files.html"
+                                      ] ;
+        spdx:isDeprecatedLicenseId    false ;
+        spdx:isFsfLibre               true ;
+        spdx:isOsiApproved            false ;
+        spdx:licenseText              "Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved.  This file is offered as-is, without any warranty.\n" ;
+        spdx:licenseTextHtml          "\n      <p>Copying and distribution of this file, with or without\n         modification, are permitted in any medium without royalty\n         provided the copyright notice and this notice are preserved.\n         This file is offered as-is, without any warranty.</p>\n\n    " ;
+        spdx:name                     "FSF All Permissive License" ;
+        spdx:standardLicenseTemplate  "Copying and distribution of this file, with or without modification, are permitted in any medium without royalty provided the copyright notice and this notice are preserved. This file is offered as-is, without any warranty.\n\n" .

@@ -1,0 +1,108 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/mpich2">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/MIT</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:57:19</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/MIT</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>mpich2 License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;COPYRIGHT&lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;The following is a notice of limited availability of the code, and disclaimer which must be included in
+         the prologue of the code and in all source listings of the code.&lt;/p&gt;
+
+      &lt;p&gt;Copyright Notice
+        &lt;br /&gt;
+
++ 2002 University of Chicago
+      &lt;/p&gt;
+
+      &lt;p&gt;Permission is hereby granted to use, reproduce, prepare derivative works, and to redistribute to others.
+         This software was authored by:&lt;/p&gt;
+
+      &lt;p&gt;Argonne National Laboratory Group W. Gropp: (630) 252-4318; FAX: (630) 252-5986; e-mail:
+         gropp@mcs.anl.gov E. Lusk: (630) 252-7852; FAX: (630) 252-5986; e-mail: lusk@mcs.anl.gov Mathematics
+         and Computer Science Division Argonne National Laboratory, Argonne IL 60439&lt;/p&gt;
+
+      &lt;p&gt;GOVERNMENT LICENSE&lt;/p&gt;
+
+      &lt;p&gt;Portions of this material resulted from work developed under a U.S. Government Contract and are subject
+         to the following license: the Government is granted for itself and others acting on its behalf a
+         paid-up, nonexclusive, irrevocable worldwide license in this computer software to reproduce, prepare
+         derivative works, and perform publicly and display publicly.&lt;/p&gt;
+
+      &lt;p&gt;DISCLAIMER&lt;/p&gt;
+
+      &lt;p&gt;This computer code material was prepared, in part, as an account of work sponsored by an agency of the
+         United States Government. Neither the United States, nor the University of Chicago, nor any of their
+         employees, makes any warranty express or implied, or assumes any legal liability or responsibility for
+         the accuracy, completeness, or usefulness of any information, apparatus, product, or process
+         disclosed, or represents that its use would not infringe privately owned rights.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="COPYRIGHT  ";match=".{0,5000}"&gt;&gt;
+
+The following is a notice of limited availability of the code, and disclaimer which must be included in the prologue of the code and in all source listings of the code.
+
+Copyright Notice
+
++ 2002 University of Chicago
+
+Permission is hereby granted to use, reproduce, prepare derivative works, and to redistribute to others. This software was authored by:
+
+Argonne National Laboratory Group W. Gropp: (630) 252-4318; FAX: (630) 252-5986; e-mail: gropp@mcs.anl.gov E. Lusk: (630) 252-7852; FAX: (630) 252-5986; e-mail: lusk@mcs.anl.gov Mathematics and Computer Science Division Argonne National Laboratory, Argonne IL 60439
+
+GOVERNMENT LICENSE
+
+Portions of this material resulted from work developed under a U.S. Government Contract and are subject to the following license: the Government is granted for itself and others acting on its behalf a paid-up, nonexclusive, irrevocable worldwide license in this computer software to reproduce, prepare derivative works, and perform publicly and display publicly.
+
+DISCLAIMER
+
+This computer code material was prepared, in part, as an account of work sponsored by an agency of the United States Government. Neither the United States, nor the University of Chicago, nor any of their employees, makes any warranty express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>COPYRIGHT
+
+The following is a notice of limited availability of the code, and disclaimer which must be included in the prologue of the code and in all source listings of the code.
+
+Copyright Notice
++ 2002 University of Chicago
+
+Permission is hereby granted to use, reproduce, prepare derivative works, and to redistribute to others. This software was authored by:
+
+Argonne National Laboratory Group W. Gropp: (630) 252-4318; FAX: (630) 252-5986; e-mail: gropp@mcs.anl.gov E. Lusk: (630) 252-7852; FAX: (630) 252-5986; e-mail: lusk@mcs.anl.gov Mathematics and Computer Science Division Argonne National Laboratory, Argonne IL 60439
+
+GOVERNMENT LICENSE
+
+Portions of this material resulted from work developed under a U.S. Government Contract and are subject to the following license: the Government is granted for itself and others acting on its behalf a paid-up, nonexclusive, irrevocable worldwide license in this computer software to reproduce, prepare derivative works, and perform publicly and display publicly.
+
+DISCLAIMER
+
+This computer code material was prepared, in part, as an account of work sponsored by an agency of the United States Government. Neither the United States, nor the University of Chicago, nor any of their employees, makes any warranty express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

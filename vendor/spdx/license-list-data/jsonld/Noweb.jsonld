@@ -1,0 +1,81 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "true",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 16:59:44",
+    "url" : "https://fedoraproject.org/wiki/Licensing/Noweb"
+  }, {
+    "@id" : "http://spdx.org/licenses/Noweb",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "spdx:isDeprecatedLicenseId" : false,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "Noweb is copyright 1989-2000 by Norman Ramsey. All rights reserved.\n\nNoweb is protected by copyright. It is not public-domain software or shareware, and it is not protected by a ``copyleft'' agreement like the one used by the Free Software Foundation.\n\nNoweb is available free for any use in any field of endeavor. You may redistribute noweb in whole or in part provided you acknowledge its source and include this COPYRIGHT file. You may modify noweb and create derived works, provided you retain this copyright notice, but the result may not be called noweb without my written consent.\n\nYou may sell noweb if you wish. For example, you may sell a CD-ROM including noweb.\n\nYou may sell a derived work, provided that all source code for your derived work is available, at no additional charge, to anyone who buys your derived work in any form. You must give permisson for said source code to be used and modified under the terms of this license. You must state clearly that your work uses or is based on noweb and that noweb is available free of change. You must also request that bug reports on your work be reported to you.\n",
+    "licenseTextHtml" : "\n      <div class=\"replacable-license-text\">\n         <p>Noweb is copyright 1989-2000 by Norman Ramsey. All rights reserved.</p>\n\n      </div>\n\n      <p>Noweb is protected by copyright. It is not public-domain software or shareware, and it is not protected\n         by a ``copyleft&apos;&apos; agreement like the one used by the Free Software Foundation.</p>\n\n      <p>Noweb is available free for any use in any field of endeavor. You may redistribute noweb in whole or in\n         part provided you acknowledge its source and include this COPYRIGHT file. You may modify noweb and\n         create derived works, provided you retain this copyright notice, but the result may not be called\n         noweb without my written consent.</p>\n\n      <p>You may sell noweb if you wish. For example, you may sell a CD-ROM including noweb.</p>\n\n      <p>You may sell a derived work, provided that all source code for your derived work is available, at no\n         additional charge, to anyone who buys your derived work in any form. You must give permisson for said\n         source code to be used and modified under the terms of this license. You must state clearly that your\n         work uses or is based on noweb and that noweb is available free of change. You must also request that\n         bug reports on your work be reported to you.</p>\n\n    ",
+    "name" : "Noweb License",
+    "standardLicenseTemplate" : "<<var;name=\"copyright\";original=\"Noweb is copyright 1989-2000 by Norman Ramsey. All rights reserved.  \";match=\".{0,5000}\">>\n\nNoweb is protected by copyright. It is not public-domain software or shareware, and it is not protected by a ``copyleft'' agreement like the one used by the Free Software Foundation.\n\nNoweb is available free for any use in any field of endeavor. You may redistribute noweb in whole or in part provided you acknowledge its source and include this COPYRIGHT file. You may modify noweb and create derived works, provided you retain this copyright notice, but the result may not be called noweb without my written consent.\n\nYou may sell noweb if you wish. For example, you may sell a CD-ROM including noweb.\n\nYou may sell a derived work, provided that all source code for your derived work is available, at no additional charge, to anyone who buys your derived work in any form. You must give permisson for said source code to be used and modified under the terms of this license. You must state clearly that your work uses or is based on noweb and that noweb is available free of change. You must also request that bug reports on your work be reported to you.\n\n",
+    "seeAlso" : "https://fedoraproject.org/wiki/Licensing/Noweb"
+  } ],
+  "@context" : {
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

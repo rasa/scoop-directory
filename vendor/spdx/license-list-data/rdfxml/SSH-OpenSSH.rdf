@@ -1,0 +1,216 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/SSH-OpenSSH">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:name>SSH OpenSSH license</spdx:name>
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright (c) 1995 Tatu Ylonen &lt;ylo@cs.hut.fi&gt;, Espoo, Finland All rights reserved";match=".{0,5000}"&gt;&gt;
+
+As far as I am concerned, the code I have written for this software can be used freely for any purpose. Any derived versions of this software must be clearly marked as such, and if the derived work is incompatible with the protocol description in the RFC file, it must be called by a name other than "ssh" or "Secure Shell".
+
+[Tatu continues]
+
+However, I am not implying to give any licenses to any patents or copyrights held by third parties, and the software includes parts that are not under my direct control. As far as I know, all included source code is used in accordance with the relevant license agreements and can be used freely for any purpose (the GNU license being the most restrictive); see below for details.
+
+[However, none of that term is relevant at this point in time. All of these restrictively licenced software components which he talks about have been removed from OpenSSH, i.e.,
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; RSA is no longer included, found in the OpenSSL library
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; IDEA is no longer included, its use is deprecated
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; DES is now external, in the OpenSSL library
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; GMP is no longer used, and instead we call BN code from OpenSSL
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; Zlib is now external, in a library
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; The make-ssh-known-hosts script is no longer included
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; TSS has been removed
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; MD5 is now external, in the OpenSSL library
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; RC4 support has been replaced with ARC4 support from OpenSSL
+
+   &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; Blowfish is now external, in the OpenSSL library
+
+[The licence continues]
+
+Note that any information and cryptographic algorithms used in this software are publicly available on the Internet and at any major bookstore, scientific library, and patent office worldwide. More information can be found e.g. at "http://www.cs.hut.fi/crypto".
+
+The legal status of this program is some combination of all these permissions and restrictions. Use only at your own responsibility. You will be responsible for any legal consequences yourself; I am not making any claims whether possessing or using this is legal or not in your country, and I am not taking any responsibility on your behalf.
+
+NO WARRANTY
+
+BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseTextHtml>
+        &lt;var class="replacable-license-text"&gt;
+            Copyright (c) 1995 Tatu Ylonen &amp;lt;ylo@cs.hut.fi&amp;gt;, Espoo, Finland
+                               All rights reserved
+        &lt;/var&gt;
+
+        &lt;p&gt;As far as I am concerned, the code I have written for this software
+        can be used freely for any purpose.  Any derived versions of this
+        software must be clearly marked as such, and if the derived work is
+        incompatible with the protocol description in the RFC file, it must be
+        called by a name other than &amp;quot;ssh&amp;quot; or &amp;quot;Secure Shell&amp;quot;.&lt;/p&gt;
+
+        &lt;p&gt;[Tatu continues]&lt;/p&gt;
+
+        &lt;p&gt;However, I am not implying to give any licenses to any patents or
+        copyrights held by third parties, and the software includes parts that
+        are not under my direct control.  As far as I know, all included
+        source code is used in accordance with the relevant license agreements
+        and can be used freely for any purpose (the GNU license being the most
+        restrictive); see below for details.&lt;/p&gt;
+
+        &lt;p&gt;[However, none of that term is relevant at this point in time.  All of
+        these restrictively licenced software components which he talks about
+        have been removed from OpenSSH, i.e.,&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; RSA is no longer included, found in the OpenSSL library&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; IDEA is no longer included, its use is deprecated&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; DES is now external, in the OpenSSL library&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; GMP is no longer used, and instead we call BN code from OpenSSL&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; Zlib is now external, in a library&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; The make-ssh-known-hosts script is no longer included&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; TSS has been removed&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; MD5 is now external, in the OpenSSL library&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; RC4 support has been replaced with ARC4 support from OpenSSL&lt;/li&gt;
+&lt;li&gt;&lt;var class="replacable-license-text"&gt;-&lt;/var&gt; Blowfish is now external, in the OpenSSL library&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;[The licence continues]&lt;/p&gt;
+
+    &lt;p&gt;Note that any information and cryptographic algorithms used in this
+    software are publicly available on the Internet and at any major
+    bookstore, scientific library, and patent office worldwide.  More
+    information can be found e.g. at &amp;quot;http://www.cs.hut.fi/crypto&amp;quot;.&lt;/p&gt;
+
+    &lt;p&gt;The legal status of this program is some combination of all these
+    permissions and restrictions.  Use only at your own responsibility.
+    You will be responsible for any legal consequences yourself; I am not
+    making any claims whether possessing or using this is legal or not in
+    your country, and I am not taking any responsibility on your behalf.&lt;/p&gt;
+
+	&lt;p&gt;NO WARRANTY&lt;/p&gt;
+
+    &lt;p&gt;BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+    FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN
+    OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
+    PROVIDE THE PROGRAM &amp;quot;AS IS&amp;quot; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+    OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+    MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS
+    TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE
+    PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,
+    REPAIR OR CORRECTION.&lt;/p&gt;
+
+    &lt;p&gt;IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+    WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+    REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+    INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING
+    OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED
+    TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
+    YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
+    PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
+    POSSIBILITY OF SUCH DAMAGES.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:licenseText>* Copyright (c) 1995 Tatu Ylonen &lt;ylo@cs.hut.fi&gt;, Espoo, Finland
+*                    All rights reserved
+*
+* As far as I am concerned, the code I have written for this software
+* can be used freely for any purpose.  Any derived versions of this
+* software must be clearly marked as such, and if the derived work is
+* incompatible with the protocol description in the RFC file, it must be
+* called by a name other than "ssh" or "Secure Shell".
+
+[Tatu continues]
+*  However, I am not implying to give any licenses to any patents or
+* copyrights held by third parties, and the software includes parts that
+* are not under my direct control.  As far as I know, all included
+* source code is used in accordance with the relevant license agreements
+* and can be used freely for any purpose (the GNU license being the most
+* restrictive); see below for details.
+
+[However, none of that term is relevant at this point in time.  All of
+these restrictively licenced software components which he talks about
+have been removed from OpenSSH, i.e.,
+
+- RSA is no longer included, found in the OpenSSL library
+- IDEA is no longer included, its use is deprecated
+- DES is now external, in the OpenSSL library
+- GMP is no longer used, and instead we call BN code from OpenSSL
+- Zlib is now external, in a library
+- The make-ssh-known-hosts script is no longer included
+- TSS has been removed
+- MD5 is now external, in the OpenSSL library
+- RC4 support has been replaced with ARC4 support from OpenSSL
+- Blowfish is now external, in the OpenSSL library
+
+[The licence continues]
+
+Note that any information and cryptographic algorithms used in this
+software are publicly available on the Internet and at any major
+bookstore, scientific library, and patent office worldwide.  More
+information can be found e.g. at "http://www.cs.hut.fi/crypto".
+
+The legal status of this program is some combination of all these
+permissions and restrictions.  Use only at your own responsibility.
+You will be responsible for any legal consequences yourself; I am not
+making any claims whether possessing or using this is legal or not in
+your country, and I am not taking any responsibility on your behalf.
+
+
+        NO WARRANTY
+
+BECAUSE THE PROGRAM IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY
+FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW.  EXCEPT WHEN
+OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES
+PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED
+OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  THE ENTIRE RISK AS
+TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU.  SHOULD THE
+PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING,
+REPAIR OR CORRECTION.
+
+IN NO EVENT UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING
+WILL ANY COPYRIGHT HOLDER, OR ANY OTHER PARTY WHO MAY MODIFY AND/OR
+REDISTRIBUTE THE PROGRAM AS PERMITTED ABOVE, BE LIABLE TO YOU FOR DAMAGES,
+INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING
+OUT OF THE USE OR INABILITY TO USE THE PROGRAM (INCLUDING BUT NOT LIMITED
+TO LOSS OF DATA OR DATA BEING RENDERED INACCURATE OR LOSSES SUSTAINED BY
+YOU OR THIRD PARTIES OR A FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER
+PROGRAMS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+</spdx:licenseText>
+    <rdfs:seeAlso>https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/LICENCE#L10</rdfs:seeAlso>
+    <rdfs:comment>This a longer version of SSH-short which includes various comments from the OpenSSH developers.</rdfs:comment>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:16</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/LICENCE#L10</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+  </spdx:ListedLicense>
+</rdf:RDF>

@@ -1,0 +1,64 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/HaskellReport">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/Haskell_Language_Report_License</rdfs:seeAlso>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:53:21</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/Haskell_Language_Report_License</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>Haskell Language Report License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;p&gt;Code derived from the document &amp;quot;Report on the Programming Language
+        &lt;br /&gt;
+
+Haskell 2010&amp;quot;, is distributed under the following license:
+      &lt;/p&gt;
+
+      &lt;p&gt;
+        &lt;var class="replacable-license-text"&gt;Copyright (c) 2010 Simon Marlow&lt;/var&gt;
+      &lt;/p&gt;
+
+      &lt;p&gt;The authors intend this Report to belong to the entire Haskell community, and so we grant permission to
+         copy and distribute it for any purpose, provided that it is reproduced in its entirety, including this
+         Notice. Modified versions of this Report may also be copied and distributed for any purpose, provided
+         that the modified version is clearly presented as such, and that it does not claim to be a definition
+         of the Haskell 2010 Language.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:standardLicenseTemplate>Code derived from the document "Report on the Programming Language
+
+Haskell 2010", is distributed under the following license:
+
+&lt;&lt;var;name="copyright";original="Copyright (c) 2010 Simon Marlow";match=".{0,5000}"&gt;&gt;
+
+The authors intend this Report to belong to the entire Haskell community, and so we grant permission to copy and distribute it for any purpose, provided that it is reproduced in its entirety, including this Notice. Modified versions of this Report may also be copied and distributed for any purpose, provided that the modified version is clearly presented as such, and that it does not claim to be a definition of the Haskell 2010 Language.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Code derived from the document "Report on the Programming Language
+Haskell 2010", is distributed under the following license:
+
+Copyright (c) 2010 Simon Marlow
+
+The authors intend this Report to belong to the entire Haskell community, and so we grant permission to copy and distribute it for any purpose, provided that it is reproduced in its entirety, including this Notice.  Modified versions of this Report may also be copied and distributed for any purpose, provided that the modified version is clearly presented as such, and that it does not claim to be a definition of the Haskell 2010 Language.
+</spdx:licenseText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+  </spdx:ListedLicense>
+</rdf:RDF>

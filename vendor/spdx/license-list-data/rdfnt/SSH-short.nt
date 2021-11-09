@@ -1,0 +1,38 @@
+_:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec <http://spdx.org/rdf/terms#timestamp> "2021-11-09 - 16:55:03" .
+_:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec <http://spdx.org/rdf/terms#order> "1"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec <http://spdx.org/rdf/terms#url> "http://web.mit.edu/kolya/.f/root/athena.mit.edu/sipb.mit.edu/project/openssh/OldFiles/src/openssh-2.9.9p2/ssh-add.1" .
+_:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec <http://spdx.org/rdf/terms#match> "N/A" .
+_:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec <http://spdx.org/rdf/terms#isLive> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb <http://spdx.org/rdf/terms#timestamp> "2021-11-09 - 16:55:03" .
+_:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb <http://spdx.org/rdf/terms#order> "2"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb <http://spdx.org/rdf/terms#url> "https://joinup.ec.europa.eu/svn/lesoll/trunk/italc/lib/src/dsa_key.cpp" .
+_:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb <http://spdx.org/rdf/terms#match> "false" .
+_:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+_:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece <http://spdx.org/rdf/terms#timestamp> "2021-11-09 - 16:55:03" .
+_:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece <http://spdx.org/rdf/terms#order> "0"^^<http://www.w3.org/2001/XMLSchema#int> .
+_:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece <http://spdx.org/rdf/terms#url> "https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/pathnames.h" .
+_:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece <http://spdx.org/rdf/terms#match> "false" .
+_:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece <http://spdx.org/rdf/terms#isWayBackLink> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece <http://spdx.org/rdf/terms#isValid> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece <http://spdx.org/rdf/terms#isLive> "true"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+_:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#CrossRef> .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#standardLicenseTemplate> "As far as I am concerned, the code I have written for this software can be used freely for any purpose. Any derived versions of this software must be clearly marked as such, and if the derived work is incompatible with the protocol description in the RFC file, it must be called by a name other than \"ssh\" or \"Secure Shell\".\n\n" .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://spdx.org/rdf/terms#ListedLicense> .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "http://web.mit.edu/kolya/.f/root/athena.mit.edu/sipb.mit.edu/project/openssh/OldFiles/src/openssh-2.9.9p2/ssh-add.1" .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#isOsiApproved> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#licenseText> "As far as I am concerned, the code I have written for this software\ncan be used freely for any purpose.  Any derived versions of this\nsoftware must be clearly marked as such, and if the derived work is\nincompatible with the protocol description in the RFC file, it must be\ncalled by a name other than \"ssh\" or \"Secure Shell\".\n" .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#name> "SSH short notice" .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#crossRef> _:B3ac5cb44X2Db01dX2D4d79X2Dad98X2D14e6d2fb9ece .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://github.com/openssh/openssh-portable/blob/1b11ea7c58cd5c59838b5fa574cd456d6047b2d4/pathnames.h" .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#seeAlso> "https://joinup.ec.europa.eu/svn/lesoll/trunk/italc/lib/src/dsa_key.cpp" .
+<http://spdx.org/licenses/SSH-short> <http://www.w3.org/2000/01/rdf-schema#comment> "This is short version of SSH-OpenSSH that appears in some files associated with the original SSH implementation." .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#crossRef> _:B9346145eX2Db7cbX2D44ccX2Dbc18X2Ddbb6b7ba35cb .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#licenseTextHtml> "\n        <p>As far as I am concerned, the code I have written for this software\n        can be used freely for any purpose.  Any derived versions of this\n        software must be clearly marked as such, and if the derived work is\n        incompatible with the protocol description in the RFC file, it must be\n        called by a name other than &quot;ssh&quot; or &quot;Secure Shell&quot;.\n        </p>\n\n    " .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#isDeprecatedLicenseId> "false"^^<http://www.w3.org/2001/XMLSchema#boolean> .
+<http://spdx.org/licenses/SSH-short> <http://spdx.org/rdf/terms#crossRef> _:B28615810X2De457X2D451aX2D991dX2D5362b5b1bbec .

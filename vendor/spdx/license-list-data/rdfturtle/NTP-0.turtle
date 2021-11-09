@@ -1,0 +1,25 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix ptr:   <http://www.w3.org/2009/pointers#> .
+
+<http://spdx.org/licenses/NTP-0>
+        a                             spdx:ListedLicense ;
+        <http://www.w3.org/2000/01/rdf-schema#comment>
+                "This license is similar to NTP, but it omits the language regarding reproduction of copyright and permission notices. It also omits the phrase \"with or without fee\"." ;
+        <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                "https://github.com/tytso/e2fsprogs/blob/master/lib/et/et_name.c" ;
+        spdx:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         true ;
+                                        spdx:isValid        true ;
+                                        spdx:isWayBackLink  false ;
+                                        spdx:match          "false" ;
+                                        spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+                                        spdx:timestamp      "2021-11-09 - 16:55:46" ;
+                                        spdx:url            "https://github.com/tytso/e2fsprogs/blob/master/lib/et/et_name.c"
+                                      ] ;
+        spdx:isDeprecatedLicenseId    false ;
+        spdx:isOsiApproved            false ;
+        spdx:licenseText              "NTP No Attribution (NTP-0)\n\nCopyright (4-digit-year) by (CopyrightHoldersName)\n\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose is hereby granted, provided that the name of (TrademarkedName) not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. (TrademarkedName) make no representations about the suitability of this software for any purpose. It is provided \"as is\" without express or implied warranty.\n" ;
+        spdx:licenseTextHtml          "\n      <div class=\"optional-license-text\">\n         <p>NTP No Attribution (NTP-0)</p>\n\n      </div>\n      <div class=\"replacable-license-text\">\n         <p>Copyright (4-digit-year) by (CopyrightHoldersName)\n         </p>\n\n      </div>\n\n      <p>Permission to use, copy, modify, and distribute this software and its documentation for any purpose\n         is hereby granted, provided that the name<var class=\"optional-license-text\">s</var> of\n        <var class=\"replacable-license-text\">(TrademarkedName)</var> not be used in advertising or publicity pertaining\n        to distribution of the software without specific, written prior permission.\n        <var class=\"replacable-license-text\">(TrademarkedName)</var> make<var class=\"optional-license-text\">s</var> no representations about the suitability\n        of this software for any purpose. It is provided &quot;as is&quot; without express or implied warranty.\n      </p>\n\n    " ;
+        spdx:name                     "NTP No Attribution" ;
+        spdx:standardLicenseTemplate  "<<beginOptional>> NTP No Attribution (NTP-0)\n\n<<endOptional>> <<var;name=\"copyright\";original=\"Copyright (4-digit-year) by (CopyrightHoldersName)  \";match=\".{0,5000}\">>\n\nPermission to use, copy, modify, and distribute this software and its documentation for any purpose is hereby granted, provided that the name<<beginOptional>>s<<endOptional>>of <<var;name=\"TMname\";original=\"(TrademarkedName)\";match=\".+\">> not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. <<var;name=\"TMname\";original=\"(TrademarkedName)\";match=\".+\">> make<<beginOptional>>s<<endOptional>>no representations about the suitability of this software for any purpose. It is provided \"as is\" without express or implied warranty.\n\n" .

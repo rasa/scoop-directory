@@ -1,0 +1,37 @@
+<<beginOptional>> Community Data License Agreement - Permissive - Version 2.0
+
+<<endOptional>>
+
+This is the Community Data License Agreement - Permissive, Version 2.0 (the "agreement"). Data Provider(s) and Data Recipient(s) agree as follows:
+
+   <<var;name="bullet";original="1.";match=".{0,20}">> Provision of the Data
+
+      <<var;name="bullet";original="1.1.";match=".{0,20}">> A Data Recipient may use, modify, and share the Data made available by Data Provider(s) under this agreement if that Data Recipient follows the terms of this agreement.
+
+      <<var;name="bullet";original="1.2.";match=".{0,20}">> This agreement does not impose any restriction on a Data Recipient's use, modification, or sharing of any portions of the Data that are in the public domain or that may be used, modified, or shared under any other legal exception or limitation.
+
+   <<var;name="bullet";original="2.";match=".{0,20}">> Conditions for Sharing Data
+
+      <<var;name="bullet";original="2.1.";match=".{0,20}">> A Data Recipient may share Data, with or without modifications, so long as the Data Recipient makes available the text of this agreement with the shared Data.
+
+   <<var;name="bullet";original="3.";match=".{0,20}">> No Restrictions on Results
+
+      <<var;name="bullet";original="3.1.";match=".{0,20}">> This agreement does not impose any restriction or obligations with respect to the use, modification, or sharing of Results.
+
+   <<var;name="bullet";original="4.";match=".{0,20}">> No Warranty; Limitation of Liability
+
+      <<var;name="bullet";original="4.1.";match=".{0,20}">> All Data Recipients receive the Data subject to the following terms:
+
+      THE DATA IS PROVIDED ON AN "AS IS" BASIS, WITHOUT REPRESENTATIONS, WARRANTIES OR CONDITIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+      NO DATA PROVIDER SHALL HAVE ANY LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING WITHOUT LIMITATION LOST PROFITS), HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE DATA OR RESULTS, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+   <<var;name="bullet";original="5.";match=".{0,20}">> Definitions
+
+      <<var;name="bullet";original="5.1.";match=".{0,20}">> "Data" means the material received by a Data Recipient under this agreement.
+
+      <<var;name="bullet";original="5.2.";match=".{0,20}">> "Data Provider" means any person who is the source of Data provided under this agreement and in reliance on a Data Recipient's agreement to its terms.
+
+      <<var;name="bullet";original="5.3.";match=".{0,20}">> "Data Recipient" means any person who receives Data directly or indirectly from a Data Provider and agrees to the terms of this agreement.
+
+      <<var;name="bullet";original="5.4.";match=".{0,20}">> "Results" means any outcome obtained by computational analysis of Data, including for example machine learning models and models' insights.

@@ -1,0 +1,45 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:LicenseException rdf:about="http://spdx.org/licenses/Bootloader-exception">
+    <rdfs:seeAlso>https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt</rdfs:seeAlso>
+    <spdx:name>Bootloader Distribution Exception</spdx:name>
+    <spdx:exceptionTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;Bootloader Exception&lt;var class="replacable-license-text"&gt;&lt;/var&gt;&lt;/p&gt;
+
+      &lt;/div&gt;
+&lt;p&gt;In addition to the permissions in the GNU General Public License, the
+authors give you unlimited permission to link or embed compiled bootloader
+and related files into combinations with other programs, and to distribute
+those combinations without any restriction coming from the use of those
+files. (The General Public License restrictions do apply in other respects;
+for example, they cover modification of the files, and distribution when
+not linked into a &lt;var class="replacable-license-text"&gt;combined&lt;/var&gt; executable.)&lt;/p&gt;
+
+    </spdx:exceptionTextHtml>
+    <spdx:licenseExceptionText>Bootloader Exception
+--------------------
+
+In addition to the permissions in the GNU General Public License, the
+authors give you unlimited permission to link or embed compiled bootloader
+and related files into combinations with other programs, and to distribute
+those combinations without any restriction coming from the use of those
+files. (The General Public License restrictions do apply in other respects;
+for example, they cover modification of the files, and distribution when
+not linked into a combine executable.)
+</spdx:licenseExceptionText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:licenseExceptionTemplate>&lt;&lt;beginOptional&gt;&gt; Bootloader Exception &lt;&lt;var;name="titleUnderline";original="";match="-*"&gt;&gt;
+
+&lt;&lt;endOptional&gt;&gt;
+
+In addition to the permissions in the GNU General Public License, the authors give you unlimited permission to link or embed compiled bootloader and related files into combinations with other programs, and to distribute those combinations without any restriction coming from the use of those files. (The General Public License restrictions do apply in other respects; for example, they cover modification of the files, and distribution when not linked into a &lt;&lt;var;name="combined";original="combined";match="combined|combine"&gt;&gt; executable.)
+
+</spdx:licenseExceptionTemplate>
+  </spdx:LicenseException>
+</rdf:RDF>

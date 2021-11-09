@@ -1,0 +1,91 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:LicenseException rdf:about="http://spdx.org/licenses/Qwt-exception-1.0">
+    <rdfs:seeAlso>http://qwt.sourceforge.net/qwtlicense.html</rdfs:seeAlso>
+    <rdfs:comment>Specified to be associated with LGPL-2.1. On Fedora List as "Qwt License 1.0".</rdfs:comment>
+    <spdx:name>Qwt exception 1.0</spdx:name>
+    <spdx:exceptionTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;Qwt License Version 1.0,
+        &lt;br /&gt;
+
+January 1, 2003
+      &lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;p&gt;The Qwt library and included programs are provided under the
+         terms of the GNU LESSER GENERAL PUBLIC LICENSE (LGPL) with the
+         following exceptions:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          Widgets that are subclassed from Qwt widgets do not
+             constitute a derivative work.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          Static linking of applications and widgets to the Qwt
+             library does not constitute a derivative work and does
+             not require the author to provide source code for the
+             application or widget, use the shared Qwt libraries,
+             or link their applications or widgets against a
+             user-supplied version of Qwt. If you link the
+             application or widget to a modified version of Qwt,
+             then the changes to Qwt must be provided under the
+             terms of the LGPL in sections 1, 2, and 4.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          You do not have to provide a copy of the Qwt license with
+             programs that are linked to the Qwt library, nor do
+             you have to identify the Qwt license in your program
+             or documentation as required by section 6 of the
+             LGPL.
+        &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;p&gt;However, programs must still identify their use of Qwt. The
+         following example statement can be included in user
+         documentation to satisfy this requirement: [program/widget] is
+         based in part on the work of the Qwt project
+         (http://qwt.sf.net).&amp;quot;&lt;/p&gt;
+
+    </spdx:exceptionTextHtml>
+    <spdx:licenseExceptionText>Qwt License Version 1.0,
+January 1, 2003
+
+The Qwt library and included programs are provided under the terms of the GNU LESSER GENERAL PUBLIC LICENSE (LGPL) with the following exceptions:
+
+1. Widgets that are subclassed from Qwt widgets do not constitute a derivative work.
+
+2. Static linking of applications and widgets to the Qwt library does not constitute a derivative work and does not require the author to provide source code for the application or widget, use the shared Qwt libraries, or link their applications or widgets against a user-supplied version of Qwt. If you link the application or widget to a modified version of Qwt, then the changes to Qwt must be provided under the terms of the LGPL in sections 1, 2, and 4.
+
+3. You do not have to provide a copy of the Qwt license with programs that are linked to the Qwt library, nor do you have to identify the Qwt license in your program or documentation as required by section 6 of the LGPL.
+
+However, programs must still identify their use of Qwt. The following example statement can be included in user documentation to satisfy this requirement: [program/widget] is based in part on the work of the Qwt project (http://qwt.sf.net)."
+</spdx:licenseExceptionText>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:licenseExceptionTemplate>&lt;&lt;beginOptional&gt;&gt; Qwt License Version 1.0,
+
+January 1, 2003
+
+&lt;&lt;endOptional&gt;&gt;
+
+The Qwt library and included programs are provided under the terms of the GNU LESSER GENERAL PUBLIC LICENSE (LGPL) with the following exceptions:
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; Widgets that are subclassed from Qwt widgets do not constitute a derivative work.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Static linking of applications and widgets to the Qwt library does not constitute a derivative work and does not require the author to provide source code for the application or widget, use the shared Qwt libraries, or link their applications or widgets against a user-supplied version of Qwt. If you link the application or widget to a modified version of Qwt, then the changes to Qwt must be provided under the terms of the LGPL in sections 1, 2, and 4.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; You do not have to provide a copy of the Qwt license with programs that are linked to the Qwt library, nor do you have to identify the Qwt license in your program or documentation as required by section 6 of the LGPL.
+
+However, programs must still identify their use of Qwt. The following example statement can be included in user documentation to satisfy this requirement: [program/widget] is based in part on the work of the Qwt project (http://qwt.sf.net)."
+
+</spdx:licenseExceptionTemplate>
+  </spdx:LicenseException>
+</rdf:RDF>

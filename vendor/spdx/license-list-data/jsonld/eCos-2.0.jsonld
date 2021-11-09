@@ -1,0 +1,89 @@
+{
+  "@graph" : [ {
+    "@id" : "_:b0",
+    "@type" : "spdx:CrossRef",
+    "spdx:isLive" : true,
+    "spdx:isValid" : true,
+    "spdx:isWayBackLink" : false,
+    "match" : "true",
+    "order" : "0",
+    "timestamp" : "2021-11-09 - 17:00:05",
+    "url" : "https://www.gnu.org/licenses/ecos-license.html"
+  }, {
+    "@id" : "http://spdx.org/licenses/eCos-2.0",
+    "@type" : "spdx:ListedLicense",
+    "crossRef" : "_:b0",
+    "deprecatedVersion" : "2.0rc2",
+    "spdx:isDeprecatedLicenseId" : true,
+    "spdx:isOsiApproved" : false,
+    "licenseText" : "The eCos license version 2.0\n\nThis file is part of eCos, the Embedded Configurable Operating System. Copyright (C) 1998, 1999, 2000, 2001, 2002 Red Hat, Inc.\n\neCos is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 or (at your option) any later version.\n\neCos is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with eCos; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.\n\nAs a special exception, if other files instantiate templates or use macros or inline functions from this file, or you compile this file and link it with other works to produce a work based on this file, this file does not by itself cause the resulting work to be covered by the GNU General Public License. However the source code for this file must still be made available in accordance with section (3) of the GNU General Public License.\n\nThis exception does not invalidate any other reasons why a work based on this file might be covered by the GNU General Public License.\n\nAlternative licenses for eCos may be arranged by contacting Red Hat, Inc. at http://sources.redhat.com/ecos/ecos-license/ -------------------------------------------\n\n####ECOSGPLCOPYRIGHTEND####\n\n",
+    "licenseTextHtml" : "\n      <var class=\"optional-license-text\">The eCos license version 2.0</var>\n\n\t     <p>This file is part of eCos, the Embedded Configurable Operating System. Copyright (C) 1998, 1999, 2000, 2001, 2002 Red Hat, Inc.</p>\n\n\t     <p>eCos is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 or (at your option) any later version.</p>\n\n\t     <p>eCos is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.</p>\n\n\t     <p>You should have received a copy of the GNU General Public License along with eCos; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.</p>\n\n\t     <p>As a special exception, if other files instantiate templates or use macros or inline functions from this file, or you compile this file and link it with other works to produce a work based on this file, this file does not by itself cause the resulting work to be covered by the GNU General Public License. However the source code for this file must still be made available in accordance with section (3) of the GNU General Public License.</p>\n\n\t     <p>This exception does not invalidate any other reasons why a work based on this file might be covered by the GNU General Public License.</p>\n\n\t     <p>Alternative licenses for eCos may be arranged by contacting Red Hat, Inc. at http://sources.redhat.com/ecos/ecos-license/ -------------------------------------------</p>\n\n      <div class=\"optional-license-text\">\n\t        <p>####ECOSGPLCOPYRIGHTEND####</p>\n\n      </div>\n    ",
+    "name" : "eCos license version 2.0",
+    "standardLicenseTemplate" : "<<beginOptional>> The eCos license version 2.0<<endOptional>>\n\nThis file is part of eCos, the Embedded Configurable Operating System. Copyright (C) 1998, 1999, 2000, 2001, 2002 Red Hat, Inc.\n\neCos is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 or (at your option) any later version.\n\neCos is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with eCos; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA.\n\nAs a special exception, if other files instantiate templates or use macros or inline functions from this file, or you compile this file and link it with other works to produce a work based on this file, this file does not by itself cause the resulting work to be covered by the GNU General Public License. However the source code for this file must still be made available in accordance with section (3) of the GNU General Public License.\n\nThis exception does not invalidate any other reasons why a work based on this file might be covered by the GNU General Public License.\n\nAlternative licenses for eCos may be arranged by contacting Red Hat, Inc. at http://sources.redhat.com/ecos/ecos-license/ -------------------------------------------\n\n<<beginOptional>> ####ECOSGPLCOPYRIGHTEND####\n\n<<endOptional>>",
+    "comment" : "DEPRECATED: Use license expression including main license, \"WITH\" operator, and identifier: eCos-exception-2.0",
+    "seeAlso" : "https://www.gnu.org/licenses/ecos-license.html"
+  } ],
+  "@context" : {
+    "timestamp" : {
+      "@id" : "http://spdx.org/rdf/terms#timestamp"
+    },
+    "order" : {
+      "@id" : "http://spdx.org/rdf/terms#order",
+      "@type" : "http://www.w3.org/2001/XMLSchema#int"
+    },
+    "url" : {
+      "@id" : "http://spdx.org/rdf/terms#url"
+    },
+    "match" : {
+      "@id" : "http://spdx.org/rdf/terms#match"
+    },
+    "isWayBackLink" : {
+      "@id" : "http://spdx.org/rdf/terms#isWayBackLink",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isValid" : {
+      "@id" : "http://spdx.org/rdf/terms#isValid",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isLive" : {
+      "@id" : "http://spdx.org/rdf/terms#isLive",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "comment" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#comment"
+    },
+    "seeAlso" : {
+      "@id" : "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+    },
+    "crossRef" : {
+      "@id" : "http://spdx.org/rdf/terms#crossRef",
+      "@type" : "@id"
+    },
+    "licenseText" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseText"
+    },
+    "licenseTextHtml" : {
+      "@id" : "http://spdx.org/rdf/terms#licenseTextHtml"
+    },
+    "standardLicenseTemplate" : {
+      "@id" : "http://spdx.org/rdf/terms#standardLicenseTemplate"
+    },
+    "deprecatedVersion" : {
+      "@id" : "http://spdx.org/rdf/terms#deprecatedVersion"
+    },
+    "name" : {
+      "@id" : "http://spdx.org/rdf/terms#name"
+    },
+    "isDeprecatedLicenseId" : {
+      "@id" : "http://spdx.org/rdf/terms#isDeprecatedLicenseId",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "isOsiApproved" : {
+      "@id" : "http://spdx.org/rdf/terms#isOsiApproved",
+      "@type" : "http://www.w3.org/2001/XMLSchema#boolean"
+    },
+    "spdx" : "http://spdx.org/rdf/terms#",
+    "doap" : "http://usefulinc.com/ns/doap#",
+    "ptr" : "http://www.w3.org/2009/pointers#"
+  }
+}

@@ -1,0 +1,109 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/EFL-2.0">
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isOsiApproved>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 17:01:04</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>http://www.eiffel-nice.org/license/eiffel-forum-license-2.html</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:name>Eiffel Forum License v2.0</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 17:01:05</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >1</spdx:order>
+        <spdx:url>https://opensource.org/licenses/EFL-2.0</spdx:url>
+        <spdx:match>false</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; Eiffel Forum License, version 2
+
+&lt;&lt;endOptional&gt;&gt;
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:
+
+      &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; copyright notices are retained unchanged,
+
+      &lt;&lt;var;name="bullet";original="-";match=".{0,20}"&gt;&gt; any distribution of this package, whether modified or not, includes this license text.
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Permission is hereby also granted to distribute binary programs which depend on this package. If the binary program depends on a modified version of this package, you are encouraged to publicly release the modified version of this package.
+
+THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS PACKAGE.
+
+</spdx:standardLicenseTemplate>
+    <spdx:licenseText>Eiffel Forum License, version 2
+
+1. Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:
+     - copyright notices are retained unchanged,
+     - any distribution of this package, whether modified or not, includes this license text.
+
+2. Permission is hereby also granted to distribute binary programs which depend on this package. If the binary program depends on a modified version of this package, you are encouraged to publicly release the modified version of this package.
+
+THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS PACKAGE.
+</spdx:licenseText>
+    <rdfs:seeAlso>https://opensource.org/licenses/EFL-2.0</rdfs:seeAlso>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isDeprecatedLicenseId>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;Eiffel Forum License, version 2&lt;/p&gt;
+
+      &lt;/div&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          Permission is hereby granted to use, copy, modify and/or distribute this package, provided that:
+          
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;-&lt;/var&gt;
+              copyright notices are retained unchanged,
+            &lt;/li&gt;
+&lt;li&gt;
+                  &lt;var class="replacable-license-text"&gt;-&lt;/var&gt;
+              any distribution of this package, whether modified or not, includes this license text.
+            &lt;/li&gt;
+&lt;/ul&gt;
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          Permission is hereby also granted to distribute binary programs which depend on this package. If
+             the binary program depends on a modified version of this package, you are encouraged to
+             publicly release the modified version of this package.
+        &lt;/li&gt;
+&lt;/ul&gt;
+      &lt;p&gt;THIS PACKAGE IS PROVIDED &amp;quot;AS IS&amp;quot; AND WITHOUT WARRANTY. ANY EXPRESS OR IMPLIED WARRANTIES,
+         INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+         PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHORS BE LIABLE TO ANY PARTY FOR ANY DIRECT, INDIRECT,
+         INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THIS
+         PACKAGE.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:isFsfLibre rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isFsfLibre>
+    <rdfs:seeAlso>http://www.eiffel-nice.org/license/eiffel-forum-license-2.html</rdfs:seeAlso>
+  </spdx:ListedLicense>
+</rdf:RDF>

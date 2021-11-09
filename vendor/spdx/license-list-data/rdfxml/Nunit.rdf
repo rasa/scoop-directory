@@ -1,0 +1,96 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/Nunit">
+    <rdfs:seeAlso>https://fedoraproject.org/wiki/Licensing/Nunit</rdfs:seeAlso>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isDeprecatedLicenseId>
+    <spdx:standardLicenseTemplate>&lt;&lt;var;name="copyright";original="Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole  Copyright © 2000-2004 Philip A. Craig  ";match=".{0,5000}"&gt;&gt;
+
+This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+
+   &lt;&lt;var;name="bullet";original="1.";match=".{0,20}"&gt;&gt; The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment (see the following) in the product documentation is required.
+
+   Portions Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole or Copyright © 2000-2004 Philip A. Craig
+
+   &lt;&lt;var;name="bullet";original="2.";match=".{0,20}"&gt;&gt; Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+
+   &lt;&lt;var;name="bullet";original="3.";match=".{0,20}"&gt;&gt; This notice may not be removed or altered from any source distribution.</spdx:standardLicenseTemplate>
+    <spdx:deprecatedVersion>3.0</spdx:deprecatedVersion>
+    <spdx:licenseText>Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole
+Copyright © 2000-2004 Philip A. Craig
+
+This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+
+1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment (see the following) in the product documentation is required.
+
+Portions Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole or Copyright © 2000-2004 Philip A. Craig
+
+2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+
+3. This notice may not be removed or altered from any source distribution.
+</spdx:licenseText>
+    <spdx:licenseTextHtml>
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie Poole
+        &lt;br /&gt;
+
+Copyright © 2000-2004 Philip A. Craig
+      &lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;This software is provided &amp;apos;as-is&amp;apos;, without any express or implied warranty. In no event will the authors
+         be held liable for any damages arising from the use of this software.&lt;/p&gt;
+
+      &lt;p&gt;Permission is granted to anyone to use this software for any purpose, including commercial applications,
+         and to alter it and redistribute it freely, subject to the following restrictions:&lt;/p&gt;
+
+&lt;ul style="list-style:none"&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;1.&lt;/var&gt;
+          The origin of this software must not be misrepresented; you must not claim that you wrote the
+             original software. If you use this software in a product, an acknowledgment (see the
+             following) in the product documentation is required.
+          &lt;p&gt;Portions Copyright © 2002-2004 James W. Newkirk, Michael C. Two, Alexei A. Vorontsov, Charlie
+             Poole or Copyright © 2000-2004 Philip A. Craig&lt;/p&gt;
+
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;2.&lt;/var&gt;
+          Altered source versions must be plainly marked as such, and must not be misrepresented as being
+             the original software.
+        &lt;/li&gt;
+&lt;li&gt;
+            &lt;var class="replacable-license-text"&gt;3.&lt;/var&gt;
+          This notice may not be removed or altered from any source distribution.
+        &lt;/li&gt;
+&lt;/ul&gt;
+    </spdx:licenseTextHtml>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:name>Nunit License</spdx:name>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:57:46</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>https://fedoraproject.org/wiki/Licensing/Nunit</spdx:url>
+        <spdx:match>true</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >true</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+  </spdx:ListedLicense>
+</rdf:RDF>

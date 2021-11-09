@@ -1,0 +1,80 @@
+<rdf:RDF
+    xmlns:spdx="http://spdx.org/rdf/terms#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:doap="http://usefulinc.com/ns/doap#"
+    xmlns:ptr="http://www.w3.org/2009/pointers#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <spdx:ListedLicense rdf:about="http://spdx.org/licenses/StandardML-NJ">
+    <rdfs:seeAlso>http://www.smlnj.org//license.html</rdfs:seeAlso>
+    <spdx:name>Standard ML of New Jersey License</spdx:name>
+    <spdx:licenseTextHtml>
+      &lt;div class="optional-license-text"&gt;
+         &lt;p&gt;STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.&lt;/p&gt;
+
+      &lt;/div&gt;
+      &lt;div class="replacable-license-text"&gt;
+         &lt;p&gt;Copyright (c) 2001-2011 by The Fellowship of SML/NJ
+        &lt;br /&gt;
+
+Copyright (c) 1989-2001 by Lucent Technologies
+      &lt;/p&gt;
+
+      &lt;/div&gt;
+
+      &lt;p&gt;Permission to use, copy, modify, and distribute this software and its documentation for any purpose and
+         without fee is hereby granted, provided that the above copyright notice appear in all copies and that
+         both the copyright notice and this permission notice and warranty disclaimer appear in supporting
+         documentation, and that the name of Lucent Technologies, Bell Labs or any Lucent entity not be used in
+         advertising or publicity pertaining to distribution of the software without specific, written prior
+         permission.&lt;/p&gt;
+
+      &lt;p&gt;Lucent disclaims all warranties with regard to this software, including all implied warranties of
+         merchantability and fitness. In no event shall Lucent be liable for any special, indirect or
+         consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether
+         in an action of contract, negligence or other tortious action, arising out of or in connection with
+         the use or performance of this software.&lt;/p&gt;
+
+    </spdx:licenseTextHtml>
+    <spdx:isOsiApproved rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >false</spdx:isOsiApproved>
+    <spdx:deprecatedVersion>2.0rc2</spdx:deprecatedVersion>
+    <rdfs:comment>DEPRECATED: Duplicate license, use identifier: SMLNJ</rdfs:comment>
+    <spdx:standardLicenseTemplate>&lt;&lt;beginOptional&gt;&gt; STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.
+
+&lt;&lt;endOptional&gt;&gt; &lt;&lt;var;name="copyright";original="Copyright (c) 2001-2011 by The Fellowship of SML/NJ  Copyright (c) 1989-2001 by Lucent Technologies  ";match=".{0,5000}"&gt;&gt;
+
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and that both the copyright notice and this permission notice and warranty disclaimer appear in supporting documentation, and that the name of Lucent Technologies, Bell Labs or any Lucent entity not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission.
+
+Lucent disclaims all warranties with regard to this software, including all implied warranties of merchantability and fitness. In no event shall Lucent be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
+
+</spdx:standardLicenseTemplate>
+    <spdx:crossRef>
+      <spdx:CrossRef>
+        <spdx:timestamp>2021-11-09 - 16:54:55</spdx:timestamp>
+        <spdx:order rdf:datatype="http://www.w3.org/2001/XMLSchema#int"
+        >0</spdx:order>
+        <spdx:url>http://www.smlnj.org//license.html</spdx:url>
+        <spdx:match>N/A</spdx:match>
+        <spdx:isWayBackLink rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isWayBackLink>
+        <spdx:isValid rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isValid>
+        <spdx:isLive rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+        >false</spdx:isLive>
+      </spdx:CrossRef>
+    </spdx:crossRef>
+    <spdx:isDeprecatedLicenseId rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean"
+    >true</spdx:isDeprecatedLicenseId>
+    <spdx:licenseText>STANDARD ML OF NEW JERSEY COPYRIGHT NOTICE, LICENSE AND DISCLAIMER.
+
+Copyright (c) 2001-2011 by The Fellowship of SML/NJ
+
+Copyright (c) 1989-2001 by Lucent Technologies
+
+Permission to use, copy, modify, and distribute this software and its documentation for any purpose and without fee is hereby granted, provided that the above copyright notice appear in all copies and that both the copyright notice and this permission notice and warranty disclaimer appear in supporting documentation, and that the name of Lucent Technologies, Bell Labs or any Lucent entity not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission.
+
+Lucent disclaims all warranties with regard to this software, including all implied warranties of merchantability and fitness. In no event shall Lucent be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of this software.
+
+</spdx:licenseText>
+  </spdx:ListedLicense>
+</rdf:RDF>

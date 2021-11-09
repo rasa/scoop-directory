@@ -1,0 +1,23 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix ptr:   <http://www.w3.org/2009/pointers#> .
+
+<http://spdx.org/licenses/dvipdfm>
+        a                             spdx:ListedLicense ;
+        <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                "https://fedoraproject.org/wiki/Licensing/dvipdfm" ;
+        spdx:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         true ;
+                                        spdx:isValid        true ;
+                                        spdx:isWayBackLink  false ;
+                                        spdx:match          "false" ;
+                                        spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+                                        spdx:timestamp      "2021-11-09 - 16:56:31" ;
+                                        spdx:url            "https://fedoraproject.org/wiki/Licensing/dvipdfm"
+                                      ] ;
+        spdx:isDeprecatedLicenseId    false ;
+        spdx:isOsiApproved            false ;
+        spdx:licenseText              "A modified version of this file may be distributed, but it should be distributed with a *different* name. Changed files must be distributed *together with a complete and unchanged* distribution of these files.\n" ;
+        spdx:licenseTextHtml          "\n      <p>A modified version of this file may be distributed, but it should be distributed with a *different* name.\n         Changed files must be distributed *together with a complete and unchanged* distribution of these\n         files.</p>\n\n    " ;
+        spdx:name                     "dvipdfm License" ;
+        spdx:standardLicenseTemplate  "A modified version of this file may be distributed, but it should be distributed with a *different* name. Changed files must be distributed *together with a complete and unchanged* distribution of these files.\n\n" .

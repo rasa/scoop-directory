@@ -1,0 +1,23 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix ptr:   <http://www.w3.org/2009/pointers#> .
+
+<http://spdx.org/licenses/Wsuipa>
+        a                             spdx:ListedLicense ;
+        <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                "https://fedoraproject.org/wiki/Licensing/Wsuipa" ;
+        spdx:crossRef                 [ a                   spdx:CrossRef ;
+                                        spdx:isLive         true ;
+                                        spdx:isValid        true ;
+                                        spdx:isWayBackLink  false ;
+                                        spdx:match          "true" ;
+                                        spdx:order          "0"^^<http://www.w3.org/2001/XMLSchema#int> ;
+                                        spdx:timestamp      "2021-11-09 - 16:54:25" ;
+                                        spdx:url            "https://fedoraproject.org/wiki/Licensing/Wsuipa"
+                                      ] ;
+        spdx:isDeprecatedLicenseId    false ;
+        spdx:isOsiApproved            false ;
+        spdx:licenseText              "This file was added by Clea F. Rees on 2008/11/30 with the permission of Dean Guenther and pointers to this file were added to all source files.\n\nUnlimited copying and redistribution of each of the files is permitted as long as the file is not modified. Modifications, and redistribution of modified versions, are also permitted, but only if the resulting file is renamed.\n\nThe copyright holder is Washington State University. The original author of the fonts is Janene Winter. The primary contact (as of 2008) is Dean Guenther.\n" ;
+        spdx:licenseTextHtml          "\n      <div class=\"optional-license-text\">\n         <p>This file was added by Clea F. Rees on 2008/11/30 with the permission of Dean Guenther and pointers to\n         this file were added to all source files.</p>\n\n      </div>\n\n      <p>Unlimited copying and redistribution of each of the files is permitted as long as the file is not\n         modified. Modifications, and redistribution of modified versions, are also permitted, but only if the\n         resulting file is renamed.</p>\n\n      <div class=\"replacable-license-text\">\n         <p>The copyright holder is Washington State University. The original author of the fonts is Janene Winter.\n         The primary contact (as of 2008) is Dean Guenther.</p>\n\n      </div>\n    " ;
+        spdx:name                     "Wsuipa License" ;
+        spdx:standardLicenseTemplate  "<<beginOptional>> This file was added by Clea F. Rees on 2008/11/30 with the permission of Dean Guenther and pointers to this file were added to all source files.\n\n<<endOptional>>\n\nUnlimited copying and redistribution of each of the files is permitted as long as the file is not modified. Modifications, and redistribution of modified versions, are also permitted, but only if the resulting file is renamed.\n\n<<var;name=\"copyright\";original=\"The copyright holder is Washington State University. The original author of the fonts is Janene Winter. The primary contact (as of 2008) is Dean Guenther.  \";match=\".{0,5000}\">>" .

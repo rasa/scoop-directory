@@ -1,0 +1,13 @@
+@prefix spdx:  <http://spdx.org/rdf/terms#> .
+@prefix doap:  <http://usefulinc.com/ns/doap#> .
+@prefix ptr:   <http://www.w3.org/2009/pointers#> .
+
+<http://spdx.org/licenses/Bootloader-exception>
+        a                              spdx:LicenseException ;
+        <http://www.w3.org/2000/01/rdf-schema#seeAlso>
+                "https://github.com/pyinstaller/pyinstaller/blob/develop/COPYING.txt" ;
+        spdx:exceptionTextHtml         "\n      <div class=\"optional-license-text\">\n         <p>Bootloader Exception<var class=\"replacable-license-text\"></var></p>\n\n      </div>\n<p>In addition to the permissions in the GNU General Public License, the\nauthors give you unlimited permission to link or embed compiled bootloader\nand related files into combinations with other programs, and to distribute\nthose combinations without any restriction coming from the use of those\nfiles. (The General Public License restrictions do apply in other respects;\nfor example, they cover modification of the files, and distribution when\nnot linked into a <var class=\"replacable-license-text\">combined</var> executable.)</p>\n\n    " ;
+        spdx:isDeprecatedLicenseId     false ;
+        spdx:licenseExceptionTemplate  "<<beginOptional>> Bootloader Exception <<var;name=\"titleUnderline\";original=\"\";match=\"-*\">>\n\n<<endOptional>>\n\nIn addition to the permissions in the GNU General Public License, the authors give you unlimited permission to link or embed compiled bootloader and related files into combinations with other programs, and to distribute those combinations without any restriction coming from the use of those files. (The General Public License restrictions do apply in other respects; for example, they cover modification of the files, and distribution when not linked into a <<var;name=\"combined\";original=\"combined\";match=\"combined|combine\">> executable.)\n\n" ;
+        spdx:licenseExceptionText      "Bootloader Exception\n--------------------\n\nIn addition to the permissions in the GNU General Public License, the\nauthors give you unlimited permission to link or embed compiled bootloader\nand related files into combinations with other programs, and to distribute\nthose combinations without any restriction coming from the use of those\nfiles. (The General Public License restrictions do apply in other respects;\nfor example, they cover modification of the files, and distribution when\nnot linked into a combine executable.)\n" ;
+        spdx:name                      "Bootloader Distribution Exception" .
