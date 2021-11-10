@@ -27,22 +27,14 @@ import requests
 import jsonschema
 
 lmap = {
-    "commercial":
-        "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
-    "freeware":
-        "https://en.wikipedia.org/wiki/Freeware",
-    "proprietary":
-        "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
-    "public_domain":
-        "https://wiki.creativecommons.org/wiki/Public_domain",
-    "public domain":
-        "https://wiki.creativecommons.org/wiki/Public_domain",
-    "public-domain":
-        "https://wiki.creativecommons.org/wiki/Public_domain",
-    "publicdomain":
-        "https://wiki.creativecommons.org/wiki/Public_domain",
-    "shareware":
-        "https://en.wikipedia.org/wiki/Shareware",
+    "commercial": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
+    "freeware": "https://en.wikipedia.org/wiki/Freeware",
+    "proprietary": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
+    "public_domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "public domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "public-domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "publicdomain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "shareware": "https://en.wikipedia.org/wiki/Shareware",
 }
 
 # skip these as they are dups of other buckets
@@ -63,142 +55,144 @@ max_pages = 2
 
 searches = []
 
-searches.append({
-    "pages": max_pages,
-    "score": True,
-    "searches": [
-        "scoop-bucket",
-        "scoop+bucket",
-    ],
-})
+searches.append(
+    {
+        "pages": max_pages,
+        "score": True,
+        "searches": [
+            "scoop-bucket",
+            "scoop+bucket",
+        ],
+    }
+)
 
-searches.append({
-    "pages":
-        max_pages,
-    "score":
-        True,
-    "searches": [
-        "scoop",
-        # @todo regen this list
-        "82p/scoop-yubico-bucket",
-        "Aaike/scoop",
-        "Alxandr/scoop-bucket",
-        "Ash258/Scoop-Ash258",
-        "AStupidBear/scoop-bear",
-        "BjoernPetersen/scoop-misc-bucket",
-        "Callidin/ragnar-scoop",
-        "Congee/barrel",
-        "DimiG/dgBucket",
-        "Doublemine/scoops",
-        "ErnWong/scoop-bucket",
-        "Guard13007/ScoopBucket",
-        "Jeddunk/scoop-bucket",
-        "Jokler/scoop-bucket",
-        "Lomeli12/ScoopBucket",
-        "MCOfficer/scoop-bucket",
-        "MCOfficer/scoop-nirsoft",
-        "Sandex/scoop-supernova",
-        "Southclaws/scoops",
-        "TheLastZombie/scoop-bucket",
-        "TheRandomLabs/Scoop-Bucket",
-        "TheRandomLabs/Scoop-Python",
-        "TheRandomLabs/Scoop-Spotify",
-        "TnmkFan/my-bucket",
-        "TorrentKatten/torrentkatten-scoop-bucket",
-        "Utdanningsdirektoratet/PAS-scoop-public",
-        "Vngdv/another-useless-scoop-bucket",
-        "anurse/scoop-bucket",
-        "bitrvmpd/scoop-wuff",
-        "broovy/scoop-bucket",
-        "comp500/scoop-browser",
-        "comp500/scoop-comp500",
-        "cprecioso/scoop-lektor",
-        "deevus/scoop-games",
-        "demas/demas-scoop",
-        "dennislloydjr/scoop-bucket-devbox",
-        "divanvisagie/scoop-bucket",
-        "dooteeen/scoop-for-jp",
-        "edgardmessias/scoop-pentaho",
-        "excitoon/scoop-user",
-        "ezhikov/scoop-bucket",
-        "follnoob/follnoob-bucket",
-        "fredjoseph/scoop-bucket",
-        "furyfire/my-bucket",
-        "galbro/my-bucket",
-        "gexclaude/scoop-bucket",
-        "ghchinoy/scoop-ce",
-        "ghchinoy/scoop-roguewave",
-        "goreleaser/scoop-bucket",
-        "guitarrapc/scoop-bucket",
-        "h404bi/dorado",
-        "hermanjustnu/scoop-emulators",
-        "huangnauh/carrot",
-        "iainsgillis/isg-bucket",
-        "idursun/my-bucket",
-        "jamesgecko/scoop-packages",
-        "jat001/scoop-ox",
-        "javageek/scoop-bucket",
-        "jfut/scoop-jfut",
-        "jfut/scoop-pleiades",
-        "jmcarbo/scoopbucket",
-        "kentork/scoop-leaky-bucket",
-        "klaidliadon/scoop-buckets",
-        "klauern/trackello-bucket",
-        "liaoya/scoop-bucket",
-        "lillicoder/scoop-openjdk6",
-        "littleli/scoop-clojure",
-        "littleli/Scoop-littleli",
-        "lptstr/open-scoop",
-        "lzimd/lzimd-scoop-bucket",
-        "maman/scoop-bucket",
-        "masaeedu/scoop-growlnotify",
-        "masonm12/scoop-personal",
-        "mattkang/scoop-bucket",
-        "michaelxmcbride/scoop-michaelxmcbride",
-        "mko-x/bucket",
-        "mmichaelis/scoop-bucket",
-        "monotykamary/toms-scoop-bucket",
-        "narnaud/scoop-bucket",
-        "nikolasd/scoop-bucket",
-        "noquierouser/nqu-scoop",
-        "nrakochy/scoop-solidity",
-        "nsstrunks/scoop-bucket",
-        "nueko/scoop-php",
-        "nueko/scoop-php-ext",
-        "ondr3j/scoop-misc",
-        "pastleo/scoop-bucket",
-        "pcrama/scoop-buckets",
-        "pgollangi/scoop-bucket",
-        "pigsflew/scoop-arbitrariae",
-        "prezesp/scoop-viewer-bucket",
-        "rasa/scoops",
-        "rcqls/scoop-extras",
-        "rivy/scoop.bucket-scoop.main",
-        "rkolka/scoop-manifold",
-        "se35710/scoop-ibm",
-        "siddarthasagar/scoopbucket",
-        "simonwjackson/my-bucket",
-        "starise/Scoop-Confetti",
-        "stlhrt/steel-buckets",
-        "svkoh/scoop-bucket",
-        "systemexitzero/scoop-bucket",
-        "tapanchandra/scoop-personal",
-        "thushan/scoop-devtools",
-        "tditlu/scoop-amiga",
-        "themrhead/scoop-bucket-apps",
-        "toburger/scoop-buckets",
-        "twxs/scoop-buckets",
-        "vidarkongsli/vidars-scoop-bucket",
-        "wangzq/scoop-bucket",
-        "webwesen/webwesen-scoop-bucket",
-        "wrokred/phpdev-scoop-bucket",
-        "yt3r/test-bucket",
-        "yuanying1199/scoopbucket",
-        "yutahaga/scoop-bucket",
-        "zhoujin7/tomato",
-        "GreatGodApollo/trough",
-    ],
-})
+searches.append(
+    {
+        "pages": max_pages,
+        "score": True,
+        "searches": [
+            "scoop",
+            # @todo regen this list
+            "82p/scoop-yubico-bucket",
+            "Aaike/scoop",
+            "Alxandr/scoop-bucket",
+            "Ash258/Scoop-Ash258",
+            "AStupidBear/scoop-bear",
+            "BjoernPetersen/scoop-misc-bucket",
+            "Callidin/ragnar-scoop",
+            "Congee/barrel",
+            "DimiG/dgBucket",
+            "Doublemine/scoops",
+            "ErnWong/scoop-bucket",
+            "Guard13007/ScoopBucket",
+            "Jeddunk/scoop-bucket",
+            "Jokler/scoop-bucket",
+            "Lomeli12/ScoopBucket",
+            "MCOfficer/scoop-bucket",
+            "MCOfficer/scoop-nirsoft",
+            "Sandex/scoop-supernova",
+            "Southclaws/scoops",
+            "TheLastZombie/scoop-bucket",
+            "TheRandomLabs/Scoop-Bucket",
+            "TheRandomLabs/Scoop-Python",
+            "TheRandomLabs/Scoop-Spotify",
+            "TnmkFan/my-bucket",
+            "TorrentKatten/torrentkatten-scoop-bucket",
+            "Utdanningsdirektoratet/PAS-scoop-public",
+            "Vngdv/another-useless-scoop-bucket",
+            "anurse/scoop-bucket",
+            "bitrvmpd/scoop-wuff",
+            "broovy/scoop-bucket",
+            "comp500/scoop-browser",
+            "comp500/scoop-comp500",
+            "cprecioso/scoop-lektor",
+            "deevus/scoop-games",
+            "demas/demas-scoop",
+            "dennislloydjr/scoop-bucket-devbox",
+            "divanvisagie/scoop-bucket",
+            "dooteeen/scoop-for-jp",
+            "edgardmessias/scoop-pentaho",
+            "excitoon/scoop-user",
+            "ezhikov/scoop-bucket",
+            "follnoob/follnoob-bucket",
+            "fredjoseph/scoop-bucket",
+            "furyfire/my-bucket",
+            "galbro/my-bucket",
+            "gexclaude/scoop-bucket",
+            "ghchinoy/scoop-ce",
+            "ghchinoy/scoop-roguewave",
+            "goreleaser/scoop-bucket",
+            "guitarrapc/scoop-bucket",
+            "h404bi/dorado",
+            "hermanjustnu/scoop-emulators",
+            "huangnauh/carrot",
+            "iainsgillis/isg-bucket",
+            "idursun/my-bucket",
+            "jamesgecko/scoop-packages",
+            "jat001/scoop-ox",
+            "javageek/scoop-bucket",
+            "jfut/scoop-jfut",
+            "jfut/scoop-pleiades",
+            "jmcarbo/scoopbucket",
+            "kentork/scoop-leaky-bucket",
+            "klaidliadon/scoop-buckets",
+            "klauern/trackello-bucket",
+            "liaoya/scoop-bucket",
+            "lillicoder/scoop-openjdk6",
+            "littleli/scoop-clojure",
+            "littleli/Scoop-littleli",
+            "lptstr/open-scoop",
+            "lzimd/lzimd-scoop-bucket",
+            "maman/scoop-bucket",
+            "masaeedu/scoop-growlnotify",
+            "masonm12/scoop-personal",
+            "mattkang/scoop-bucket",
+            "michaelxmcbride/scoop-michaelxmcbride",
+            "mko-x/bucket",
+            "mmichaelis/scoop-bucket",
+            "monotykamary/toms-scoop-bucket",
+            "narnaud/scoop-bucket",
+            "nikolasd/scoop-bucket",
+            "noquierouser/nqu-scoop",
+            "nrakochy/scoop-solidity",
+            "nsstrunks/scoop-bucket",
+            "nueko/scoop-php",
+            "nueko/scoop-php-ext",
+            "ondr3j/scoop-misc",
+            "pastleo/scoop-bucket",
+            "pcrama/scoop-buckets",
+            "pgollangi/scoop-bucket",
+            "pigsflew/scoop-arbitrariae",
+            "prezesp/scoop-viewer-bucket",
+            "rasa/scoops",
+            "rcqls/scoop-extras",
+            "rivy/scoop.bucket-scoop.main",
+            "rkolka/scoop-manifold",
+            "se35710/scoop-ibm",
+            "siddarthasagar/scoopbucket",
+            "simonwjackson/my-bucket",
+            "starise/Scoop-Confetti",
+            "stlhrt/steel-buckets",
+            "svkoh/scoop-bucket",
+            "systemexitzero/scoop-bucket",
+            "tapanchandra/scoop-personal",
+            "thushan/scoop-devtools",
+            "tditlu/scoop-amiga",
+            "themrhead/scoop-bucket-apps",
+            "toburger/scoop-buckets",
+            "twxs/scoop-buckets",
+            "vidarkongsli/vidars-scoop-bucket",
+            "wangzq/scoop-bucket",
+            "webwesen/webwesen-scoop-bucket",
+            "wrokred/phpdev-scoop-bucket",
+            "yt3r/test-bucket",
+            "yuanying1199/scoopbucket",
+            "yutahaga/scoop-bucket",
+            "zhoujin7/tomato",
+            "GreatGodApollo/trough",
+        ],
+    }
+)
 
 
 def fix_license(s):
@@ -481,8 +475,8 @@ def do_parse(file_path):
             err = str(e)
             err = parse_validation_error(err)
             print(
-                "\nError: Invalid json: %s:\n%s\n%s\n%s" %
-                (os.path.basename(file_path), "=" * 80, err, "=" * 80)
+                "\nError: Invalid json: %s:\n%s\n%s\n%s"
+                % (os.path.basename(file_path), "=" * 80, err, "=" * 80)
             )
             m = re.search(r"(Failed validating.*)", err)
             if m is not None:
@@ -511,9 +505,7 @@ def do_parse(file_path):
 def parse_validation_error(err):
     """@todo"""
     try:
-        m = re.match(
-            r"(.*^On instance[^:]*:$)(.*)", err, re.MULTILINE | re.DOTALL
-        )
+        m = re.match(r"(.*^On instance[^:]*:$)(.*)", err, re.MULTILINE | re.DOTALL)
         if m is not None:
             return m.group(1)
     except Exception as e:
@@ -575,9 +567,7 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     if repofoldername not in cache:
         try:
-            git.Repo.clone_from(
-                git_clone_url, os.path.join(cache_dir, repofoldername)
-            )
+            git.Repo.clone_from(git_clone_url, os.path.join(cache_dir, repofoldername))
         except Exception as e:
             if nl:
                 print("")
@@ -608,9 +598,7 @@ def do_repo(repo, i, num_repos, do_score=True):
 
         pattern = "%Y-%m-%dT%H:%M:%S"
         try:
-            epoch = int(
-                time.mktime(time.strptime(repo["updated_at"][:-1], pattern))
-            )
+            epoch = int(time.mktime(time.strptime(repo["updated_at"][:-1], pattern)))
         except Exception:
             epoch = 0
 
@@ -712,9 +700,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 break
 
             default_branch = cache[repofoldername]["default_branch"]
-            manifest_url = "%s/blob/%s%s/%s" % (
-                html_url, default_branch, bucket, f
-            )
+            manifest_url = "%s/blob/%s%s/%s" % (html_url, default_branch, bucket, f)
             row["manifest_url"] = manifest_url
             if not row["url"]:
                 row["url"] = row["manifest_url"]
@@ -778,10 +764,7 @@ def do_repo(repo, i, num_repos, do_score=True):
     if not nl:
         print("%-61s: " % "", end="")
 
-    print(
-        "%3d (score:%10.6f)" %
-        (len(cache[repofoldername]["entries"]), repo["score"])
-    )
+    print("%3d (score:%10.6f)" % (len(cache[repofoldername]["entries"]), repo["score"]))
     return len(cache[repofoldername]["entries"])
 
 
@@ -860,8 +843,7 @@ def sort_repos(first_sort_key, sort_in_reverse):
     print("Sorting output")
     repos = [repo for repo in cache.keys()]
     repos_by_score = [
-        repo for repo in repos
-        if repo != "last_run" and len(cache[repo]["entries"]) > 0
+        repo for repo in repos if repo != "last_run" and len(cache[repo]["entries"]) > 0
     ]
     repos_by_score = sorted(
         repos_by_score,
@@ -975,23 +957,20 @@ def do_db():
                 json = manifest["json"]
                 version = (
                     manifest["version"].split("[", 1)[1].split("]")[0]
-                    if manifest["version"] != "" else ""
+                    if manifest["version"] != ""
+                    else ""
                 )
                 description = manifest["description"]
-                license_id = manifest["license_id"
-                                     ] if "license_id" in manifest else ""
+                license_id = manifest["license_id"] if "license_id" in manifest else ""
                 url = manifest["url"] if "url" in manifest else ""
                 manifest_url = (
-                    manifest["manifest_url"]
-                    if "manifest_url" in manifest else ""
+                    manifest["manifest_url"] if "manifest_url" in manifest else ""
                 )
                 bucket_url = cache[bucket]["url"]
                 license_url = (
                     manifest["license_url"] if "license_url" in manifest else ""
                 )
-                bucket_name = re.sub(
-                    "^https?://[a-z0-9.-]+/", "", bucket_url, re.I
-                )
+                bucket_name = re.sub("^https?://[a-z0-9.-]+/", "", bucket_url, re.I)
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?, ?)",
                     (
