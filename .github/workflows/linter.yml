@@ -29,8 +29,10 @@ jobs:
       - name: Run github/super-linter@v4
         uses: github/super-linter@v4
         env:
+          DEFAULT_BRANCH: $default-branch
+          FILTER_REGEX_EXCLUDE: vendor/*
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           IGNORE_GENERATED_FILES: true
           LOG_LEVEL: WARN
           # VALIDATE_ALL_CODEBASE: false
-          DEFAULT_BRANCH: $default-branch
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
