@@ -23,8 +23,8 @@ import chardet
 import git
 import jinja2
 import jsoncomment
-import requests
 import jsonschema
+import requests
 
 lmap = {
     "commercial": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
