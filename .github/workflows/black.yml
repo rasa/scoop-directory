@@ -29,9 +29,12 @@ jobs:
       run: black maintenance/*.py
 
     - name: run git commit -m "black" -a
+      # was:
+      # git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      # git config --local user.name "github-actions[bot]"
       run: |
-        git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action" 
         git commit -m "black" -a
 
     - name: run ad-m/github-push-action@master
