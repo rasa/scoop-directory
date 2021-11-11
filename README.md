@@ -32,6 +32,8 @@ Created by [@zhoujin7](https://github.com/zhoujin7).
 
 4. [scoop-search](https://github.com/shilangyu/scoop-search) is another command line search utility utility. It can be installed via `scoop install scoop-search` It  searches the buckets installed locally via `scoop bucket add [bucketname]`. Created by [@shilangyu](https://github.com/shilangyu).
 
+5. [Repology](https://repology.org/projects/?inrepo=scoop) searches the Main, Extras, Versions and Games buckets, per [here](https://repology.org/repository/scoop).
+
 ## Notes
 
 A few buckets are excluded as they duplicate other buckets. The list of excluded buckets is [here](https://github.com/rasa/scoop-directory/blob/master/maintenance/github-crawler.py#L135).
