@@ -42,7 +42,9 @@ done = [
     "01walid/it-scoop",
     "go2sun/scoop-bucket-1",  # dup of https://github.com/dodorz/scoop
     "Kiedtl/open-scoop",  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
-    "kkzzhizhou/scoop-apps",
+    "kkzzhizhou/scoop-apps", # Aggregates other buckets
+    "lukesampson/scoop", # No manifests    
+    "mertd/shovel-data", # All manifests in a single file
     "nueko/scoop-php-ext",
     "pavanbijja/scoop-bucket",
     "Psychopovt/open-scoop",
@@ -51,7 +53,7 @@ done = [
     "se35710/scoop-java",
 ]
 
-max_pages = 2
+max_pages = 15
 
 searches = []
 
@@ -60,6 +62,7 @@ searches.append(
         "pages": max_pages,
         "score": True,
         "searches": [
+            "topic:scoop-bucket",
             "scoop-bucket",
             "scoop+bucket",
         ],
