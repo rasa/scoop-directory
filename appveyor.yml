@@ -20,12 +20,13 @@ environment:
 matrix:
   fast_finish: false
 
+# double backslashes not required in set command
+# python -c "import os; import pprint; pprint.pprint(os.getenv('PATH').split(';'));"
+
 init: |
   echo PYTHON=%PYTHON% PYTHON_VERSION=%PYTHON_VERSION% PYTHON_ARCH=%PYTHON_ARCH%
-  @rem double backslashes not required
   set "PATH=%PYTHON%;%PYTHON%\Scripts;%PATH%"
   python -V
-  # python -c "import os; import pprint; pprint.pprint(os.getenv('PATH').split(';'));"
 
 install: |
   set "PATH=%PYTHON%;%PYTHON%\Scripts;%PATH%"
