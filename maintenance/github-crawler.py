@@ -53,7 +53,7 @@ done = [
     "se35710/scoop-java",
 ]
 
-max_pages = 15
+max_pages = 100
 
 searches = []
 
