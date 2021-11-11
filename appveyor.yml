@@ -12,7 +12,7 @@ build: false
 
 environment:
   matrix:
-    - PYTHON: "C:\\Python39"
+    - PYTHON: "C:\Python39"
       PYTHON_VERSION: 3.9
       PYTHON_ARCH: 32
 
@@ -21,17 +21,19 @@ matrix:
 
 init: |
   echo PYTHON=%PYTHON% PYTHON_VERSION=%PYTHON_VERSION% PYTHON_ARCH=%PYTHON_ARCH%
+  where python
   python -V
-  python -c "import os; print(os.getenv('PATH'));"
-  set "PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%"
+  python -c "import os; import pprint; pprint.pprint(os.getenv('PATH').split(';'));"
+  set "PATH=%PYTHON%;%PYTHON%\Scripts;%PATH%"
+  where python
   python -V
-  python -c "import os; print(os.getenv('PATH'));"
+  python -c "import os; import pprint; pprint.pprint(os.getenv('PATH').split(';'));"
 
 install: |
-  set "PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%"
-  %PYTHON%\\python -m pip install --upgrade pip
-  %PYTHON%\\python -m pip install -r maintenance/requirements.txt
+  set "PATH=%PYTHON%;%PYTHON%\Scripts;%PATH%"
+  "%PYTHON%\python" -m pip install --upgrade pip
+  "%PYTHON%\python" -m pip install -r maintenance/requirements.txt
 
 test_script: |
-  set "PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%"
-  %PYTHON%\\python maintenance/github-crawler.py 1
+  set "PATH=%PYTHON%;%PYTHON%\Scripts;%PATH%"
+  "%PYTHON%\python" maintenance/github-crawler.py 1
