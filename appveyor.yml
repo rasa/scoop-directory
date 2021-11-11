@@ -1,5 +1,5 @@
 # appveyor.yml
-
+# See https://pythonhosted.org/CodeChat/appveyor.yml.html
 # Building, testing and deployment for Windows
 
 # Syntax for this file:
@@ -13,15 +13,21 @@ build: false
 environment:
   matrix:
     - PYTHON: "C:\\Python39"
+      PYTHON_VERSION: 3.9
+      PYTHON_ARCH: 32
 
 matrix:
   fast_finish: false
 
-init:
-  - "python -V"
+init: |
+  echo PYTHON=%PYTHON% PYTHON_VERSION=%PYTHON_VERSION% PYTHON_ARCH=%PYTHON_ARCH%
+  python -V
 
-install:
-  - "python -m pip install -r maintenance/requirements.txt"
+install: |
+  set PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%
+  %PYTHON%\\python -m pip install --upgrade pip
+  %PYTHON%\\python -m pip install -r maintenance/requirements.txt
 
-test_script:
-  - "python maintenance/github-crawler.py"
+test_script: |
+  set PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%
+  %PYTHON%\\python maintenance/github-crawler.py
