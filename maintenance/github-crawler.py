@@ -474,15 +474,16 @@ def do_parse(file_path):
         except Exception as e:
             err = str(e)
             err = parse_validation_error(err)
-            print(
-                "\nError: Invalid json: %s:\n%s\n%s\n%s"
-                % (os.path.basename(file_path), "=" * 80, err, "=" * 80)
-            )
+            # print(
+            #    "\nError: Invalid json: %s:\n%s\n%s\n%s"
+            #    % (os.path.basename(file_path), "=" * 80, err, "=" * 80)
+            # )
             m = re.search(r"(Failed validating.*)", err)
             if m is not None:
                 err = m.group(1)
             else:
                 err = "Failed schema validation against %s" % scoop_schema_name
+            print(err)
             rv = "%s %s" % (err, scoop_schema_name)
 
         return (rv, j)
