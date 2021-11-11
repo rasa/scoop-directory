@@ -185,6 +185,7 @@
           END,
           name,
           version DESC
+          LIMIT 1000
         `);
         while(stmt.step())
           results.push(stmt.getAsObject());
