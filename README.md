@@ -7,10 +7,9 @@
 --> [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/h404bi/awesome-scoop/blob/master/README.md "Awesome Scoop") <!--
 --> [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rasa/scoop-directory)
 
-
 To [search](https://rasa.github.io/scoop-directory/search) the Scoop Directory click [here](https://rasa.github.io/scoop-directory/search) (put together by [@rashil2000](https://github.com/rashil2000)).
 
-The search index is updated daily at 15:00 UTC.
+The search index contains over 10,000 manifests in around 390 buckets and is updated daily at 15:00 UTC.
 
 You can also view the full list of all discovered applications sorted by:
 
