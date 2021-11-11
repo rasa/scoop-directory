@@ -122,6 +122,7 @@ searches.append(
             "ghchinoy/scoop-ce",
             "ghchinoy/scoop-roguewave",
             "goreleaser/scoop-bucket",
+            "gpailler/scoop-apps",
             "guitarrapc/scoop-bucket",
             "h404bi/dorado",
             "hermanjustnu/scoop-emulators",
