@@ -22,12 +22,16 @@ matrix:
 init: |
   echo PYTHON=%PYTHON% PYTHON_VERSION=%PYTHON_VERSION% PYTHON_ARCH=%PYTHON_ARCH%
   python -V
+  python -c "import os; print(os.getenv('PATH'));"
+  set "PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%"
+  python -V
+  python -c "import os; print(os.getenv('PATH'));"
 
 install: |
-  set PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%
+  set "PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%"
   %PYTHON%\\python -m pip install --upgrade pip
   %PYTHON%\\python -m pip install -r maintenance/requirements.txt
 
 test_script: |
-  set PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%
-  %PYTHON%\\python maintenance/github-crawler.py
+  set "PATH=%PYTHON%;%PYTHON%\\Scripts;%PATH%"
+  %PYTHON%\\python maintenance/github-crawler.py 1
