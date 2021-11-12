@@ -48,6 +48,7 @@ done = [
     "nueko/scoop-php-ext",
     "pavanbijja/scoop-bucket",
     "Psychopovt/open-scoop",
+    "puja255/scoop",  # Clone of Main bucket
     "Ranjizamadhu/scoop-bear",
     "rivy/scoop.bucket.scoop-main",
     "se35710/scoop-java",
