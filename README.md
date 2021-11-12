@@ -36,3 +36,8 @@ Created by [@zhoujin7](https://github.com/zhoujin7).
 ## Notes
 
 A few buckets are excluded as they duplicate other buckets. The list of excluded buckets is [here](https://github.com/rasa/scoop-directory/blob/master/maintenance/github-crawler.py#L135).
+
+## Acknowledgment and Thanks 
+
+Many thanks to Tapan Nallan ([@tapannallan](https://github.com/tapannallan)/[@algomaniac](https://github.com/algomaniac)) for their developing on https://github.com/tapannallan/awesome-scoop which this project originally forked from.
+
