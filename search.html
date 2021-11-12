@@ -222,7 +222,9 @@
               </td>
               <td style="text-align: left; display: table-cell; vertical-align: top;">${i.description}</td>
               <td style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket}</a><br/>
-                <em>${i.license.length < 2 ? `Undefined` : i.license}</em></td>
+                <em>${i.license.length < 2 ? `Undefined` : i.license}</em><br/>
+      <a href="https://repology.org/project/${i.name}/versions"><img src="https://repology.org/badge/version-for-repo/scoop/${i.name}.svg" alt="${i.name} versions"></a>        
+              </td>
             </tr>
           `);
       };
