@@ -27,7 +27,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
 <!-- /Minimul theme -->
- 
+
 <!-- Caymen theme -->
 <!--
 <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -121,8 +121,8 @@
   <thead>
     <tr>
       <th style="text-align: left"><span class="leftright"><span>Name</span><span>Version</span></span></th>
-      <th style="text-align: left">Description</th>
-      <th style="text-align: left">Bucket/License</th>
+      <th style="text-align: left">Description/License</th>
+      <th style="text-align: left">Bucket/Latest version</th>
     </tr>
   </thead>
   <tbody id="searchresults">
@@ -169,7 +169,7 @@
           SELECT
             IIF(INSTR(LOWER(name), "${query}") > 0, SUBSTR(name, 0, INSTR(LOWER(name), "${query}")) || "<b>" ||
             SUBSTR(name, INSTR(LOWER(name), "${query}"), LENGTH("${query}")) || "</b>" ||
-            SUBSTR(name, INSTR(LOWER(name), "${query}") + LENGTH("${query}"), 255), name) AS name,
+            SUBSTR(name, INSTR(LOWER(name), "${query}") + LENGTH("${query}"), 255), name) AS hname,
             version,
             bucket_url,
             IIF(INSTR(LOWER(description), "${query}") > 0, SUBSTR(description, 0, INSTR(LOWER(description), "${query}")) || "<b>" ||
@@ -180,7 +180,8 @@
             license,
             REPLACE(REPLACE(IIF(INSTR(LOWER(bucket), "${query}") > 0, SUBSTR(bucket, 0, INSTR(LOWER(bucket), "${query}")) || "<b>" ||
             SUBSTR(bucket, INSTR(LOWER(bucket), "${query}"), LENGTH("${query}")) || "</b>" ||
-            SUBSTR(bucket, INSTR(LOWER(bucket), "${query}") + LENGTH("${query}"), 255), bucket), "/", "/&#8203;"), "-", "&#8209;") AS bucket
+            SUBSTR(bucket, INSTR(LOWER(bucket), "${query}") + LENGTH("${query}"), 255), bucket), "/", "/&#8203;"), "-", "&#8209;") AS bucket,
+            name AS name
           FROM
             apps
           WHERE
@@ -198,7 +199,7 @@
           END,
           name,
           version DESC
-          LIMIT 1000
+          LIMIT 100
         `);
         while(stmt.step())
           results.push(stmt.getAsObject());
@@ -213,17 +214,17 @@
             <tr>
               <td style="text-align: left; display: table-cell; vertical-align: top;">
                 <span class="leftright">
-                  <span><a target="_blank" href="${i.homepage}">${i.name}</a></span>
+                  <span><a target="_blank" href="${i.homepage}">${i.hname}</a></span>
                   <span><a target="_blank" href="${i.manifest_url}">
                   ${i.version.split("*").length - 1 === 2
                     ? `<em>${i.version.replaceAll('*', '')}</em>`
-                    : i.version}</a></span>
+                    : i.version}</a>
+                  </span>
                 </span>
               </td>
-              <td style="text-align: left; display: table-cell; vertical-align: top;">${i.description}</td>
+              <td style="text-align: left; display: table-cell; vertical-align: top;">${i.description} (<em>${i.license.length < 2 ? `Undefined` : i.license}</em>)</td>
               <td style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket}</a><br/>
-                <em>${i.license.length < 2 ? `Undefined` : i.license}</em><!-- <br/>
-      <a href="https://repology.org/project/${i.name}/versions"><img src="https://repology.org/badge/version-for-repo/scoop/${i.name}.svg" alt="${i.name} versions"></a> -->    
+                <a target="_blank" href="https://repology.org/project/${i.name}/versions"><img src="https://repology.org/badge/latest-versions/${i.name}.svg?header=" alt=""></a>
               </td>
             </tr>
           `);
