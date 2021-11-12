@@ -32,6 +32,7 @@ Created by [@zhoujin7](https://github.com/zhoujin7).
 4. [scoop-search](https://github.com/shilangyu/scoop-search) is another command line search utility utility. It can be installed via `scoop install scoop-search` It  searches the buckets installed locally via `scoop bucket add [bucketname]`. Created by [@shilangyu](https://github.com/shilangyu).
 
 5. [Repology](https://repology.org/projects/?inrepo=scoop) searches the Main, Extras, Versions and Games buckets, per [here](https://repology.org/repository/scoop).
+Repology can also be used to search [Chocolatey](https://repology.org/projects/?inrepo=chocolatey), [Winget](https://repology.org/projects/?inrepo=winget) and Npackd's [stable](https://repology.org/projects/?inrepo=npackd_stable) [stable64](https://repology.org/projects/?inrepo=npackd_stable64) and [unstable](https://repology.org/projects/?inrepo=npackd_unstable) package repositories.
 
 ## Notes
 
