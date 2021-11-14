@@ -26,7 +26,9 @@ jobs:
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
     - name: run black
-      run: black maintenance/*.py
+      run: |
+        black --check maintenance/*.py && exit 1
+        black maintenance/*.py 
 
     - name: run git commit -m "black" -a
       # was:
