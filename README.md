@@ -9,7 +9,7 @@
 
 To [search](https://rasa.github.io/scoop-directory/search) the Scoop Directory click [here](https://rasa.github.io/scoop-directory/search) (put together by [@rashil2000](https://github.com/rashil2000)).
 
-The search index contains over 17,000 manifests in over 1,600 buckets and is updated daily at 15:00 UTC.
+The search index contains over 16,000 applications in over 1,600 buckets and is updated daily at 15:00 UTC.
 
 You can also view the full list of all discovered applications sorted by:
 
@@ -21,7 +21,7 @@ You can also view the full list of all discovered applications sorted by:
 
 There are several other Scoop application manifest search tools too:
 
-1. [ScoopSearch](https://scoopsearch.github.io/) searches over 16,000 apps in over 900 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler).
+1. [ScoopSearch](https://scoopsearch.github.io/) searches over 16,000 applications in over 900 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler).
 
 2. [shovel.sh](https://shovel.sh/search) searches just the [known](https://github.com/mertd/shovel-data/blob/ad6133a10cd9f9f2d6e4a674542c429c5ce70209/shovel.go#L45) buckets. Created by [@mertd](https://github.com/mertd).
 
