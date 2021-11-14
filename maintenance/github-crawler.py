@@ -42,6 +42,7 @@ done = [
     "01walid/it-scoop",
     "go2sun/scoop-bucket-1",  # Clone of https://github.com/dodorz/scoop
     "icemioi/scoop-bucket",. # Clone of ScoopInstaller/Extras
+    "HYHG/scoop",  # Clone of lukesampson/scoop
     "Kiedtl/open-scoop",  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
     "kkzzhizhou/scoop-apps",  # Aggregates other buckets
     "mertd/shovel-data",  # All manifests in a single file
