@@ -40,17 +40,18 @@ lmap = {
 # skip these as they are dups of other buckets
 done = [
     "01walid/it-scoop",
-    "go2sun/scoop-bucket-1",  # dup of https://github.com/dodorz/scoop
+    "go2sun/scoop-bucket-1",  # Clone of https://github.com/dodorz/scoop
     "Kiedtl/open-scoop",  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
     "kkzzhizhou/scoop-apps",  # Aggregates other buckets
-    "lukesampson/scoop",  # No manifests
     "mertd/shovel-data",  # All manifests in a single file
     "nueko/scoop-php-ext",
     "pavanbijja/scoop-bucket",
     "Psychopovt/open-scoop",
     "puja255/scoop",  # Clone of Main bucket
     "Ranjizamadhu/scoop-bear",
+    "renanmb/scoop",  # Clone of lukesampson/scoop
     "rivy/scoop.bucket.scoop-main",
+    "ScoopInstaller/Scoop",  # No manifests
     "se35710/scoop-java",
 ]
 
