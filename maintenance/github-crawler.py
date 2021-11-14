@@ -41,7 +41,7 @@ lmap = {
 done = [
     "01walid/it-scoop",
     "go2sun/scoop-bucket-1",  # Clone of https://github.com/dodorz/scoop
-    "icemioi/scoop-bucket",. # Clone of ScoopInstaller/Extras
+    "icemioi/scoop-bucket",  # Clone of ScoopInstaller/Extras
     "Gladtbam/Scoop_Bucket",  # Clones several scoop buckets
     "HYHG/scoop",  # Clone of lukesampson/scoop
     "Kiedtl/open-scoop",  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
