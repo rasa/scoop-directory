@@ -753,7 +753,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 # exes
                 # shortcuts
             if len(parse_error) > 0:
-                row["description"] += " (**%s**)" % parse_error
+                row["description"] += " [<em>%s</em>]" % parse_error
                 break
             good_jsons += 1
             break
