@@ -53,6 +53,7 @@ done = [
     "rivy/scoop.bucket.scoop-main",
     "ScoopInstaller/Scoop",  # No manifests
     "se35710/scoop-java",
+    "vinaynambiar/desktop-scoop2",  # Clone of lukesampson/scoop
 ]
 
 max_pages = 100
