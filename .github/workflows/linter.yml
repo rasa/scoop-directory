@@ -28,7 +28,8 @@ jobs:
           fetch-depth: 0
 
       - name: Run github/super-linter@v4
-        uses: github/super-linter@v4
+        # 4.8.3 appears broken
+        uses: github/super-linter@v4.8.1
         env:
           DEFAULT_BRANCH: $default-branch
           FILTER_REGEX_EXCLUDE: vendor/*
