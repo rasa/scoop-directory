@@ -545,10 +545,6 @@ def do_repo(repo, i, num_repos, do_score=True):
     print("  %3d/%3d: %-50s: " % (i, num_repos, full_name), end="")
     nl = True
 
-    if full_name == "ScoopInstaller/Scoop":
-        print("Skipping ScoopInstaller/Scoop (no apps)")
-        return 0
-
     if full_name.lower() in done:
         print("Skipping (done)")
         return 0
@@ -590,6 +586,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             if isinstance(description, list):
                 description = " \n".join(description)
             description = description.strip()
+            description = description.replace("|", "\\|")
         except Exception:
             description = ""
 
