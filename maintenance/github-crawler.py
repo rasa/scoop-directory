@@ -41,13 +41,14 @@ lmap = {
 done = [
     "01walid/it-scoop",
     "go2sun/scoop-bucket-1",  # Clone of https://github.com/dodorz/scoop
+    "icemioi/scoop-bucket",. # Clone of ScoopInstaller/Extras
     "Kiedtl/open-scoop",  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
     "kkzzhizhou/scoop-apps",  # Aggregates other buckets
     "mertd/shovel-data",  # All manifests in a single file
     "nueko/scoop-php-ext",
     "pavanbijja/scoop-bucket",
     "Psychopovt/open-scoop",
-    "puja255/scoop",  # Clone of Main bucket
+    "puja255/scoop",  # Clone of ScoopInstaller/Main
     "Ranjizamadhu/scoop-bear",
     "renanmb/scoop",  # Clone of lukesampson/scoop
     "rivy/scoop.bucket.scoop-main",
