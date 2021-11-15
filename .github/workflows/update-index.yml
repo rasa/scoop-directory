@@ -32,7 +32,7 @@ jobs:
       #     key: ${{ runner.os }}-pickle-${{ hashFiles('**/cache.pickle') }}
       #     restore-keys: |
       #       ${{ runner.os }}-pickle-
-      
+
       - name: run actions/setup-python@v2
         uses: actions/setup-python@v2
         with:
@@ -45,14 +45,14 @@ jobs:
           pip install -r maintenance/requirements.txt
 
       - name: run python maintenance/github-crawler.py
-        run: python maintenance/github-crawler.py
+        run: python maintenance/github-crawler.py ${{ secrets.GITHUB_TOKEN }}
 
-      - name: run git commit -am "update index [ci skip]" 
+      - name: run git commit -am "update index [ci skip]"
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -am "update index [ci skip]" 
+          git commit -am "update index [ci skip]"
 
       - name: run ad-m/github-push-action@v0.6.0
         uses: ad-m/github-push-action@v0.6.0

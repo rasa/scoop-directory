@@ -16,8 +16,10 @@ import sqlite3
 import stat
 import sys
 import time
+from collections import OrderedDict
 from datetime import datetime
 from typing import Any, Dict, List  # , Set, Tuple, Optional
+from urllib.parse import urlencode  # python3
 
 import chardet
 import git
@@ -25,6 +27,7 @@ import jinja2
 import jsoncomment
 import jsonschema
 import requests
+import requests.auth
 
 lmap = {
     "commercial": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
@@ -63,13 +66,12 @@ done = [
 for k, v in enumerate(done):
     done[k] = v.lower()
 
-max_pages = 200
+max_pages = 1000
 
 searches = []
 
 searches.append(
     {
-        "pages": max_pages,
         "score": True,
         "searches": [
             "topic:scoop-bucket",
@@ -81,7 +83,6 @@ searches.append(
 
 searches.append(
     {
-        "pages": max_pages,
         "score": True,
         "searches": [
             "scoop",
@@ -343,10 +344,37 @@ def fetchjson(urlstr):
     while try_ < MAX_TRIES:
         try_ += 1
         secs = 0
-        response = requests.get(url=urlstr)
+
+        requestHeaders = {}
+        if os.getenv("GITHUB_TOKEN"):
+            requestHeaders["Authorization"] = "token " + os.getenv("GITHUB_TOKEN")
+        elif len(sys.argv) > 1:
+            if len(sys.argv[1]) == 40:
+                requestHeaders["Authorization"] = "token " + sys.argv[1]
+
+        response = requests.get(url=urlstr, headers=requestHeaders)  #  auth=basicAuth
+        max_pages = 1
+        if "Link" in response.headers:
+            link = response.headers["Link"]
+            m = re.search(r"""&page=(\d+)>?;\s*rel="last".?""", link)
+            if m is not None:
+                pages = m.group(1)
+                if int(pages) > 0:
+                    max_pages = int(pages)
+                if SHORT_CIRCUIT:
+                    max_pages = 1
+
         if "X-RateLimit-Remaining" in response.headers:
-            if int(response.headers["X-RateLimit-Remaining"]) < 1:
-                reset = int(response.headers["X-RateLimit-Reset"])
+            limit = int(response.headers["X-RateLimit-Limit"])
+            remaining = int(response.headers["X-RateLimit-Remaining"])
+            reset = int(response.headers["X-RateLimit-Reset"])
+            resetTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(reset))
+            waitSecs = float(reset) - time.time()
+            print(
+                "limit=%d remaining=%d reset=%d (%s) (%.0f seconds from now)"
+                % (limit, remaining, reset, resetTime, waitSecs)
+            )
+            if remaining < 1:
                 secs = float(reset) - time.time()
                 if secs > -MAX_CLOCK_SKEW_SECONDS:
                     time.sleep(secs + MAX_CLOCK_SKEW_SECONDS)
@@ -531,6 +559,7 @@ def parse_validation_error(err):
 
 def do_repo(repo, i, num_repos, do_score=True):
     """@todo"""
+    failure = -1
     global last_run
 
     keys = [
@@ -543,7 +572,7 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     if "name" not in repo:
         pprint.pprint(dict(repo), width=1)
-        return 0
+        return failure
 
     full_name = repo["full_name"]
 
@@ -552,13 +581,13 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     if full_name.lower() in done:
         print("Skipping (done)")
-        return 0
+        return failure
 
     done.append(full_name.lower())
 
     if repo["fork"]:
         print("Skipping (fork)")
-        return 0
+        return failure
 
     # pprint.pprint(dict(repo), width=1)
     # sys.exit()
@@ -585,7 +614,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 print("")
                 nl = False
             print(e)
-            return 0
+            return failure
 
         try:
             description = repo["description"]
@@ -650,7 +679,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             print(e)
 
     if not os.path.isdir(repo_dir):
-        return 0
+        return failure
 
     cache[repofoldername]["entries"] = []
 
@@ -783,11 +812,13 @@ def do_repo(repo, i, num_repos, do_score=True):
 
 def do_page(search, page, do_score=True):
     """@todo"""
-    api = "https://api.github.com/search/repositories?q=%s&per_page=%d"
-
-    url = api % (search, per_page)
+    vars = {}
+    vars["q"] = search
+    vars["per_page"] = per_page
     if page > 1:
-        url += "&page=%d" % page
+        vars["page"] = page
+    query_string = urlencode(OrderedDict(vars))
+    url = "https://api.github.com/search/repositories?" + query_string
     rv = fetchjson(url)
     if "items" not in rv:
         print("items not found in search results")
@@ -797,23 +828,32 @@ def do_page(search, page, do_score=True):
     hits = 0
     for repo in repos:
         i += 1
-        hits += do_repo(repo, i, len(repos), do_score)
+        results = do_repo(repo, i, len(repos), do_score)
+        if results <= 0:
+            continue
+        hits += results
         if SHORT_CIRCUIT:
             break
 
     return hits
 
 
-def do_search(search, pages=1, do_score=True):
+def do_search(search, do_score=True):
     """@todo"""
-    for page in range(1, pages + 1):
-        print("q: %s (page %s of %s)" % (search, page, pages))
+    total_hits = 0
+    for page in range(1, max_pages + 1):
+        print("q: %s (page %s of %s)" % (search, page, max_pages))
         hits = do_page(search, page, do_score)
+        total_hits += hits
+        if total_hits == 0:
+            continue
         if hits == 0:
             break
+        if page >= max_pages:
+            break
         if SHORT_CIRCUIT:
-            return 0
-    return 0
+            break
+    return total_hits
 
 
 def do_searches():
@@ -823,8 +863,9 @@ def do_searches():
         for search in h["searches"]:
             if search.lower() in done:
                 continue
-            do_search(search, h["pages"], h["score"])
-            if SHORT_CIRCUIT:
+            max_pages = 1000
+            total_hits = do_search(search, h["score"])
+            if total_hits > 0 and SHORT_CIRCUIT:
                 return 0
 
     return 0
@@ -921,31 +962,40 @@ def do_db():
     cur = conn.cursor()
 
     sqls = [
-        "drop table if exists apps",
         "drop table if exists buckets",
-        """create table apps (
-                    name text COLLATE NOCASE,
-                    version text,
-                    description text COLLATE NOCASE,
-                    license text,
-                    homepage text,
-                    manifest_url text,
-                    bucket_url text COLLATE NOCASE,
-                    license_url text,
-                    bucket text COLLATE NOCASE)""",
+        "drop table if exists apps",
         """create table buckets (
-                    bucket_url text,
-                    description text,
-                    packages integer,
-                    stars integer,
-                    updated text)""",
+            id integer,
+            bucket_url text,
+            description text COLLATE NOCASE,
+            packages integer,
+            stars integer,
+            updated text
+        )""",
+        """create table apps (
+            name text COLLATE NOCASE,
+            version text,
+            description text COLLATE NOCASE,
+            license text,
+            homepage text,
+            manifest_url text,
+            bucket_url text,
+            license_url text,
+            bucket text COLLATE NOCASE,
+            bucket_id integer
+        )""",
+        "CREATE INDEX idx_buckets_id ON buckets (id)",
+        "CREATE INDEX idx_apps_name ON apps (name)",
+        "CREATE INDEX idx_apps_description ON apps (description)",
+        "CREATE INDEX idx_apps_bucket ON apps (bucket)",
+        "CREATE INDEX idx_apps_bucket_id ON apps (bucket_id)",
     ]
     for sql in sqls:
         print("Executing ", sql)
         cur.execute(sql)
 
     scanned = 0
-    buckets = 0
+    bucket_id = 0
     total_manifests = 0
 
     for bucket in cache:
@@ -955,11 +1005,12 @@ def do_db():
         if not cache[bucket]["entries"]:
             print("Skipping %s: no manifests" % (cache[bucket]["url"]))
             continue
-        buckets += 1
-        print("Inserting bucket %d: %s" % (buckets, cache[bucket]["url"]))
+        bucket_id += 1
+        print("Inserting bucket %d: %s" % (bucket_id, cache[bucket]["url"]))
         cur.execute(
-            "insert into buckets values (?, ?, ?, ?, ?)",
+            "insert into buckets values (?, ?, ?, ?, ?, ?)",
             (
+                bucket_id,
                 cache[bucket]["url"],
                 cache[bucket]["description"],
                 cache[bucket]["packages"],
@@ -990,7 +1041,7 @@ def do_db():
                 )
                 bucket_name = re.sub("^https?://[a-z0-9.-]+/", "", bucket_url, re.I)
                 cur.execute(
-                    "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                    "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                     (
                         json,
                         version,
@@ -1001,6 +1052,7 @@ def do_db():
                         bucket_url,
                         license_url,
                         bucket_name,
+                        bucket_id,
                     ),
                 )
             except Exception as e:
@@ -1020,7 +1072,7 @@ def do_db():
 
     print(
         "Inserted %d manifests and %d buckets (from %d repos)"
-        % (total_manifests, buckets, scanned)
+        % (total_manifests, bucket_id, scanned)
     )
     conn.commit()
     print("Closing connection")
@@ -1093,14 +1145,12 @@ if not re.search(r"cache$", cache_root):
     cache_dir = os.path.join(cache_root, "cache")
 
 # @todo change to startup option
-if len(sys.argv) > 1:
-    SHORT_CIRCUIT = True
+for arg in sys.argv:
+    if arg == "1":
+        SHORT_CIRCUIT = True
 
 if SHORT_CIRCUIT:
     per_page = 1
-    max_pages = 1
-    searches[0]["pages"] = max_pages
-    searches[1]["pages"] = max_pages
     searches[1]["searches"] = ["scoop"]
 
 sys.exit(main())
