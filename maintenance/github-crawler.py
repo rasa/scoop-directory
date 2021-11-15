@@ -944,11 +944,16 @@ def do_db():
         print("Executing ", sql)
         cur.execute(sql)
 
+    scanned = 0
     buckets = 0
     total_manifests = 0
 
     for bucket in cache:
+        scanned += 1
         if bucket == "last_run":
+            continue
+        if not cache[bucket]["entries"]:
+            print("Skipping %s: no manifests" % (cache[bucket]["url"]))
             continue
         buckets += 1
         print("Inserting bucket %d: %s" % (buckets, cache[bucket]["url"]))
@@ -1013,7 +1018,7 @@ def do_db():
         print("Added %d manifests" % manifests)
         total_manifests += manifests
 
-    print("Inserted %d manifests in %d buckets" % (total_manifests, buckets))
+    print("Inserted %d manifests and %d buckets (from %d repos)" % (total_manifests, buckets, scanned))
     conn.commit()
     print("Closing connection")
     conn.close()
