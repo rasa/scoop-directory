@@ -60,7 +60,10 @@ done = [
     "vinaynambiar/desktop-scoop2",  # Clone of lukesampson/scoop
 ]
 
-max_pages = 100
+for k, v in enumerate(done):
+    done[k] = v.lower()
+
+max_pages = 200
 
 searches = []
 
