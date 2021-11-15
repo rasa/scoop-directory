@@ -575,10 +575,11 @@ def do_repo(repo, i, num_repos, do_score=True):
     id_ = re.sub(r"[^0-9a-zA-Z_:.-]+", "-", id_)
     if not re.match(r"^[a-zA-Z]", id_[0]):
         id_ = "a" + id_
-
+    repo_dir = os.path.join(cache_dir, repofoldername)
+    
     if repofoldername not in cache:
         try:
-            git.Repo.clone_from(git_clone_url, os.path.join(cache_dir, repofoldername))
+            git.Repo.clone_from(git_clone_url, repo_dir)
         except Exception as e:
             if nl:
                 print("")
@@ -638,7 +639,7 @@ def do_repo(repo, i, num_repos, do_score=True):
         }
 
     elif repofoldername in cache and (last_updated > last_run):
-        repo = git.Repo(os.path.join(cache_dir, repofoldername))
+        repo = git.Repo(repo_dir)
         o = repo.remotes.origin
         try:
             o.pull()
@@ -648,13 +649,13 @@ def do_repo(repo, i, num_repos, do_score=True):
                 nl = False
             print(e)
 
-    if not os.path.isdir(os.path.join(cache_dir, repofoldername)):
+    if not os.path.isdir(repo_dir):
         return 0
 
     cache[repofoldername]["entries"] = []
 
     bucket = ""
-    bucket_path = os.path.join(cache_dir, repofoldername)
+    bucket_path = repo_dir
     if os.path.isdir(bucket_path + "/bucket"):
         bucket = "/bucket"
         bucket_path = bucket_path + "/bucket"
