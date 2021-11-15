@@ -576,7 +576,7 @@ def do_repo(repo, i, num_repos, do_score=True):
     if not re.match(r"^[a-zA-Z]", id_[0]):
         id_ = "a" + id_
     repo_dir = os.path.join(cache_dir, repofoldername)
-    
+
     if repofoldername not in cache:
         try:
             git.Repo.clone_from(git_clone_url, repo_dir)
@@ -1018,7 +1018,10 @@ def do_db():
         print("Added %d manifests" % manifests)
         total_manifests += manifests
 
-    print("Inserted %d manifests and %d buckets (from %d repos)" % (total_manifests, buckets, scanned))
+    print(
+        "Inserted %d manifests and %d buckets (from %d repos)"
+        % (total_manifests, buckets, scanned)
+    )
     conn.commit()
     print("Closing connection")
     conn.close()
