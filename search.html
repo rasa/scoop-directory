@@ -112,8 +112,17 @@
 
 <p>To search, enter an application name, a bucket name, an author name, or repository name:</p>
 
-<input id="searchbox-name" type="text" placeholder="Start typing a keyword" style="width: 100%;" autofocus />
+<input id="searchbox-name" type="text" placeholder="Start typing a keyword" autofocus />
 <br/>
+<br/>
+Results: <select name="rows" id="rows">
+  <option value="100">100</option>
+  <option value="200">200</option>
+  <option value="400">400</option>
+  <option value="800">800</option>
+  <option value="1600">1600</option>
+  <option value="9999">All</option>
+</select>
 <br/>
 <p><em id="metainfotext"></em></p>
 <br/>
@@ -154,16 +163,21 @@
       //}
 
       nameInput.addEventListener('input', function (e) {
+        var rowsInput = document.getElementById('rows');
+        var rows = parseInt(rowsInput.value.trim(), 10)
+        if (rows <= 0)
+          rows = 100
+
         const query = nameInput.value.trim().toLowerCase().replace(' ', '%');
         if (query.length >= 2)
-          runQuery(query);
+          runQuery(query, rows);
         else {
           reqdiv.innerHTML = '';
           metainfo.innerHTML = `Query ${mancount} manifests among ${bukcount} buckets`;
         }
       });
 
-      const runQuery = async query => {
+      const runQuery = async (query, rows) => {
         var results = [];
 
         // See https://stackoverflow.com/a/7313467/1432614
@@ -205,7 +219,7 @@
           END,
           name,
           version DESC
-          LIMIT 1000
+          LIMIT ${rows}
         `);
         while(stmt.step())
           results.push(stmt.getAsObject());
