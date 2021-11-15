@@ -154,7 +154,7 @@
       //}
 
       nameInput.addEventListener('input', function (e) {
-        const query = nameInput.value.trim().toLowerCase();
+        const query = nameInput.value.trim().toLowerCase().replace(' ', '%');
         if (query.length >= 2)
           runQuery(query);
         else {
