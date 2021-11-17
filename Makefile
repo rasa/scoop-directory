@@ -1,7 +1,8 @@
 # Makefile
 
-SCOOP_SCHEMA_JSON=https://raw.githubusercontent.com/ScoopInstaller/Scoop/948daa0c63515be986743c40933cc1bb84ab776e/schema.json
-# SCOOP_SCHEMA_JSON=https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json
+SCOOP_SCHEMA_JSON=https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/schema.json
+
+BUCKETS_JSON=https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/buckets.json
 
 all: help
 
@@ -16,6 +17,7 @@ pull:
 update:
 	-mkdir -p vendor/ScoopInstaller/Scoop
 	wget -O vendor/ScoopInstaller/Scoop/schema.json $(SCOOP_SCHEMA_JSON)
+	wget -O vendor/ScoopInstaller/Scoop/buckets.json $(BUCKETS_JSON)
 
 help:
 	@echo 'add:    Add vendor subtrees'

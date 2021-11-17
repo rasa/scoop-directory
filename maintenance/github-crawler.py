@@ -18,6 +18,7 @@ import sys
 import time
 from collections import OrderedDict
 from datetime import datetime
+from datetime import timedelta
 from typing import Any, Dict, List  # , Set, Tuple, Optional
 from urllib.parse import urlencode  # python3
 
@@ -26,188 +27,9 @@ import git
 import jinja2
 import jsoncomment
 import jsonschema
+import pandas
 import requests
 import requests.auth
-
-lmap = {
-    "commercial": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
-    "freeware": "https://en.wikipedia.org/wiki/Freeware",
-    "proprietary": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
-    "public_domain": "https://wiki.creativecommons.org/wiki/Public_domain",
-    "public domain": "https://wiki.creativecommons.org/wiki/Public_domain",
-    "public-domain": "https://wiki.creativecommons.org/wiki/Public_domain",
-    "publicdomain": "https://wiki.creativecommons.org/wiki/Public_domain",
-    "shareware": "https://en.wikipedia.org/wiki/Shareware",
-}
-
-# skip these as they are dups of other buckets
-done = [
-    "01walid/it-scoop",
-    "go2sun/scoop-bucket-1",  # Clone of https://github.com/dodorz/scoop
-    "icemioi/scoop-bucket",  # Clone of ScoopInstaller/Extras
-    "Gladtbam/Scoop_Bucket",  # Clones several scoop buckets
-    "HYHG/scoop",  # Clone of lukesampson/scoop
-    "Kiedtl/open-scoop",  # https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
-    "kkzzhizhou/scoop-apps",  # Aggregates other buckets
-    "mertd/shovel-data",  # All manifests in a single file
-    "nueko/scoop-php-ext",
-    "pavanbijja/scoop-bucket",
-    "Psychopovt/open-scoop",
-    "puja255/scoop",  # Clone of ScoopInstaller/Main
-    "Ranjizamadhu/scoop-bear",
-    "renanmb/scoop",  # Clone of lukesampson/scoop
-    "rivy/scoop.bucket.scoop-main",
-    "ScoopInstaller/Scoop",  # No manifests
-    "se35710/scoop-java",
-    "umestha/scoop",  # Clone of lukesampson/scoop
-    "vinaynambiar/desktop-scoop2",  # Clone of lukesampson/scoop
-]
-
-for k, v in enumerate(done):
-    done[k] = v.lower()
-
-max_pages = 1000
-
-searches = []
-
-searches.append(
-    {
-        "score": True,
-        "searches": [
-            "topic:scoop-bucket",
-            "scoop-bucket",
-            "scoop+bucket",
-        ],
-    }
-)
-
-searches.append(
-    {
-        "score": True,
-        "searches": [
-            "scoop",
-            # @todo regen this list
-            "82p/scoop-yubico-bucket",
-            "Aaike/scoop",
-            "Alxandr/scoop-bucket",
-            "Ash258/Scoop-Ash258",
-            "AStupidBear/scoop-bear",
-            "BjoernPetersen/scoop-misc-bucket",
-            "Callidin/ragnar-scoop",
-            "Congee/barrel",
-            "DimiG/dgBucket",
-            "Doublemine/scoops",
-            "ErnWong/scoop-bucket",
-            "Guard13007/ScoopBucket",
-            "Jeddunk/scoop-bucket",
-            "Jokler/scoop-bucket",
-            "Lomeli12/ScoopBucket",
-            "MCOfficer/scoop-bucket",
-            "MCOfficer/scoop-nirsoft",
-            "Sandex/scoop-supernova",
-            "Southclaws/scoops",
-            "TheLastZombie/scoop-bucket",
-            "TheRandomLabs/Scoop-Bucket",
-            "TheRandomLabs/Scoop-Python",
-            "TheRandomLabs/Scoop-Spotify",
-            "TnmkFan/my-bucket",
-            "TorrentKatten/torrentkatten-scoop-bucket",
-            "Utdanningsdirektoratet/PAS-scoop-public",
-            "Vngdv/another-useless-scoop-bucket",
-            "anurse/scoop-bucket",
-            "bitrvmpd/scoop-wuff",
-            "broovy/scoop-bucket",
-            "comp500/scoop-browser",
-            "comp500/scoop-comp500",
-            "cprecioso/scoop-lektor",
-            "deevus/scoop-games",
-            "demas/demas-scoop",
-            "dennislloydjr/scoop-bucket-devbox",
-            "divanvisagie/scoop-bucket",
-            "dooteeen/scoop-for-jp",
-            "edgardmessias/scoop-pentaho",
-            "excitoon/scoop-user",
-            "ezhikov/scoop-bucket",
-            "follnoob/follnoob-bucket",
-            "fredjoseph/scoop-bucket",
-            "furyfire/my-bucket",
-            "galbro/my-bucket",
-            "gexclaude/scoop-bucket",
-            "ghchinoy/scoop-ce",
-            "ghchinoy/scoop-roguewave",
-            "goreleaser/scoop-bucket",
-            "gpailler/scoop-apps",
-            "guitarrapc/scoop-bucket",
-            "h404bi/dorado",
-            "hermanjustnu/scoop-emulators",
-            "huangnauh/carrot",
-            "iainsgillis/isg-bucket",
-            "idursun/my-bucket",
-            "jamesgecko/scoop-packages",
-            "jat001/scoop-ox",
-            "javageek/scoop-bucket",
-            "jfut/scoop-jfut",
-            "jfut/scoop-pleiades",
-            "jmcarbo/scoopbucket",
-            "kentork/scoop-leaky-bucket",
-            "klaidliadon/scoop-buckets",
-            "klauern/trackello-bucket",
-            "liaoya/scoop-bucket",
-            "lillicoder/scoop-openjdk6",
-            "littleli/scoop-clojure",
-            "littleli/Scoop-littleli",
-            "lptstr/open-scoop",
-            "lzimd/lzimd-scoop-bucket",
-            "maman/scoop-bucket",
-            "masaeedu/scoop-growlnotify",
-            "masonm12/scoop-personal",
-            "mattkang/scoop-bucket",
-            "michaelxmcbride/scoop-michaelxmcbride",
-            "mko-x/bucket",
-            "mmichaelis/scoop-bucket",
-            "monotykamary/toms-scoop-bucket",
-            "narnaud/scoop-bucket",
-            "nikolasd/scoop-bucket",
-            "noquierouser/nqu-scoop",
-            "nrakochy/scoop-solidity",
-            "nsstrunks/scoop-bucket",
-            "nueko/scoop-php",
-            "nueko/scoop-php-ext",
-            "ondr3j/scoop-misc",
-            "pastleo/scoop-bucket",
-            "pcrama/scoop-buckets",
-            "pgollangi/scoop-bucket",
-            "pigsflew/scoop-arbitrariae",
-            "prezesp/scoop-viewer-bucket",
-            "rasa/scoops",
-            "rcqls/scoop-extras",
-            "rivy/scoop.bucket-scoop.main",
-            "rkolka/scoop-manifold",
-            "se35710/scoop-ibm",
-            "siddarthasagar/scoopbucket",
-            "simonwjackson/my-bucket",
-            "starise/Scoop-Confetti",
-            "stlhrt/steel-buckets",
-            "svkoh/scoop-bucket",
-            "systemexitzero/scoop-bucket",
-            "tapanchandra/scoop-personal",
-            "thushan/scoop-devtools",
-            "tditlu/scoop-amiga",
-            "themrhead/scoop-bucket-apps",
-            "toburger/scoop-buckets",
-            "twxs/scoop-buckets",
-            "vidarkongsli/vidars-scoop-bucket",
-            "wangzq/scoop-bucket",
-            "webwesen/webwesen-scoop-bucket",
-            "wrokred/phpdev-scoop-bucket",
-            "yt3r/test-bucket",
-            "yuanying1199/scoopbucket",
-            "yutahaga/scoop-bucket",
-            "zhoujin7/tomato",
-            "GreatGodApollo/trough",
-        ],
-    }
-)
 
 
 def fix_license(s):
@@ -340,19 +162,20 @@ def do_version(js):
 
 def fetchjson(urlstr):
     """@todo"""
-    try_ = 0
-    while try_ < MAX_TRIES:
-        try_ += 1
-        secs = 0
+    global max_pages
 
-        requestHeaders = {}
-        if os.getenv("GITHUB_TOKEN"):
-            requestHeaders["Authorization"] = "token " + os.getenv("GITHUB_TOKEN")
-        elif len(sys.argv) > 1:
-            if len(sys.argv[1]) == 40:
-                requestHeaders["Authorization"] = "token " + sys.argv[1]
+    request_headers = {}
+    if os.getenv("GITHUB_TOKEN"):
+        request_headers["Authorization"] = "token " + os.getenv("GITHUB_TOKEN")
+    elif len(sys.argv) > 1 and len(sys.argv[1]) == 40:
+        request_headers["Authorization"] = "token " + sys.argv[1]
 
-        response = requests.get(url=urlstr, headers=requestHeaders)  #  auth=basicAuth
+    sleep_seconds = SLEEP_SECONDS
+    while sleep_seconds <= MAX_SLEEP_SECONDS:
+        print("url=%s" % urlstr)
+        response = requests.get(
+            url=urlstr, headers=request_headers
+        )  # auth=basicAuth
         max_pages = 1
         if "Link" in response.headers:
             link = response.headers["Link"]
@@ -361,56 +184,40 @@ def fetchjson(urlstr):
                 pages = m.group(1)
                 if int(pages) > 0:
                     max_pages = int(pages)
-                if SHORT_CIRCUIT:
-                    max_pages = 1
-
-        if "X-RateLimit-Remaining" in response.headers:
-            limit = int(response.headers["X-RateLimit-Limit"])
-            remaining = int(response.headers["X-RateLimit-Remaining"])
-            reset = int(response.headers["X-RateLimit-Reset"])
-            resetTime = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(reset))
-            waitSecs = float(reset) - time.time()
-            print(
-                "limit=%d remaining=%d reset=%d (%s) (%.0f seconds from now)"
-                % (limit, remaining, reset, resetTime, waitSecs)
-            )
-            if remaining < 1:
-                secs = float(reset) - time.time()
-                if secs > -MAX_CLOCK_SKEW_SECONDS:
-                    time.sleep(secs + MAX_CLOCK_SKEW_SECONDS)
+                if MAX_SEARCHES < 99 and MAX_SEARCHES < max_pages:
+                    max_pages = MAX_SEARCHES
 
         if response.status_code < 300:
             return response.json()
 
-        if secs == 0:
-            print("Sleeping %d seconds to avoid 403 errors" % SLEEP_SECONDS)
-            time.sleep(SLEEP_SECONDS)
+        if response.status_code == 422:  # reached 1,000 search limit
+            return response.json()
 
-        # print("Try %d of %d:" % (try_, MAX_TRIES))
-        pprint.pprint(dict(response.headers), width=1)
-        if try_ + 1 < MAX_TRIES:
-            print("Attempting try %d of %d" % (try_ + 1, MAX_TRIES))
+        if response.status_code == 403:
+            limit = int(response.headers["X-RateLimit-Limit"])
+            remaining = int(response.headers["X-RateLimit-Remaining"])
+            reset = int(response.headers["X-RateLimit-Reset"])
+            waitSeconds = float(reset) - time.time()
+            if remaining < 1:
+                if waitSeconds > sleep_seconds:
+                    sleep_seconds = waitSeconds
+            print(
+                "  limit=%d remaining=%d reset=%d (%d seconds from now) (sleeping %d seconds)"
+                % (limit, remaining, reset, waitSeconds, sleep_seconds)
+            )
+            time.sleep(sleep_seconds)
+            sleep_seconds = sleep_seconds * 2
+            continue
+
+        print("  Received status_code %d" % response.status_code)
+        pprint.pprint(response.json())
+        return response.json()
 
     return {}
 
 
 def get_builtins():
     """@todo"""
-    # @todo load from
-    # https://raw.githubusercontent.com/ScoopInstaller/Scoop/master/buckets.json
-    bucket_list = {
-        "main": "https://github.com/ScoopInstaller/Main",
-        "extras": "https://github.com/ScoopInstaller/Extras",
-        "versions": "https://github.com/ScoopInstaller/Versions",
-        "nightlies": "https://github.com/ScoopInstaller/Nightlies",
-        "nirsoft": "https://github.com/kodybrown/scoop-nirsoft",
-        "php": "https://github.com/ScoopInstaller/PHP",
-        "nerd-fonts": "https://github.com/matthewjberger/scoop-nerd-fonts",
-        "nonportable": "https://github.com/TheRandomLabs/scoop-nonportable",
-        "java": "https://github.com/ScoopInstaller/Java",
-        "games": "https://github.com/Calinou/scoop-games",
-        "jetbrains": "https://github.com/Ash258/Scoop-JetBrains",
-    }
     for key in bucket_list:
         url = bucket_list[key]
         m = re.search(r"github\.com/(.*)$", url, re.I)
@@ -423,7 +230,7 @@ def get_builtins():
     return 0
 
 
-def rmdir(dir):
+def rmdir(path):
     """@todo"""
 
     # https://stackoverflow.com/a/4829285/1432614
@@ -446,21 +253,21 @@ def rmdir(dir):
         except Exception:
             return 1
 
-    if not os.path.isdir(cache_dir):
+    if not os.path.isdir(path):
         return True
 
-    print('Deleting "%s"' % cache_dir)
+    # print('Deleting "%s"' % path)
 
-    shutil.rmtree(cache_dir, onerror=on_rm_error)
+    shutil.rmtree(path, onerror=on_rm_error)
 
-    if not os.path.isdir(cache_dir):
+    if not os.path.isdir(path):
         return True
 
     if os.name == "nt":
-        print('rmdir /s /q "%s"' % cache_dir)
-        os.system('cmd.exe /c rmdir /s /q "%s"' % cache_dir)
+        # print('rmdir /s /q "%s"' % path)
+        os.system('cmd.exe /c rmdir /s /q "%s"' % path)
 
-    return not os.path.isdir(cache_dir)
+    return not os.path.isdir(path)
 
 
 def initialize_cache():
@@ -468,11 +275,15 @@ def initialize_cache():
     global cache
     global last_run
 
-    rmdir(cache_dir)
-    os.makedirs(cache_dir)
+    if os.getenv("DELETE_CACHE"):
+        rmdir(cache_dir)
+
+    if not os.path.isdir(cache_dir):
+        print("Initializing cache at %s" % cache_dir)
+        os.makedirs(cache_dir)
 
     try:
-        with open(os.path.join(cache_dir, "cache.pickle"), "rb") as input_file:
+        with open(cache_pickle, "rb") as input_file:
             cache = pickle.load(input_file)
     except (EnvironmentError, EOFError):
         cache["last_run"] = datetime(2000, 1, 1).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -525,8 +336,9 @@ def do_parse(file_path):
                 err = m.group(1)
             else:
                 err = "Failed schema validation against %s" % scoop_schema_name
-            print(err)
-            rv = "%s %s" % (err, scoop_schema_name)
+            if re.search(r"additionalProperties", err):
+                return (rv, j)
+            rv = err
 
         return (rv, j)
     except Exception as e:
@@ -548,7 +360,9 @@ def do_parse(file_path):
 def parse_validation_error(err):
     """@todo"""
     try:
-        m = re.match(r"(.*^On instance[^:]*:$)(.*)", err, re.MULTILINE | re.DOTALL)
+        m = re.match(
+            r"(.*^On instance[^:]*:$)(.*)", err, re.MULTILINE | re.DOTALL
+        )
         if m is not None:
             return m.group(1)
     except Exception as e:
@@ -571,26 +385,21 @@ def do_repo(repo, i, num_repos, do_score=True):
     ]
 
     if "name" not in repo:
+        print("Unexpected response:")
         pprint.pprint(dict(repo), width=1)
         return failure
 
     full_name = repo["full_name"]
 
-    print("  %3d/%3d: %-50s: " % (i, num_repos, full_name), end="")
     nl = True
 
     if full_name.lower() in done:
-        print("Skipping (done)")
+        print("Skipping (%s)" % done[full_name.lower()])
         return failure
-
-    done.append(full_name.lower())
 
     if repo["fork"]:
-        print("Skipping (fork)")
+        add_exclusion(repo, "fork")
         return failure
-
-    # pprint.pprint(dict(repo), width=1)
-    # sys.exit()
 
     repofoldername = full_name.replace("/", "+")
     git_clone_url = repo["git_url"]
@@ -608,7 +417,7 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     if repofoldername not in cache:
         try:
-            git.Repo.clone_from(git_clone_url, repo_dir)
+            git.Repo.clone_from(git_clone_url, repo_dir, depth=1)
         except Exception as e:
             if nl:
                 print("")
@@ -640,7 +449,9 @@ def do_repo(repo, i, num_repos, do_score=True):
 
         pattern = "%Y-%m-%dT%H:%M:%S"
         try:
-            epoch = int(time.mktime(time.strptime(repo["updated_at"][:-1], pattern)))
+            epoch = int(
+                time.mktime(time.strptime(repo["updated_at"][:-1], pattern))
+            )
         except Exception:
             epoch = 0
 
@@ -668,9 +479,12 @@ def do_repo(repo, i, num_repos, do_score=True):
         }
 
     elif repofoldername in cache and (last_updated > last_run):
-        repo = git.Repo(repo_dir)
-        o = repo.remotes.origin
+        if not os.path.isdir(repo_dir):
+            print("Path not found: %s" % repo_dir)
+            return failure
         try:
+            repo = git.Repo(repo_dir)
+            o = repo.remotes.origin
             o.pull()
         except Exception as e:
             if nl:
@@ -693,6 +507,7 @@ def do_repo(repo, i, num_repos, do_score=True):
 
     jsons = 0
     good_jsons = 0
+    malformed = 0
     for f in os.listdir(bucket_path):
         file_path = os.path.join(bucket_path, f)
         if not os.path.isfile(file_path):
@@ -710,39 +525,40 @@ def do_repo(repo, i, num_repos, do_score=True):
             (parse_error, j) = do_parse(file_path)
 
             if len(parse_error) > 0:
-                if nl:
-                    print("")
-                    nl = False
-                print("    %s: %s" % (f, parse_error))
+                # if nl:
+                #     print("")
+                #    nl = False
+                # print("        %s: %s" % (f, parse_error))
                 if not j:
                     break
 
             if not get_link(j):
-                if nl:
-                    print("")
-                    nl = False
-                print("    %s: no url" % f)
+                # if nl:
+                #     print("")
+                #     nl = False
+                # print("    %s: no url" % f)
                 break
 
             if "version" not in j:
-                if nl:
-                    print("")
-                    nl = False
-                print("    %s: no version" % f)
+                # if nl:
+                #     print("")
+                #     nl = False
+                # print("    %s: no version" % f)
                 break
 
             try:
                 row["url"] = get_url(j)
-            except Exception as e:
-                if nl:
-                    print("")
-                    nl = False
-                print(f)
-                print(e)
+            except Exception:
+                # if nl:
+                #     print("")
+                #     nl = False
+                # print("    %s: %s" % (f, str(e)))
                 break
 
             default_branch = cache[repofoldername]["default_branch"]
-            manifest_url = "%s/blob/%s%s/%s" % (html_url, default_branch, bucket, f)
+            manifest_url = "%s/blob/%s%s/%s" % (
+                html_url, default_branch, bucket, f
+            )
             row["manifest_url"] = manifest_url
             if not row["url"]:
                 row["url"] = row["manifest_url"]
@@ -776,11 +592,11 @@ def do_repo(repo, i, num_repos, do_score=True):
                     v = re.sub(r"[\r\n]+", " ", v)
                     row[key] = v
                 except Exception as e:
-                    if nl:
-                        print("")
-                        nl = False
-                    print(f)
-                    print(e)
+                    # if nl:
+                    #     print("")
+                    #     nl = False
+                    # print(f)
+                    # print(e)
                     parse_error = str(e)
                 # @TODO add bits/exes,shortcuts
                 # https://png.icons8.com/android/48/000000/ok.png
@@ -789,6 +605,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 # exes
                 # shortcuts
             if len(parse_error) > 0:
+                malformed += 1
                 row["description"] += " [<em>%s</em>]" % parse_error
                 break
             good_jsons += 1
@@ -800,39 +617,86 @@ def do_repo(repo, i, num_repos, do_score=True):
         cache[repofoldername]["entries"].append(rows[k])
 
     if good_jsons == 0:
+        add_exclusion(repo, "no manifests")
         cache[repofoldername]["entries"] = []
+    else:
+        done[full_name.lower()] = "processed"
 
     cache[repofoldername]["packages"] = len(cache[repofoldername]["entries"])
-    if not nl:
-        print("%-61s: " % "", end="")
+    # if not nl:
+    #     print("%-61s: " % "", end="")
 
-    print("%3d (score:%10.6f)" % (len(cache[repofoldername]["entries"]), repo["score"]))
+    bad_jsons = jsons - good_jsons
+    msg = ""
+    if good_jsons:
+        msg = f"{good_jsons:,}"
+        if bad_jsons:
+            msg += f"/{jsons:,} ({bad_jsons:,} bad)"
+        if malformed:
+            msg += f" ({malformed:,} malformed)"
+    if msg:
+        print(msg)
     return len(cache[repofoldername]["entries"])
+
+
+def add_exclusion(repo, reason):
+    """@todo"""
+    full_name = repo["full_name"].lower()
+    if full_name in done:
+        return 0
+
+    print("Excluding (%s)" % reason)
+    with open(exclude_txt, "a", newline="\n") as fh:
+        fh.write("%s,%s\n" % (repo["clone_url"], reason))
+
+    done[full_name] = reason
+
+    repofoldername = repo["full_name"].replace("/", "+")
+    repo_dir = os.path.join(cache_dir, repofoldername)
+    try:
+        rmdir(repo_dir)
+    except Exception as e:
+        print(e)
+
+    return 0
 
 
 def do_page(search, page, do_score=True):
     """@todo"""
-    vars = {}
-    vars["q"] = search
-    vars["per_page"] = per_page
+    vars = {
+        "q": search,
+        "per_page": per_page,
+    }
     if page > 1:
         vars["page"] = page
     query_string = urlencode(OrderedDict(vars))
     url = "https://api.github.com/search/repositories?" + query_string
     rv = fetchjson(url)
+    if "message" in rv:
+        if (re.search(r"Only the first \d+ search results are available",
+                      rv["message"]) is None):
+            print("message found in search results:")
+            pprint.pprint(rv)
+        return 0
     if "items" not in rv:
-        print("items not found in search results")
+        print("items not found in search results:")
+        pprint.pprint(rv)
         return 0
     repos = rv["items"]
     i = 0
     hits = 0
     for repo in repos:
         i += 1
+        print(
+            "%s: page %2d/%2d: repo %3d/%3d: %-40s: " %
+            (search, page, max_pages, i, len(repos), repo["full_name"]),
+            end="",
+        )
         results = do_repo(repo, i, len(repos), do_score)
         if results <= 0:
             continue
         hits += results
-        if SHORT_CIRCUIT:
+        if i >= MAX_SEARCHES:
             break
 
     return hits
@@ -840,32 +704,31 @@ def do_page(search, page, do_score=True):
 
 def do_search(search, do_score=True):
     """@todo"""
+    global max_pages
     total_hits = 0
     for page in range(1, max_pages + 1):
-        print("q: %s (page %s of %s)" % (search, page, max_pages))
         hits = do_page(search, page, do_score)
         total_hits += hits
-        if total_hits == 0:
-            continue
         if hits == 0:
             break
         if page >= max_pages:
             break
-        if SHORT_CIRCUIT:
+        if MAX_SEARCHES < 99:
             break
     return total_hits
 
 
 def do_searches():
     """@todo"""
-    searches[1]["searches"].extend(builtins)
+    global max_pages
+    searches[0]["searches"].extend(builtins)
     for h in searches:
         for search in h["searches"]:
             if search.lower() in done:
                 continue
-            max_pages = 1000
+            max_pages = START_MAX_PAGES
             total_hits = do_search(search, h["score"])
-            if total_hits > 0 and SHORT_CIRCUIT:
+            if total_hits > 0 and MAX_SEARCHES < 99:
                 return 0
 
     return 0
@@ -897,7 +760,8 @@ def sort_repos(first_sort_key, sort_in_reverse):
     print("Sorting output")
     repos = [repo for repo in cache.keys()]
     repos_by_score = [
-        repo for repo in repos if repo != "last_run" and len(cache[repo]["entries"]) > 0
+        repo for repo in repos
+        if repo != "last_run" and len(cache[repo]["entries"]) > 0
     ]
     repos_by_score = sorted(
         repos_by_score,
@@ -1026,20 +890,24 @@ def do_db():
                 json = manifest["json"]
                 version = (
                     manifest["version"].split("[", 1)[1].split("]")[0]
-                    if manifest["version"] != ""
-                    else ""
+                    if manifest["version"] != "" else ""
                 )
                 description = manifest["description"]
-                license_id = manifest["license_id"] if "license_id" in manifest else ""
+                license_id = (
+                    manifest["license_id"] if "license_id" in manifest else ""
+                )  # fmt: skip
                 url = manifest["url"] if "url" in manifest else ""
                 manifest_url = (
-                    manifest["manifest_url"] if "manifest_url" in manifest else ""
+                    manifest["manifest_url"]
+                    if "manifest_url" in manifest else ""
                 )
                 bucket_url = cache[bucket]["url"]
                 license_url = (
                     manifest["license_url"] if "license_url" in manifest else ""
                 )
-                bucket_name = re.sub("^https?://[a-z0-9.-]+/", "", bucket_url, re.I)
+                bucket_name = re.sub(
+                    r"^https?://[a-z0-9.-]+/", "", bucket_url, re.I
+                )
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                     (
@@ -1071,8 +939,8 @@ def do_db():
         total_manifests += manifests
 
     print(
-        "Inserted %d manifests and %d buckets (from %d repos)"
-        % (total_manifests, bucket_id, scanned)
+        "Inserted %d manifests and %d buckets (from %d repos)" %
+        (total_manifests, bucket_id, scanned)
     )
     conn.commit()
     print("Closing connection")
@@ -1082,43 +950,97 @@ def do_db():
 
 def main():
     """@todo"""
+    start = time.time()
     get_builtins()
     initialize_cache()
     do_searches()
     save_cache()
     # GitHub truncates the readme
     # do_readme('score', 'README.md', 'Github score', True)
-    # do_readme('score', 'by-score.md', 'Github score', True)
+    do_readme("score", "by-score.md", "Github score", True)
     do_readme("full_name", "by-bucket.md", "bucket name", False)
     do_readme("packages", "by-apps.md", "number of apps", True)
     do_readme("stars", "by-stars.md", "number of stars", True)
     do_readme("forks", "by-forks.md", "number of forks", True)
     do_readme("epoch", "by-date-updated.md", "date last updated", True)
-    do_readme("score", "by-score.md", "Github score", True)
     do_db()
+    elapsed = time.time() - start
+    print(
+        "Elapsed: %s (%d seconds)" %
+        ("{:0>8}".format(str(timedelta(seconds=elapsed))), elapsed)
+    )
+
     return 0
 
 
 MAX_CLOCK_SKEW_SECONDS = 10
-MAX_TRIES = 3
-SLEEP_SECONDS = 75
-SHORT_CIRCUIT = False
+MAX_TRIES = 6
+SLEEP_SECONDS = 60
+MAX_SLEEP_SECONDS = SLEEP_SECONDS * 64  # 3840: 1 hour, 4 minutes
+MAX_SEARCHES = 99
+START_MAX_PAGES = 10
+
+lmap = {
+    "commercial":
+        "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
+    "freeware":
+        "https://en.wikipedia.org/wiki/Freeware",
+    "proprietary":
+        "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
+    "public_domain":
+        "https://wiki.creativecommons.org/wiki/Public_domain",
+    "public domain":
+        "https://wiki.creativecommons.org/wiki/Public_domain",
+    "public-domain":
+        "https://wiki.creativecommons.org/wiki/Public_domain",
+    "publicdomain":
+        "https://wiki.creativecommons.org/wiki/Public_domain",
+    "shareware":
+        "https://en.wikipedia.org/wiki/Shareware",
+}
 
 builtins = {}  # type: Dict[str, str]
 cache = {}  # type: Dict[str, Any]
-dir_path = os.path.dirname(os.path.realpath(__file__))
+dir_path = os.path.normpath(os.path.dirname(os.path.realpath(__file__)))
 last_run = None
+max_pages = START_MAX_PAGES
 # https://docs.github.com/en/free-pro-team@latest/rest/overview/resources-in-the-rest-api#pagination
 per_page = 100  # Max is 100
 repos_by_score = []  # type: List[str]
 repos_by_name = []  # type: List[str]
 
-vendor_dir = os.path.join(dir_path, "..", "vendor")
-license_dir = os.path.join(vendor_dir, "spdx/license-list-data/json")
-licenses_json = os.path.join(license_dir, "licenses.json")
-exceptions_json = os.path.join(license_dir, "exceptions.json")
+base_dir = os.path.normpath(os.path.join(dir_path, ".."))
+cache_dir = os.path.normpath(os.path.join(base_dir, "cache"))
+vendor_dir = os.path.normpath(os.path.join(base_dir, "vendor"))
+license_dir = os.path.normpath(
+    os.path.join(vendor_dir, "spdx/license-list-data/json")
+)
+
+if "CACHE_ROOT" in os.environ:
+    cache_dir = os.environ["CACHE_ROOT"]
+    if not re.search(r"cache$", cache_dir, re.I):
+        cache_dir = os.path.normpath(os.path.join(cache_dir, "cache"))
+
+cache_pickle = os.path.normpath(os.path.join(cache_dir, "cache.pickle"))
+buckets_json = os.path.normpath(
+    os.path.join(vendor_dir, "ScoopInstaller/Scoop/buckets.json")
+)
 scoop_schema_name = "ScoopInstaller/Scoop/schema.json"
-scoop_schema_json = os.path.join(vendor_dir, scoop_schema_name)
+scoop_schema_json = os.path.normpath(
+    os.path.join(vendor_dir, scoop_schema_name)
+)
+
+licenses_json = os.path.normpath(os.path.join(license_dir, "licenses.json"))
+exceptions_json = os.path.normpath(os.path.join(license_dir, "exceptions.json"))
+
+include_txt = os.path.normpath(os.path.join(base_dir, "include.txt"))
+exclude_txt = os.path.normpath(os.path.join(base_dir, "exclude.txt"))
+
+with open(buckets_json, "r") as fh:
+    bucket_list = json.load(fh)
+
+with open(scoop_schema_json, "r") as fh:
+    scoop_schema_data = json.load(fh)
 
 OSImap = {}
 with open(licenses_json) as fh:
@@ -1132,25 +1054,44 @@ with open(exceptions_json) as fh:
     for license in exceptions:
         OSImap[license["licenseExceptionId"].lower()] = license["reference"]
 
-with open(scoop_schema_json, "r") as fh:
-    scoop_schema_data = json.load(fh)
+df = pandas.read_csv(include_txt)
+includes = df.to_dict("list")
 
-cache_dir = os.path.join(dir_path, "cache")
-if "CACHE_ROOT" in os.environ:
-    cache_root = os.environ["CACHE_ROOT"]
-else:
-    cache_root = dir_path
+df = pandas.read_csv(exclude_txt)
+done = {}
+excludes = df.to_dict("list")
 
-if not re.search(r"cache$", cache_root):
-    cache_dir = os.path.join(cache_root, "cache")
+for url in excludes["url"]:
+    url = url.lower()
+    repo = url.replace("https://github.com/", "")
+    done[repo] = "excluded"
+
+search_terms = [
+    "topic:scoop-bucket",
+    "scoop-bucket",
+    "scoop bucket",
+    "scoop",
+]
+
+for url in includes["url"]:
+    url = url.lower()
+    repo = url.replace("https://github.com/", "")
+    search_terms.append(repo)
+
+searches = [{
+    "score": True,
+    "searches": search_terms,
+}]
 
 # @todo change to startup option
-for arg in sys.argv:
-    if arg == "1":
-        SHORT_CIRCUIT = True
+for arg in sys.argv[1:]:
+    if re.match(r"^\d+$", arg):
+        if int(arg) <= 99:
+            MAX_SEARCHES = int(arg)
 
-if SHORT_CIRCUIT:
-    per_page = 1
-    searches[1]["searches"] = ["scoop"]
+if MAX_SEARCHES < 99:
+    max_pages = MAX_SEARCHES
+    per_page = MAX_SEARCHES
+    searches[0]["searches"] = ["topic:scoop-bucket"]
 
 sys.exit(main())

@@ -1,10 +1,16 @@
-requests>=2.26.0
-Jinja2>=2.11.3
 chardet>=4.0.0
-# https://ci.appveyor.com/project/rasa/scoop-directory/builds/37767497#L16
-# jsoncomment==0.4.2
+GitPython>=3.1.12
+Jinja2>=2.11.3
 jsoncomment>=0.4.2
 jsonschema>=4.2.1
-# https://ci.appveyor.com/project/rasa/scoop-directory/builds/37856001#L17
-# GitPython>=2.1.15
-GitPython>=3.1.12
+pandas>=1.2.4
+requests>=2.26.0
+
+# pipreqs:
+# jsonschema==4.2.1
+# requests==2.26.0
+# chardet==4.0.0
+# pandas==1.2.4
+# Jinja2==3.0.3
+# jsoncomment==0.4.2
+# GitPython==3.1.24
