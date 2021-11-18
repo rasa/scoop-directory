@@ -31,7 +31,7 @@ jobs:
         uses: github/super-linter@v4
         env:
           DEFAULT_BRANCH: $default-branch
-          FILTER_REGEX_EXCLUDE: (by-*.md|vendor/*)
+          FILTER_REGEX_EXCLUDE: ^(by-.*\.md|vendor/)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           IGNORE_GENERATED_FILES: true
           LOG_LEVEL: WARN
