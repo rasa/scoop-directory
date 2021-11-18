@@ -1,0 +1,4 @@
+# https://textlint.github.io/docs/ignore.html
+
+by-*.md
+vendor/**
