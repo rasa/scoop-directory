@@ -1,4 +1,4 @@
-{# <!-- textlint-disable --> #}# [Scoop](https://scoop.sh/) buckets by {{sort_order_description}}
+# [Scoop](https://scoop.sh/) buckets by {{sort_order_description}}{# <!-- textlint-disable --> #}
 [![Build Status](https://ci.appveyor.com/api/projects/status/github/rasa/scoop-directory?svg=true)](https://ci.appveyor.com/project/rasa/scoop-directory "Build Status") {#
 #}[![Chat on Gitter](https://badges.gitter.im/lukesampson/scoop.svg)](https://gitter.im/lukesampson/scoop) {#
 #}[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE) {#
