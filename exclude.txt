@@ -7875,3 +7875,13 @@ https://github.com/UTKcataloging/AirScoop.git,no manifests
 https://github.com/jprcksnts/scoop-society-laravel.git,no manifests
 https://github.com/Jean-lucLanglois/Looper.git,no manifests
 https://github.com/Ash258/Scoop-Licenses.git,no manifests
+https://github.com/lastrosade/jeremylee-scoop.git,no manifests
+https://github.com/gitolicious/scoop-ui.git,no manifests
+https://github.com/bjansen/scoop-apps.git,no manifests
+https://github.com/klane/dotfiles.git,no manifests
+https://github.com/tbergen1/codeacademy_scoop.git,no manifests
+https://github.com/mgii8623/scoop.git,no manifests
+https://github.com/ubskm/courseraubs.git,no manifests
+https://github.com/beltonmany/TSAWebApp_.git,no manifests
+https://github.com/kushkapadia/Ice-Cream-Parlour-Website.git,no manifests
+https://github.com/diklios5768/scoop-backup-pwsh.git,no manifests
