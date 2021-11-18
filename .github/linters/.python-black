@@ -1,7 +1,7 @@
 # See https://black.readthedocs.io/en/stable/usage_and_configuration/the_basics.html#configuration-format
 [tool.black]
 # default = 88
-line-length = 88
+line-length = 132
 target-version = ['py39']
 # include = '\.pyi?$'
 extend-exclude = '''
