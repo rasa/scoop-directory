@@ -27,7 +27,7 @@ There are several other Scoop application manifest search tools too:
 
 2. [shovel.sh](https://shovel.sh/search) searches just the [known](https://github.com/mertd/shovel-data/blob/ad6133a10cd9f9f2d6e4a674542c429c5ce70209/shovel.go#L45) buckets. Created by [@mertd](https://github.com/mertd).
 
-3. [scoop-search](https://github.com/zhoujin7/scoop-search) is a command line utility that searches the buckets found by scoop-directory.
+3. [scoop-search](https://github.com/zhoujin7/scoop-search) is a command-line utility that searches the buckets found by scoop-directory.
 It works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a [Sqlite3 database](https://github.com/zhoujin7/crawl-scoop-directory/blob/master/scoop_directory.db) which can be downloaded from [here](https://github.com/zhoujin7/crawl-scoop-directory/raw/master/scoop_directory.db).
 Created by [@zhoujin7](https://github.com/zhoujin7).
 
