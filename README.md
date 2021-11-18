@@ -42,5 +42,4 @@ A few buckets are excluded as they duplicate other buckets. The list of excluded
 
 ## Acknowledgment and Thanks
 
-Many thanks to Tapan Nallan ([@tapannallan](https://github.com/tapannallan)/[@algomaniac](https://github.com/algomaniac)) for their development of https://github.com/tapannallan/awesome-scoop which this project started (forked) from.
-
+Many thanks to Tapan Nallan ([@tapannallan](https://github.com/tapannallan)/[@algomaniac](https://github.com/algomaniac)) for their development of [awesome-scoop](https://github.com/tapannallan/awesome-scoop) which this project started (forked) from.
