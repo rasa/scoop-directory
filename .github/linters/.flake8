@@ -1,2 +1,5 @@
+# See https://flake8.pycqa.org/en/latest/user/configuration.html
+# See also https://github.com/github/super-linter/blob/main/TEMPLATES/.flake8
+
 [flake8]
 max-line-length = 120
