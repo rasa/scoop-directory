@@ -36,5 +36,5 @@ jobs:
           IGNORE_GENERATED_FILES: true
           LOG_LEVEL: WARN
           # VALIDATE_ALL_CODEBASE: false
-          VALIDATE_NATURAL_LANGUAGE = false
+          # VALIDATE_NATURAL_LANGUAGE: false
           
