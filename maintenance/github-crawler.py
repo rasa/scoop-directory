@@ -173,9 +173,7 @@ def fetchjson(urlstr):
     sleep_seconds = SLEEP_SECONDS
     while sleep_seconds <= MAX_SLEEP_SECONDS:
         print("url=%s" % urlstr)
-        response = requests.get(
-            url=urlstr, headers=request_headers
-        )  # auth=basicAuth
+        response = requests.get(url=urlstr, headers=request_headers)  # auth=basicAuth
         max_pages = 1
         if "Link" in response.headers:
             link = response.headers["Link"]
@@ -360,9 +358,7 @@ def do_parse(file_path):
 def parse_validation_error(err):
     """@todo"""
     try:
-        m = re.match(
-            r"(.*^On instance[^:]*:$)(.*)", err, re.MULTILINE | re.DOTALL
-        )
+        m = re.match(r"(.*^On instance[^:]*:$)(.*)", err, re.MULTILINE | re.DOTALL)
         if m is not None:
             return m.group(1)
     except Exception as e:
@@ -449,9 +445,7 @@ def do_repo(repo, i, num_repos, do_score=True):
 
         pattern = "%Y-%m-%dT%H:%M:%S"
         try:
-            epoch = int(
-                time.mktime(time.strptime(repo["updated_at"][:-1], pattern))
-            )
+            epoch = int(time.mktime(time.strptime(repo["updated_at"][:-1], pattern)))
         except Exception:
             epoch = 0
 
@@ -556,9 +550,7 @@ def do_repo(repo, i, num_repos, do_score=True):
                 break
 
             default_branch = cache[repofoldername]["default_branch"]
-            manifest_url = "%s/blob/%s%s/%s" % (
-                html_url, default_branch, bucket, f
-            )
+            manifest_url = "%s/blob/%s%s/%s" % (html_url, default_branch, bucket, f)
             row["manifest_url"] = manifest_url
             if not row["url"]:
                 row["url"] = row["manifest_url"]
@@ -673,8 +665,10 @@ def do_page(search, page, do_score=True):
     url = "https://api.github.com/search/repositories?" + query_string
     rv = fetchjson(url)
     if "message" in rv:
-        if (re.search(r"Only the first \d+ search results are available",
-                      rv["message"]) is None):
+        if (
+            re.search(r"Only the first \d+ search results are available", rv["message"])
+            is None
+        ):
             print("message found in search results:")
             pprint.pprint(rv)
         return 0
@@ -688,8 +682,8 @@ def do_page(search, page, do_score=True):
     for repo in repos:
         i += 1
         print(
-            "%s: page %2d/%2d: repo %3d/%3d: %-40s: " %
-            (search, page, max_pages, i, len(repos), repo["full_name"]),
+            "%s: page %2d/%2d: repo %3d/%3d: %-40s: "
+            % (search, page, max_pages, i, len(repos), repo["full_name"]),
             end="",
         )
         results = do_repo(repo, i, len(repos), do_score)
@@ -760,8 +754,7 @@ def sort_repos(first_sort_key, sort_in_reverse):
     print("Sorting output")
     repos = [repo for repo in cache.keys()]
     repos_by_score = [
-        repo for repo in repos
-        if repo != "last_run" and len(cache[repo]["entries"]) > 0
+        repo for repo in repos if repo != "last_run" and len(cache[repo]["entries"]) > 0
     ]
     repos_by_score = sorted(
         repos_by_score,
@@ -890,7 +883,8 @@ def do_db():
                 json = manifest["json"]
                 version = (
                     manifest["version"].split("[", 1)[1].split("]")[0]
-                    if manifest["version"] != "" else ""
+                    if manifest["version"] != ""
+                    else ""
                 )
                 description = manifest["description"]
                 license_id = (
@@ -898,16 +892,13 @@ def do_db():
                 )  # fmt: skip
                 url = manifest["url"] if "url" in manifest else ""
                 manifest_url = (
-                    manifest["manifest_url"]
-                    if "manifest_url" in manifest else ""
+                    manifest["manifest_url"] if "manifest_url" in manifest else ""
                 )
                 bucket_url = cache[bucket]["url"]
                 license_url = (
                     manifest["license_url"] if "license_url" in manifest else ""
                 )
-                bucket_name = re.sub(
-                    r"^https?://[a-z0-9.-]+/", "", bucket_url, re.I
-                )
+                bucket_name = re.sub(r"^https?://[a-z0-9.-]+/", "", bucket_url, re.I)
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
                     (
@@ -939,8 +930,8 @@ def do_db():
         total_manifests += manifests
 
     print(
-        "Inserted %d manifests and %d buckets (from %d repos)" %
-        (total_manifests, bucket_id, scanned)
+        "Inserted %d manifests and %d buckets (from %d repos)"
+        % (total_manifests, bucket_id, scanned)
     )
     conn.commit()
     print("Closing connection")
@@ -966,8 +957,8 @@ def main():
     do_db()
     elapsed = time.time() - start
     print(
-        "Elapsed: %s (%d seconds)" %
-        ("{:0>8}".format(str(timedelta(seconds=elapsed))), elapsed)
+        "Elapsed: %s (%d seconds)"
+        % ("{:0>8}".format(str(timedelta(seconds=elapsed))), elapsed)
     )
 
     return 0
@@ -981,22 +972,14 @@ MAX_SEARCHES = 99
 START_MAX_PAGES = 10
 
 lmap = {
-    "commercial":
-        "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
-    "freeware":
-        "https://en.wikipedia.org/wiki/Freeware",
-    "proprietary":
-        "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
-    "public_domain":
-        "https://wiki.creativecommons.org/wiki/Public_domain",
-    "public domain":
-        "https://wiki.creativecommons.org/wiki/Public_domain",
-    "public-domain":
-        "https://wiki.creativecommons.org/wiki/Public_domain",
-    "publicdomain":
-        "https://wiki.creativecommons.org/wiki/Public_domain",
-    "shareware":
-        "https://en.wikipedia.org/wiki/Shareware",
+    "commercial": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
+    "freeware": "https://en.wikipedia.org/wiki/Freeware",
+    "proprietary": "https://en.m.wikipedia.org/wiki/Software_license#Proprietary_software_licenses",
+    "public_domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "public domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "public-domain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "publicdomain": "https://wiki.creativecommons.org/wiki/Public_domain",
+    "shareware": "https://en.wikipedia.org/wiki/Shareware",
 }
 
 builtins = {}  # type: Dict[str, str]
@@ -1012,9 +995,7 @@ repos_by_name = []  # type: List[str]
 base_dir = os.path.normpath(os.path.join(dir_path, ".."))
 cache_dir = os.path.normpath(os.path.join(base_dir, "cache"))
 vendor_dir = os.path.normpath(os.path.join(base_dir, "vendor"))
-license_dir = os.path.normpath(
-    os.path.join(vendor_dir, "spdx/license-list-data/json")
-)
+license_dir = os.path.normpath(os.path.join(vendor_dir, "spdx/license-list-data/json"))
 
 if "CACHE_ROOT" in os.environ:
     cache_dir = os.environ["CACHE_ROOT"]
@@ -1026,9 +1007,7 @@ buckets_json = os.path.normpath(
     os.path.join(vendor_dir, "ScoopInstaller/Scoop/buckets.json")
 )
 scoop_schema_name = "ScoopInstaller/Scoop/schema.json"
-scoop_schema_json = os.path.normpath(
-    os.path.join(vendor_dir, scoop_schema_name)
-)
+scoop_schema_json = os.path.normpath(os.path.join(vendor_dir, scoop_schema_name))
 
 licenses_json = os.path.normpath(os.path.join(license_dir, "licenses.json"))
 exceptions_json = os.path.normpath(os.path.join(license_dir, "exceptions.json"))
@@ -1078,10 +1057,12 @@ for url in includes["url"]:
     repo = url.replace("https://github.com/", "")
     search_terms.append(repo)
 
-searches = [{
-    "score": True,
-    "searches": search_terms,
-}]
+searches = [
+    {
+        "score": True,
+        "searches": search_terms,
+    }
+]
 
 # @todo change to startup option
 for arg in sys.argv[1:]:
