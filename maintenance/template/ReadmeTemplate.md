@@ -4,6 +4,7 @@
 #}[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE) {#
 #}[![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/h404bi/awesome-scoop/blob/master/README.md "Awesome Scoop")
 
+{# <!-- textlint-disable --> #}
 | # | [Bucket&#x25b2;](by-bucket.md) | [Apps&#x25b2;](by-apps.md) | [&#x2605;&#x25b2;](by-stars.md) | [&#x2442;&#x25b2;](by-forks.md) | [Updated&#x25b2;](by-date-updated.md) |
 | :--- | :--- | ---: | ---: | ---: | ---: |
 {% for repo in repos_by_score %}{#
@@ -28,3 +29,4 @@
 #}|{{entry['description']|e}}{#
 #}|{{entry['license']}}|
 {% endfor -%}{% endfor -%}
+
