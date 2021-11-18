@@ -17,8 +17,7 @@ import stat
 import sys
 import time
 from collections import OrderedDict
-from datetime import datetime
-from datetime import timedelta
+from datetime import datetime, timedelta
 from typing import Any, Dict, List  # , Set, Tuple, Optional
 from urllib.parse import urlencode  # python3
 
