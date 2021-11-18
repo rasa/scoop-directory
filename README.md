@@ -11,7 +11,7 @@
 
 To [search](https://rasa.github.io/scoop-directory/search) the Scoop Directory click [here](https://rasa.github.io/scoop-directory/search) (put together by [@rashil2000](https://github.com/rashil2000)).
 
-The search index contains over 16,000 applications in over 1,600 buckets and is updated daily at 15:00 UTC.
+The search index contains over 16,000 applications in over 900 buckets and is updated daily at 15:00 UTC.
 
 You can also view the full list of all discovered applications sorted by:
 
@@ -23,7 +23,7 @@ You can also view the full list of all discovered applications sorted by:
 
 There are several other Scoop application manifest search tools too:
 
-1. [ScoopSearch](https://scoopsearch.github.io/) searches over 16,000 applications in over 900 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler).
+1. [ScoopSearch](https://scoopsearch.github.io/) searches almost 15,000 applications in over 900 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler).
 
 2. [shovel.sh](https://shovel.sh/search) searches just the [known](https://github.com/mertd/shovel-data/blob/ad6133a10cd9f9f2d6e4a674542c429c5ce70209/shovel.go#L45) buckets. Created by [@mertd](https://github.com/mertd).
 
@@ -31,7 +31,7 @@ There are several other Scoop application manifest search tools too:
 It works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a [Sqlite3 database](https://github.com/zhoujin7/crawl-scoop-directory/blob/master/scoop_directory.db) which can be downloaded from [here](https://github.com/zhoujin7/crawl-scoop-directory/raw/master/scoop_directory.db).
 Created by [@zhoujin7](https://github.com/zhoujin7).
 
-4. [scoop-search](https://github.com/shilangyu/scoop-search) is another command line search utility utility. It can be installed via `scoop install scoop-search` It  searches the buckets installed locally via `scoop bucket add [bucketname]`. Created by [@shilangyu](https://github.com/shilangyu).
+4. [scoop-search](https://github.com/shilangyu/scoop-search) is another command-line search utility utility. It can be installed via `scoop install scoop-search` It  searches the buckets installed locally via `scoop bucket add [bucketname]`. Created by [@shilangyu](https://github.com/shilangyu).
 
 5. [Repology](https://repology.org/projects/?inrepo=scoop) searches the Main, Extras, Versions and Games buckets, per [here](https://repology.org/repository/scoop).
 Repology can also be used to search [Chocolatey](https://repology.org/projects/?inrepo=chocolatey), [Winget](https://repology.org/projects/?inrepo=winget) and Npackd's [stable](https://repology.org/projects/?inrepo=npackd_stable) [stable64](https://repology.org/projects/?inrepo=npackd_stable64) and [unstable](https://repology.org/projects/?inrepo=npackd_unstable) package repositories.
