@@ -664,10 +664,7 @@ def do_page(search, page, do_score=True):
     url = "https://api.github.com/search/repositories?" + query_string
     rv = fetchjson(url)
     if "message" in rv:
-        if (
-            re.search(r"Only the first \d+ search results are available", rv["message"])
-            is None
-        ):
+        if re.search(r"Only the first \d+ search results are available", rv["message"]) is None:
             print("message found in search results:")
             pprint.pprint(rv)
         return 0
@@ -681,8 +678,7 @@ def do_page(search, page, do_score=True):
     for repo in repos:
         i += 1
         print(
-            "%s: page %2d/%2d: repo %3d/%3d: %-40s: "
-            % (search, page, max_pages, i, len(repos), repo["full_name"]),
+            "%s: page %2d/%2d: repo %3d/%3d: %-40s: " % (search, page, max_pages, i, len(repos), repo["full_name"]),
             end="",
         )
         results = do_repo(repo, i, len(repos), do_score)
@@ -732,9 +728,7 @@ def save_cache():
     global cache
 
     print("Saving cache")
-    cache["last_run"] = datetime.strftime(
-        datetime.now().replace(hour=0, minute=0, second=0), "%Y-%m-%dT%H:%M:%SZ"
-    )
+    cache["last_run"] = datetime.strftime(datetime.now().replace(hour=0, minute=0, second=0), "%Y-%m-%dT%H:%M:%SZ")
 
     try:
         with open(os.path.join(cache_dir, "cache.pickle"), "wb") as input_file:
@@ -752,9 +746,7 @@ def sort_repos(first_sort_key, sort_in_reverse):
 
     print("Sorting output")
     repos = [repo for repo in cache.keys()]
-    repos_by_score = [
-        repo for repo in repos if repo != "last_run" and len(cache[repo]["entries"]) > 0
-    ]
+    repos_by_score = [repo for repo in repos if repo != "last_run" and len(cache[repo]["entries"]) > 0]
     repos_by_score = sorted(
         repos_by_score,
         key=lambda repo: (
@@ -769,9 +761,7 @@ def sort_repos(first_sort_key, sort_in_reverse):
     )
 
     repos_by_name = copy.deepcopy(repos_by_score)
-    repos_by_name = sorted(
-        repos_by_name, key=lambda repo: cache[repo]["full_name"].lower()
-    )
+    repos_by_name = sorted(repos_by_name, key=lambda repo: cache[repo]["full_name"].lower())
     return True
 
 
@@ -880,23 +870,15 @@ def do_db():
             manifests += 1
             try:
                 json = manifest["json"]
-                version = (
-                    manifest["version"].split("[", 1)[1].split("]")[0]
-                    if manifest["version"] != ""
-                    else ""
-                )
+                version = manifest["version"].split("[", 1)[1].split("]")[0] if manifest["version"] != "" else ""
                 description = manifest["description"]
                 license_id = (
                     manifest["license_id"] if "license_id" in manifest else ""
                 )  # fmt: skip
                 url = manifest["url"] if "url" in manifest else ""
-                manifest_url = (
-                    manifest["manifest_url"] if "manifest_url" in manifest else ""
-                )
+                manifest_url = manifest["manifest_url"] if "manifest_url" in manifest else ""
                 bucket_url = cache[bucket]["url"]
-                license_url = (
-                    manifest["license_url"] if "license_url" in manifest else ""
-                )
+                license_url = manifest["license_url"] if "license_url" in manifest else ""
                 bucket_name = re.sub(r"^https?://[a-z0-9.-]+/", "", bucket_url, re.I)
                 cur.execute(
                     "insert into apps values (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
@@ -928,10 +910,7 @@ def do_db():
         print("Added %d manifests" % manifests)
         total_manifests += manifests
 
-    print(
-        "Inserted %d manifests and %d buckets (from %d repos)"
-        % (total_manifests, bucket_id, scanned)
-    )
+    print("Inserted %d manifests and %d buckets (from %d repos)" % (total_manifests, bucket_id, scanned))
     conn.commit()
     print("Closing connection")
     conn.close()
@@ -955,10 +934,7 @@ def main():
     do_readme("epoch", "by-date-updated.md", "date last updated", True)
     do_db()
     elapsed = time.time() - start
-    print(
-        "Elapsed: %s (%d seconds)"
-        % ("{:0>8}".format(str(timedelta(seconds=elapsed))), elapsed)
-    )
+    print("Elapsed: %s (%d seconds)" % ("{:0>8}".format(str(timedelta(seconds=elapsed))), elapsed))
 
     return 0
 
@@ -1002,9 +978,7 @@ if "CACHE_ROOT" in os.environ:
         cache_dir = os.path.normpath(os.path.join(cache_dir, "cache"))
 
 cache_pickle = os.path.normpath(os.path.join(cache_dir, "cache.pickle"))
-buckets_json = os.path.normpath(
-    os.path.join(vendor_dir, "ScoopInstaller/Scoop/buckets.json")
-)
+buckets_json = os.path.normpath(os.path.join(vendor_dir, "ScoopInstaller/Scoop/buckets.json"))
 scoop_schema_name = "ScoopInstaller/Scoop/schema.json"
 scoop_schema_json = os.path.normpath(os.path.join(vendor_dir, scoop_schema_name))
 
