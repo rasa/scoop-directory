@@ -23,20 +23,20 @@ MD007:
   indent: 2                   # Unordered list indentation
 MD013:
   # @TODO FIXME
-  line_length: 2047           # Line length 80 is far to short
+  # line_length: 2047           # Line length 80 is far to short
 # @TODO FIXME
-MD018: false                  # Allow no space after hash on atx 
+# MD018: false                  # Allow no space after hash on atx 
 # @TODO FIXME
-MD020: false                  # Allow no space inside hashes on closed atx style heading 
+# MD020: false                  # Allow no space inside hashes on closed atx style heading 
 MD026:
   punctuation: ".,;:!。，；:"  # List of not allowed
 MD029: false                  # Ordered list item prefix
 MD033: false                  # Allow inline HTML
 # @TODO FIXME
-MD034: false                  # Allow bare URLs
+# MD034: false                  # Allow bare URLs
 MD036: false                  # Emphasis used instead of a heading
 # @TODO FIXME
-MD042: false                  # Allow empty links
+# MD042: false                  # Allow empty links
 
 #################
 # Rules by tags #
