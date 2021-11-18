@@ -171,7 +171,7 @@ def fetchjson(urlstr):
 
     sleep_seconds = SLEEP_SECONDS
     while sleep_seconds <= MAX_SLEEP_SECONDS:
-        print("url=%s" % urlstr)
+        # print("url=%s" % urlstr)
         response = requests.get(url=urlstr, headers=request_headers)  # auth=basicAuth
         max_pages = 1
         if "Link" in response.headers:
@@ -849,10 +849,10 @@ def do_db():
         if bucket == "last_run":
             continue
         if not cache[bucket]["entries"]:
-            print("Skipping %s: no manifests" % (cache[bucket]["url"]))
+            # print("Skipping %s: no manifests" % (cache[bucket]["url"]))
             continue
         bucket_id += 1
-        print("Inserting bucket %d: %s" % (bucket_id, cache[bucket]["url"]))
+        # print("Inserting bucket %d: %s" % (bucket_id, cache[bucket]["url"]))
         cur.execute(
             "insert into buckets values (?, ?, ?, ?, ?, ?)",
             (
@@ -907,7 +907,7 @@ def do_db():
                 print("%-12s: %s" % ("bucket_url", bucket_url))
                 print("%-12s: %s" % ("license_url", license_url))
 
-        print("Added %d manifests" % manifests)
+        # print("Added %d manifests" % manifests)
         total_manifests += manifests
 
     print("Inserted %d manifests and %d buckets (from %d repos)" % (total_manifests, bucket_id, scanned))
