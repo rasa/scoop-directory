@@ -438,7 +438,7 @@ def do_repo(repo, i, num_repos, do_score=True):
 
         builtin_text = ""
         if full_name_lower in builtins:
-            builtin_text = "scoop's built-in bucket '%s'" % builtins[full_name]
+            builtin_text = "scoop's built-in bucket '%s'" % builtins[full_name_lower]
         if builtin_text:
             description += " (%s)" % builtin_text
 
