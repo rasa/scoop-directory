@@ -19,7 +19,7 @@ import time
 from collections import OrderedDict
 from datetime import datetime, timedelta
 from typing import Any, Dict, List  # , Set, Tuple, Optional
-from urllib.parse import urlencode  # python3
+from urllib.parse import urlencode, urlsplit  # python3
 
 import chardet
 import git
@@ -29,6 +29,14 @@ import jsonschema
 import pandas
 import requests
 import requests.auth
+
+
+def url_to_repo_name(url):
+    """@todo"""
+    path = urlsplit(url).path
+    path = path[1:]
+    (base, ext) = os.path.splitext(path)
+    return base
 
 
 def fix_license(s):
@@ -213,20 +221,6 @@ def fetchjson(urlstr):
     return {}
 
 
-def get_builtins():
-    """@todo"""
-    for key in bucket_list:
-        url = bucket_list[key]
-        m = re.search(r"github\.com/(.*)$", url, re.I)
-        if m:
-            name = m.group(1)
-            m = re.search(r"^(.*)\.git$", name, re.I)
-            if m:
-                name = m.group(1)
-            builtins[name] = key
-    return 0
-
-
 def rmdir(path):
     """@todo"""
 
@@ -366,6 +360,20 @@ def parse_validation_error(err):
     return err
 
 
+def do_clone(url, path):
+    """@todo"""
+    try:
+        if not os.path.isdir(path):
+            git.Repo.clone_from(url, path, depth=1)
+        else:
+            repo = git.Repo(path)
+            o = repo.remotes.origin
+            o.pull()
+    except Exception as e:
+        return str(e)
+    return ""
+
+
 def do_repo(repo, i, num_repos, do_score=True):
     """@todo"""
     failure = -1
@@ -385,11 +393,12 @@ def do_repo(repo, i, num_repos, do_score=True):
         return failure
 
     full_name = repo["full_name"]
+    full_name_lower = full_name.lower()
 
     nl = True
 
-    if full_name.lower() in done:
-        print("Skipping (%s)" % done[full_name.lower()])
+    if full_name_lower in done:
+        print("Skipping (%s)" % done[full_name_lower])
         return failure
 
     if repo["fork"]:
@@ -411,13 +420,11 @@ def do_repo(repo, i, num_repos, do_score=True):
     repo_dir = os.path.join(cache_dir, repofoldername)
 
     if repofoldername not in cache:
-        try:
-            git.Repo.clone_from(git_clone_url, repo_dir, depth=1)
-        except Exception as e:
+        errmsg = do_clone(git_clone_url, repo_dir)
+        if errmsg:
             if nl:
                 print("")
-                nl = False
-            print(e)
+            print(errmsg)
             return failure
 
         try:
@@ -430,7 +437,7 @@ def do_repo(repo, i, num_repos, do_score=True):
             description = ""
 
         builtin_text = ""
-        if full_name in builtins:
+        if full_name_lower in builtins:
             builtin_text = "scoop's built-in bucket '%s'" % builtins[full_name]
         if builtin_text:
             description += " (%s)" % builtin_text
@@ -472,18 +479,12 @@ def do_repo(repo, i, num_repos, do_score=True):
         }
 
     elif repofoldername in cache and (last_updated > last_run):
-        if not os.path.isdir(repo_dir):
-            print("Path not found: %s" % repo_dir)
-            return failure
-        try:
-            repo = git.Repo(repo_dir)
-            o = repo.remotes.origin
-            o.pull()
-        except Exception as e:
+        errmsg = do_clone(git_clone_url, repo_dir)
+        if errmsg:
             if nl:
                 print("")
-                nl = False
-            print(e)
+            print(errmsg)
+            return failure
 
     if not os.path.isdir(repo_dir):
         return failure
@@ -611,7 +612,7 @@ def do_repo(repo, i, num_repos, do_score=True):
         add_exclusion(repo, "no manifests")
         cache[repofoldername]["entries"] = []
     else:
-        done[full_name.lower()] = "processed"
+        done[full_name_lower] = "processed"
 
     cache[repofoldername]["packages"] = len(cache[repofoldername]["entries"])
     # if not nl:
@@ -632,15 +633,16 @@ def do_repo(repo, i, num_repos, do_score=True):
 
 def add_exclusion(repo, reason):
     """@todo"""
-    full_name = repo["full_name"].lower()
-    if full_name in done:
+    full_name_lower = repo["full_name"].lower()
+    if full_name_lower in done:
+        print("Already excluded (%s)" % done[full_name_lower])
         return 0
 
     print("Excluding (%s)" % reason)
     with open(exclude_txt, "a", newline="\n") as fh:
         fh.write("%s,%s\n" % (repo["clone_url"], reason))
 
-    done[full_name] = reason
+    done[full_name_lower] = reason
 
     repofoldername = repo["full_name"].replace("/", "+")
     repo_dir = os.path.join(cache_dir, repofoldername)
@@ -920,7 +922,6 @@ def do_db():
 def main():
     """@todo"""
     start = time.time()
-    get_builtins()
     initialize_cache()
     do_searches()
     save_cache()
@@ -990,6 +991,11 @@ exclude_txt = os.path.normpath(os.path.join(base_dir, "exclude.txt"))
 
 with open(buckets_json, "r") as fh:
     bucket_list = json.load(fh)
+    for key in bucket_list:
+        url = bucket_list[key]
+        repo = url_to_repo_name(url)
+        repo = repo.lower()
+        builtins[repo] = key
 
 with open(scoop_schema_json, "r") as fh:
     scoop_schema_data = json.load(fh)
@@ -1014,8 +1020,8 @@ done = {}
 excludes = df.to_dict("list")
 
 for url in excludes["url"]:
-    url = url.lower()
-    repo = url.replace("https://github.com/", "")
+    repo = url_to_repo_name(url)
+    repo = repo.lower()
     done[repo] = "excluded"
 
 search_terms = [
@@ -1026,8 +1032,8 @@ search_terms = [
 ]
 
 for url in includes["url"]:
-    url = url.lower()
-    repo = url.replace("https://github.com/", "")
+    repo = url_to_repo_name(url)
+    repo = repo.lower()
     search_terms.append(repo)
 
 searches = [
