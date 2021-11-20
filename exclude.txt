@@ -791,3 +791,4 @@ https://github.com/ztj1993/scoop.git,no manifests
 https://github.com/zyctinker/SCoopPlugin.git,no manifests
 https://github.com/zyiLoong/scoop.git,no manifests
 https://github.com/zyqstore/scoop.git,no manifests
+https://github.com/Neruelin/TheScoop.git,no manifests
