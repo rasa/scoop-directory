@@ -1044,6 +1044,6 @@ for arg in sys.argv[1:]:
 if MAX_SEARCHES < 99:
     max_pages = MAX_SEARCHES
     per_page = MAX_SEARCHES
-    searches[0]["searches"] = ["topic:scoop-bucket"]
+    search_terms = ["topic:scoop-bucket"]
 
 sys.exit(main())
