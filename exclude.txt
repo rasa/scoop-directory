@@ -792,3 +792,5 @@ https://github.com/zyctinker/SCoopPlugin.git,no manifests
 https://github.com/zyiLoong/scoop.git,no manifests
 https://github.com/zyqstore/scoop.git,no manifests
 https://github.com/Neruelin/TheScoop.git,no manifests
+https://github.com/JuanValdez47/Scoop-Life.git,no manifests
+https://github.com/Trail-Blaze/marketplace.git,no manifests
