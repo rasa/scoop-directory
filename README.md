@@ -23,7 +23,7 @@ You can also view the full list of all discovered applications sorted by:
 
 There are several other Scoop application manifest search tools too:
 
-1. [ScoopSearch](https://scoopsearch.github.io/) searches almost 15,000 application manifests in over 900 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler).
+1. [ScoopSearch](https://scoopsearch.github.io/) searches over 15,000 application manifests in over 900 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler).
 
 2. [shovel.sh](https://shovel.sh/search) searches just the [known](https://github.com/mertd/shovel-data/blob/ad6133a10cd9f9f2d6e4a674542c429c5ce70209/shovel.go#L45) buckets. Created by [@mertd](https://github.com/mertd).
 
