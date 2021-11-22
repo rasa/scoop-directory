@@ -794,3 +794,8 @@ https://github.com/zyqstore/scoop.git,no manifests
 https://github.com/Neruelin/TheScoop.git,no manifests
 https://github.com/JuanValdez47/Scoop-Life.git,no manifests
 https://github.com/Trail-Blaze/marketplace.git,no manifests
+https://github.com/jcarroll2007/jcarroll2007.github.io.git,no manifests
+https://github.com/vivi2nice/project-3-the-scoop.git,no manifests
+https://github.com/niktekusho/scoop-installer.git,no manifests
+https://github.com/draedr/icecream.git,no manifests
+https://github.com/Kazanami/my-scoop-template.git,no manifests
