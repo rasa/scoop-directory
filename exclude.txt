@@ -799,3 +799,5 @@ https://github.com/vivi2nice/project-3-the-scoop.git,no manifests
 https://github.com/niktekusho/scoop-installer.git,no manifests
 https://github.com/draedr/icecream.git,no manifests
 https://github.com/Kazanami/my-scoop-template.git,no manifests
+https://github.com/BruceZhang1993/scoop-azusa.git,no manifests
+https://github.com/scoop96/scoop96.git,no manifests
