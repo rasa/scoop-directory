@@ -21,6 +21,8 @@ You can also view the full list of all discovered applications sorted by:
 4. [Forks](https://rasa.github.io/scoop-directory/by-forks)
 5. [Last updated](https://rasa.github.io/scoop-directory/by-date-updated)
 
+# Other search engines
+
 There are several other Scoop application manifest search tools too:
 
 1. [ScoopSearch](https://scoopsearch.github.io/) searches over 15,000 application manifests in over 900 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler).
