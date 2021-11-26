@@ -801,3 +801,4 @@ https://github.com/draedr/icecream.git,no manifests
 https://github.com/Kazanami/my-scoop-template.git,no manifests
 https://github.com/BruceZhang1993/scoop-azusa.git,no manifests
 https://github.com/scoop96/scoop96.git,no manifests
+https://github.com/mindyGit/scoopCateringApp.git,no manifests
