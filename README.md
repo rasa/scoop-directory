@@ -20,6 +20,7 @@ You can also view the full list of all discovered applications sorted by:
 3. [Stars](https://rasa.github.io/scoop-directory/by-stars)
 4. [Forks](https://rasa.github.io/scoop-directory/by-forks)
 5. [Last updated](https://rasa.github.io/scoop-directory/by-date-updated)
+6. [Score](https://rasa.github.io/scoop-directory/by-score) (currently deprecated)
 
 ## Other search engines
 
@@ -36,11 +37,15 @@ Created by [@zhoujin7](https://github.com/zhoujin7).
 4. [scoop-search](https://github.com/shilangyu/scoop-search) is another command-line search utility utility. It can be installed via `scoop install scoop-search` It  searches the buckets installed locally via `scoop bucket add [bucketname]`. Created by [@shilangyu](https://github.com/shilangyu).
 
 5. [Repology](https://repology.org/projects/?inrepo=scoop) searches the Main, Extras, Versions and Games buckets, per [here](https://repology.org/repository/scoop).
-Repology can also be used to search [Chocolatey](https://repology.org/projects/?inrepo=chocolatey), [Winget](https://repology.org/projects/?inrepo=winget) and Npackd's [stable](https://repology.org/projects/?inrepo=npackd_stable) [stable64](https://repology.org/projects/?inrepo=npackd_stable64) and [unstable](https://repology.org/projects/?inrepo=npackd_unstable) package repositories.
+Repology can also be used to search [Chocolatey](https://repology.org/projects/?inrepo=chocolatey), [Winget](https://repology.org/projects/?inrepo=winget), [Baulk](https://repology.org/repository/baulk), and [Npackd](https://github.com/npackd/npackd)'s [stable](https://repology.org/projects/?inrepo=npackd_stable), [stable64](https://repology.org/projects/?inrepo=npackd_stable64) and [unstable](https://repology.org/projects/?inrepo=npackd_unstable) package repositories.
 
-## Notes
+## Adding buckets
 
-A few buckets are excluded as they duplicate other buckets. The list of excluded buckets is [here](https://github.com/rasa/scoop-directory/blob/master/maintenance/github-crawler.py#L135).
+If GitHub fails to discover a bucket via its search api function, the bucket's URL can be manually added to [include.txt](https://github.com/rasa/scoop-directory/blob/HEAD/include.txt).
+
+## Excluding buckets <a name="notes"/>
+
+A few buckets are excluded as they duplicate other buckets. The list of excluded buckets was [here](https://github.com/rasa/scoop-directory/blob/77b7b5713c8bdb9fb3c55aaee0f73ba00750f63f/maintenance/github-crawler.py#L44) but was migrated to [exclude.txt](https://github.com/rasa/scoop-directory/blob/HEAD/exclude.txt).
 
 ## Acknowledgment and Thanks
 
