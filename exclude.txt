@@ -805,3 +805,4 @@ https://github.com/mindyGit/scoopCateringApp.git,no manifests
 https://github.com/rivy/scoop.bucket.scoop-main.git,clone of scoopinstaller/scoop-main
 https://github.com/luannfaria/Projeto-Scoop.git,no manifests
 https://github.com/sack-of-noodles/Scoop.git,no manifests
+https://github.com/ArkToria/scoop-bucket.git,no manifests
