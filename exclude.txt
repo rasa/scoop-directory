@@ -806,3 +806,4 @@ https://github.com/rivy/scoop.bucket.scoop-main.git,clone of scoopinstaller/scoo
 https://github.com/luannfaria/Projeto-Scoop.git,no manifests
 https://github.com/sack-of-noodles/Scoop.git,no manifests
 https://github.com/ArkToria/scoop-bucket.git,no manifests
+https://github.com/gphg/scoop-love.git,no manifests
