@@ -41,7 +41,8 @@ Repology can also be used to search [Chocolatey](https://repology.org/projects/?
 
 ## Adding buckets
 
-If GitHub fails to discover a bucket via its search api function, the bucket's URL can be manually added to [include.txt](https://github.com/rasa/scoop-directory/blob/HEAD/include.txt).
+If GitHub fails to discover a bucket via its search API
+ function, the bucket's URL can be manually added to [include.txt](https://github.com/rasa/scoop-directory/blob/HEAD/include.txt).
 
 ## Excluding buckets <a name="notes"/>
 
