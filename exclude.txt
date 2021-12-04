@@ -807,3 +807,5 @@ https://github.com/luannfaria/Projeto-Scoop.git,no manifests
 https://github.com/sack-of-noodles/Scoop.git,no manifests
 https://github.com/ArkToria/scoop-bucket.git,no manifests
 https://github.com/gphg/scoop-love.git,no manifests
+https://github.com/hiono/scoop.git,no manifests
+https://github.com/diklios5768/scoop-backup.git,no manifests
