@@ -117,3 +117,4 @@ https://github.com/yt3r/test-bucket.git
 https://github.com/yuanying1199/scoopbucket.git
 https://github.com/yutahaga/scoop-bucket.git
 https://github.com/zhoujin7/tomato.git
+https://github.com/joaoricarte/jr-bucket.git
