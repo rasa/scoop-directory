@@ -813,3 +813,4 @@ https://github.com/Omobolaji92/scoop.git,no manifests
 https://github.com/alaturka/scoop.git,no manifests
 https://github.com/klazapp/Ice-Cream-Scoop-Mobile-Game.git,no manifests
 https://github.com/snthcy/suckit.git,no manifests
+https://github.com/amreus/bucket.git,no manifests
