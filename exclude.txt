@@ -815,3 +815,5 @@ https://github.com/klazapp/Ice-Cream-Scoop-Mobile-Game.git,no manifests
 https://github.com/snthcy/suckit.git,no manifests
 https://github.com/amreus/bucket.git,no manifests
 https://github.com/wolfyu1991/scoop-ctf.git,no manifests
+https://github.com/emilefraser/PyroScoop.git,no manifests
+https://github.com/RavenMacDaddy/scoop-apps.git,no manifests
