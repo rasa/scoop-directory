@@ -817,3 +817,4 @@ https://github.com/amreus/bucket.git,no manifests
 https://github.com/wolfyu1991/scoop-ctf.git,no manifests
 https://github.com/emilefraser/PyroScoop.git,no manifests
 https://github.com/RavenMacDaddy/scoop-apps.git,no manifests
+https://github.com/Ash258/Scoop-Ash258.git,no manifests
