@@ -3,7 +3,6 @@ https://github.com/82p/scoop-yubico-bucket.git
 https://github.com/Aaike/scoop.git
 https://github.com/Alxandr/scoop-bucket.git
 https://github.com/anurse/scoop-bucket.git
-https://github.com/Ash258/Scoop-Ash258.git
 https://github.com/AStupidBear/scoop-bear.git
 https://github.com/bitrvmpd/scoop-wuff.git
 https://github.com/BjoernPetersen/scoop-misc-bucket.git
