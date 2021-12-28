@@ -819,3 +819,6 @@ https://github.com/emilefraser/PyroScoop.git,no manifests
 https://github.com/RavenMacDaddy/scoop-apps.git,no manifests
 https://github.com/Ash258/Scoop-Ash258.git,no manifests
 https://github.com/sotvokun/basket.git,no manifests
+https://github.com/ScoopInstaller/BucketTemplate.git,no manifests
+https://github.com/Moeologist/scoop-completion.git,no manifests
+https://github.com/Lanservery/scoop-mirror.git,no manifests
