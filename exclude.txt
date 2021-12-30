@@ -822,3 +822,4 @@ https://github.com/sotvokun/basket.git,no manifests
 https://github.com/ScoopInstaller/BucketTemplate.git,no manifests
 https://github.com/Moeologist/scoop-completion.git,no manifests
 https://github.com/Lanservery/scoop-mirror.git,no manifests
+https://github.com/lemon-sh/lemon-scoop-bucket.git,no manifests
