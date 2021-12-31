@@ -823,3 +823,5 @@ https://github.com/ScoopInstaller/BucketTemplate.git,no manifests
 https://github.com/Moeologist/scoop-completion.git,no manifests
 https://github.com/Lanservery/scoop-mirror.git,no manifests
 https://github.com/lemon-sh/lemon-scoop-bucket.git,no manifests
+https://github.com/sveltinio/scoop-sveltin.git,no manifests
+https://github.com/shovel-org/Dockers.git,no manifests
