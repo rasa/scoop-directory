@@ -826,3 +826,5 @@ https://github.com/lemon-sh/lemon-scoop-bucket.git,no manifests
 https://github.com/sveltinio/scoop-sveltin.git,no manifests
 https://github.com/shovel-org/Dockers.git,no manifests
 https://github.com/DejavuMoe/scoop-dejavu.git,no manifests
+https://github.com/Snax1/Scoop.git,no manifests
+https://github.com/NandanTyagi/scoop.git,no manifests
