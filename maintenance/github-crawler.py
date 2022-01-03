@@ -135,6 +135,9 @@ def get_license_url(v):
 def get_url(js):
     """@todo"""
     if "homepage" in js:
+        # https://github.com/rasa/scoop-directory/runs/4684777541?check_suite_focus=true#step:5:3106
+        if isinstance(js["homepage"], list):
+            return js["homepage"][0]
         return js["homepage"]
     if "checkver" in js:
         if "url" in js["checkver"]:
