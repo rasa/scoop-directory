@@ -830,3 +830,4 @@ https://github.com/Snax1/Scoop.git,no manifests
 https://github.com/NandanTyagi/scoop.git,no manifests
 https://github.com/maroomir/ScoopLearner.git,no manifests
 https://github.com/ScoopyLoop/ScoopyLoop.git,no manifests
+https://github.com/jacobjk01/scoop.git,no manifests
