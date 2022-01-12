@@ -409,7 +409,7 @@ def do_repo(repo, i, num_repos, do_score=True):
         return failure
 
     repofoldername = full_name.replace("/", "+")
-    git_clone_url = repo["git_url"]
+    git_clone_url = repo["clone_url"]
     html_url = repo["html_url"]
     score = float(repo["score"])
     if not do_score:
