@@ -833,3 +833,4 @@ https://github.com/ScoopyLoop/ScoopyLoop.git,no manifests
 https://github.com/jacobjk01/scoop.git,no manifests
 https://github.com/ScoopInstaller/Tests.git,no manifests
 https://github.com/5Akshat/Scoop5.git,no manifests
+https://github.com/imhpdev/scoopabase.git,no manifests
