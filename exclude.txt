@@ -835,3 +835,4 @@ https://github.com/ScoopInstaller/Tests.git,no manifests
 https://github.com/5Akshat/Scoop5.git,no manifests
 https://github.com/imhpdev/scoopabase.git,no manifests
 https://github.com/alealexpro100/ru-school-scoop.git,no manifests
+https://github.com/yashrajtalokar/ScoopyWorld.git,no manifests
