@@ -836,3 +836,5 @@ https://github.com/5Akshat/Scoop5.git,no manifests
 https://github.com/imhpdev/scoopabase.git,no manifests
 https://github.com/alealexpro100/ru-school-scoop.git,no manifests
 https://github.com/yashrajtalokar/ScoopyWorld.git,no manifests
+https://github.com/rr0001/scoop-srv-bucket.git,no manifests
+https://github.com/windedge/Scooper.git,no manifests
