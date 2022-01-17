@@ -838,3 +838,5 @@ https://github.com/alealexpro100/ru-school-scoop.git,no manifests
 https://github.com/yashrajtalokar/ScoopyWorld.git,no manifests
 https://github.com/rr0001/scoop-srv-bucket.git,no manifests
 https://github.com/windedge/Scooper.git,no manifests
+https://github.com/nitrictech/scoop-bucket.git,no manifests
+https://github.com/cc713/ScoopWikiCN.git,no manifests
