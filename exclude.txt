@@ -840,3 +840,5 @@ https://github.com/rr0001/scoop-srv-bucket.git,no manifests
 https://github.com/windedge/Scooper.git,no manifests
 https://github.com/nitrictech/scoop-bucket.git,no manifests
 https://github.com/cc713/ScoopWikiCN.git,no manifests
+https://github.com/DylanWhite2246Programming/2022-Scoopy-Scoop.git,no manifests
+https://github.com/DestinyHunter/scoop.git,no manifests
