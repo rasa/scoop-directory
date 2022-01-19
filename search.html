@@ -156,12 +156,6 @@ Results: <select name="rows" id="rows">
       var reqdiv = document.getElementById('searchresults');
       var metainfo = document.getElementById('metainfotext');
 
-      //const urlParams = new URLSearchParams(window.location.search);
-      //const q = urlParams.get('q');
-      //if (nameInput.value.trim() == '' && q.trim().length >= 2) {
-      //    nameInput.value = q;
-      //}
-
       nameInput.addEventListener('input', function (e) {
         var rowsInput = document.getElementById('rows');
         var rows = parseInt(rowsInput.value.trim(), 10)
@@ -270,6 +264,12 @@ Results: <select name="rows" id="rows">
         bukcount = cntst.getAsObject()['bukc'];
         cntst.free();
         metainfo.innerHTML = `Query ${mancount} manifests among ${bukcount} buckets`;
+
+        const q = (new URLSearchParams(window.location.search)).get('q');
+        if (q && q.trim().length >= 2) {
+            nameInput.value = q;
+            nameInput.dispatchEvent(new Event("input"));
+        }
       })();
     </script>
   </body>
