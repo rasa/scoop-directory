@@ -19,9 +19,9 @@ update:
 	-mkdir -p vendor/ScoopInstaller/Scoop
 	wget -O vendor/ScoopInstaller/Scoop/schema.json $(SCOOP_SCHEMA_JSON)
 	wget -O vendor/ScoopInstaller/Scoop/buckets.json $(BUCKETS_JSON)
-	-mkdir -p vendor/spdx/license-list-data/master/json
-	wget -O vendor/spdx/license-list-data/master/json/licenses.json $(LICENSES_JSON)
-	wget -O vendor/spdx/license-list-data/master/json/exceptions.json $(EXCEPTIONS_JSON)
+	-mkdir -p vendor/spdx/license-list-data/json
+	wget -O vendor/spdx/license-list-data/json/licenses.json $(LICENSES_JSON)
+	wget -O vendor/spdx/license-list-data/json/exceptions.json $(EXCEPTIONS_JSON)
 
 help:
 	@echo 'add:    Add vendor subtrees'
