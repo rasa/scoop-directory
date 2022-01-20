@@ -15,7 +15,19 @@ on:
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
-
+    inputs:
+      log_level:
+        description: 'LOG_LEVEL'     
+        required: true
+        default: 'VERBOSE'
+        type: choice
+        options:
+        - TRACE
+        - DEBUG
+        - VERBOSE
+        - NOTICE
+        - WARN
+        - ERROR
 jobs:
   run-lint:
     runs-on: ubuntu-latest
@@ -34,7 +46,7 @@ jobs:
           FILTER_REGEX_EXCLUDE: (by-.*\.md|vendor)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           IGNORE_GENERATED_FILES: true
-          LOG_LEVEL: WARN
+          LOG_LEVEL: ${{ github.event.inputs.log_level }}
           # VALIDATE_ALL_CODEBASE: false
           # VALIDATE_NATURAL_LANGUAGE: false
           
