@@ -1,6 +1,0 @@
-<<beginOptional>> NTP No Attribution (NTP-0)
-
-<<endOptional>> <<var;name="copyright";original="Copyright (4-digit-year) by (CopyrightHoldersName)  ";match=".{0,5000}">>
-
-Permission to use, copy, modify, and distribute this software and its documentation for any purpose is hereby granted, provided that the name<<beginOptional>>s<<endOptional>>of <<var;name="TMname";original="(TrademarkedName)";match=".+">> not be used in advertising or publicity pertaining to distribution of the software without specific, written prior permission. <<var;name="TMname";original="(TrademarkedName)";match=".+">> make<<beginOptional>>s<<endOptional>>no representations about the suitability of this software for any purpose. It is provided "as is" without express or implied warranty.
-
