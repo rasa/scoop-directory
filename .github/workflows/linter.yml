@@ -44,6 +44,7 @@ jobs:
         env:
           ACTIONS_RUNNER_DEBUG: true
           DEFAULT_BRANCH: $default-branch
+          ERROR_ON_MISSING_EXEC_BIT: true
           FILTER_REGEX_EXCLUDE: (by-.*\.md|vendor)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           IGNORE_GENERATED_FILES: true
