@@ -42,6 +42,7 @@ jobs:
       - name: Run github/super-linter@v4
         uses: github/super-linter@v4
         env:
+          ACTIONS_RUNNER_DEBUG: true
           DEFAULT_BRANCH: $default-branch
           FILTER_REGEX_EXCLUDE: (by-.*\.md|vendor)
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
