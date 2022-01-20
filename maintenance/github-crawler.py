@@ -982,8 +982,8 @@ if "CACHE_ROOT" in os.environ:
         cache_dir = os.path.normpath(os.path.join(cache_dir, "cache"))
 
 cache_pickle = os.path.normpath(os.path.join(cache_dir, "cache.pickle"))
-buckets_json = os.path.normpath(os.path.join(vendor_dir, "ScoopInstaller/Scoop/buckets.json"))
-scoop_schema_name = "ScoopInstaller/Scoop/schema.json"
+buckets_json = os.path.normpath(os.path.join(vendor_dir, "Ash258/Scoop-Core/buckets.json"))
+scoop_schema_name = "Ash258/Scoop-Core/schema.json"
 scoop_schema_json = os.path.normpath(os.path.join(vendor_dir, scoop_schema_name))
 
 licenses_json = os.path.normpath(os.path.join(license_dir, "licenses.json"))
@@ -1032,6 +1032,10 @@ search_terms = [
     "scoop-bucket",
     "scoop bucket",
     "scoop",
+    "topic:shovel-bucket",
+    "shovel-bucket",
+    "shovel bucket",
+    "shovel",
 ]
 
 for url in includes["url"]:
