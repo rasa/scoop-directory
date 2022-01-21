@@ -1114,3 +1114,9 @@ https://github.com/jamesgecko/scoop-packages.git,no manifests
 https://github.com/masaeedu/scoop-growlnotify.git,no manifests
 https://github.com/nrakochy/scoop-solidity.git,no manifests
 https://github.com/siddarthasagar/scoopbucket.git,no manifests
+https://github.com/brecert/my-bucket.git,no manifests
+https://github.com/robertkg/scoop-bucket.git,no manifests
+https://github.com/typhoon51280/scoop-bucket.git,no manifests
+https://github.com/tnessy/scoop-bucket.git,no manifests
+https://github.com/tomaszkrzyzanowski/scoop-bucket.git,no manifests
+https://github.com/Megasware128/scoop-terraformer.git,no manifests
