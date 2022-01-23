@@ -1120,3 +1120,5 @@ https://github.com/typhoon51280/scoop-bucket.git,no manifests
 https://github.com/tnessy/scoop-bucket.git,no manifests
 https://github.com/tomaszkrzyzanowski/scoop-bucket.git,no manifests
 https://github.com/Megasware128/scoop-terraformer.git,no manifests
+https://github.com/duzyn/wood.git,no manifests
+https://github.com/Dagwbl/scoop.git,no manifests
