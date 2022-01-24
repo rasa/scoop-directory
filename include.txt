@@ -83,7 +83,6 @@ https://github.com/pigsflew/scoop-arbitrariae.git
 https://github.com/prezesp/scoop-viewer-bucket.git
 https://github.com/rasa/scoops.git
 https://github.com/rcqls/scoop-extras.git
-https://github.com/rivy/scoop.bucket-scoop.main.git
 https://github.com/rkolka/scoop-manifold.git
 https://github.com/Sandex/scoop-supernova.git
 https://github.com/se35710/scoop-ibm.git
