@@ -1023,6 +1023,8 @@ done = {}
 excludes = df.to_dict("list")
 
 for url in excludes["url"]:
+    if url in includes["url"]:
+        print("ERROR: url both included and excluded: %s" % url)
     repo = url_to_repo_name(url)
     repo = repo.lower()
     done[repo] = "excluded"
