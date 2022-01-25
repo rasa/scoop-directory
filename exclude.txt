@@ -1,1 +1,18 @@
 url,comment
+https://github.com/01walid/it-scoop.git,Not a scoop bucket
+https://github.com/Gladtbam/Scoop_Bucket.git,Clones several scoop buckets
+https://github.com/go2sun/scoop-bucket-1.git,Clone of https://github.com/dodorz/scoop
+https://github.com/HYHG/scoop.git,Clone of lukesampson/scoop
+https://github.com/icemioi/scoop-bucket.git,Clone of ScoopInstaller/Extras
+https://github.com/Kiedtl/open-scoop.git,https://travis-ci.org/rasa/scoop-directory/jobs/467750220#L642
+https://github.com/kkzzhizhou/scoop-apps.git,Aggregates other buckets
+https://github.com/mertd/shovel-data.git,All manifests in a single file
+https://github.com/pavanbijja/scoop-bucket.git,Clone of lukesampson/scoop
+https://github.com/Psychopovt/open-scoop.git,Fork of https://github.com/lptstr/lptstr-scoop
+https://github.com/puja255/scoop.git,Clone of ScoopInstaller/Main
+https://github.com/renanmb/scoop.git,Clone of lukesampson/scoop
+https://github.com/rivy/scoop.bucket.scoop-main.git,Auto-mirror of scoopinstaller/scoop-main bucket
+https://github.com/se35710/scoop-java.git,Clone of https://github.com/ScoopInstaller/Java
+https://github.com/umestha/scoop.git,Clone of lukesampson/scoop
+https://github.com/vinaynambiar/desktop-scoop2.git,Clone of lukesampson/scoop
+https://github.com/rivy/scoop.bucket.scoop-main.git,Clone of scoopinstaller/scoop-main
