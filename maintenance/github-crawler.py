@@ -612,7 +612,9 @@ def do_repo(repo, i, num_repos, do_score=True):
         cache[repofoldername]["entries"].append(rows[k])
 
     if good_jsons == 0:
-        add_exclusion(repo, "no manifests")
+        # disabling for now due to false positives, per 
+        # https://github.com/ScoopSearch/ScoopSearch.AzureFunctions/issues/7#issuecomment-1019670879
+        # add_exclusion(repo, "no manifests")
         cache[repofoldername]["entries"] = []
     else:
         done[full_name_lower] = "processed"
