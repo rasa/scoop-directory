@@ -29,10 +29,10 @@ jobs:
     - name: STEP black --check *.py
       id: black
       run: |
-        files=($(find . -type f -iname "*.py"))
-        ((${#files[@]})) || { echo ERROR: No .py files found >&2 ; exit 1 ; }
+        mapfile -t <<<"$(find . -type f -iname "*.py")"
+        ((${#MAPFILE[@]})) || { echo ERROR: No .py files found >&2 ; exit 1 ; }
         rv=0
-        black --config .github/linters/.python-black --check "${files[@]}" || rv=$?
+        black --config .github/linters/.python-black --check "${MAPFILE[@]}" || rv=$?
         ((rv==0)) && echo "::set-output name=changes::false" && exit 0
         ((rv==1)) && echo "::set-output name=changes::true" && exit 0
         exit $rv
@@ -40,8 +40,8 @@ jobs:
     - name: STEP black *.py
       if: steps.black.outputs.changes == 'true'
       run: |
-        files=($(find . -type f -iname "*.py"))
-        black --config .github/linters/.python-black "${files[@]}"
+        mapfile -t <<<"$(find . -type f -iname "*.py")"
+        black --config .github/linters/.python-black "${MAPFILE[@]}"
 
     - name: STEP git commit -m "black" -a
       if: steps.black.outputs.changes == 'true'
