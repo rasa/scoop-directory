@@ -1,19 +1,14 @@
 url
 https://github.com/82p/scoop-yubico-bucket.git
-https://github.com/Aaike/scoop.git
 https://github.com/Alxandr/scoop-bucket.git
 https://github.com/anurse/scoop-bucket.git
 https://github.com/AStupidBear/scoop-bear.git
-https://github.com/bitrvmpd/scoop-wuff.git
 https://github.com/BjoernPetersen/scoop-misc-bucket.git
-https://github.com/broovy/scoop-bucket.git
 https://github.com/Callidin/ragnar-scoop.git
 https://github.com/comp500/scoop-browser.git
 https://github.com/comp500/scoop-comp500.git
-https://github.com/Congee/barrel.git
 https://github.com/cprecioso/scoop-lektor.git
 https://github.com/deevus/scoop-games.git
-https://github.com/demas/demas-scoop.git
 https://github.com/dennislloydjr/scoop-bucket-devbox.git
 https://github.com/DimiG/dgBucket.git
 https://github.com/divanvisagie/scoop-bucket.git
@@ -22,7 +17,6 @@ https://github.com/Doublemine/scoops.git
 https://github.com/edgardmessias/scoop-pentaho.git
 https://github.com/ErnWong/scoop-bucket.git
 https://github.com/excitoon/scoop-user.git
-https://github.com/ezhikov/scoop-bucket.git
 https://github.com/follnoob/follnoob-bucket.git
 https://github.com/fredjoseph/scoop-bucket.git
 https://github.com/furyfire/my-bucket.git
@@ -39,7 +33,6 @@ https://github.com/h404bi/dorado.git
 https://github.com/hermanjustnu/scoop-emulators.git
 https://github.com/huangnauh/carrot.git
 https://github.com/iainsgillis/isg-bucket.git
-https://github.com/idursun/my-bucket.git
 https://github.com/jamesgecko/scoop-packages.git
 https://github.com/jat001/scoop-ox.git
 https://github.com/javageek/scoop-bucket.git
@@ -52,7 +45,6 @@ https://github.com/kentork/scoop-leaky-bucket.git
 https://github.com/klaidliadon/scoop-buckets.git
 https://github.com/klauern/trackello-bucket.git
 https://github.com/liaoya/scoop-bucket.git
-https://github.com/lillicoder/scoop-openjdk6.git
 https://github.com/littleli/scoop-clojure.git
 https://github.com/littleli/Scoop-littleli.git
 https://github.com/Lomeli12/ScoopBucket.git
@@ -64,8 +56,6 @@ https://github.com/masonm12/scoop-personal.git
 https://github.com/mattkang/scoop-bucket.git
 https://github.com/MCOfficer/scoop-bucket.git
 https://github.com/MCOfficer/scoop-nirsoft.git
-https://github.com/michaelxmcbride/scoop-michaelxmcbride.git
-https://github.com/mko-x/bucket.git
 https://github.com/mmichaelis/scoop-bucket.git
 https://github.com/monotykamary/toms-scoop-bucket.git
 https://github.com/narnaud/scoop-bucket.git
@@ -87,14 +77,11 @@ https://github.com/rkolka/scoop-manifold.git
 https://github.com/Sandex/scoop-supernova.git
 https://github.com/se35710/scoop-ibm.git
 https://github.com/siddarthasagar/scoopbucket.git
-https://github.com/simonwjackson/my-bucket.git
 https://github.com/Southclaws/scoops.git
 https://github.com/starise/Scoop-Confetti.git
-https://github.com/stlhrt/steel-buckets.git
 https://github.com/svkoh/scoop-bucket.git
 https://github.com/systemexitzero/scoop-bucket.git
 https://github.com/tapanchandra/scoop-personal.git
-https://github.com/tditlu/scoop-amiga.git
 https://github.com/TheLastZombie/scoop-bucket.git
 https://github.com/themrhead/scoop-bucket-apps.git
 https://github.com/TheRandomLabs/Scoop-Bucket.git
@@ -107,9 +94,7 @@ https://github.com/TorrentKatten/torrentkatten-scoop-bucket.git
 https://github.com/twxs/scoop-buckets.git
 https://github.com/Utdanningsdirektoratet/PAS-scoop-public.git
 https://github.com/vidarkongsli/vidars-scoop-bucket.git
-https://github.com/Vngdv/another-useless-scoop-bucket.git
 https://github.com/wangzq/scoop-bucket.git
-https://github.com/webwesen/webwesen-scoop-bucket.git
 https://github.com/wrokred/phpdev-scoop-bucket.git
 https://github.com/yt3r/test-bucket.git
 https://github.com/yuanying1199/scoopbucket.git
