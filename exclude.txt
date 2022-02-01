@@ -16,3 +16,4 @@ https://github.com/se35710/scoop-java.git,Clone of https://github.com/ScoopInsta
 https://github.com/umestha/scoop.git,Clone of lukesampson/scoop
 https://github.com/vinaynambiar/desktop-scoop2.git,Clone of lukesampson/scoop
 https://github.com/rivy/scoop.bucket.scoop-main.git,Clone of scoopinstaller/scoop-main
+https://github.com/duzyn/wood.git,Merged bucket of all official buckets. See https://github.com/duzyn/wood/blob/master/.github/workflows/schedule.yml
