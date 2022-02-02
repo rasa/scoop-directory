@@ -27,9 +27,7 @@ https://github.com/ghchinoy/scoop-roguewave.git
 https://github.com/goreleaser/scoop-bucket.git
 https://github.com/gpailler/scoop-apps.git
 https://github.com/GreatGodApollo/trough.git
-https://github.com/Guard13007/ScoopBucket.git
 https://github.com/guitarrapc/scoop-bucket.git
-https://github.com/h404bi/dorado.git
 https://github.com/hermanjustnu/scoop-emulators.git
 https://github.com/huangnauh/carrot.git
 https://github.com/iainsgillis/isg-bucket.git
@@ -48,7 +46,6 @@ https://github.com/liaoya/scoop-bucket.git
 https://github.com/littleli/scoop-clojure.git
 https://github.com/littleli/Scoop-littleli.git
 https://github.com/Lomeli12/ScoopBucket.git
-https://github.com/lptstr/open-scoop.git
 https://github.com/lzimd/lzimd-scoop-bucket.git
 https://github.com/maman/scoop-bucket.git
 https://github.com/masaeedu/scoop-growlnotify.git
@@ -62,7 +59,6 @@ https://github.com/narnaud/scoop-bucket.git
 https://github.com/nikolasd/scoop-bucket.git
 https://github.com/noquierouser/nqu-scoop.git
 https://github.com/nrakochy/scoop-solidity.git
-https://github.com/nsstrunks/scoop-bucket.git
 https://github.com/nueko/scoop-php.git
 https://github.com/nueko/scoop-php-ext.git
 https://github.com/ondr3j/scoop-misc.git
@@ -80,15 +76,12 @@ https://github.com/siddarthasagar/scoopbucket.git
 https://github.com/Southclaws/scoops.git
 https://github.com/starise/Scoop-Confetti.git
 https://github.com/svkoh/scoop-bucket.git
-https://github.com/systemexitzero/scoop-bucket.git
-https://github.com/tapanchandra/scoop-personal.git
 https://github.com/TheLastZombie/scoop-bucket.git
 https://github.com/themrhead/scoop-bucket-apps.git
 https://github.com/TheRandomLabs/Scoop-Bucket.git
 https://github.com/TheRandomLabs/Scoop-Python.git
 https://github.com/TheRandomLabs/Scoop-Spotify.git
 https://github.com/thushan/scoop-devtools.git
-https://github.com/TnmkFan/my-bucket.git
 https://github.com/toburger/scoop-buckets.git
 https://github.com/TorrentKatten/torrentkatten-scoop-bucket.git
 https://github.com/twxs/scoop-buckets.git
