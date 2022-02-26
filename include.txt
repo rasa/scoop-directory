@@ -97,3 +97,4 @@ https://github.com/joaoricarte/jr-bucket.git
 https://github.com/younger-1/scoop-it.git
 https://github.com/StarsbySea/ocean.git
 https://gitlab.com/jfastnacht/scoopidoo.git
+https://github.com/quawy/stash-bucket.git
