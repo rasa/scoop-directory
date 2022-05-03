@@ -9,7 +9,7 @@
 --> [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/ScoopInstaller/Awesome/blob/master/README.md "Awesome Scoop") <!--
 --> [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rasa/scoop-directory)
 
-**NOTE**: [ScoopSearch](https://scoopinstaller.github.io/) has been [chosen](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1027175489) as the offical search engine for Scoop. Please consider using it for searching. Scoop Directory will continue to be available, for the forseeable future, but development efforts will be focused on ScoopSearch.
+**NOTE**: [ScoopSearch](https://scoopinstaller.github.io/) is [now](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1116544677) the offical search engine for Scoop as [chosen](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1027175489) by the community. Please consider using it for searching. Scoop Directory will continue to be available, for the forseeable future, but development efforts will be focused on ScoopSearch.
 
 To [search](https://rasa.github.io/scoop-directory/search) the Scoop Directory click [here](https://rasa.github.io/scoop-directory/search) (put together by [@rashil2000](https://github.com/rashil2000)).
 
@@ -28,7 +28,7 @@ You can also view the full list of all discovered applications sorted by:
 
 There are several other Scoop application manifest search tools too:
 
-1. [ScoopSearch](https://scoopsearch.github.io/) searches over 17,000 application manifests in over 1,000 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler).
+1. [ScoopSearch](https://scoopinstaller.github.io/) searches over 17,000 application manifests in over 1,000 buckets. Maintained by the [ScoopSearch](https://github.com/ScoopSearch) organization. Created by [@gpailler](https://github.com/gpailler). ScoopSearch is [now](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1116544677) as the offical search engine for Scoop.
 
 2. [shovel.sh](https://shovel.sh/search) searches just the [known](https://github.com/mertd/shovel-data/blob/ad6133a10cd9f9f2d6e4a674542c429c5ce70209/shovel.go#L45) buckets. Created by [@mertd](https://github.com/mertd).
 
