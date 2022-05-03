@@ -9,7 +9,7 @@
 --> [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/ScoopInstaller/Awesome/blob/master/README.md "Awesome Scoop") <!--
 --> [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rasa/scoop-directory)
 
-**NOTE**: [ScoopSearch](https://scoopsearch.github.io/) has been [chosen](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1027175489) as the offical search engine for Scoop. Please consider using it for searching. Scoop Directory will continue to be available, for the forseeable future, but development efforts will be focused on ScoopSearch.
+**NOTE**: [ScoopSearch](https://scoopinstaller.github.io/) has been [chosen](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1027175489) as the offical search engine for Scoop. Please consider using it for searching. Scoop Directory will continue to be available, for the forseeable future, but development efforts will be focused on ScoopSearch.
 
 To [search](https://rasa.github.io/scoop-directory/search) the Scoop Directory click [here](https://rasa.github.io/scoop-directory/search) (put together by [@rashil2000](https://github.com/rashil2000)).
 
