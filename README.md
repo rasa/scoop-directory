@@ -7,7 +7,8 @@
 --> [![Chat on Gitter](https://badges.gitter.im/lukesampson/scoop.svg)](https://gitter.im/lukesampson/scoop) <!--
 --> [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE) <!--
 --> [![Mentioned in Awesome Scoop](https://awesome.re/mentioned-badge.svg)](https://github.com/ScoopInstaller/Awesome/blob/master/README.md "Awesome Scoop") <!--
---> [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rasa/scoop-directory)
+ [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/rasa/scoop-directory)
+-->
 
 **NOTE**: [ScoopSearch](https://scoopinstaller.github.io/) is [now](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1116544677) the offical search engine for Scoop as [chosen](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1027175489) by the community. Please consider using it for searching. Scoop Directory will continue to be available, for the forseeable future, but development efforts will be focused on ScoopSearch.
 
