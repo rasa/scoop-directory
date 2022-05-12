@@ -37,9 +37,11 @@ There are several other Scoop application manifest search tools too:
 It works with another command-line tool, called [crawl-scoop-directory](https://github.com/zhoujin7/crawl-scoop-directory), which scans the bucket lists and compiles a [Sqlite3 database](https://github.com/zhoujin7/crawl-scoop-directory/blob/master/scoop_directory.db) which can be downloaded from [here](https://github.com/zhoujin7/crawl-scoop-directory/raw/master/scoop_directory.db).
 Created by [@zhoujin7](https://github.com/zhoujin7).
 
-4. [scoop-search](https://github.com/shilangyu/scoop-search) is another command-line search utility utility. It can be installed via `scoop install scoop-search` It  searches the buckets installed locally via `scoop bucket add [bucketname]`. Created by [@shilangyu](https://github.com/shilangyu).
+4. [scoop-search](https://github.com/shilangyu/scoop-search) is another command-line search utility utility. It can be installed via `scoop install scoop-search`. It  searches the buckets installed locally via `scoop bucket add [bucketname]`. Created by [@shilangyu](https://github.com/shilangyu).
 
-5. [Repology](https://repology.org/projects/?inrepo=scoop) searches the Main, Extras, Versions and Games buckets, per [here](https://repology.org/repository/scoop).
+5. [scoop-search-multisource](https://github.com/plicit/scoop-search-multisource) is another command-line search utility utility. It can be installed via `scoop bucket add ygguorun https://github.com/ygguorun/scoop-bucket & scoop install scoop-search-multisource`. It  searches the buckets installed locally via `scoop bucket add [bucketname]` as well as the buckets found by scoop-directory. Created by [@plicit](https://github.com/plicit).
+
+6. [Repology](https://repology.org/projects/?inrepo=scoop) searches the Main, Extras, Versions and Games buckets, per [here](https://repology.org/repository/scoop).
 Repology can also be used to search [Chocolatey](https://repology.org/projects/?inrepo=chocolatey), [Winget](https://repology.org/projects/?inrepo=winget), [Baulk](https://repology.org/repository/baulk), and [Npackd](https://github.com/npackd/npackd)'s [stable](https://repology.org/projects/?inrepo=npackd_stable), [stable64](https://repology.org/projects/?inrepo=npackd_stable64) and [unstable](https://repology.org/projects/?inrepo=npackd_unstable) package repositories.
 
 ## Adding buckets
