@@ -1,6 +1,24 @@
+---
+# ~/.github/dependabot.yml
 version: 2
 updates:
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
       interval: "daily"
+      time: "08:00"
+      timezone: "America/Los_Angeles"
+    labels:
+      - "dependencies"
+    reviewers:
+      - "rasa"
+  - package-ecosystem: "github-actions"
+    directory: "/" # == /.github/workflows/
+    schedule:
+      interval: "daily"
+      time: "08:00"
+      timezone: "America/Los_Angeles"
+    labels:
+      - "dependencies"
+    reviewers:
+      - "rasa"
