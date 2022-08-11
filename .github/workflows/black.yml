@@ -20,8 +20,8 @@ jobs:
           python -m pip install --upgrade pip
           pip install black
 
-    - name: STEP actions/checkout@v2
-      uses: actions/checkout@v2
+    - name: STEP actions/checkout@v3
+      uses: actions/checkout@v3
       with:
         persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
         fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
