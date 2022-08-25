@@ -5,6 +5,7 @@
 from __future__ import print_function
 
 import copy
+import glob
 import io
 import json
 import os
@@ -505,13 +506,7 @@ def do_repo(repo, i, num_repos, do_score=True):
     jsons = 0
     good_jsons = 0
     malformed = 0
-    for f in os.listdir(bucket_path):
-        file_path = os.path.join(bucket_path, f)
-        if not os.path.isfile(file_path):
-            continue
-        if os.path.splitext(file_path)[1] != ".json":
-            continue
-
+    for f in glob.iglob(bucket_path + '**/*.json', recursive=True):
         jsons += 1
         row = {}
         for key in keys:
