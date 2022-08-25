@@ -506,7 +506,8 @@ def do_repo(repo, i, num_repos, do_score=True):
     jsons = 0
     good_jsons = 0
     malformed = 0
-    for f in glob.iglob(bucket_path + '**/*.json', recursive=True):
+    for file_path in glob.iglob(bucket_path + '**/*.json', recursive=True):
+        (_, f) = os.path.split(file_path)
         jsons += 1
         row = {}
         for key in keys:
