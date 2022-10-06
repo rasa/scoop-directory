@@ -99,3 +99,4 @@ https://github.com/StarsbySea/ocean.git
 https://gitlab.com/jfastnacht/scoopidoo.git
 https://github.com/quawy/stash-bucket.git
 https://github.com/naveed-patel/NScooP.git
+https://github.com/Befod/Xeno.git
