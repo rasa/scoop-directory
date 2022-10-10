@@ -506,7 +506,7 @@ def do_repo(repo, i, num_repos, do_score=True):
     jsons = 0
     good_jsons = 0
     malformed = 0
-    for file_path in glob.iglob(bucket_path + '**/*.json', recursive=True):
+    for file_path in glob.iglob(bucket_path + "**/*.json", recursive=True):
         (_, f) = os.path.split(file_path)
         jsons += 1
         row = {}
@@ -608,7 +608,7 @@ def do_repo(repo, i, num_repos, do_score=True):
         cache[repofoldername]["entries"].append(rows[k])
 
     if good_jsons == 0:
-        # disabling for now due to false positives, per 
+        # disabling for now due to false positives, per
         # https://github.com/ScoopSearch/ScoopSearch.AzureFunctions/issues/7#issuecomment-1019670879
         # add_exclusion(repo, "no manifests")
         cache[repofoldername]["entries"] = []
