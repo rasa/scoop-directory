@@ -24,4 +24,4 @@ https://github.com/nsstrunks/scoop-bucket.git,Redirects to 'https://github.com/t
 https://github.com/systemexitzero/scoop-bucket.git,Redirects to 'https://github.com/justsh/scoop-bucket'
 https://github.com/tapanchandra/scoop-personal.git,Redirects to 'https://github.com/tapannallan/scoop-personal'
 https://github.com/TnmkFan/my-bucket.git,Redirects to 'https://github.com/DinVolodka/my-bucket'
-https://github.com/wang-song/scoopMain,,Clone of many other buckets
+https://github.com/wang-song/scoopMain,Clone of many other buckets
