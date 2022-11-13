@@ -1013,13 +1013,13 @@ with open(exceptions_json) as fh:
     for license in exceptions:
         OSImap[license["licenseExceptionId"].lower()] = license["reference"]
 
-df = pandas.read_csv(include_txt)
+df = pandas.read_csv(include_txt, usecols=range(1))
 includes = df.to_dict("list")
 
-df = pandas.read_csv(exclude_txt)
-done = {}
+df = pandas.read_csv(exclude_txt, usecols=range(2))
 excludes = df.to_dict("list")
 
+done = {}
 for url in excludes["url"]:
     if url in includes["url"]:
         print("ERROR: url both included and excluded: %s" % url)
