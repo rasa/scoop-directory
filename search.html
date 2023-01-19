@@ -107,8 +107,7 @@
 --> <a href="https://ci.appveyor.com/project/rasa/scoop-directory" title="Build Status"><img src="https://ci.appveyor.com/api/projects/status/github/rasa/scoop-directory?svg=true" alt="Build Status" /></a> <!--
 --> <a href="https://gitter.im/lukesampson/scoop"><img src="https://badges.gitter.im/lukesampson/scoop.svg" alt="Chat on Gitter" /></a> <!--
 --> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square" alt="Software License" /></a> <!--
---> <a href="https://github.com/h404bi/awesome-scoop/blob/master/README.md" title="Awesome Scoop"><img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome Scoop" /></a> <!--
---> <a href="https://open.vscode.dev/rasa/scoop-directory"><img src="https://open.vscode.dev/badges/open-in-vscode.svg" alt="Open in Visual Studio Code" /></a></p>
+--> <a href="https://github.com/h404bi/awesome-scoop/blob/master/README.md" title="Awesome Scoop"><img src="https://awesome.re/mentioned-badge.svg" alt="Mentioned in Awesome Scoop" /></a> </p>
 
 <p>To search, enter an application name, a bucket name, an author name, or repository name:</p>
 
@@ -149,7 +148,7 @@ Results: <select name="rows" id="rows">
     </div>
     <script src="https://rasa.github.io/scoop-directory/assets/js/scale.fix.js"></script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.1/sql-wasm.js" integrity="sha512-14M7CqWNUr6fzrgs9ncNWKdBtLu69HwEWq7J3/dPMUL+za3fBRLJvK6egAu4SSlxCM1apqsbVJHArGLl5fjldw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/sql-wasm.js" integrity="sha512-n7swEtVCvXpQ7KxgpPyp0+DQQEf5vPpmzCRl14x2sp2v5LpCYCjrAx03mkBAbWwGF9eUoIk8YVcDFuJRIeYttg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script>
       var db, mancount, bukcount;
       var nameInput = document.getElementById('searchbox-name');
@@ -246,7 +245,7 @@ Results: <select name="rows" id="rows">
 
       (async () => {
         const sqlPromise = initSqlJs({
-          locateFile: filename => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.6.1/${filename}`
+          locateFile: filename => `https://cdnjs.cloudflare.com/ajax/libs/sql.js/1.8.0/${filename}`
         });
         const dataPromise = fetch("/scoop-directory/scoop_directory.db").then(res => res.arrayBuffer());
         const [SQL, buf] = await Promise.all([sqlPromise, dataPromise])
