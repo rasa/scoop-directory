@@ -42,7 +42,8 @@ jobs:
         with:
           # Needs to stay 3.9 for now. See
           # https://github.com/rasa/scoop-directory/runs/8008782733?check_suite_focus=true#step:5:14
-          python-version: '3.9'
+          python-version: '3.10'
+          cache: 'pip' # caching pip dependencies
 
       - name: run pip install -r maintenance/requirements.txt
         # if: steps.pip.outputs.cache-hit != 'true'
