@@ -1,4 +1,5 @@
 url
+https://github.com/okibcn/Bucket.git
 https://github.com/82p/scoop-yubico-bucket.git
 https://github.com/Alxandr/scoop-bucket.git
 https://github.com/anurse/scoop-bucket.git
