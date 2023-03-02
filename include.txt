@@ -10,6 +10,7 @@ https://github.com/comp500/scoop-browser.git
 https://github.com/comp500/scoop-comp500.git
 https://github.com/cprecioso/scoop-lektor.git
 https://github.com/deevus/scoop-games.git
+https://github.com/detain/scoop-emulators.git
 https://github.com/dennislloydjr/scoop-bucket-devbox.git
 https://github.com/DimiG/dgBucket.git
 https://github.com/divanvisagie/scoop-bucket.git
