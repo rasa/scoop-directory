@@ -25,3 +25,7 @@ https://github.com/systemexitzero/scoop-bucket.git,Redirects to 'https://github.
 https://github.com/tapanchandra/scoop-personal.git,Redirects to 'https://github.com/tapannallan/scoop-personal'
 https://github.com/TnmkFan/my-bucket.git,Redirects to 'https://github.com/DinVolodka/my-bucket'
 https://github.com/wang-song/scoopMain,Clone of many other buckets
+https://github.com/okibcn/ScoopMaster,16202 apps
+https://github.com/lzwme/scoop-proxy-cn,16195 apps
+https://github.com/anderlli0053/DEV-tools,16151 apps
+https://github.com/duzyn/scoop-cn,4903 apps
