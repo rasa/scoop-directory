@@ -1,6 +1,7 @@
+---
 # These are supported funding model platforms
 
-github: # rasa
+github: rasa
 patreon: rosssmithii
 open_collective:
 ko_fi: # Replace with a single Ko-fi username
