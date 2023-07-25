@@ -31,7 +31,7 @@ There are several other Scoop application manifest search tools too:
 
 ### On the Web
 
-1. [ScoopSearch](https://scoopinstaller.github.io/) searches over 27,000 application manifests in over 1,100 buckets. Maintained by the [ScoopInstaller](https://github.com/ScoopInstaller) organization. Created by [@gpailler](https://github.com/gpailler). ScoopSearch is [now](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1116544677) as the offical search engine for Scoop.
+1. [ScoopSearch](https://scoopinstaller.github.io/) searches over 152,000 application manifests in over 1,300 buckets. Maintained by the [ScoopInstaller](https://github.com/ScoopInstaller) organization. Created by [@gpailler](https://github.com/gpailler). ScoopSearch is [now](https://github.com/ScoopInstaller/Scoop/issues/4627#issuecomment-1116544677) the offical search engine for Scoop.
 
 2. [Repology](https://repology.org/projects/?inrepo=scoop) searches the Main, Extras, Versions and Games buckets, per [here](https://repology.org/repository/scoop). Repology can also search [Chocolatey](https://repology.org/projects/?inrepo=chocolatey), [Winget](https://repology.org/projects/?inrepo=winget), [Baulk](https://repology.org/repository/baulk), and [Npackd](https://github.com/npackd/npackd)'s [stable](https://repology.org/projects/?inrepo=npackd_stable), [stable64](https://repology.org/projects/?inrepo=npackd_stable64) and [unstable](https://repology.org/projects/?inrepo=npackd_unstable) package repositories.
 
