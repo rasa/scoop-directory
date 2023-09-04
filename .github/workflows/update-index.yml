@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: run actions/checkout@v3
-        uses: actions/checkout@v3
+      - name: run actions/checkout@v4
+        uses: actions/checkout@v4
 
       # fails: https://github.com/rasa/scoop-directory/runs/4252997621?check_suite_focus=true#step:7:8
       # - name: run actions/cache@v2 - pip
