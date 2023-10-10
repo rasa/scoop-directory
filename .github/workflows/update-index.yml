@@ -63,8 +63,8 @@ jobs:
           git add -A
           git commit -am "update index [ci skip]"
 
-      - name: run ad-m/github-push-action@v0.6.0
-        uses: ad-m/github-push-action@v0.6.0
+      - name: run ad-m/github-push-action@v0.8.0
+        uses: ad-m/github-push-action@v0.8.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
