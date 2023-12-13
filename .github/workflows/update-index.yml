@@ -37,8 +37,8 @@ jobs:
       #     restore-keys: |
       #       ${{ runner.os }}-cache-
 
-      - name: run actions/setup-python@v4
-        uses: actions/setup-python@v4
+      - name: run actions/setup-python@v5
+        uses: actions/setup-python@v5
         with:
           # Needs to stay 3.9 for now. See
           # https://github.com/rasa/scoop-directory/runs/8008782733?check_suite_focus=true#step:5:14
