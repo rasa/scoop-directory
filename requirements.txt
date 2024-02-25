@@ -7,6 +7,7 @@ jsonschema==4.2.1
 markupsafe==2.0.1
 pandas==1.2.4
 requests==2.26.0
+setuptools==69.1.1
 
 # pipreqs:
 # jsonschema==4.2.1
