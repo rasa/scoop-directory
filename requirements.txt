@@ -1,5 +1,5 @@
 chardet==4.0.0
-GitPython==3.1.12
+GitPython==3.1.41
 Jinja2==2.11.3
 jsoncomment==0.4.2
 jsonschema==4.2.1
