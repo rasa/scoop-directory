@@ -6,12 +6,12 @@ jsonschema==4.2.1
 # See https://stackoverflow.com/a/72747002
 markupsafe==2.0.1
 pandas==1.2.4
-requests==2.26.0
+requests==2.31.0
 setuptools==69.1.1
 
 # pipreqs:
 # jsonschema==4.2.1
-# requests==2.26.0
+# requests==2.31.0
 # chardet==4.0.0
 # pandas==1.2.4
 # Jinja2==3.0.3
