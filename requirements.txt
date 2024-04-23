@@ -5,7 +5,7 @@ jsoncomment==0.4.2
 jsonschema==4.2.1
 # See https://stackoverflow.com/a/72747002
 markupsafe==2.0.1
-pandas==1.2.4
+pandas==2.2.2
 requests==2.26.0
 setuptools==69.1.1
 
@@ -13,7 +13,7 @@ setuptools==69.1.1
 # jsonschema==4.2.1
 # requests==2.26.0
 # chardet==4.0.0
-# pandas==1.2.4
+# pandas==2.2.2
 # Jinja2==3.0.3
 # jsoncomment==0.4.2
 # GitPython==3.1.24
