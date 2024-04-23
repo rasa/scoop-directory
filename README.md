@@ -14,7 +14,7 @@
 
 To [search](https://rasa.github.io/scoop-directory/search) the Scoop Directory click [here](https://rasa.github.io/scoop-directory/search) (put together by [@rashil2000](https://github.com/rashil2000)).
 
-The search index contains over 25,000 application manifests in over 700 buckets, and is updated daily at 15:00 UTC.
+The search index contains over 25,000 application manifests in over 900 buckets, and is updated daily at 15:00 UTC.
 
 You can also view the full list of all discovered applications sorted by:
 
