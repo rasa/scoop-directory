@@ -7,4 +7,4 @@ jsonschema==4.21.1
 markupsafe==2.1.5
 pandas==2.2.2
 requests==2.31.0
-setuptools==69.5.1
+setuptools==71.0.2
