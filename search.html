@@ -236,9 +236,7 @@ Results: <select name="rows" id="rows">
                 </span>
               </td>
               <td style="text-align: left; display: table-cell; vertical-align: top;">${i.description} (<em>${i.license.length < 2 ? `Undefined` : i.license}</em>)</td>
-              <td style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket}</a><br/>
-                <a target="_blank" href="https://repology.org/project/${i.name}/versions"><img src="https://repology.org/badge/latest-versions/${i.name}.svg?header=" alt="" decoding="async"></a>
-              </td>
+              <td style="text-align: left; display: table-cell; vertical-align: top;"><a target="_blank" href="${i.bucket_url}">${i.bucket}</a></td>
             </tr>
           `);
       };
