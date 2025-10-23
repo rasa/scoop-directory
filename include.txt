@@ -105,3 +105,4 @@ https://github.com/quawy/stash-bucket.git
 https://github.com/naveed-patel/NScooP.git
 https://github.com/Befod/Xeno.git
 https://github.com/danalec/scoop-alts.git
+https://github.com/nettracex/nettracex-bucket.git
