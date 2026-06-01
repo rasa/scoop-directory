@@ -106,3 +106,4 @@ https://github.com/naveed-patel/NScooP.git
 https://github.com/Befod/Xeno.git
 https://github.com/danalec/scoop-alts.git
 https://github.com/wheels-dev/scoop-wheels.git
+https://github.com/h4ck4life/scoop-bucket.git
