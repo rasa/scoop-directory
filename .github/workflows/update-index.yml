@@ -37,8 +37,8 @@ jobs:
       #     restore-keys: |
       #       ${{ runner.os }}-cache-
 
-      - name: run actions/setup-python@v5
-        uses: actions/setup-python@v5
+      - name: run actions/setup-python@v6
+        uses: actions/setup-python@v6
         with:
           python-version: '3.12'
           cache: 'pip' # caching pip dependencies
