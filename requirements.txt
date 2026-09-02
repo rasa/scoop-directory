@@ -1,6 +1,6 @@
 chardet==5.2.0
 GitPython==3.1.43
-Jinja2==3.1.4
+Jinja2==3.1.6
 jsoncomment==0.4.2
 jsonschema==4.23.0
 # See https://stackoverflow.com/a/72747002
