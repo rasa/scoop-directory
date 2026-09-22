@@ -9,8 +9,8 @@ jobs:
   black:
     runs-on: ubuntu-latest
     steps:
-    - name: STEP actions/setup-python@v5
-      uses: actions/setup-python@v5
+    - name: STEP actions/setup-python@v6
+      uses: actions/setup-python@v6
       with:
         python-version: '3.9'
 
