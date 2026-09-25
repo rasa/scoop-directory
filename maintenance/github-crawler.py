@@ -378,7 +378,7 @@ def do_clone(url, path):
     return ""
 
 
-def do_repo(repo, i, num_repos, do_score=True):
+def do_repo(repo, i, num_repos, score):
     """@todo"""
     failure = -1
     global last_run
@@ -412,9 +412,6 @@ def do_repo(repo, i, num_repos, do_score=True):
     repofoldername = full_name.replace("/", "+")
     git_clone_url = repo["clone_url"]
     html_url = repo["html_url"]
-    score = float(repo["score"])
-    if not do_score:
-        score = 0
     last_updated = datetime.strptime(repo["updated_at"], "%Y-%m-%dT%H:%M:%SZ")
 
     id_ = full_name.replace("/", "_")
@@ -655,7 +652,7 @@ def add_exclusion(repo, reason):
     return 0
 
 
-def do_page(search, page, do_score=True):
+def do_page(search, page, score):
     """@todo"""
     vars = {
         "q": search,
@@ -684,9 +681,10 @@ def do_page(search, page, do_score=True):
             "%s: page %2d/%2d: repo %3d/%3d: %-40s: " % (search, page, max_pages, i, len(repos), repo["full_name"]),
             end="",
         )
-        results = do_repo(repo, i, len(repos), do_score)
+        results = do_repo(repo, i, len(repos), score)
         if results <= 0:
             continue
+        score += 1
         hits += results
         if i >= MAX_SEARCHES:
             break
@@ -694,12 +692,14 @@ def do_page(search, page, do_score=True):
     return hits
 
 
-def do_search(search, do_score=True):
+def do_search(search):
     """@todo"""
     global max_pages
     total_hits = 0
+    score = 1
     for page in range(1, max_pages + 1):
-        hits = do_page(search, page, do_score)
+        hits = do_page(search, page, score)
+        score += per_page
         total_hits += hits
         if hits == 0:
             break
@@ -713,15 +713,14 @@ def do_search(search, do_score=True):
 def do_searches():
     """@todo"""
     global max_pages
-    searches[0]["searches"].extend(builtins)
-    for h in searches:
-        for search in h["searches"]:
-            if search.lower() in done:
-                continue
-            max_pages = START_MAX_PAGES
-            total_hits = do_search(search, h["score"])
-            if total_hits > 0 and MAX_SEARCHES < 99:
-                return 0
+    search_terms.extend(builtins)
+    for search in search_terms:
+        if search.lower() in done:
+            continue
+        max_pages = START_MAX_PAGES
+        total_hits = do_search(search)
+        if total_hits > 0 and MAX_SEARCHES < 99:
+            return 0
 
     return 0
 
@@ -1039,13 +1038,6 @@ for url in includes["url"]:
     repo = repo.lower()
     search_terms.append(repo)
 
-searches = [
-    {
-        "score": True,
-        "searches": search_terms,
-    }
-]
-
 # @todo change to startup option
 for arg in sys.argv[1:]:
     if re.match(r"^\d+$", arg):
@@ -1055,6 +1047,6 @@ for arg in sys.argv[1:]:
 if MAX_SEARCHES < 99:
     max_pages = MAX_SEARCHES
     per_page = MAX_SEARCHES
-    searches[0]["searches"] = ["topic:scoop-bucket"]
+    search_terms = ["topic:scoop-bucket"]
 
 sys.exit(main())
